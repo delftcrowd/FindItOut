@@ -1,0 +1,96 @@
+newspaper can be used for news
+newspaper is a publication
+plate is a something you eat off
+plate can be used for eating food off
+store can be used for buying things
+store is a business
+store can be used for purchasing edible items
+office can be used for work
+floor can be used for sitting on
+internet can be used for news
+tears is not a positive emotion
+tears is not a enjoyable
+tears can make you sad
+ocean is not a continent
+park is a place children play
+park can grow itself or grow things
+park is likely to have animals there
+basement can have someone inside it
+church is a place of worship
+church can be used for worship
+church is a place to pray
+relaxation can be found when you are peaceful
+nightmares is related to sleep
+nightmares is a negative thing
+garden can be used for generating products or plants
+garden can grow itself or grow things
+restaurant is a business that serves food
+restaurant can not be used for worship
+restaurant can be used for eating or drinking in
+jar have (a) connection to food
+container have (a) connection to food
+refrigerator have (a) store edible items
+refrigerator can be used for storing food
+dinner is a meal
+dinner is made of food
+supermarket have (a) edible items for sale
+supermarket can be used for buying food
+supermarket can be used for ordering food and drink
+supermarket is a place you buy food
+supermarket can be used for purchasing edible items
+briefcase can be used for carrying things
+television can be used for news
+meeting is a group action
+meeting is made of people gathering together
+meeting is a gathering of people
+canada can be found in north america
+canada is a country
+oven can be used for heating up things to eat
+party is associated with drinking
+mexico is a country
+weather is related to water falling
+airplane can fly
+salad can be used for healthy eating
+dreams is related to sleep
+refrigerators have (a) store edible items
+refrigerators can be used for storing edible things
+greenhouse can grow itself or grow things
+synagogue can be used for religious services
+synagogue can be used for worship
+sink can be found in the kitchen
+pantry can be found in a kitchen
+pantry have (a) store edible items
+laughter is a positive emotion
+laughter is a something considered as positive
+laughter can be used for manifesting joy
+excitement is a positive emotion
+desert is not part of (a) city
+smiles is a enjoyable
+sky can be found above the ground
+ground can be found outside
+cabinet can be used for keeping books
+forest is not part of (a) city
+fun is a enjoyable
+closet can have someone inside it
+kitchen is a place to make food
+gymnasium can be used for sport
+disneyland have (a) clowns or mickey mouse
+disneyland is a place or location
+shelf can be found in a kitchen
+workplace is a place where people work
+museum can be used for storing historical artifacts
+bowl is a something you eat off
+street can be found outside
+carpet can be found on the floor
+cage can be used for holding animals
+playground can be used for children's play
+bar can be used for ordering food and drink
+birds can fly
+conference have (a) ticket box usually
+classroom is a place where students learn
+book is made of paper
+ceiling can be found in your room
+restaurants is associated with drinking
+restaurants can be used for ordering food and drink
+backpack can be used for carrying things
+love is a positive emotion

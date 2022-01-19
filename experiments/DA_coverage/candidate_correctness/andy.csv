@@ -1,0 +1,1533 @@
+candidate_id,candidate_statement,correctness
+4875,"fridge is a electrical appliance, which makes it different from sink",Yes
+8915,"crab have (a) legs, which makes it different from salmon",Yes
+6943,"shoulder is a joint, which makes it different from foot",Yes
+9720,"mackerel can be found in sea, which makes it different from eel",No
+14717,"princess is a profession, which makes it different from aunt",Yes
+12486,"jacket is a piece of clothing, which makes it different from bag",Yes
+14438,"finger is something people have ten of, which makes it different from hand",Yes
+11740,"bag is a an accessory, which makes it different from coat",Yes
+5249,"flute can be played with mouth, which makes it different from guitar",Yes
+11975,"dishwasher is a larger than a child, which makes it different from kettle",Yes
+8972,"scooter have (a) wheels, which makes it different from buggy",No
+3501,"garlic is a fruit, which makes it different from broccoli",No
+1216,"shrimp have (a) legs/tentacles, which makes it different from mackerel",Yes
+13898,"candle is made of /contain glass, which makes it different from cigarette",No
+14870,"fingers can be found in your upper body, which makes it different from toe",Yes
+10825,"kite can be found at a beach, which makes it different from vulture",Not Sure
+14051,"camel is domesticable (usually), which makes it different from deer",Yes
+8173,"daughter have (a) blood relationship with you, which makes it different from girl",Yes
+14068,"pipe can be used for harm, which makes it different from tank",No
+11806,"dress can be found upper part of body, which makes it different from skirt",Yes
+8705,"octopus have (a) legs/tentacles, which makes it different from eel",Yes
+4682,"cottage is a place to live permanently, which makes it different from barn",Yes
+4155,"lobster have (a) legs, which makes it different from salmon",Yes
+7535,"mug can be held to drink, which makes it different from kettle",Yes
+9125,"bagpipe is a wind instrument, which makes it different from violin",Yes
+11514,"microwave can be used for heating items up, which makes it different from fridge",Yes
+10718,"ankle can be found below the waist, which makes it different from shoulder",Yes
+5642,"shoes can be found foot, which makes it different from trousers",Yes
+6537,"truck can be used for single person transport, which makes it different from wheel",Not Sure
+15101,"lime is a citrus fruit, which makes it different from cherry",Yes
+2980,"sister is part of (a) close blood relative, which makes it different from aunt",Not Sure
+10139,"salmon have (a) fins, which makes it different from eel",Not Sure
+1378,"steak is a meat, which makes it different from sandwich",Yes
+4863,"skunk is a fragile, which makes it different from mink",Not Sure
+10245,"cod have (a) name beginning with c, which makes it different from salmon",Yes
+2638,"cherry is part of (a) group or bunch, which makes it different from plum",Yes
+14146,"saxophone is a wind instrument, which makes it different from violin",Yes
+7361,"broccoli is a green vegetable, which makes it different from garlic",Yes
+9294,"plum have (a) stone, which makes it different from pear",Yes
+8231,"spatula is made of /mostly made of metal, which makes it different from brush",Yes
+8746,"candle can generate light, which makes it different from cigarette",Yes
+15108,"onions is a vegetable, which makes it different from garlic",No
+4403,"alligator can live in water, which makes it different from deer",Yes
+10399,"ship can transport ships, which makes it different from boat",Not Sure
+11104,"skis can be used for snow, which makes it different from bike",Yes
+2427,"corn is a vegetable, which makes it different from coconut",Yes
+10703,"squirrel can be found on  a tree, which makes it different from otter",Yes
+11940,"toe is part of (a) lower body, which makes it different from finger",Yes
+5731,"dog have (a) fur, which makes it different from horse",Yes
+11230,"cheetah is a type of cat, which makes it different from gorilla",Yes
+13003,"church is a religion buildings, which makes it different from cottage",Yes
+4828,"vulture is a alive, which makes it different from falcon",No
+2890,"walls can be found at ground level, which makes it different from roof",Yes
+9422,"leg can be found on lower body, which makes it different from neck",Yes
+2418,"hair can be found on your head, which makes it different from body",Yes
+937,"neck is mostly of cylindrical shape, which makes it different from hand",Yes
+11909,"paintbrush can writing, which makes it different from scissors",Yes
+11650,"gorilla is a predator, which makes it different from elephant",Not Sure
+2533,"alligator is a reptile, which makes it different from squirrel",Yes
+2552,"snail is a insect, which makes it different from turtle",No
+3025,"bison can be found in water, which makes it different from camel",Yes
+9870,"faucet is made of metal/steel, which makes it different from tap",Not Sure
+3985,"kettle is a electric powered item, which makes it different from spoon",Yes
+10154,"crocodile is eat meat, which makes it different from frog",Yes
+12781,"boat have (a) an engine, which makes it different from bike",Yes
+15004,"harpsichord is made of strings, which makes it different from trumpet",Yes
+2978,"mother can be used for a married person, which makes it different from daughter",Not Sure
+15123,"chicken is a animal, which makes it different from tomato",Yes
+11591,"beans can be used for meat replacement, which makes it different from celery",Yes
+10224,"scissors can be used for hair, which makes it different from spatula",Yes
+94,"mole is 4 letters long, which makes it different from raccoon",Yes
+6993,"paintbrush is made of /mostly made of metal, which makes it different from pencil",No
+11994,"shotgun can lifted by one hand, which makes it different from cannon",Yes
+7043,"sheep is fluffy, which makes it different from deer",Yes
+5570,"falcon have (a) large wingspan, which makes it different from dove",Yes
+10920,"cheetah is a predator, which makes it different from giraffe",Yes
+3786,"lemon have (a) usually inedible skin, which makes it different from strawberry",Yes
+10798,"scissors have (a) sharp cutting edge, which makes it different from spatula",Yes
+4280,"duck can be a household pet, which makes it different from owl",Yes
+9753,"celery is a vegetable, which makes it different from lemon",Yes
+5553,"ankle is a on the lower half, which makes it different from neck",Yes
+14948,"saxophone is a brass instrument, which makes it different from harmonica",Yes
+6429,"radio can be used for broadcasting signals, which makes it different from rock",Yes
+4294,"skin is a limb, which makes it different from nail",Not Sure
+10345,"jacket have (a) hood, which makes it different from dress",No
+5667,"leg is a on the lower half, which makes it different from elbow",Yes
+7106,"hose is a mostly black in colour, which makes it different from plug",Not Sure
+2118,"gun is made for violence, which makes it different from barrel",Yes
+7184,"pear is a word beginning with p, which makes it different from grapefruit",Yes
+799,"lamb is red, which makes it different from onions",Yes
+2392,"plug is round shaped, which makes it different from bolts",Not Sure
+3586,"pencil can writing, which makes it different from brush",Not Sure
+3083,"comb can be used for grooming, which makes it different from scissors",Yes
+6178,"arm is made of a whole body part, which makes it different from elbow",Yes
+10514,"socks can be found on lower body, which makes it different from dress",Yes
+490,"buggy have (a) an engine, which makes it different from skateboard",Yes
+444,"cupboard can be found on a countertop, which makes it different from closet",Yes
+10870,"olive is green, which makes it different from pepper",Not Sure
+14733,"tank can be used for war, which makes it different from truck",Yes
+8464,"tank can use electricity, which makes it different from barrel",Yes
+3113,"saxophone is a reeded instrument, which makes it different from trombone",Yes
+5723,"cherry is part of (a) group or bunch, which makes it different from avocado",Yes
+2355,"crocodile is eat meat, which makes it different from rabbit",Yes
+4947,"scissors have (a) sharp cutting edge, which makes it different from comb",Yes
+10062,"plum is a word beginning with p, which makes it different from banana",Yes
+7829,"rabbit is a meat or animal, which makes it different from potato",Yes
+2869,"pineapple is a citrus fruit, which makes it different from strawberry",No
+8836,"plug is a electric, which makes it different from hose",Yes
+10991,"squirrel can climb trees, which makes it different from hare",Yes
+12302,"mixer is a  kitchen appliance, which makes it different from stereo",Yes
+10182,"cupboard can be found in the room you sleep, which makes it different from door",No
+10810,"apartment is made of concrete, which makes it different from cottage",Not Sure
+4099,"leopard is a like a cat, which makes it different from zebra",Yes
+13813,"soup is a liquid, which makes it different from bean",Yes
+14949,"cannon can be used for firing artillery, which makes it different from grenade",Yes
+2161,"bike can be used for land suitable one, which makes it different from boat",Yes
+4213,"onions is a vegetable, which makes it different from lemon",Yes
+9204,"pants can keep 2 legs covered, which makes it different from boots",Yes
+8713,"sheep can be found jungle, which makes it different from cow",Not Sure
+4093,"gun can be held in a hand, which makes it different from tank",Yes
+4811,"boots can be found on lower body, which makes it different from dress",Yes
+7562,"hawk is a predator, which makes it different from duck",Yes
+8093,"tank is a weapon, which makes it different from barrel",Yes
+5904,"bedroom have (a) start with a b, which makes it different from apartment",Yes
+13137,"avocado is green, which makes it different from lemon",Yes
+7351,"bridge have (a)  place for worship, which makes it different from inn",No
+2791,"daughter is a family, which makes it different from son",No
+15430,"paintbrush can be found construction site, which makes it different from spatula",Yes
+7696,"eggplant is a purple vegetable, which makes it different from avocado",Yes
+12937,"rabbit is furry, which makes it different from duck",Yes
+8754,"giraffe is a herbivore, which makes it different from hyena",Yes
+5264,"finger have (a) nails, which makes it different from arm",Yes
+5835,"clarinet is single-reed, which makes it different from trumpet",Yes
+1910,"lemon is yellow, which makes it different from grapefruit",Yes
+10040,"inn have (a) roof, which makes it different from bridge",Yes
+10028,"flute is a wind instrument, which makes it different from piano",Yes
+1099,"eagle have (a) large wingspan, which makes it different from buzzard",Yes
+8312,"barrel is a vessel, which makes it different from gun",Yes
+27,"bed can can you sit on it, which makes it different from door",Yes
+69,"barrel is a vessel, which makes it different from screws",Yes
+10335,"mug is made of ceramic materials, which makes it different from tray",Yes
+19,"turtle can be found in a river, which makes it different from iguana",Not Sure
+5940,"carpet can fly in aladdin, which makes it different from curtains",Yes
+2668,"umbrella is a white object, which makes it different from jacket",No
+1247,"mackerel have (a) red shell when cooked, which makes it different from asparagus",Not Sure
+6455,"cherry can be eaten in one bite, which makes it different from garlic",Yes
+8598,"salmon is a fish, which makes it different from eel",No
+13829,"gown can be found over your knees, which makes it different from jacket",Yes
+12697,"drill can be used for building, which makes it different from wheel",Yes
+3746,"squirrel can be held, which makes it different from mink",No
+7536,"camel can be used for riding, which makes it different from rabbit",Yes
+14454,"mother is a direct relation, which makes it different from princess",Yes
+6928,"pants is part of (a) lower waistline, which makes it different from shirt",Yes
+8229,"octopus is a mollusk, which makes it different from eel",Yes
+8587,"oven can be plugged in, which makes it different from cupboard",Yes
+3379,"yacht is made of metal, which makes it different from canoe",Yes
+3762,"jeep have (a) an engine, which makes it different from canoe",Yes
+44,"strawberry is a red  or orang, which makes it different from cranberry",No
+4812,"tuba is a wind instrument, which makes it different from harpsichord",Yes
+13240,"roof can be found on the outside of building, which makes it different from ceiling",Yes
+11318,"moth is a bug, which makes it different from frog",Yes
+2295,"tomato is red, which makes it different from onions",Yes
+873,"crab can be found at sea, which makes it different from chicken",Yes
+1274,"plum have (a) stone, which makes it different from garlic",Yes
+1711,"finger is related with hand, which makes it different from leg",Yes
+6937,"trombone have (a) start with a t, which makes it different from clarinet",Yes
+6580,"olive is a fruit, which makes it different from onions",Yes
+8110,"rabbit is part of (a) jumping, which makes it different from squirrel",Yes
+9947,"knees is a joint, which makes it different from arm",Yes
+1101,"barrel can transport liquids, which makes it different from plate",Yes
+6996,"grapefruit have (a) usually inedible skin, which makes it different from strawberry",Yes
+12475,"moth have (a) wings, which makes it different from beetle",No
+11581,"mother is a direct or immediate relation, which makes it different from actress",Yes
+13100,"cockroach can fly, which makes it different from flea",Yes
+3234,"chapel is a public building (typically), which makes it different from cottage",Yes
+14114,"pants is part of (a) lower waistline, which makes it different from coat",Yes
+13896,"chicken is a meat or animal, which makes it different from onions",Yes
+8186,"son is a male, which makes it different from king",No
+13920,"alligator can live in water, which makes it different from rabbit",Yes
+2615,"mixer can be used for electronic uses, which makes it different from tap",Yes
+11479,"deer is a teeth, which makes it different from bison",No
+3136,"gown can be found on your upper torso, which makes it different from trousers",Yes
+944,"raccoon can be found on tree, which makes it different from mink",Not Sure
+1491,"lobster have (a) legs, which makes it different from asparagus",Yes
+15,"avocado have (a) seed/seeds/pit, which makes it different from banana",Yes
+7560,"lips is part of (a) makeup regimen, which makes it different from tongue",Yes
+4468,"screws can be used for shooting, which makes it different from hose",Yes
+8583,"snail is made of small animals, which makes it different from cockroach",No
+6329,"wasp have (a) wings, which makes it different from spider",Yes
+14655,"ceiling can be shattered, which makes it different from window",No
+2582,"camel can be found in hot climates, which makes it different from elk",Yes
+5989,"flute have (a) reed to make it work, which makes it different from harmonica",No
+12362,"cod have (a) fins, which makes it different from squid",Yes
+260,"elephant can kill a human, which makes it different from rabbit",Yes
+1299,"grapefruit can be used for smoothies, which makes it different from avocado",Not Sure
+2675,"pants is worn below the waist, which makes it different from jacket",Yes
+10646,"sink can hold water, which makes it different from cupboard",Yes
+8365,"kettle is using electricity, which makes it different from sink",Yes
+5523,"violin is made of strings, which makes it different from trumpet",Yes
+10298,"building is a place to live permanently, which makes it different from church",Yes
+1044,"accordion can be held in hand, which makes it different from piano",Yes
+14993,"thigh is a large part, which makes it different from ankle",Not Sure
+14577,"hose can be used for dispensing water, which makes it different from plug",Yes
+9797,"finger can be found below where a watch is, which makes it different from elbow",Yes
+844,"skirt is worn below the waist, which makes it different from gown",Yes
+4781,"elk is a has horns, which makes it different from cougar",Yes
+2848,"ox can be found in hot climates, which makes it different from bison",Not Sure
+4677,"vulture can attack others, which makes it different from kite",Yes
+6770,"skunk have (a) hair/fur, which makes it different from rattlesnake",Yes
+2605,"wrist is something humans have two of, which makes it different from finger",Yes
+3722,"fridge is made of steel mostly, which makes it different from kettle",No
+1947,"pants have (a) two seperate pant legs, which makes it different from gown",Yes
+11837,"boy have (a) the color brown in it, which makes it different from woman",Not Sure
+14943,"pencil have (a) graphite center, which makes it different from paintbrush",Yes
+12844,"wife is part of (a) your family, which makes it different from princess",Yes
+4047,"kettle can be held in your hand, which makes it different from dishwasher",Yes
+9537,"raspberry can rhyme with ferry, which makes it different from plum",Yes
+7520,"saxophone can be blown into, which makes it different from piano",Yes
+1071,"strawberry can be eaten in one bite, which makes it different from pear",Yes
+10000,"walls can be found at ground level, which makes it different from tower",Yes
+11131,"buggy can be used for land suitable one, which makes it different from wheel",Not Sure
+12907,"hawk is a predator, which makes it different from woodpecker",Yes
+8650,"tiger is a carnivore, which makes it different from horse",Yes
+10074,"rabbit have (a) long ear, which makes it different from squirrel",Yes
+3942,"pistol is made for violence, which makes it different from barrel",Yes
+2346,"knee is below the waist, which makes it different from shoulder",Yes
+9956,"kettle is a appliance, which makes it different from spoon",Yes
+11476,"saucer is made of ceramic materials, which makes it different from tray",Yes
+9517,"cod have (a) red shell when cooked, which makes it different from shrimp",No
+10064,"gown is worn by woman (usually), which makes it different from jacket",Yes
+13077,"shoulder can be found upper body, which makes it different from foot",Yes
+6281,"shoes can be used for wearing on your feet, which makes it different from pants",Yes
+2840,"fingers have (a) nails, which makes it different from neck",Yes
+14167,"meat is a colour red, which makes it different from potatoes",Yes
+2205,"hose can shoot stuff out, which makes it different from bolts",Yes
+8287,"trout is a fish, which makes it different from shrimp",Yes
+5772,"pants is worn below the waist, which makes it different from shirt",Yes
+1762,"sister is part of (a) your family, which makes it different from princess",Yes
+12068,"onions is a n ingredient for sauce, which makes it different from potato",Not Sure
+5488,"dog can be kept inside a bedroom, which makes it different from rabbit",Not Sure
+10468,"vulture have (a) large wingspan, which makes it different from owl",Yes
+8948,"saxophone is made of strings, which makes it different from harmonica",No
+11051,"avocado have (a) any green on it, which makes it different from onions",Yes
+9201,"leg can be found bottom half of body, which makes it different from arm",Yes
+11025,"beaver is a herbivore, which makes it different from elk",No
+12911,"trumpet is made of strings, which makes it different from flute",No
+1703,"orange is a fruit, which makes it different from pepper",No
+11376,"shoulder can be found in your upper body, which makes it different from toe",Yes
+8299,"elephant can be used for human transport, which makes it different from deer",Yes
+3171,"pelican can be found at a beach, which makes it different from vulture",Yes
+6746,"alligator is a amphibian, which makes it different from iguana",No
+6497,"king can be found in a royal family, which makes it different from brother",Yes
+12574,"trousers can be found above the feet, which makes it different from socks",Yes
+6488,"porcupine have (a) obvious defense mechanism, which makes it different from squirrel",Yes
+12448,"cherry can be found on a tree or bush, which makes it different from garlic",Yes
+1877,"eel have (a) fins, which makes it different from shrimp",Yes
+8171,"faucet can control the flow of liquid, which makes it different from tap",Yes
+3260,"chapel is a religious place, which makes it different from inn",Yes
+15091,"avocado is a green food, which makes it different from garlic",Yes
+15417,"squid is a mollusk, which makes it different from chicken",Yes
+5191,"banana is a physical fruit or veg, which makes it different from coconut",No
+9907,"blender is electrically powered, which makes it different from spoon",Yes
+4118,"arm can be found below where a watch is, which makes it different from neck",Not Sure
+10004,"tank is a weapon, which makes it different from rocket",Not Sure
+5924,"crab have (a) legs/tentacles, which makes it different from mackerel",Yes
+9033,"garlic is a fruit, which makes it different from pepper",No
+4590,"screwdriver can be used for driving screws, which makes it different from pencil",Yes
+4408,"falcon have (a) large wing span, which makes it different from kite",Yes
+764,"crab have (a) claws, which makes it different from shrimp",Yes
+10908,"crocodile can be found jungle, which makes it different from rabbit",Yes
+12327,"drill can use electricity, which makes it different from screws",Yes
+8827,"elephant is a has horns, which makes it different from zebra",Yes
+4184,"kettle can be plugged in, which makes it different from tray",Yes
+11946,"daughter is part of (a) close blood relative, which makes it different from aunt",Yes
+12535,"gown can be used for by mainly women, which makes it different from trousers",Yes
+7934,"cockroach can fly, which makes it different from spider",Yes
+2294,"elephant have (a) thick body, which makes it different from elk",Yes
+1655,"shoes is part of (a) pair, which makes it different from skirt",Yes
+7972,"jeans is a worn on the lower body, which makes it different from dress",Yes
+578,"cat can be kept inside a bedroom, which makes it different from rabbit",Not Sure
+14817,"cow can be found at the supermarket deli, which makes it different from pony",Yes
+2498,"squirrel is originated from north america, which makes it different from beaver",Yes
+8307,"inn is a public building (typically), which makes it different from cottage",Yes
+3830,"trumpet is a instruments with buttons, which makes it different from trombone",No
+1339,"ankle is part of (a) lower body, which makes it different from elbow",Yes
+11875,"cod is a fish, which makes it different from asparagus",Yes
+14566,"tray can be found on a countertop, which makes it different from oven",Not Sure
+13399,"banana is usually in color yellow, which makes it different from raspberry",Yes
+9338,"seagull have (a) large wingspan, which makes it different from hawk",Yes
+12205,"elk have (a) horn, which makes it different from squirrel",Yes
+6833,"tuna is a fish, which makes it different from asparagus",Yes
+4776,"snail is a mammal, which makes it different from rattlesnake",No
+134,"knee can be found on lower body, which makes it different from shoulder",Yes
+6876,"boots can be used for wearing on your feet, which makes it different from jeans",Yes
+2741,"typewriter is made of /mostly made of metal, which makes it different from pencil",Yes
+8478,"cherry have (a) single hard pit, which makes it different from coconut",Yes
+5560,"beans can be used for meat replacement, which makes it different from garlic",Yes
+13834,"bagpipe can usually be played  with mouth, which makes it different from accordion",Yes
+5422,"wrist can be found upper body, which makes it different from leg",Yes
+14557,"rattlesnake is dangerous, which makes it different from iguana",Yes
+6983,"giraffe can be used for carrying items at the store, which makes it different from zebra",Not Sure
+6938,"lantern can be used for camping gear, which makes it different from lamp",Yes
+5777,"roof is typically vertical, which makes it different from floor",No
+11883,"banana can be used for smoothies, which makes it different from avocado",Not Sure
+8756,"snail is made of small animals, which makes it different from frog",Not Sure
+10669,"ceiling can be found above your head, which makes it different from window",Yes
+9214,"bedroom can contain items, which makes it different from bed",Yes
+14348,"tiger is a type of big cat, which makes it different from bison",Yes
+198,"gun is a firearm, which makes it different from rocket",Not Sure
+13398,"shotgun can lifted by one hand, which makes it different from barrel",Yes
+7368,"gun can be used in home, which makes it different from rocket",Yes
+1108,"bike have (a) wheels, which makes it different from boat",Yes
+11768,"elk have (a) antlers/horns, which makes it different from mink",Yes
+3651,"pencil can be used for cutting, which makes it different from scissors",No
+14538,"nose is part of (a) makeup regimen, which makes it different from throat",Not Sure
+15136,"tomato is a fruit, which makes it different from garlic",Yes
+8601,"accordion can be used for sound, which makes it different from saxophone",No
+11224,"bed can be used to sleep, which makes it different from door",Yes
+13635,"fridge can make things cold, which makes it different from kettle",Yes
+670,"cow can be domesticated, which makes it different from bison",Yes
+15153,"sauce is a liquid, which makes it different from salad",Yes
+6987,"saxophone is single-reed, which makes it different from flute",Yes
+8197,"building have (a) start with a b, which makes it different from apartment",Yes
+13066,"crocodile is a amphibian, which makes it different from elephant",Yes
+9199,"caribou have (a) antler, which makes it different from hyena",Yes
+4477,"buffalo have (a) antlers/tusks, which makes it different from zebra",Yes
+697,"willow is a man made item, which makes it different from birch",No
+9309,"plug is round shaped, which makes it different from stereo",Yes
+9594,"brother is a family member, which makes it different from daughter",No
+3493,"elephant have (a) antlers/tusks, which makes it different from camel",Yes
+13981,"sink can be found on a countertop, which makes it different from freezer",Yes
+9825,"elephant can be used for human transport, which makes it different from rabbit",Yes
+3009,"thigh can be found on lower body, which makes it different from neck",Yes
+10977,"boots can be used for feet, which makes it different from skirt",Yes
+7961,"lips is about mouth, which makes it different from brow",Yes
+4748,"snail is an insect, which makes it different from rattlesnake",No
+9504,"pen can be used for drawing or painting, which makes it different from knife",Yes
+10473,"pen can be used for writing/drawing, which makes it different from stick",Yes
+10839,"saxophone is a wind instrument, which makes it different from harp",Yes
+784,"sister is a direct or immediate relation, which makes it different from princess",Yes
+1815,"muscle can be found in the torso, which makes it different from body",Yes
+2445,"garlic can be used for flavoring/condimenting dishes (usually), which makes it different from beans",Yes
+877,"paintbrush can make holes, which makes it different from spatula",No
+3963,"skunk can be held, which makes it different from mink",No
+138,"prune have (a) edible skin, which makes it different from banana",Yes
+5297,"squirrel have (a) tail, which makes it different from frog",Yes
+1825,"clock can be found on a wall or ceiling, which makes it different from lamp",Yes
+6002,"trout is a fish, which makes it different from squid",Yes
+15436,"elephant have (a) horn or antler, which makes it different from crocodile",Yes
+10265,"dress have (a) sleeves, which makes it different from trousers",Yes
+8184,"sofa is placed horizontally (longest dimension), which makes it different from curtains",Yes
+684,"chapel is a religion buildings, which makes it different from bridge",Yes
+6041,"wrist can be used for waving, which makes it different from shoulder",Yes
+13034,"knees is a joint, which makes it different from finger",Yes
+14150,"floor is part of (a) garage, which makes it different from roof",Not Sure
+6598,"finger is part of (a) hands(including wrist), which makes it different from elbow",Yes
+13705,"grapefruit have (a) peel, which makes it different from raspberry",Yes
+6272,"pen can make holes, which makes it different from knife",Yes
+14711,"scissors is made of /mostly made of metal, which makes it different from brush",Yes
+13482,"brush can be used for grooming, which makes it different from pen",Yes
+8575,"thigh can be found below the waist, which makes it different from shoulder",Yes
+12886,"fingers is related with hand, which makes it different from leg",Yes
+6348,"lamb is a n animal, which makes it different from onions",Yes
+1122,"cherry can be eaten in one bite, which makes it different from lemon",Yes
+3219,"bison have (a) horn or antler, which makes it different from camel",Yes
+2148,"bike can roll, which makes it different from skis",Yes
+3232,"tiger have (a)  mane (hair on it), which makes it different from frog",Yes
+5028,"accordion is made of strings, which makes it different from harmonica",No
+9385,"knee is a joint, which makes it different from foot",Yes
+6101,"cow can be found on a farm, which makes it different from elephant",Yes
+14777,"gun can be used for shooting, which makes it different from barrel",Yes
+14674,"kettle is a appliance, which makes it different from sink",Yes
+4773,"screwdriver is a construction tool, which makes it different from spatula",Yes
+1453,"ox have (a) horn, which makes it different from camel",Yes
+11529,"pony can be used for riding, which makes it different from sheep",Yes
+881,"cherry have (a) eatable shell or peel, which makes it different from orange",Yes
+6709,"guitar can easily carried around, which makes it different from flute",No
+8243,"rabbit is fluffy, which makes it different from elephant",Yes
+15125,"boat can be found on water, which makes it different from helicopter",Yes
+9895,"camel is domesticable (usually), which makes it different from bison",Yes
+6331,"cheetah is a predator, which makes it different from bison",Yes
+1538,"knee is part of (a) lower body, which makes it different from neck",Yes
+2950,"avocado is green (most part), which makes it different from eggplant",Yes
+11011,"peach have (a) stone, which makes it different from raspberry",Yes
+3739,"zebra is a herbivore, which makes it different from crocodile",Yes
+2386,"knees can be found below waist, which makes it different from neck",Yes
+10808,"trousers can be found on lower body, which makes it different from shirt",Yes
+4835,"bottle is made of metal, which makes it different from pot",No
+14426,"orange is a citrus fruit, which makes it different from pineapple",Yes
+11456,"blouse can be found on your upper torso, which makes it different from jeans",Yes
+10545,"deer have (a) branching antlers, which makes it different from bison",Yes
+11639,"chicken is a meat or animal, which makes it different from potato",Yes
+4630,"crocodile is eat meat, which makes it different from deer",Yes
+11677,"knee can be found on lower body, which makes it different from neck",Yes
+14216,"pelican can be found at a beach, which makes it different from pigeon",Yes
+11261,"trombone can usually be played  with mouth, which makes it different from violin",Yes
+8448,"snail is made of small animals, which makes it different from spider",No
+1718,"cherry have (a) stone inside, which makes it different from pear",Yes
+13752,"cow is used for milk for humans, which makes it different from bison",Yes
+12795,"vulture have (a) long beak, which makes it different from pigeon",Yes
+6264,"spider can flying, which makes it different from beetle",Yes
+8872,"rattlesnake can be found underground, which makes it different from beaver",Yes
+13572,"floor is part of (a) room, which makes it different from roof",Yes
+15138,"oven can be used for cooking food, which makes it different from dishwasher",Yes
+1597,"gate is a component of a home, which makes it different from cottage",Yes
+15170,"elephant can kill a human, which makes it different from frog",Yes
+2780,"skunk can climb trees, which makes it different from hare",Yes
+3303,"woman have (a) friends on it, which makes it different from girl",Not Sure
+14794,"arm is made of a whole body part, which makes it different from finger",Yes
+4607,"wasp have (a) wings, which makes it different from cockroach",Not Sure
+10654,"elbow is upper body, which makes it different from ankle",Yes
+9327,"fridge can change temperature of things, which makes it different from dishwasher",Not Sure
+11737,"freezer can be used for storing food, which makes it different from kettle",Yes
+5964,"dishwasher is big, which makes it different from kettle",Yes
+2324,"leg can be found below waist, which makes it different from finger",Yes
+8939,"cousin is a family member, which makes it different from princess",Yes
+2860,"ankle is below the waist, which makes it different from arm",Yes
+11058,"tuba is a wind instrument, which makes it different from harp",Yes
+9185,"snail have (a) no legs, which makes it different from ant",Yes
+6454,"walls is part of (a) another card, which makes it different from tower",Not Sure
+13089,"fingers is mostly of cylindrical shape, which makes it different from hand",Yes
+4772,"orange is a citrus fruit, which makes it different from plum",Yes
+14181,"cougar is a violent creature, which makes it different from caribou",Yes
+13868,"razor can be used for grooming, which makes it different from chisel",Yes
+12511,"cow can be found on a farm, which makes it different from rabbit",Yes
+11569,"leg is below the waist, which makes it different from arm",Yes
+12080,"octopus have (a) legs/tentacles, which makes it different from mackerel",Yes
+290,"grapefruit is a red  or orang, which makes it different from avocado",Yes
+6679,"tank can be used for firing artillery, which makes it different from gun",Not Sure
+3994,"vulture is a predator, which makes it different from parakeet",Yes
+3886,"elbow can be used for a fight, which makes it different from shoulder",Yes
+1442,"bagpipe is a wind instrument, which makes it different from harpsichord",Yes
+420,"crab have (a) legs, which makes it different from cod",Yes
+6925,"guitar can easily carried around, which makes it different from trumpet",No
+10698,"socks can be found on lower body, which makes it different from shirt",Yes
+9804,"knees is below the waist, which makes it different from neck",Yes
+11979,"cat is fluffy, which makes it different from frog",Yes
+15060,"truck is consuming fuel, which makes it different from wheel",Yes
+10938,"elbow can be found upper body, which makes it different from leg",Yes
+2180,"actress is a profession, which makes it different from girl",Yes
+7887,"zebra have (a) hooves, which makes it different from crocodile",Yes
+14630,"ankle can be found on lower body, which makes it different from elbow",Yes
+15037,"shoulder can be found upper body, which makes it different from ankle",Yes
+646,"flute can be blown into, which makes it different from guitar",Yes
+2054,"tiger is a teeth, which makes it different from dog",Yes
+15224,"blouse is a white object, which makes it different from skirt",Not Sure
+15077,"giraffe is a herbivore, which makes it different from cheetah",Yes
+2218,"jeans is a piece of clothing, which makes it different from shoes",Yes
+11680,"scissors have (a) sharp edge, which makes it different from spatula",Yes
+1221,"skateboard can roll, which makes it different from skis",Yes
+11465,"peach is a red  or orang, which makes it different from pear",Yes
+4731,"girlfriend is a picture of a female, which makes it different from mother",No
+5435,"knee can be found below waist, which makes it different from elbow",Yes
+12524,"forearm can be found in your upper body, which makes it different from leg",Yes
+11461,"hose can contain water, which makes it different from rope",Yes
+11527,"roof can be found above your head, which makes it different from tower",Yes
+3871,"candle can be used for camping gear, which makes it different from cigarette",Yes
+13869,"crocodile is carnivorous, which makes it different from deer",Yes
+11269,"elephant is a herbivore, which makes it different from crocodile",Yes
+8482,"mixer can consume electricity, which makes it different from faucet",Yes
+8663,"fridge have (a) electrical parts, which makes it different from sink",Yes
+2198,"hawk is a predator, which makes it different from pigeon",Yes
+8801,"crocodile can be found in the water, which makes it different from snail",Not Sure
+7473,"finger have (a) less than three joints, which makes it different from arm",Not Sure
+11298,"shirt is a piece of clothing, which makes it different from shoes",Yes
+310,"pipe can commonly be found at home, which makes it different from tank",Yes
+7097,"leg can be found below the waist, which makes it different from finger",Yes
+9170,"squirrel is a herbivore, which makes it different from skunk",Yes
+2534,"chapel is a place of worship, which makes it different from inn",Yes
+10318,"clarinet is a wind instrument, which makes it different from guitar",Yes
+550,"screws can be used for building, which makes it different from pipe",Yes
+13265,"fan is a electric, which makes it different from rocker",Not Sure
+14238,"bison have (a) hooves, which makes it different from camel",Yes
+5177,"cousin is a family member, which makes it different from prince",Yes
+12375,"orange have (a) usually inedible skin, which makes it different from pear",Yes
+2482,"crab have (a) legs/tentacles, which makes it different from cod",Yes
+10731,"guitar is part of (a) strings, which makes it different from trombone",Yes
+2222,"pony can be used for riding, which makes it different from dog",Yes
+10562,"cherry have (a) eatable shell or peel, which makes it different from lime",Yes
+165,"goat is a animal, which makes it different from onions",Yes
+8876,"eel is a fish, which makes it different from crab",Yes
+14064,"rabbit can jump, which makes it different from mouse",Yes
+573,"balloon can be found in the air, which makes it different from boat",Yes
+5195,"boat can float, which makes it different from airplane",Yes
+12290,"deer have (a) horn, which makes it different from rabbit",Yes
+8083,"arm is related with hand, which makes it different from leg",Yes
+1856,"bathroom have (a) glass, which makes it different from room",Not Sure
+15191,"blender is electrically powered, which makes it different from colander",Yes
+1169,"fridge can make things cold, which makes it different from sink",Yes
+1563,"pepper is a vegetable, which makes it different from tomato",Yes
+12946,"wheel have (a) turning elements(knobs, wheels, etc.), which makes it different from bolts",Not Sure
+9400,"tractor can hold more than one person, which makes it different from scooter",Not Sure
+4241,"canoe can be found in water, which makes it different from bike",Yes
+14179,"jeans is part of (a) pair, which makes it different from skirt",Yes
+14973,"kite have (a) large wingspan, which makes it different from starling",Not Sure
+1518,"peach have (a) single hard pit, which makes it different from cranberry",Yes
+4162,"plum is a word beginning with p, which makes it different from avocado",Yes
+15180,"wheel is part of (a) tire, which makes it different from bolts",Yes
+4566,"elk is a has horns, which makes it different from buffalo",No
+10625,"clarinet is a wind instrument, which makes it different from harpsichord",Yes
+10775,"deer have (a) antlers or tusks, which makes it different from leopard",Yes
+14816,"gown is worn by woman (usually), which makes it different from shirt",Yes
+10926,"brush can be used for hair, which makes it different from pencil",Yes
+7575,"accordion can be held, which makes it different from harp",Yes
+9010,"tiger have (a)  mane (hair on it), which makes it different from crocodile",Yes
+9101,"hose can be used for a vehicle, which makes it different from tap",Not Sure
+12785,"eagle have (a) large wingspan, which makes it different from hawk",Yes
+13017,"elbow is a upper body part, which makes it different from leg",Yes
+5095,"vulture can attack others, which makes it different from pigeon",Yes
+8846,"skirt is part of (a) lower waistline, which makes it different from shirt",Yes
+9347,"flea is a insect, which makes it different from cat",Yes
+4684,"kettle is made of metal, which makes it different from tray",Yes
+15074,"squirrel have (a) long tail, which makes it different from otter",Not Sure
+6668,"skirt can be found on lower body, which makes it different from blouse",Yes
+7529,"mackerel is a fish, which makes it different from lobster",Yes
+8497,"pear can be found on a tree or bush, which makes it different from garlic",Yes
+9030,"kettle have (a) electrical parts, which makes it different from spoon",Yes
+10533,"saxophone is made of strings, which makes it different from harpsichord",Yes
+2717,"grapefruit is a red  or orang, which makes it different from banana",Yes
+4886,"gun is a firearm, which makes it different from barrel",Yes
+2850,"plug is a electric, which makes it different from clamp",Yes
+2274,"paintbrush can be used for writing, which makes it different from screwdriver",Yes
+1038,"deer have (a) antlers/horns, which makes it different from rabbit",Yes
+3671,"fingers have (a) more than one joint, which makes it different from neck",No
+7764,"raspberry can rhyme with ferry, which makes it different from banana",Yes
+7121,"leg is a on the lower half, which makes it different from neck",Yes
+11610,"deer have (a) antlers/tusks, which makes it different from bison",Yes
+5080,"bottle can be held to drink, which makes it different from pot",Yes
+12406,"flute have (a) tube, which makes it different from saxophone",Not Sure
+6406,"wheel can be found at home, which makes it different from tank",Yes
+6450,"crayon can to paint, which makes it different from paintbrush",No
+12239,"pants can be found above the feet, which makes it different from boots",Yes
+6012,"salmon have (a) red shell when cooked, which makes it different from asparagus",Yes
+9440,"mug have (a) handle, which makes it different from spoon",No
+8748,"frog is four-legged, which makes it different from snail",Yes
+8007,"salmon can be found at sea, which makes it different from chicken",Yes
+3270,"brother is a male, which makes it different from daughter",Yes
+10313,"guitar is made of strings, which makes it different from piano",No
+7636,"elephant have (a) horns, which makes it different from hyena",No
+284,"plum is red, which makes it different from pear",Yes
+11063,"crocodile is eat meat, which makes it different from elephant",Yes
+13072,"elbow is upper body, which makes it different from toe",Yes
+6641,"bike have (a) wheels, which makes it different from skateboard",No
+10702,"cello can easily carried around, which makes it different from tuba",No
+8681,"radio can be used for listening to music, which makes it different from rock",Yes
+1143,"tiger is a carnivore, which makes it different from camel",Yes
+3806,"duck is a n animal, which makes it different from onions",Yes
+375,"stereo is a electronic device, which makes it different from tape",Yes
+8371,"crocodile can fly, which makes it different from elephant",Yes
+7819,"prune is a dried fruit, which makes it different from cherry",Yes
+9169,"shirt have (a) sleeves, which makes it different from socks",Yes
+5575,"piano have (a) keyboard, which makes it different from trombone",Yes
+5300,"scarf is a accessory, which makes it different from blouse",Yes
+6443,"pants is covering the legs, which makes it different from shoes",Yes
+2193,"tiger is fluffy, which makes it different from elephant",Not Sure
+660,"tiger is eat meat, which makes it different from camel",Yes
+5595,"pipe can transport liquids, which makes it different from rope",Yes
+10858,"tiger is a like a cat, which makes it different from camel",Yes
+1851,"trumpet can be held in hand, which makes it different from piano",Yes
+10864,"donkey is fluffy, which makes it different from deer",No
+12993,"guitar have (a) strings, which makes it different from clarinet",Yes
+2010,"eagle is a bird of prey, which makes it different from pigeon",Yes
+5890,"worm have (a) no legs, which makes it different from beetle",Yes
+7034,"aunt is a sibling, which makes it different from wife",Not Sure
+4120,"sauce is a liquid, which makes it different from salad",Yes
+8435,"frog can be domesticated, which makes it different from tiger",Yes
+12899,"woman is female, which makes it different from man",Yes
+12986,"peach is a red  or orang, which makes it different from pineapple",Yes
+14445,"dress have (a) sleeves, which makes it different from skirt",Yes
+3211,"coat have (a) sleeves, which makes it different from dress",No
+8918,"catfish is a name begging with c, which makes it different from mackerel",Yes
+7436,"lamp can be used for providing light, which makes it different from lantern",No
+11897,"thigh is a large part, which makes it different from toe",Yes
+13863,"stereo can directly make sound(using speakers), which makes it different from mixer",Yes
+3503,"tiger is carnivorous, which makes it different from elephant",Yes
+9205,"shotgun is longer than one foot, which makes it different from grenade",Yes
+4980,"trombone have (a) tube, which makes it different from banjo",Yes
+10042,"roof can be used for tiling, which makes it different from window",Yes
+9038,"forearm is upper body, which makes it different from leg",Yes
+10677,"crab have (a) shell, which makes it different from salmon",Yes
+7316,"eagle have (a) large wing span, which makes it different from kite",Not Sure
+5781,"peach have (a) stone, which makes it different from banana",Yes
+6963,"strawberry is a berry, which makes it different from banana",Yes
+7304,"tomato can eating, which makes it different from potato",No
+6401,"hare is 4 letters long, which makes it different from squirrel",Yes
+14744,"cow can be used for a source of milk, which makes it different from pony",Yes
+9354,"plum have (a) stone, which makes it different from cranberry",Yes
+6727,"saxophone is made of strings, which makes it different from trombone",No
+13008,"tiger have (a) fur, which makes it different from elephant",Yes
+15124,"crocodile have (a) stripes, which makes it different from giraffe",Not Sure
+3289,"roof can be found above your head in general, which makes it different from floor",Yes
+11748,"rabbit is a animal with long ears, which makes it different from mink",Yes
+5538,"ox have (a) thick body, which makes it different from caribou",Yes
+10061,"tiger is a teeth, which makes it different from horse",No
+10379,"tank can use electricity, which makes it different from wheel",Yes
+5253,"wrist is part of (a) the upper body, which makes it different from ankle",Yes
+10503,"cheetah is a type of big cat, which makes it different from elephant",Yes
+8980,"toaster can be plugged in, which makes it different from freezer",No
+14759,"girl can be used for transportation, which makes it different from mother",No
+11905,"crayon can be used for writing, which makes it different from brush",No
+4282,"ceiling can be found above your head in general, which makes it different from floor",Yes
+10771,"tuna is a fish, which makes it different from chicken",Yes
+12442,"piano have (a) keyboard, which makes it different from flute",Yes
+3889,"razor is made of /mostly made of metal, which makes it different from pencil",Yes
+1363,"flute have (a) reed to make it work, which makes it different from piano",No
+9785,"piano is made of strings, which makes it different from trombone",Yes
+2336,"mother have (a) color, which makes it different from actress",No
+3552,"butterfly is a bug, which makes it different from frog",Yes
+8053,"neck can be found below mouth, which makes it different from mouth",Yes
+7339,"camel is a herbivore, which makes it different from tiger",Yes
+9478,"crocodile have (a) stripes, which makes it different from camel",Not Sure
+939,"pigeon is domesticated, which makes it different from eagle",No
+4391,"ankle can be found bottom half of body, which makes it different from shoulder",Yes
+11060,"gun have (a) finger trigger, which makes it different from rocket",Yes
+15045,"elephant have (a) horn or antler, which makes it different from leopard",No
+5807,"wheel can hold more than one person, which makes it different from bike",Not Sure
+13309,"arm can be found below where a watch is, which makes it different from shoulder",Not Sure
+5737,"guitar can easily carried around, which makes it different from saxophone",No
+2629,"prune can be used for smoothies, which makes it different from avocado",Not Sure
+6172,"knees is lower body, which makes it different from finger",Yes
+7507,"snail is made of small animals, which makes it different from beetle",No
+13343,"celery is a green vegetable, which makes it different from onions",Yes
+14088,"saxophone can be played with mouth, which makes it different from piano",Yes
+2550,"pistol is a hand-held weapon, which makes it different from cannon",Yes
+10149,"fridge is big, which makes it different from kettle",Yes
+8823,"falcon have (a) large wingspan, which makes it different from owl",Yes
+10027,"shoes can be found on your feet, which makes it different from dress",Yes
+9350,"saxophone is single-reed, which makes it different from trumpet",Yes
+14332,"cat can be kept inside a bedroom, which makes it different from goat",Yes
+12289,"shoulder can be found in your upper body, which makes it different from ankle",Yes
+3403,"trout have (a) fins, which makes it different from eel",Not Sure
+8345,"mother is exclusively female, which makes it different from father",Yes
+13875,"eagle have (a) large wing span, which makes it different from duck",Yes
+12426,"leg is part of (a) pair, which makes it different from finger",Yes
+7700,"bison have (a) fur, which makes it different from sheep",No
+10792,"faucet can be used for dispensing water, which makes it different from mixer",Yes
+5673,"dog have (a) fur, which makes it different from cow",Yes
+8841,"sauce is a colour red, which makes it different from butter",Not Sure
+9166,"scissors have (a) sharp cutting edge, which makes it different from brush",Yes
+5448,"mother have (a) blood relationship with you, which makes it different from girl",Yes
+13041,"rabbit is a animal with long ears, which makes it different from squirrel",Yes
+6073,"camel can be used for human transport, which makes it different from bison",Yes
+11252,"pony have (a) hooves, which makes it different from camel",Yes
+7517,"strawberry is a red  or orang, which makes it different from plum",Yes
+12534,"toe is part of (a) the upper body, which makes it different from ankle",No
+2045,"rabbit is a teeth, which makes it different from cat",No
+10996,"bison is fluffy, which makes it different from elephant",Yes
+1754,"jacket can be found on your upper torso, which makes it different from socks",Yes
+8596,"guitar is part of (a) strings, which makes it different from flute",Yes
+3623,"rabbit have (a) long ear, which makes it different from raccoon",Yes
+3656,"elbow is a limb, which makes it different from ankle",No
+707,"trousers is a worn on the lower body, which makes it different from gown",Yes
+6375,"sofa have (a) largest dimension parallel to floor, which makes it different from curtains",Yes
+2478,"shotgun can be used for bullets, which makes it different from cannon",Yes
+5532,"avocado have (a) single hard pit, which makes it different from garlic",Yes
+5025,"avocado have (a) stone, which makes it different from banana",Yes
+8374,"eel can be found at sea, which makes it different from lobster",No
+15011,"knees can be found below the waist, which makes it different from neck",Yes
+5209,"alligator is a predator, which makes it different from raccoon",Yes
+2387,"wrist is part of (a) upper body, which makes it different from leg",Yes
+5238,"bed is placed horizontally (longest dimension), which makes it different from bedroom",Yes
+4628,"sheep can be found at the supermarket deli, which makes it different from horse",Not Sure
+7815,"saxophone is made of strings, which makes it different from piano",No
+507,"tuba is a wind instrument, which makes it different from piano",Yes
+5559,"knee is lower body, which makes it different from elbow",Yes
+8486,"clarinet can usually be played  with mouth, which makes it different from harp",Yes
+3357,"wife have (a) multiple people pictured, which makes it different from princess",No
+13493,"flute is part of (a) woodwind, which makes it different from saxophone",Yes
+13817,"truck is a big heavy motor vehicle, which makes it different from wheel",Yes
+2112,"skirt is worn below the waist, which makes it different from dress",Yes
+3902,"vulture have (a) large wing span, which makes it different from woodpecker",Yes
+9783,"octopus is a mollusk, which makes it different from mackerel",Yes
+2566,"pants can be found on lower body, which makes it different from shirt",Yes
+11944,"toe can be found below the waist, which makes it different from finger",Yes
+11788,"girlfriend is two syllables, which makes it different from girl",Yes
+11560,"wrist is a joint, which makes it different from leg",Yes
+8183,"raspberry is a red  or orang, which makes it different from plum",Yes
+3367,"flute can be held in hand, which makes it different from harpsichord",Yes
+10516,"rabbit is a animal, which makes it different from tomato",Yes
+14725,"trousers can be found above the feet, which makes it different from shoes",Yes
+4202,"peach is a red  or orang, which makes it different from lemon",Yes
+1801,"flute have (a) valves, which makes it different from piano",Yes
+2760,"eagle is a bird of prey, which makes it different from pelican",Yes
+11993,"thigh can be used for walking, which makes it different from neck",Yes
+5792,"plum have (a) single hard pit, which makes it different from pineapple",Yes
+5181,"gorilla can walk on 2 feet, which makes it different from zebra",Yes
+13090,"girl can be used for transportation, which makes it different from woman",No
+4483,"dog is carnivorous, which makes it different from cow",Yes
+12818,"strawberry is a red  or orang, which makes it different from coconut",Yes
+11811,"trombone is a wind instrument, which makes it different from accordion",Yes
+6029,"necklace can be found on neck, which makes it different from chandelier",Yes
+15059,"rifle can be used for shooting, which makes it different from barrel",Yes
+4235,"actress is a profession, which makes it different from daughter",Yes
+9778,"mole can be found underground, which makes it different from mink",Yes
+7870,"dress can cover your full body, which makes it different from shoes",Yes
+15311,"camel can be domesticated, which makes it different from pony",No
+11963,"peach have (a) single hard pit, which makes it different from grapefruit",Yes
+2556,"bridge have (a) start with a b, which makes it different from gate",Yes
+12371,"bison can be found in water, which makes it different from zebra",Yes
+13758,"neck is a upper body part, which makes it different from ankle",Yes
+10278,"trousers have (a) two seperate pant legs, which makes it different from coat",Yes
+4297,"brush can be used for hair, which makes it different from pen",Yes
+10239,"man is a car, which makes it different from boy",Not Sure
+12388,"donkey can be used for human transport, which makes it different from dog",Yes
+11576,"chapel is a religion buildings, which makes it different from cottage",Yes
+5227,"hawk have (a) large wing span, which makes it different from pigeon",Yes
+13832,"paintbrush can be used for brushing, which makes it different from crayon",Yes
+13027,"shoes can be used for wearing on your feet, which makes it different from jeans",Yes
+3659,"tractor can be used for land suitable one, which makes it different from wheel",Not Sure
+13151,"trousers have (a) two seperate pant legs, which makes it different from skirt",Yes
+554,"cow can be domesticated, which makes it different from pony",No
+4284,"butter is a alcohol, which makes it different from milk",Not Sure
+5409,"plug is a electronic device, which makes it different from hose",Yes
+9162,"scissors have (a) sharp cutting edge, which makes it different from pliers",Yes
+13456,"daughter is a family member, which makes it different from wife",Not Sure
+10382,"bolts is made of metal/steel, which makes it different from rope",Yes
+12054,"goat is a animal, which makes it different from potato",Yes
+4340,"squirrel have (a) big ears, which makes it different from raccoon",No
+3397,"canoe can be found in water, which makes it different from sled",Yes
+12281,"pepper is a vegetable, which makes it different from avocado",Yes
+907,"tongue can be used for eating, which makes it different from finger",Yes
+5698,"squirrel is a this is more responsive heeyyy, which makes it different from raccoon",No
+7890,"wheel have (a) wheels, which makes it different from tank",Yes
+4182,"sink can be plumbed in, which makes it different from tray",Yes
+13617,"pants can be used for covering legs, which makes it different from shirt",Yes
+10175,"nurse can be found in a hospital, which makes it different from worker",Yes
+14547,"gate is a 4 letter word, which makes it different from cottage",Yes
+13958,"hawk can attack others, which makes it different from pigeon",Yes
+12758,"carpet can be used to sleep, which makes it different from curtains",Not Sure
+13116,"boots can be used for feet, which makes it different from jeans",Yes
+4944,"dog is carnivorous, which makes it different from rabbit",Yes
+4674,"blender can be found on a countertop, which makes it different from freezer",Yes
+10951,"cannon can be used for shooting, which makes it different from grenade",Yes
+8155,"skin can be found below the knee, which makes it different from nail",No
+2083,"ant is a crustecean, which makes it different from spider",No
+14409,"beetle have (a) wings, which makes it different from worm",Yes
+11501,"oven can be used for heating items up, which makes it different from dishwasher",Yes
+5059,"son is a child, which makes it different from brother",Yes
+4370,"vulture have (a) large wing span, which makes it different from sparrow",Yes
+744,"mole is 4 letters long, which makes it different from squirrel",Yes
+6946,"arm is made of upper body parts, which makes it different from leg",Yes
+12932,"cucumber is green, which makes it different from pepper",Not Sure
+8940,"raccoon can eat palm nuts, which makes it different from squirrel",Not Sure
+11246,"avocado is green, which makes it different from coconut",Yes
+8366,"wrist is part of (a) hands(including wrist), which makes it different from arm",Yes
+11074,"mackerel have (a) fins, which makes it different from shrimp",Yes
+11661,"elk have (a) antlers/horns, which makes it different from porcupine",Yes
+14283,"trumpet is made of brass, which makes it different from clarinet",Yes
+13513,"cabin have (a)  5 letters or less, which makes it different from cottage",Yes
+10015,"butterfly is an insect, which makes it different from spider",Yes
+78,"skunk can be found on  a tree, which makes it different from mink",Yes
+7273,"turtle is a reptile, which makes it different from snail",Yes
+7089,"ox is a violent creature, which makes it different from camel",Yes
+1126,"donkey is domesticable (usually), which makes it different from tiger",Yes
+5335,"cod is a fish, which makes it different from eel",No
+3321,"clarinet have (a) reed to make it work, which makes it different from trumpet",Yes
+8103,"pants is part of (a) pair, which makes it different from jacket",Yes
+10700,"ankle is on a person's exterior, which makes it different from elbow",No
+12851,"fan can consume electricity, which makes it different from rock",Yes
+11892,"bolts can be found at an electronics store, which makes it different from rope",Not Sure
+128,"oven can be used for heating items up, which makes it different from sink",Yes
+8078,"cow is domesticable (usually), which makes it different from deer",Yes
+13946,"elbow is part of (a) upper body, which makes it different from ankle",Yes
+9668,"wrist is part of (a) pair/no more than two, which makes it different from finger",Yes
+3268,"sofa can be used to sleep, which makes it different from curtains",Yes
+8055,"sink can be used for washing dishes, which makes it different from fridge",Yes
+6960,"ankle is lower body, which makes it different from arm",Yes
+2303,"meal have (a) vegetable(s), which makes it different from supper",Not Sure
+9152,"bison have (a) fur, which makes it different from elephant",Yes
+965,"pear have (a) edible skin, which makes it different from banana",Yes
+8046,"clarinet can be held in hand, which makes it different from piano",Yes
+771,"cow is domesticable (usually), which makes it different from bison",Yes
+15081,"skin is a limb, which makes it different from bone",Not Sure
+878,"neck can be found below mouth, which makes it different from nose",Yes
+5370,"trumpet can be blown into, which makes it different from guitar",Yes
+12330,"goat is a meat or animal, which makes it different from potato",Yes
+3292,"ankle is part of (a) the lower body, which makes it different from elbow",Yes
+14647,"banana have (a) usually inedible skin, which makes it different from garlic",Not Sure
+10067,"beetle can fly, which makes it different from snail",Yes
+14573,"rabbit can be found underground, which makes it different from mink",Yes
+12943,"plum can be used for smoothies, which makes it different from pear",Not Sure
+1438,"owl is a predator, which makes it different from duck",Yes
+1524,"razor have (a) sharp cutting edge, which makes it different from screwdriver",Yes
+10340,"shoulder is a upper body part, which makes it different from leg",Yes
+1822,"bagpipe is a wind instrument, which makes it different from banjo",Yes
+12476,"rabbit is a animal with long ears, which makes it different from otter",Yes
+5313,"hare is a animal with long ears, which makes it different from mink",Yes
+12026,"trombone have (a) tube, which makes it different from guitar",Yes
+13266,"radio is a related to music, which makes it different from rock",Not Sure
+6836,"violin have (a) strings, which makes it different from trumpet",Yes
+13433,"octopus is a mollusk, which makes it different from lobster",Yes
+4100,"goat have (a) hooves, which makes it different from rabbit",Yes
+2696,"grapefruit can be used for smoothies, which makes it different from pear",Not Sure
+7055,"bed is made of wood, which makes it different from sofa",Not Sure
+3681,"jeans can be found on lower body, which makes it different from dress",Yes
+7510,"daughter is a child, which makes it different from father",Yes
+11026,"cupboard can be used for storing objects or clothes, which makes it different from door",Yes
+9249,"zebra have (a) legs, which makes it different from catfish",Yes
+5919,"pony can be found jungle, which makes it different from cow",Not Sure
+14059,"bag can be found on your upper torso, which makes it different from trousers",Yes
+14176,"dress have (a) sleeves, which makes it different from shoes",Yes
+15295,"trombone can be used for blowing, which makes it different from piano",Yes
+9984,"brother is a man, which makes it different from daughter",Yes
+5973,"falcon have (a) large wingspan, which makes it different from buzzard",Yes
+11620,"dog can be kept inside a bedroom, which makes it different from sheep",Yes
+9918,"clarinet can be played with mouth, which makes it different from banjo",Yes
+4013,"saxophone have (a) reed to make it work, which makes it different from accordion",Yes
+12091,"shoes can be used for feet, which makes it different from skirt",Yes
+9001,"bagpipe is made of strings, which makes it different from flute",No
+5183,"squid have (a) legs, which makes it different from mackerel",Yes
+1436,"hawk have (a) large wing span, which makes it different from starling",Yes
+10436,"gown can be found over your knees, which makes it different from coat",Yes
+5774,"bedroom can be found at your home, which makes it different from bungalow",Yes
+15000,"rattlesnake is a reptile, which makes it different from turtle",No
+414,"strawberry can be found be found on a bush, which makes it different from cherry",Yes
+10880,"cherry have (a) single hard pit, which makes it different from cranberry",Yes
+2151,"orange is a citrus fruit, which makes it different from cranberry",Yes
+445,"trombone is made of brass, which makes it different from piano",Yes
+9989,"dishwasher is part of (a) kitchen appliance, which makes it different from cupboard",Yes
+1626,"falcon is able to be domesticated, which makes it different from kite",Yes
+6790,"arm is part of (a) upper body, which makes it different from leg",Yes
+11541,"alligator is living in water, which makes it different from deer",Yes
+10118,"blender can fit a puppy inside, which makes it different from dishwasher",No
+5322,"saxophone is a brass instrument, which makes it different from flute",Yes
+9413,"jeans is part of (a) lower waistline, which makes it different from coat",Yes
+8910,"cat have (a)  mane (hair on it), which makes it different from frog",Yes
+9276,"mixer can be found at an electronics store, which makes it different from faucet",Yes
+4889,"blouse is a white object, which makes it different from jacket",Not Sure
+9098,"kettle is electrically powered, which makes it different from sink",Yes
+4802,"belt can be used for restraining things, which makes it different from wheel",Yes
+8521,"fingers is part of (a) hands(including wrist), which makes it different from arm",Yes
+4398,"peach is a red  or orang, which makes it different from avocado",Yes
+9685,"sheep can be found at the supermarket deli, which makes it different from dog",Not Sure
+12638,"elephant have (a) antlers or tusks, which makes it different from camel",Yes
+9118,"saxophone can be played with mouth, which makes it different from guitar",Yes
+1226,"bed is placed horizontally (longest dimension), which makes it different from door",Yes
+3480,"plum have (a) stone inside, which makes it different from grapefruit",Yes
+3550,"crayon can get smaller as it's used, which makes it different from pen",Yes
+12521,"goat can eating, which makes it different from potato",Yes
+397,"actress is a profession/title, which makes it different from girlfriend",Yes
+4554,"pepper have (a) seeds, which makes it different from onions",Yes
+14549,"bag can be found on your upper torso, which makes it different from sack",Not Sure
+9795,"clarinet is made of strings, which makes it different from trombone",No
+11736,"salmon is a fish, which makes it different from lobster",Yes
+825,"woman is exclusively female, which makes it different from worker",Yes
+9745,"raspberry have (a) (usually) edible skin, which makes it different from banana",Yes
+5587,"shoulder is upper body, which makes it different from leg",Yes
+7753,"elephant can be found in hot climates, which makes it different from bison",Yes
+9679,"chapel can be used for a place of worship, which makes it different from house",Yes
+4315,"alligator can be found in the water, which makes it different from squirrel",Yes
+9093,"wife can be used for a married person, which makes it different from aunt",Not Sure
+6246,"catfish is a name begging with c, which makes it different from trout",Yes
+15369,"coconut is a fruit, which makes it different from cucumber",Yes
+9990,"door is made of wood typically, which makes it different from curtains",Yes
+8805,"cherry have (a) single hard pit, which makes it different from grapefruit",Yes
+6697,"clarinet is a reeded instrument, which makes it different from piano",Yes
+13933,"pear have (a) peel, which makes it different from plum",Yes
+6688,"camel is fluffy, which makes it different from elephant",Yes
+3813,"grapefruit have (a) seed/seeds/pit, which makes it different from banana",Yes
+874,"cheetah is a like a cat, which makes it different from zebra",Yes
+10511,"guitar have (a) strings, which makes it different from flute",Yes
+2889,"mug have (a) handle, which makes it different from saucer",Yes
+2563,"ankle can be found bottom half of body, which makes it different from arm",Yes
+9666,"mother is a person, which makes it different from actress",No
+4535,"pear have (a) (usually) edible skin, which makes it different from avocado",Yes
+4070,"bagpipe is a wind instrument, which makes it different from harp",Yes
+12740,"rope can be used for restraining things, which makes it different from hose",Yes
+7672,"canoe can be used for water, which makes it different from sled",Yes
+4438,"dishwasher can be plugged in, which makes it different from cupboard",Yes
+12793,"dress have (a) sleeves, which makes it different from jeans",Yes
+9943,"eggplant can be used for meat replacement, which makes it different from broccoli",Not Sure
+2593,"shoes can be used for feet, which makes it different from trousers",Yes
+6466,"cottage is a place to live permanently, which makes it different from chapel",Yes
+6657,"tractor can carry multiple people, which makes it different from scooter",Not Sure
+4507,"trumpet is made of strings, which makes it different from harp",No
+9534,"skateboard have (a) wheels, which makes it different from skis",Yes
+5655,"shoes is part of (a) pair, which makes it different from dress",Yes
+12076,"fingers can be found in your upper body, which makes it different from foot",Yes
+6341,"flute can usually be played  with mouth, which makes it different from harp",Yes
+12044,"lobster have (a) red shell when cooked, which makes it different from shrimp",No
+4098,"orange is a citrus fruit, which makes it different from strawberry",Yes
+13140,"roof can be found above your head, which makes it different from window",Yes
+11697,"tape can work without electricity, which makes it different from stereo",Yes
+14486,"guitar can easily carried around, which makes it different from harmonica",No
+8989,"flute is played with just breath, which makes it different from saxophone",No
+4073,"worm have (a) no legs, which makes it different from spider",Yes
+6122,"chapel can be used for religious gatherings, which makes it different from house",Yes
+6607,"arm is part of (a) an appendage, which makes it different from shoulder",Yes
+18,"cow have (a) hooves, which makes it different from elephant",Yes
+696,"barn is beginning with a letter b, which makes it different from cottage",Yes
+5785,"roof have (a) diagram on it, which makes it different from window",Not Sure
+9087,"tractor is consuming fuel, which makes it different from wheel",Yes
+4803,"eggplant can be used for meat replacement, which makes it different from onions",Not Sure
+6869,"pants have (a) two seperate pant legs, which makes it different from coat",Yes
+5837,"horse have (a) tail, which makes it different from cart",Yes
+9557,"screwdriver is a construction tool, which makes it different from scissors",Not Sure
+11091,"bag is worn by woman (usually), which makes it different from sack",Yes
+5077,"toe is a part of the skeleton, which makes it different from nail",Yes
+460,"coat can be used for covering legs, which makes it different from blouse",Yes
+4466,"crocodile is a reptile, which makes it different from squirrel",Yes
+6362,"scissors can be used for hair, which makes it different from knife",Yes
+637,"bolts have (a) number on it, which makes it different from wheel",Not Sure
+1875,"neck can be found on furniture, which makes it different from finger",Not Sure
+4110,"peach have (a) stone, which makes it different from coconut",Yes
+11099,"seagull is usually mostly white colored, which makes it different from falcon",Yes
+9903,"toaster can be used for making food, which makes it different from sink",Yes
+13421,"stereo have (a) string or line, which makes it different from tape",Yes
+5376,"avocado have (a) big seed, which makes it different from banana",Yes
+6888,"belt can be used for restraining things, which makes it different from screws",Not Sure
+9884,"pot is made of ceramic materials, which makes it different from bottle",Yes
+6506,"daughter is a family, which makes it different from father",No
+11628,"squirrel can be found on tree, which makes it different from rabbit",Yes
+6184,"grapefruit is a citrus fruit, which makes it different from strawberry",Yes
+8777,"cod can be found at sea, which makes it different from chicken",Yes
+1639,"kite is part of (a) wild life, which makes it different from hawk",No
+11845,"boots can be found on lower body, which makes it different from bag",Yes
+14101,"skirt can be found on lower body, which makes it different from gown",Not Sure
+5786,"pants is a piece of clothing, which makes it different from shoes",Yes
+13218,"screwdriver can be found construction site, which makes it different from spatula",Yes
+6460,"broccoli is green (most part), which makes it different from onions",Yes
+8759,"tiger is a like a cat, which makes it different from zebra",Yes
+7465,"sauce is a liquid, which makes it different from steak",Yes
+11794,"saucer can be found in the kitchen, which makes it different from bucket",Yes
+8071,"tiger is a type of big cat, which makes it different from camel",Yes
+1935,"arm can be found below where a watch is, which makes it different from elbow",No
+3534,"ankle is a joint, which makes it different from foot",Yes
+15104,"bucket have (a) handle, which makes it different from bottle",Yes
+15428,"nose is part of (a) face, which makes it different from throat",Yes
+3390,"gorilla is a predator, which makes it different from zebra",Yes
+7619,"leg can be used for a fight, which makes it different from ankle",No
+2742,"tiger have (a) fur, which makes it different from horse",Yes
+2067,"raspberry is red, which makes it different from banana",Yes
+10489,"paintbrush can writing, which makes it different from screwdriver",Yes
+5354,"avocado have (a) single hard pit, which makes it different from coconut",Yes
+10955,"tuba is a wind instrument, which makes it different from banjo",Yes
+3799,"eagle can attack others, which makes it different from kite",Yes
+8167,"saxophone is a brass instrument, which makes it different from clarinet",Yes
+2701,"father is a direct relation with you, which makes it different from prince",Yes
+1228,"elk have (a) hair/fur, which makes it different from porcupine",Yes
+12033,"tiger have (a) horn, which makes it different from crocodile",No
+12013,"pistol can be used in home, which makes it different from cannon",Not Sure
+6180,"wrist is upper body, which makes it different from leg",Yes
+2899,"catfish have (a) red shell when cooked, which makes it different from shrimp",No
+7177,"trousers can be used for covering legs, which makes it different from socks",Yes
+3999,"bridge is a component of a home, which makes it different from inn",Yes
+11815,"cheetah is a like a cat, which makes it different from giraffe",Yes
+5558,"vulture have (a) large wing span, which makes it different from duck",Yes
+1753,"son is a family member, which makes it different from prince",Yes
+852,"cannon can used in war, which makes it different from rocket",Not Sure
+12558,"balloon can be found in the air, which makes it different from saucer",Yes
+5539,"wheel can be used for daily usage, which makes it different from tank",Yes
+9290,"kettle have (a) power supply, which makes it different from spoon",Yes
+2928,"leg can be found below the waist, which makes it different from arm",Yes
+1853,"boots can be found on your feet, which makes it different from jeans",Yes
+10324,"shoes is a piece of clothing, which makes it different from bag",Yes
+6913,"screwdriver can be used for driving screws, which makes it different from scissors",Yes
+6741,"elephant have (a) antlers or tusks, which makes it different from buffalo",Yes
+1066,"razor can be used for grooming, which makes it different from scissors",No
+5387,"jacket is a piece of clothing, which makes it different from shoes",Yes
+3433,"sauce is made of several ingredients, which makes it different from chocolate",Not Sure
+2414,"pear have (a) (usually) edible skin, which makes it different from grapefruit",Yes
+8960,"gorilla is a herbivore, which makes it different from cheetah",Yes
+10566,"church can be found at christian belief country, which makes it different from chapel",No
+13388,"toaster is a electrical appliance, which makes it different from sink",Yes
+11383,"trombone is a brass instrument, which makes it different from guitar",Yes
+1572,"tomato have (a) seeds, which makes it different from olive",No
+8409,"cheetah is a type of cat, which makes it different from zebra",Yes
+1889,"orange is a citrus fruit, which makes it different from pear",Yes
+12125,"prince is a royalty, which makes it different from uncle",Yes
+2088,"dress is a typically female clothing item, which makes it different from jeans",Yes
+10013,"camel can be domesticated, which makes it different from elephant",Not Sure
+4215,"wasp is an insect, which makes it different from spider",Yes
+6407,"alligator can hunt other animals, which makes it different from rabbit",Yes
+7039,"goat have (a) fur, which makes it different from sheep",No
+12236,"leg is lower body, which makes it different from elbow",Yes
+14865,"eel have (a) snake like body, which makes it different from mackerel",Yes
+410,"tiger is eat meat, which makes it different from deer",Yes
+14401,"crayon have (a) wax, which makes it different from paintbrush",Yes
+14159,"banjo can easily carried around, which makes it different from trumpet",No
+8041,"cat can be used for food products, which makes it different from cow",No
+5395,"helicopter have (a) the ability to fly, which makes it different from jet",No
+5001,"lime is a fruit, which makes it different from garlic",Yes
+5120,"camel can be used for riding, which makes it different from goat",Yes
+3341,"boots can be used for feet, which makes it different from dress",Yes
+10816,"ankle is below the waist, which makes it different from elbow",Yes
+2579,"rifle can lifted by one hand, which makes it different from cannon",Yes
+3945,"broom is a tool, which makes it different from birch",Yes
+8956,"turtle can be found in the water, which makes it different from elephant",Yes
+10529,"skin can be found on you head, which makes it different from nail",Yes
+5782,"elk have (a) hooves, which makes it different from coyote",Yes
+7467,"beetle is a crustecean, which makes it different from spider",No
+3208,"trousers is worn below the waist, which makes it different from coat",Yes
+12997,"boots can be found on your feet, which makes it different from skirt",Yes
+6630,"knee can be found on lower body, which makes it different from arm",Yes
+1359,"shotgun can be used for bullets, which makes it different from barrel",Yes
+3431,"spider have (a) legs, six or more, which makes it different from worm",Yes
+10058,"vulture have (a) large wing span, which makes it different from buzzard",Yes
+5699,"olive have (a) hard shell, which makes it different from lime",No
+11137,"scissors have (a) sharp cutting edge, which makes it different from pencil",Yes
+1319,"tape can be used for sticking, which makes it different from hose",Yes
+6711,"camel can be used for human transport, which makes it different from deer",Yes
+2703,"frog is a teeth, which makes it different from goat",Not Sure
+4081,"father is a direct relation, which makes it different from king",Yes
+1905,"crocodile is a predator, which makes it different from bison",Yes
+10255,"mole can go underground, which makes it different from squirrel",Yes
+15319,"pear have (a) seed/seeds/pit, which makes it different from banana",Yes
+12315,"elbow is a joint, which makes it different from toe",Yes
+3278,"broccoli is a vegetable, which makes it different from garlic",No
+4548,"walls is touches ground, which makes it different from ceiling",Yes
+13067,"cat can be kept inside a bedroom, which makes it different from horse",Yes
+7554,"lime is a fruit, which makes it different from olive",No
+12602,"house is a black and white picture, which makes it different from cottage",No
+5600,"door is part of (a) the entrance to a room, which makes it different from wall",Yes
+2132,"ankle is part of (a) lower body, which makes it different from shoulder",Yes
+13247,"ant have (a) legs, six or more, which makes it different from worm",Yes
+1270,"porcupine can climb trees, which makes it different from rabbit",Yes
+6982,"octopus have (a) legs/tentacles, which makes it different from cod",Yes
+3968,"wrist is a joint, which makes it different from arm",Yes
+4616,"pants can be used for covering legs, which makes it different from dress",Not Sure
+13402,"dishwasher is a electrical appliance, which makes it different from cupboard",Yes
+15234,"lamp can give off light/glow, which makes it different from mirror",Yes
+7083,"trousers can keep 2 legs covered, which makes it different from dress",Not Sure
+2944,"coconut can be found on a tree or bush, which makes it different from garlic",Yes
+14754,"peach is a red  or orang, which makes it different from cranberry",No
+2766,"mother is a direct or immediate relation, which makes it different from aunt",Yes
+5057,"skin is on a person's exterior, which makes it different from blood",Yes
+2647,"dishwasher is using electricity, which makes it different from sink",Yes
+7129,"celery is green, which makes it different from beans",Yes
+5132,"canoe is colored red, which makes it different from sailboat",No
+1660,"wrist is upper body, which makes it different from ankle",Yes
+1763,"mother is part of (a) close blood relative, which makes it different from princess",Yes
+7102,"knees is lower body, which makes it different from elbow",Yes
+14975,"prince can be found in a royal family, which makes it different from brother",Yes
+596,"chicken have (a) red shell when cooked, which makes it different from asparagus",No
+10081,"bungalow can be used for human living, which makes it different from barn",Yes
+1554,"toaster can be found on a countertop, which makes it different from stove",No
+1957,"elephant have (a) antlers or tusks, which makes it different from giraffe",Yes
+5682,"raccoon can be held, which makes it different from deer",Yes
+11533,"elephant have (a) trunk, which makes it different from camel",Yes
+10667,"grapefruit have (a) yellow color, which makes it different from raspberry",Yes
+8363,"trout have (a) red shell when cooked, which makes it different from shrimp",No
+5119,"gown can be found on your upper torso, which makes it different from pants",Yes
+7358,"cherry have (a) single hard pit, which makes it different from lemon",Yes
+6834,"nose is part of (a) makeup regimen, which makes it different from mouth",No
+927,"crocodile can fly, which makes it different from zebra",No
+542,"kettle can be used for heating items up, which makes it different from dishwasher",Yes
+6986,"pipe can be used in home, which makes it different from tank",Yes
+15133,"beaver is a herbivore, which makes it different from mink",Yes
+14211,"kite have (a) large wingspan, which makes it different from buzzard",Not Sure
+5266,"elbow is part of (a) the upper body, which makes it different from leg",Yes
+2845,"saxophone can be blown into, which makes it different from guitar",Yes
+13653,"orange is a red  or orang, which makes it different from garlic",Yes
+13648,"plum is a physical fruit or veg, which makes it different from cranberry",No
+13571,"crocodile is a predator, which makes it different from elk",Yes
+1215,"kettle can hold water, which makes it different from cupboard",Yes
+13506,"giraffe is a herbivore, which makes it different from tiger",Yes
+5163,"giraffe have (a) hooves, which makes it different from tiger",Yes
+2127,"saxophone have (a) reed to make it work, which makes it different from trombone",Yes
+13245,"squirrel can be held, which makes it different from deer",Yes
+3438,"shoulder is upper body, which makes it different from toe",Yes
+11433,"piano is made of strings, which makes it different from flute",Yes
+9044,"crocodile is carnivorous, which makes it different from rabbit",Yes
+11077,"banjo have (a) strings, which makes it different from tuba",Yes
+515,"canoe is a type of watercraft, which makes it different from sled",Yes
+11609,"broccoli have (a) any green on it, which makes it different from onions",Yes
+11180,"orange is a red  or orang, which makes it different from cranberry",No
+3737,"rifle can be held in a hand, which makes it different from barrel",Yes
+4481,"clarinet is made of strings, which makes it different from harpsichord",No
+1589,"skirt can be found on lower body, which makes it different from coat",Yes
+15190,"squirrel is a rodent, which makes it different from beaver",No
+2003,"clarinet have (a) reed to make it work, which makes it different from tuba",Yes
+10584,"elephant can be used for riding, which makes it different from deer",Yes
+528,"scissors can be used for crafts, which makes it different from knife",Not Sure
+13384,"zebra is a herbivore, which makes it different from hyena",Yes
+4441,"cousin is a family member, which makes it different from prince",Yes
+8384,"church is a religion buildings, which makes it different from inn",Yes
+6462,"hose can be used for water, which makes it different from plug",Not Sure
+9632,"cow is a teeth, which makes it different from bison",No
+5922,"steak is mainly meat, which makes it different from salad",Yes
+1250,"cousin have (a) blood relation with you, which makes it different from princess",Yes
+2471,"otter is 5 letters long, which makes it different from raccoon",Yes
+13189,"caterpillar have (a) legs, six or more, which makes it different from snail",Yes
+10442,"goat is furry, which makes it different from onions",Yes
+908,"chapel is a religious place, which makes it different from bridge",Yes
+12226,"coat can be found on your upper torso, which makes it different from trousers",Yes
+3294,"cow can be found on a farm, which makes it different from dog",Not Sure
+4325,"saxophone is a wind instrument, which makes it different from piano",Yes
+10878,"donkey can be used for human transport, which makes it different from rabbit",Yes
+9864,"fingers can be found upper body, which makes it different from leg",Yes
+1432,"wasp can fly, which makes it different from flea",Yes
+6878,"rattlesnake is a reptile, which makes it different from snail",Yes
+4006,"dog is a typical pet, which makes it different from cow",Yes
+11206,"guitar is part of (a) strings, which makes it different from trumpet",Yes
+7178,"otter can live in water, which makes it different from hare",Yes
+9863,"skin is on a person's exterior, which makes it different from bone",Yes
+9207,"pencil can be used for writing, which makes it different from scissors",Yes
+4228,"guitar have (a) strings, which makes it different from trombone",Yes
+10326,"bolts can commonly be found at home, which makes it different from rope",No
+890,"tongue is part of (a) face, which makes it different from finger",Yes
+14485,"alligator can live in water, which makes it different from rattlesnake",Yes
+10235,"bungalow is a place to live permanently, which makes it different from barn",No
+3317,"buggy can carry multiple people, which makes it different from bike",No
+169,"trout is a water animal, which makes it different from chicken",Yes
+4225,"ankle can be used for walking, which makes it different from neck",Yes
+14925,"eagle is a predator, which makes it different from kite",Yes
+992,"butter is a block, which makes it different from milk",Yes
+9412,"balloon have (a) the ability to fly, which makes it different from boat",Yes
+8074,"screwdriver is a construction tool, which makes it different from paintbrush",Yes
+12845,"bison is a has horns, which makes it different from leopard",No
+8849,"man is a male, which makes it different from girl",Yes
+14552,"elephant have (a) antlers/tusks, which makes it different from gorilla",Yes
+7437,"cherry have (a) stone, which makes it different from coconut",Yes
+11123,"frog can jump, which makes it different from spider",No
+14735,"clarinet is a wind instrument, which makes it different from banjo",Yes
+13130,"donkey can be used for a mode of transport, which makes it different from rabbit",Yes
+5175,"pencil can be used for cutting, which makes it different from screwdriver",Yes
+8785,"camel can be found jungle, which makes it different from donkey",No
+4423,"otter can be used for swimming, which makes it different from hare",Yes
+14339,"socks can be found on your feet, which makes it different from trousers",Yes
+11510,"kettle can be held in your hand, which makes it different from sink",No
+10146,"girl is a picture of a female, which makes it different from boy",No
+12964,"cheetah is a type of cat, which makes it different from giraffe",Yes
+2617,"sheep can be found on a farm, which makes it different from dog",No
+2514,"frog is a teeth, which makes it different from cat",No
+3551,"eagle can attack others, which makes it different from duck",No
+12484,"lamb is a animal, which makes it different from onions",Yes
+9607,"alligator is a amphibian, which makes it different from squirrel",Yes
+2524,"toilet can can you sit on it, which makes it different from tray",Yes
+477,"milk is a diary food, which makes it different from sugar",No
+3255,"saxophone is a wind instrument, which makes it different from cello",Yes
+8475,"celery is a vegetable, which makes it different from avocado",Yes
+4089,"beaver can live in water, which makes it different from mink",Yes
+4197,"bolts can be used for a typical plumbing job, which makes it different from wheel",Yes
+1858,"trousers is a worn on the lower body, which makes it different from jacket",Yes
+668,"sheep can be found on a farm, which makes it different from bison",Yes
+2259,"ankle can be found below the waist, which makes it different from neck",Yes
+2257,"cherry have (a) edible skin (usually), which makes it different from avocado",Yes
+1615,"skin is a limb, which makes it different from eye",No
+8244,"actress is two syllables, which makes it different from girl",Yes
+2372,"thigh can be used for walking, which makes it different from elbow",Yes
+4045,"vulture have (a) long beak, which makes it different from falcon",Not Sure
+11067,"screwdriver is a construction tool, which makes it different from knife",Yes
+1601,"ankle can be found on lower body, which makes it different from shoulder",Yes
+5626,"cheetah is a like a cat, which makes it different from buffalo",Yes
+7894,"rifle can be used in home, which makes it different from grenade",Yes
+3413,"mink can live in water, which makes it different from skunk",Yes
+3074,"man is a head, which makes it different from girl",No
+9708,"tuba is a wind instrument, which makes it different from violin",Yes
+13914,"pipe can be found at home, which makes it different from tank",Yes
+8012,"fingers is part of (a) the upper body, which makes it different from leg",Yes
+13626,"elephant can be used for riding, which makes it different from tiger",Yes
+10508,"apartment is typically a rentable location, which makes it different from cottage",No
+438,"trombone can be played with mouth, which makes it different from banjo",Yes
+3628,"cupboard can be found on a countertop, which makes it different from oven",No
+1123,"arm can be used for waving, which makes it different from shoulder",Yes
+8028,"cherry can be used for smoothies, which makes it different from avocado",Not Sure
+567,"ankle can be found below waist, which makes it different from elbow",Yes
+1986,"trousers is a piece of clothing, which makes it different from boots",Yes
+6912,"elephant have (a) trunk, which makes it different from crocodile",Yes
+8,"ankle is part of (a) lower body, which makes it different from forearm",Yes
+14534,"dishwasher can be used for washing dishes, which makes it different from fridge",Yes
+5368,"boy have (a) the color brown in it, which makes it different from man",No
+6870,"tank can destroy a building, which makes it different from barrel",No
+6949,"flute is a wind instrument, which makes it different from cello",Yes
+6441,"mink have (a) long tail, which makes it different from skunk",No
+12800,"squirrel is a herbivore, which makes it different from mink",No
+14981,"shrimp is a water animal, which makes it different from asparagus",Yes
+9116,"socks can be found on lower body, which makes it different from jacket",Yes
+14190,"blouse is worn by woman (usually), which makes it different from coat",Yes
+11107,"elephant can be used for travel, which makes it different from hyena",Yes
+3205,"cod have (a) fins, which makes it different from chicken",Yes
+4416,"yacht have (a) motor, which makes it different from canoe",Yes
+12112,"microwave can be plugged in, which makes it different from freezer",No
+9646,"house can be used for sleeping in, which makes it different from bridge",Yes
+14046,"cat can jump, which makes it different from mouse",Yes
+3856,"shoes is part of (a) lower waistline, which makes it different from shirt",No
+10885,"leg can be found below waist, which makes it different from neck",Yes
+4942,"celery is a green vegetable, which makes it different from garlic",Yes
+10406,"wrist is a specific joint, which makes it different from arm",Yes
+3182,"cheetah is a type of big cat, which makes it different from buffalo",Yes
+11033,"squid have (a) legs, which makes it different from asparagus",Yes
+6221,"bagpipe can be held in hand, which makes it different from harpsichord",Yes
+152,"orange is a fruit, which makes it different from garlic",Yes
+12963,"caribou is a has horns, which makes it different from hyena",Yes
+7606,"gun can lifted by one hand, which makes it different from tank",Yes
+8844,"chapel is a religious place, which makes it different from cottage",Yes
+8954,"tomato have (a) seeds, which makes it different from garlic",Yes
+1389,"tape can be used for sticking, which makes it different from rope",Yes
+11053,"hawk have (a) large wing span, which makes it different from stork",Not Sure
+12215,"boy is male, which makes it different from girl",Yes
+2320,"plug can be found kitchen, which makes it different from clamp",No
+12415,"peach have (a) stone, which makes it different from cranberry",No
+14721,"cod is a name begging with c, which makes it different from eel",Yes
+1094,"tray is part of a car, which makes it different from strainer",No
+11824,"barrel is part of a car, which makes it different from screws",No
+6131,"wrist can be found in your upper body, which makes it different from ankle",Yes
+4967,"elephant have (a) antlers or tusks, which makes it different from zebra",Yes
+1678,"hare have (a) long ear, which makes it different from beaver",Yes
+704,"falcon have (a) large wing span, which makes it different from woodpecker",Yes
+11551,"salmon have (a) fins, which makes it different from asparagus",Yes
+3831,"mother have (a) the color brown in it, which makes it different from woman",No
+1555,"beetle have (a) wings, which makes it different from snail",Yes
+13782,"door is made of wood typically, which makes it different from wall",No
+1287,"donkey can be used for human transport, which makes it different from tiger",Yes
+461,"sink can be found on a countertop, which makes it different from toilet",Yes
+11596,"strawberry can be eaten in one bite, which makes it different from peach",Yes
+1855,"gun can be used for shooting, which makes it different from grenade",Yes
+12678,"pants is worn below the waist, which makes it different from gown",Yes
+7765,"salmon is a fish, which makes it different from chicken",Yes
+8164,"trombone can usually be played  with mouth, which makes it different from cello",Yes
+9206,"barrel can hold water, which makes it different from bolts",Yes
+15281,"oven can be used for heating items up, which makes it different from cupboard",Yes
+3730,"tank can be used for firing artillery, which makes it different from rocket",Yes
+10872,"buggy is made of metal, which makes it different from skateboard",No
+12829,"thigh can be found below the waist, which makes it different from neck",Yes
+4577,"plum is red, which makes it different from avocado",No
+9293,"corn is yellow or orange, which makes it different from avocado",Yes
+5512,"prune have (a) edible skin, which makes it different from grapefruit",Yes
+6436,"eagle is a predator, which makes it different from duck",Yes
+8302,"toe is below the waist, which makes it different from finger",Yes
+7841,"dog can be used for food products, which makes it different from horse",No
+9813,"garlic is needs peeling, which makes it different from beans",No
+12090,"yacht have (a) engine, which makes it different from canoe",Yes
+7761,"strawberry can be eaten in one bite, which makes it different from pineapple",Yes
+3464,"shoes can be tied, which makes it different from socks",Yes
+10001,"father is a direct relation with you, which makes it different from uncle",Yes
+570,"elk have (a) horn, which makes it different from raccoon",Yes
+2245,"sister is a direct relation, which makes it different from princess",Yes
+5486,"sauce is a colour red, which makes it different from salad",No
+4008,"chandelier can be found on the ceiling, which makes it different from lantern",Yes
+12195,"camel have (a) hooves, which makes it different from tiger",Yes
+14377,"skirt can be used for by mainly women, which makes it different from pants",Yes
+13819,"vulture have (a) large wingspan, which makes it different from duck",Yes
+13426,"elbow can carrying objects, which makes it different from arm",No
+1782,"mug can be found in the kitchen, which makes it different from bucket",No
+6306,"kite have (a) large wingspan, which makes it different from owl",No
+7347,"tank can be used for firing artillery, which makes it different from barrel",No
+9287,"trumpet have (a) valves, which makes it different from piano",Yes
+9726,"spider is a bug, which makes it different from cat",Yes
+13228,"mixer can be used for electronic uses, which makes it different from faucet",Yes
+1544,"knee can be found below waist, which makes it different from shoulder",Yes
+10609,"sister is a sibling, which makes it different from daughter",Yes
+6235,"wrist is part of (a) pair (comes in pairs), which makes it different from toe",Yes
+12233,"knee can be found below the waist, which makes it different from shoulder",Yes
+1471,"pants is a piece of clothing, which makes it different from boots",Yes
+7777,"squirrel have (a) long tail, which makes it different from rabbit",Yes
+13076,"trombone can usually be played  with mouth, which makes it different from guitar",Yes
+14021,"blender is using electricity, which makes it different from spoon",Yes
+13528,"bolts can be used for building, which makes it different from rope",No
+4709,"goat can be used for a source of milk, which makes it different from rabbit",Yes
+3481,"cow is a teeth, which makes it different from dog",No
+4039,"boy is steel, which makes it different from man",No
+8901,"tomato is a citrus fruit, which makes it different from coconut",No
+3557,"cod is a one syllable word, which makes it different from eel",No
+548,"leopard is a predator, which makes it different from zebra",Yes
+1793,"roof can be found above your head in general, which makes it different from tower",Yes
+11687,"elbow can be found in your upper body, which makes it different from toe",Yes
+2058,"donkey is a teeth, which makes it different from horse",No
+9973,"cheetah is a like a cat, which makes it different from gorilla",Yes
+3368,"scissors is sharp, which makes it different from screwdriver",No
+3324,"muscle can be found on the inside, which makes it different from body",No
+10828,"cod have (a) fins, which makes it different from shrimp",Yes
+13357,"cottage have (a) roof, which makes it different from bridge",Yes
+11390,"raccoon have (a) hair/fur, which makes it different from porcupine",No
+5471,"duck is a animal, which makes it different from tomato",Yes
+426,"mug is made of ceramic materials, which makes it different from kettle",Yes
+6346,"wheel is round shaped, which makes it different from bolts",No
+5563,"peach have (a) single hard pit, which makes it different from coconut",Yes
+7042,"camel can be domesticated, which makes it different from bison",Yes
+3241,"pants is part of (a) pair, which makes it different from skirt",Yes
+1573,"screws can be used for shooting, which makes it different from pipe",No
+8729,"pot is made of ceramic materials, which makes it different from tray",No
+6885,"squid have (a) legs, which makes it different from tuna",Yes
+10116,"wife have (a) multiple people pictured, which makes it different from actress",No
+8886,"pepper is a vegetable, which makes it different from coconut",Yes
+774,"arm is part of (a) the upper body, which makes it different from leg",Yes
+14882,"wrist is part of (a) upper body, which makes it different from ankle",Yes
+8715,"vulture is a alive, which makes it different from kite",Yes
+7052,"boat is made of metal, which makes it different from canoe",Yes
+4327,"elephant is a violent creature, which makes it different from elk",No
+11245,"rabbit is a animal with long ears, which makes it different from raccoon",Yes
+3887,"hut is a permanent structure, which makes it different from tent",No
+13625,"gown can be used for by mainly women, which makes it different from pants",Yes
+534,"giraffe have (a) long neck, which makes it different from tiger",Yes
+11039,"beetle is an insect, which makes it different from worm",No
+14739,"fan is round shaped, which makes it different from rock",No
+4300,"sofa is made of wood, which makes it different from carpet",No
+2955,"caribou have (a) antlers or tusks, which makes it different from bison",Yes
+7398,"buggy can hold more than one person, which makes it different from bike",No
+8784,"roof is part of (a) house, which makes it different from tower",Yes
+2852,"boy is a male, which makes it different from girl",Yes
+5573,"rabbit is a teeth, which makes it different from goat",No
+2225,"cottage can be used for human living, which makes it different from bedroom",No
+8944,"daughter is a picture of a female, which makes it different from mother",No
+15356,"banana is usually in color yellow, which makes it different from avocado",Yes
+1808,"vulture is part of (a) wild life, which makes it different from hawk",No
+2149,"snail is a insect, which makes it different from rattlesnake",Yes
+10671,"raspberry is part of (a) group or bunch, which makes it different from plum",No
+914,"toilet can be plumbed in, which makes it different from tray",Yes
+9772,"walls is part of (a) another card, which makes it different from roof",No
+11217,"screwdriver can be found in a toolbox, which makes it different from knife",Yes
+705,"toe is part of (a) an appendage, which makes it different from ankle",Yes
+3108,"squirrel is part of (a) water, which makes it different from frog",No
+10316,"dog is carnivorous, which makes it different from pony",Yes
+11174,"pistol can be used for shooting, which makes it different from grenade",Yes
+10636,"mug have (a) handle, which makes it different from pot",No
+10215,"mixer can be used for mixing audio inputs, which makes it different from stereo",Yes
+12394,"dishwasher is part of (a) kitchen appliance, which makes it different from toilet",Yes
+666,"alligator is a reptile, which makes it different from turtle",No
+14471,"mixer have (a) a type of metal, which makes it different from stereo",No
+7885,"pepper have (a) seeds, which makes it different from beans",Yes
+14951,"lemon is a fruit, which makes it different from garlic",Yes
+13475,"walls is enclosed, which makes it different from roof",No
+14716,"coat have (a) sleeves, which makes it different from skirt",Yes
+9896,"gate can be found at your home, which makes it different from chapel",No
+7062,"razor have (a) sharp edge, which makes it different from comb",Yes
+13324,"lemon is a citrus fruit, which makes it different from coconut",Yes
+15044,"scissors is made of /mostly made of metal, which makes it different from comb",Yes
+5858,"cannon can be used for firing artillery, which makes it different from rocket",Yes
+14241,"mink is a rodent, which makes it different from skunk",Yes
+8524,"mother is a direct or immediate relation, which makes it different from princess",Yes
+1025,"ox is a violent creature, which makes it different from caribou",Not Sure
+13012,"cherry have (a) single hard pit, which makes it different from orange",Yes
+13695,"blouse have (a) sleeves, which makes it different from pants",Yes
+6191,"beetle can fly, which makes it different from spider",Yes
+3529,"squid can be found at sea, which makes it different from asparagus",Yes
+4103,"kettle can be plugged in, which makes it different from freezer",No
+418,"sink can be found on a countertop, which makes it different from oven",No
+13514,"wife is a family member, which makes it different from woman",Yes
+10349,"banana is yellow, which makes it different from raspberry",Yes
+12060,"kettle is made of metal, which makes it different from mug",Yes
+6682,"socks can be used for feet, which makes it different from pants",Yes
+472,"eagle have (a) large wingspan, which makes it different from woodpecker",Yes
+2485,"arm is related with hand, which makes it different from neck",Yes
+11497,"owl is a predator, which makes it different from dove",Yes
+615,"razor is made of /mostly made of metal, which makes it different from brush",Yes
+5005,"bed can be found in the room you sleep, which makes it different from door",No
+14362,"crocodile have (a) legs, which makes it different from snail",Yes
+13764,"trout is a one syllable word, which makes it different from salmon",Yes
+8547,"bag is worn by woman (usually), which makes it different from jacket",No
+3177,"crab have (a) shell, which makes it different from octopus",Yes
+13673,"elbow is a limb, which makes it different from leg",No
+7332,"tiger is a type of big cat, which makes it different from giraffe",Yes
+8326,"tank can be used for shooting, which makes it different from pipe",Yes
+10779,"falcon have (a) large wing span, which makes it different from duck",Yes
+5139,"giraffe can be found in africa, which makes it different from tiger",No
+1921,"cow is used for milk for humans, which makes it different from donkey",Yes
+9336,"wife is a family member, which makes it different from princess",Yes
+8091,"daughter have (a) blood relation with you, which makes it different from wife",Yes
+3911,"plum have (a) single hard pit, which makes it different from garlic",Yes
+9442,"saxophone can usually be played  with mouth, which makes it different from banjo",Yes
+4656,"wheel is circular, which makes it different from tank",Yes
+13802,"caribou can be used for travel, which makes it different from hyena",Yes
+4516,"raspberry can rhyme with ferry, which makes it different from pear",Yes
+6612,"salmon is a fish, which makes it different from shrimp",Yes
+364,"trumpet is made of strings, which makes it different from piano",No
+4968,"duck is a meat or animal, which makes it different from onions",Yes
+11803,"rifle is made for violence, which makes it different from barrel",No
+6285,"daughter is a direct or immediate relation, which makes it different from aunt",No
+5452,"screwdriver can to paint, which makes it different from paintbrush",No
+9096,"beans can be used for meat replacement, which makes it different from corn",Yes
+8301,"elephant is a teeth, which makes it different from cat",No
+7406,"crocodile can be found in water, which makes it different from camel",Yes
+8631,"grenade can be held in a hand, which makes it different from rocket",Yes
+4683,"shoulder is part of (a) upper body, which makes it different from foot",Yes
+13717,"beetle have (a) legs, six or more, which makes it different from snail",Yes
+13458,"beans is a vegetable, which makes it different from avocado",Yes
+7617,"girl is female, which makes it different from boy",Yes
+12572,"mother have (a) the color brown in it, which makes it different from girl",No
+12392,"bison have (a) short/thick fur, which makes it different from elephant",Yes
+3800,"beetle can be found nature, which makes it different from caterpillar",No
+4173,"uncle is a family member, which makes it different from prince",Yes
+985,"tent can be found at your home, which makes it different from hut",Yes
+12958,"bolts have (a) number on it, which makes it different from hose",No
+10919,"razor can be used for hair, which makes it different from pencil",Yes
+14966,"shoes can be found on your feet, which makes it different from skirt",Yes
+13319,"wall can be used for lighting, which makes it different from door",No
+3841,"wrist is a specific joint, which makes it different from hand",Yes
+3006,"leg can be found bottom half of body, which makes it different from elbow",Yes
+9788,"spider is an insect, which makes it different from cat",Yes
+8856,"building is beginning with a letter b, which makes it different from chapel",Yes
+8257,"bison is a carnivore, which makes it different from deer",No
+8864,"raccoon can be held, which makes it different from mink",No
+11186,"alligator is living in water, which makes it different from rattlesnake",Yes
+6003,"ox have (a) thick body, which makes it different from camel",Yes
+8588,"avocado have (a) single hard pit, which makes it different from lemon",Yes
+13524,"pony is used in races, which makes it different from donkey",No
+2449,"alligator can go under underwater, which makes it different from iguana",Yes
+11550,"helicopter can be found in the air, which makes it different from boat",Yes
+12796,"spatula can to paint, which makes it different from paintbrush",No
+975,"alligator is a amphibian, which makes it different from rattlesnake",Yes
+3680,"butterfly can fly, which makes it different from caterpillar",Yes
+5282,"avocado is sweet, which makes it different from grapefruit",No
+6049,"leg can be found below the waist, which makes it different from neck",Yes
+10109,"gun can be held in a hand, which makes it different from barrel",Yes
+8150,"door is part of (a) the entrance to a room, which makes it different from curtains",Yes
+7213,"socks can be found on your feet, which makes it different from jacket",Yes
+14688,"barrel can hold water, which makes it different from screws",Yes
+9231,"ankle can be found on lower body, which makes it different from arm",Yes
+5901,"mother is female, which makes it different from father",Yes
+6477,"cow can be found on a farm, which makes it different from deer",No
+9308,"gown have (a) sleeves, which makes it different from jeans",Yes
+6868,"piano have (a) keyboard, which makes it different from banjo",Yes
+12273,"dog have (a) fur, which makes it different from sheep",No
+1445,"thigh is part of (a) lower body, which makes it different from neck",Yes
+2194,"neck can be found in your upper body, which makes it different from ankle",Yes
+8270,"ankle is below the waist, which makes it different from neck",Yes
+13515,"saxophone is a brass instrument, which makes it different from accordion",Yes
+4927,"tuba is made of strings, which makes it different from harp",No
+9246,"broccoli is green (most part), which makes it different from beans",No
+3510,"banner is a logo, which makes it different from umbrella",Yes
+2825,"tank have (a) caterpillar treads, which makes it different from gun",Yes
+7838,"shoes can be found on your feet, which makes it different from jacket",Yes
+2846,"avocado is a green vegetable, which makes it different from garlic",No
+9699,"squirrel is four-legged, which makes it different from spider",Yes
+5086,"necklace is a accessory, which makes it different from dress",Yes
+12111,"pants is worn on the bottom half, which makes it different from skirt",No
+8388,"elephant can be used for riding, which makes it different from crocodile",Yes
+5909,"mink is 4 letters long, which makes it different from skunk",Yes
+3395,"hare is a this is more responsive heeyyy, which makes it different from otter",No
+1868,"elk have (a) hooves, which makes it different from beaver",Yes
+12561,"bison have (a) horns, which makes it different from camel",Yes
+731,"cherry have (a) stone, which makes it different from banana",Yes
+6213,"bison can be used for travel, which makes it different from ox",No
+5659,"alligator is living in water, which makes it different from squirrel",Yes
+9731,"bridge have (a)  place for worship, which makes it different from gate",No
+13719,"meat is made of several ingredients, which makes it different from potatoes",No
+912,"blender can be held in your hand, which makes it different from dishwasher",No
+7212,"dog is a typical pet, which makes it different from pony",Yes
+6862,"alligator can be found in a river, which makes it different from squirrel",Yes
+9141,"elbow can be found upper body, which makes it different from ankle",Yes
+1723,"pistol can be used for shooting, which makes it different from barrel",No
+8079,"bison can be used for riding, which makes it different from deer",No
+6300,"trousers can keep 2 legs covered, which makes it different from jacket",Yes
+10914,"piano have (a) keyboard, which makes it different from saxophone",Yes
+3836,"elephant is a teeth, which makes it different from goat",No
+5845,"dog can be domesticated, which makes it different from elephant",No
+6065,"tuna have (a) fins, which makes it different from asparagus",Yes
+8143,"trout is a fish, which makes it different from lobster",Yes
+5883,"buffalo have (a) horn, which makes it different from elephant",Yes
+14687,"wife is part of (a) your family, which makes it different from actress",Yes
+7223,"scarf is a accessory, which makes it different from pants",Yes
+3857,"raft can be used for water, which makes it different from jeep",Yes
+2027,"knee can be found below waist, which makes it different from arm",Yes
+5860,"olive is green, which makes it different from coconut",No
+11732,"rattlesnake is poisonous, which makes it different from iguana",Yes
+4435,"fridge is electrically powered, which makes it different from sink",Yes
+8854,"elephant have (a) trunk, which makes it different from giraffe",Yes
+2560,"daughter is a picture of a female, which makes it different from cousin",No
+11178,"camel is a herbivore, which makes it different from crocodile",Yes
+5109,"cat can be kept inside a bedroom, which makes it different from cow",Yes
+3846,"tomato is a n ingredient for sauce, which makes it different from potato",Yes
+9117,"orange can be found on a tree or bush, which makes it different from garlic",Yes
+6817,"barrel can be used for harm, which makes it different from rifle",No
+11588,"tank is a vessel, which makes it different from rocket",No
+7925,"bed is a furniture, which makes it different from carpet",Yes
+13727,"cat can be used for food products, which makes it different from rabbit",No
+12801,"gun have (a) finger trigger, which makes it different from tank",Yes
+8424,"giraffe have (a) spots or stripes, which makes it different from camel",Yes
+10447,"vulture have (a) large wingspan, which makes it different from parakeet",Yes
+8461,"olive is green, which makes it different from lemon",No
+5040,"prune can be used for smoothies, which makes it different from pear",No
+13308,"chapel can be used for a place of worship, which makes it different from cottage",Yes
+11836,"trout is a fish, which makes it different from eel",No
+8878,"raccoon can be found on tree, which makes it different from coyote",Yes
+2513,"ant is a bug, which makes it different from squirrel",Yes
+8068,"cod is a water animal, which makes it different from asparagus",Yes
+7589,"lobster have (a) legs, which makes it different from mackerel",Yes
+3825,"avocado is green, which makes it different from onions",Yes
+13495,"helicopter can fly, which makes it different from boat",Yes
+9758,"trousers can be found on lower body, which makes it different from jacket",Yes
+4136,"son is a family member, which makes it different from king",Yes
+4720,"faucet can control the flow of liquid, which makes it different from mixer",Yes
+144,"zebra can fly, which makes it different from giraffe",No
+7974,"kettle can be used for heating items up, which makes it different from cupboard",Yes
+12725,"scooter have (a) wheels, which makes it different from skateboard",Yes
+12465,"car can be used for land suitable one, which makes it different from boat",No
+13510,"neck is a limb, which makes it different from leg",No
+10576,"trout is a fish, which makes it different from crab",Yes
+8098,"shoes can be found foot, which makes it different from jeans",Yes
+4157,"bed have (a) largest dimension parallel to floor, which makes it different from door",Not Sure
+7189,"knees is a joint, which makes it different from neck",Yes
+11135,"bison is fluffy, which makes it different from deer",Yes
+6394,"ankle can be found below waist, which makes it different from forearm",Yes
+10095,"gun is a hand-held weapon, which makes it different from rocket",Yes
+1870,"woman can become pregnant, which makes it different from man",Yes
+14132,"cupboard can contain items, which makes it different from door",Yes
+471,"crocodile can be found jungle, which makes it different from deer",No
+12982,"buggy can hold more than one person, which makes it different from scooter",Not Sure
+1993,"raccoon can be found water usually, which makes it different from skunk",No
+6205,"squid can be found at sea, which makes it different from lobster",No
+7241,"frog can be domesticated, which makes it different from deer",No
+3874,"church is a public building (typically), which makes it different from cottage",Yes
+14232,"sister is part of (a) close blood relative, which makes it different from actress",Yes
+7159,"spider can flying, which makes it different from caterpillar",No
+6589,"broccoli is green (most part), which makes it different from garlic",Yes
+1932,"catfish have (a) fins, which makes it different from lobster",Yes
+2231,"avocado have (a) stone inside, which makes it different from pear",Yes
+14916,"flute is a wind instrument, which makes it different from guitar",Yes
+12847,"prune is a word beginning with p, which makes it different from grapefruit",Yes
+11523,"rifle can used in war, which makes it different from barrel",No
+3256,"zebra have (a) horn, which makes it different from crocodile",No
+3789,"grenade is a vessel, which makes it different from gun",No
+8922,"forearm is part of (a) upper body, which makes it different from leg",Yes
+8736,"screwdriver is made of /mostly made of metal, which makes it different from pencil",Yes
+13139,"guitar is part of (a) strings, which makes it different from saxophone",No
+2679,"wrist is something humans have two of, which makes it different from toe",Yes
+15093,"garlic is a fruit, which makes it different from celery",No
+9302,"camel have (a)  mane (hair on it), which makes it different from crocodile",Yes
+2589,"bagpipe is a wind instrument, which makes it different from accordion",Yes
+12739,"toaster can be used for cooking food, which makes it different from fridge",Yes
+10322,"cougar is a type of big cat, which makes it different from buffalo",Yes
+13977,"neck is on a person's exterior, which makes it different from body",Yes
+6603,"actress is a picture of a female, which makes it different from mother",No
+3364,"elk have (a) hooves, which makes it different from squirrel",Yes
+1818,"boat can be used for riding on water, which makes it different from bike",Yes
+26,"snail is a crustecean, which makes it different from wasp",Yes
+6674,"paintbrush have (a) bushy tail, which makes it different from pencil",Yes
+11118,"church is a religious place, which makes it different from inn",Yes
+11613,"gun can shoot stuff out, which makes it different from barrel",No
+6150,"banana is a fruit, which makes it different from avocado",No
+9094,"arm is part of (a) an appendage, which makes it different from leg",No
+14165,"garlic is a purple vegetable, which makes it different from broccoli",No
+14316,"cottage is a place where people live, which makes it different from church",Yes
+13313,"squid is a mollusk, which makes it different from lobster",Yes
+5899,"kettle can hold water, which makes it different from toaster",Yes
+8986,"kettle is a electrical appliance, which makes it different from sink",Yes
+15183,"mouth can be used for eating, which makes it different from nose",Yes
+543,"dress can be found on your upper torso, which makes it different from socks",Yes
+2268,"cherry have (a) single hard pit, which makes it different from pear",Yes
+8477,"caribou can be used for travel, which makes it different from ox",Yes
+6361,"razor have (a) sharp cutting edge, which makes it different from brush",Yes
