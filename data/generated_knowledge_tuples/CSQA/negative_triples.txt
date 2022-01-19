@@ -1,0 +1,5382 @@
+school|CapableOf|be found naturally underground
+skate|PartOf|building
+classroom|IsA|school supply
+fun|UsedFor|a place for knowledge
+countryside|MadeOf|sand
+paint|MadeOf|wood
+subdivision|CapableOf|be parked on
+like|IsA|emotion
+skin|IsA|place
+spoon|IsA|type of room
+class|HasProperty|a form of entertainment
+building|IsA|country
+home|MadeOf|living parts
+school|HasProperty|material
+rug|IsA|building
+condiments|IsA|location or room
+sewer|UsedFor|cooking
+container|IsA|  place
+cage|PartOf|natural landscape
+box|HasA|connection to food
+sun|HasProperty|powerful
+horse|AtLocation|on a wall
+tennessee|IsA|state in uk
+electricity|HasA|four walls and a ceiling
+telephone|IsA|list of alphabets
+opera|HasA|clowns or mickey mouse
+woods|IsA|room in a property
+agreement|IsA|physical emotion
+college|UsedFor|travel
+school|CapableOf|be eaten
+table|MadeOf|food
+favors|IsA|enjoyable
+cupboard|CapableOf|allow you to travel
+potatoes|UsedFor|healthy eating
+dishes|IsA|furniture
+disneyland|CapableOf|cooking
+bar|UsedFor|locking prisoners away
+tears|CapableOf|cause physical harm
+newspaper|MadeOf|meet
+drawer|UsedFor|cooling
+passageway|IsA|item of clothing
+bedroom|PartOf|vehicle
+frogs|IsA|place you can go
+city|IsA|weather
+nightmares|IsA|positive thing
+bottle|IsA|place for entertainment
+contemplating|UsedFor|learning new knowledge
+home|IsA|specific part of a structure
+government|HasA|movie
+town|UsedFor|buying food
+ocean|HasA|3 letters
+attic|UsedFor|broadcasting visual images
+ballpark|HasA|connection to food
+country|IsA|object/thing
+floor|UsedFor|cooling
+briefcase|IsA|place of learning
+shelf|HasA|plug or power source
+television|IsA|event
+sun|CapableOf|move location
+purse|IsA|place you can visit
+street|IsA|stone
+dreams|IsA|physical object
+telephone|IsA|building 
+kitchen|HasProperty|capable of burning you
+pain|IsA|sad emotion
+mess|CapableOf|furnishing for a home
+safe|IsA|part media
+church|UsedFor|living
+airport|AtLocation|in a house
+picture|IsA|place
+furniture|MadeOf|wood
+argument|IsA|positive card
+house|HasProperty|white
+mountain|HasProperty|man-made
+safe|IsA|place to study
+dictionary|IsA|place
+city|IsA|residential area
+air|PartOf|house
+funeral|UsedFor|music
+shop|IsA|building
+river|IsA|place or location
+ocean|PartOf|kitchen
+wall|CapableOf|show you time
+stretch|AtLocation|on the body
+freeway|CapableOf|be read
+work|MadeOf|paper
+depression|IsA|emotion
+montana|IsA|mental place
+wisconsin|HasA|water
+discovery|IsA|physical state
+hospital|CapableOf|be found naturally underground
+bathroom|UsedFor|holding things
+desert|IsA|location
+remembering|HasProperty|seen as a negative 
+apartment|UsedFor|car repair
+pot|UsedFor|storage
+sweetness|UsedFor|punish
+depression|IsA|positive thing
+action|IsA|thing you have on person
+ceiling|AtLocation|above  your head
+fox|PartOf|natural scenario
+china|CapableOf|be parked on
+wallet|IsA|form of entertainment
+garden|AtLocation|in a building
+world|IsA|continent
+town|MadeOf|sand
+museum|IsA|place for reading
+store|PartOf|waste management system
+house|HasA|animal
+apartment|PartOf|admin role
+death|PartOf|human body
+backpack|IsA|location
+corporation|IsA|book
+shop|UsedFor|cooling
+cleanliness|HasProperty|an unpleasant sensation
+office|CapableOf|give degrees such as bachelors
+airport|HasA|bed for sleeping
+tennessee|IsA|country
+library|CapableOf|be alive
+cabinet|CapableOf|be opened
+valley|IsA|country or state
+supermarket|HasProperty|edible
+program|UsedFor|live performances
+gate|IsA|business
+forest|HasProperty|a 1 syllable word
+room|IsA|informal term for youth
+dinner|IsA|furniture
+porch|UsedFor|reading
+bedroom|UsedFor|work
+house|UsedFor|storing things inside
+ocean|HasProperty|found in the house
+wilderness|IsA|1 syllable word
+knowing|IsA|negative feeling
+windowsill|IsA|building
+skyscraper|CapableOf|be lived in
+aquarium|CapableOf|be walked on
+outdoors|HasA|walls
+valley|IsA|business that serves food
+city|HasA|water
+stream|MadeOf|trees
+newspaper|MadeOf|electronic/electrical parts
+music|CapableOf|plug into the wall
+product|IsA|type of shop
+frisbee|MadeOf|natural materials
+yard|IsA|animal
+bowl|IsA|location
+bedroom|HasA|a bath
+garage|UsedFor|cooking
+dinner|IsA|place
+countryside|HasProperty|a 1 syllable word
+party|IsA|n electronic device
+refrigerators|IsA|  place
+kennel|IsA|place or location
+sewer|IsA|room in a building
+attic|AtLocation|the bottom of a building
+table|HasProperty|a room in a residence
+entertaining|HasProperty|an emotion
+ocean|UsedFor|link between places
+shelf|UsedFor|dinner
+computer|HasProperty|a room
+trouble|UsedFor|standing on
+basement|UsedFor|mainly sleep
+trauma|IsA|something a baby could have
+convention|IsA|house where man live
+glass|HasProperty|hot
+store|AtLocation|in a home
+refrigerator|UsedFor|ordering food and drink
+wedding|IsA|place or location
+shed|IsA|place to pray
+toilet|UsedFor|formal learning
+river|IsA|big space
+cup|CapableOf|cook things
+bathroom|IsA|living/once living
+church|MadeOf|wood
+park|IsA|event
+revelations|UsedFor|seeking an answer
+outside|AtLocation|on the map
+human|AtLocation|mostly inside
+company|CapableOf|be bought at ikea
+outside|AtLocation|inside a house
+aircraft|MadeOf|by man
+box|CapableOf|be eaten
+knowing|IsA|emotion
+tree|IsA|place or location
+jar|PartOf|the galaxy
+forest|IsA|country
+bubblegum|HasProperty|to do with currency
+school|IsA|country
+contemplating|UsedFor|driving
+ontario|IsA|american state
+barn|AtLocation|at a house
+forest|AtLocation|in the home or  office
+company|AtLocation|library
+club|HasA|person stood at the front
+knowledge|IsA|place people can meet
+car|HasProperty|a type of home
+wood|IsA|place or location
+box|IsA|mode of transportation
+opera|IsA|house where man live
+air|UsedFor|driving
+microwave|CapableOf|be bought at ikea
+conference|UsedFor|buying food
+bowl|CapableOf|cooking
+library|AtLocation|inside someone's home
+game|HasA|person stood at the front
+government|CapableOf|place
+forest|HasProperty|man made
+food|HasProperty|used to drive in
+store|CapableOf|be found naturally underground
+street|PartOf|house
+pride|IsA|emotion
+egypt|UsedFor|digging 
+butterflies|HasProperty|used to drive in
+country|HasA|movie
+forest|IsA|proper noun
+church|CapableOf|be held in your hands
+field|IsA|emotion
+cleanliness|MadeOf|pause
+house|AtLocation|with water
+heaven|IsA|place of religion
+control|IsA|book
+cupboard|IsA|food
+outside|HasA|1 syllable  word
+apartment|CapableOf|furnishing for a home
+auditorium|IsA|n item of furniture
+human|IsA|job
+home|IsA|type of room
+enjoyment|IsA|physical emotion
+supermarket|HasProperty|alive
+library|CapableOf|float
+barn|UsedFor|fun
+bathroom|UsedFor|work
+television|HasProperty|used to hear sounds
+fish|IsA|place that humans can swim
+garden|UsedFor|sleeping on
+room|UsedFor|storage
+pleasure|IsA|negative feeling
+jail|UsedFor|driving
+building|IsA|nation
+universe|HasProperty|something you can touch
+america|HasProperty|bordering with nevada
+salad|CapableOf|be opened/closed
+field|HasProperty|a room in a residence
+ground|IsA|place you can go
+shelf|CapableOf|cause harm if inhaled
+newspaper|IsA|residential area
+information|UsedFor|studying
+corner|MadeOf|fine particles, usually unpleasant 
+town|IsA|event
+dirt|MadeOf|water
+silence|CapableOf|plug into the wall
+wilderness|HasProperty|cold
+weather|IsA|type of land
+attic|MadeOf|energy
+street|UsedFor|farmers 
+ocean|IsA|physical item 
+maine|PartOf|the south
+automobile|CapableOf|store a car
+briefcase|IsA|school supply
+town|HasProperty|a gathering place
+bedroom|UsedFor|urination
+library|AtLocation|in a store
+bedroom|CapableOf|plug into the wall
+home|HasProperty|capable of burning you
+synagogue|IsA|place you buy food
+confession|IsA|mental place
+room|IsA|garden
+plants|IsA|place
+revelations|IsA|physical state
+town|HasA|large population
+box|IsA|part of the body
+ocean|UsedFor|a holiday
+jail|IsA|physical item 
+bathtub|IsA|building
+ballpark|IsA|reply to a question
+can|HasProperty|a beverage
+case|IsA|dish
+kitchen|HasProperty|a type of building
+house|IsA|state
+floor|IsA|furniture
+wedding|HasProperty|alive
+container|IsA|room (type)
+wallet|IsA|something you eat off
+wedding|HasProperty|a place expressly for singing
+canada|UsedFor|work
+switzerland|UsedFor|food
+museum|HasProperty|religious
+refrigerator|CapableOf|be sweet
+shop|AtLocation|inside someone's home
+loft|HasProperty|capable of burning you
+clouds|HasProperty|found inside a house
+bank|UsedFor|holding animals
+storage|MadeOf|water
+trunk|IsA|structure or building
+laughter|IsA|emotion
+people|IsA|location
+head|UsedFor|studying
+cellar|UsedFor|cooking
+shed|CapableOf|be lifted by 1 person
+swimming|HasProperty|man made
+apartment|UsedFor|storing food
+sunbathers|IsA|person
+building|IsA|human or part of human
+inspiration|HasProperty|seen as a negative 
+office|AtLocation|with water
+montana|IsA|place of religion
+hotel|IsA|object
+refrigerator|HasProperty|associated with drinking
+library|HasProperty|found in a house
+soup|CapableOf|be sweet
+anxiety|IsA|something considered as positive
+clothes|UsedFor|storage
+bus|IsA|country or state
+america|MadeOf|water
+color|IsA|place to study
+office|IsA|building
+mountain|HasA|city inside
+vaccines|PartOf|human body
+orbit|AtLocation|public area
+reflection|IsA|emotion
+temple|HasProperty|capable of burning you
+house|CapableOf|move
+park|HasProperty|part of your  house
+continent|IsA|somewhere animals swim
+container|IsA|place for entertainment
+bowl|UsedFor|cleaning your body
+doctor|IsA|country
+porch|IsA|physical item 
+michigan|CapableOf|fly
+college|CapableOf|move
+silverware|HasProperty|made of wood
+countryside|HasProperty|a country
+house|HasProperty|found outside a home typically
+garage|UsedFor|storing things inside
+beach|HasProperty|man-made
+sky|UsedFor|building the structure of house
+internet|CapableOf|be alive
+communication|IsA|happy card
+map|IsA|building
+city|HasA|movie
+house|HasA|pool
+manual|UsedFor|eating or drinking
+inspiration|IsA|negative emotion or feeling
+dancing|IsA|emotion
+closet|IsA|place
+anxiety|HasProperty|used to drive in
+briefcase|CapableOf|be used for travel
+plate|UsedFor|keeping things cool
+germany|HasProperty|a form of entertainment
+kitchens|IsA|place for entertainment
+house|UsedFor|in a bathroom
+kitchen|MadeOf|metal
+computer|IsA|room
+enemies|IsA|feeling or emotion
+action|IsA|place you can visit
+synagogue|IsA|house where man live
+convention|IsA|planet
+trunk|IsA|room in a home
+storage|UsedFor|generating products or plants
+backpack|CapableOf|allow you to travel
+countryside|UsedFor|swimming
+suburb|AtLocation|inside a house
+commercial|IsA|place or location to visit
+window|IsA|object
+rug|CapableOf|sleep on it
+windowsill|HasProperty|used for storage
+conference|UsedFor|reading
+wedding|UsedFor|living inside of
+shelf|CapableOf|show you time
+bowl|CapableOf|be sweet
+party|UsedFor|storage
+corner|UsedFor|furniture
+motel|UsedFor|milking cows
+ball|UsedFor|farmers 
+love|IsA|activity
+dust|CapableOf|make sounds
+can|HasA|plug or power source
+church|IsA|mental place
+restaurant|UsedFor|free
+trash|MadeOf|wood or paper or card
+valley|HasA|1 syllable  word
+song|IsA|electronic device
+nightmares|HasProperty|typically positive
+kitchen|IsA|building
+table|MadeOf|metal
+snore|IsA|place
+park|CapableOf|be eaten
+closet|IsA|type of business
+swamp|AtLocation|below
+jar|IsA|public building
+park|AtLocation|on the map
+valley|HasA|3 letters
+garden|UsedFor|learning
+refrigerator|HasProperty|a beverage
+water|HasProperty|a building
+neighborhood|CapableOf|be parked on
+agreement|IsA|reaction
+fun|IsA|mode of transportation
+michigan|UsedFor|locking prisoners away
+restaurant|AtLocation|in a house
+theater|HasProperty|part of a human
+field|MadeOf|wood
+universe|PartOf|wood
+window|UsedFor|food
+opera|IsA|physical and movable item
+sink|MadeOf|organic material
+wilderness|AtLocation|specifically named on a map
+ground|UsedFor|broadcasting visual images
+church|UsedFor|sleeping
+ceiling|MadeOf|paper
+valley|IsA|1 syllable word
+antarctica|CapableOf|be found in a house
+street|IsA|place to be entertained
+kitchen|UsedFor|reading
+cupboard|IsA|building
+table|HasA|doors
+meeting|UsedFor|reading
+computer|IsA|ground where child play
+temple|CapableOf|move location
+floor|HasProperty|furniture in a house
+town|IsA|part of a human
+detroit|PartOf|house 
+change|IsA|place you can visit
+band|IsA|place
+meeting|IsA|something kept a home
+basement|IsA|physical and movable item
+bed|CapableOf|be easily carried
+garden|PartOf|body
+inside|HasProperty|furniture in a house
+auditorium|IsA|mental place
+party|AtLocation|on the map
+street|IsA|brand
+motel|AtLocation|inside someone's home
+michigan|IsA|1 syllable word
+container|UsedFor|keeping things cool
+boat|IsA|somewhere animals swim
+ground|AtLocation|at floor level
+silverware|HasProperty|a room in a residence
+dictionary|IsA|activity 
+airport|IsA|physical item 
+tent|IsA|part of a human
+box|IsA|event
+dust|UsedFor|standing on
+town|IsA|business that serves food
+wilderness|HasA|car
+hallway|IsA|car
+connection|HasA|use electricity
+knowledge|IsA|feeling/emotion
+desert|IsA|popular attraction
+pot|UsedFor|drinking 
+lumberyard|IsA|place or location
+factory|PartOf|man body
+apartment|HasProperty|a public place
+school|HasProperty|item of clothing
+burger|IsA|location or room
+human|IsA|country
+street|HasA|first letter b
+office|IsA|type of room
+countryside|IsA|animal
+fox|IsA|place
+church|HasA|fee to visit
+opera|HasProperty|part of a human
+arguments|PartOf|city
+drink|IsA|place or location to visit
+park|CapableOf|laugh
+cut|CapableOf|fly
+furniture|HasA|ceiling
+earth|IsA|house where man live
+food|CapableOf|fly
+classroom|UsedFor|living inside of
+yard|HasA|walls
+casino|MadeOf|metal
+fun|IsA|place
+army|AtLocation|on map
+freeway|HasA|airplanes
+backyard|IsA|place you visit often
+ocean|IsA|item of clothing
+bridge|CapableOf|can you drink it
+dog|IsA|place or location
+lamp|IsA|place to live
+passageway|CapableOf|be found naturally underground
+roof|IsA|living thing
+dust|CapableOf|show films
+bridge|UsedFor|in a bathroom
+roof|PartOf|body
+china|IsA|small area
+house|HasProperty|material
+table|HasA|edible items for sale
+sky|IsA|living thing
+jail|UsedFor|studying in
+skyscraper|CapableOf|move freely
+moon|MadeOf|organic material
+rock|IsA|man made thing
+war|IsA|action
+ground|IsA|stone
+desktop|UsedFor|storage
+russia|MadeOf|paper
+battle|UsedFor|recreation activity
+desktop|IsA|place
+stretch|HasProperty|usually fast
+water|CapableOf|be used as transport 
+closet|IsA|item of clothing
+demonstration|HasProperty|a type of property
+desert|IsA|small area
+store|MadeOf|wood
+city|UsedFor|driving 
+instruction|IsA|negative emotion or feeling
+drinking|IsA|physical emotion
+school|UsedFor|punishing people
+churchyard|AtLocation|in your company
+clouds|UsedFor|ordering food and drink
+air|PartOf|food and drink
+airport|HasA|beds
+room|IsA|building
+lamp|CapableOf|have a street address
+egypt|IsA|country
+bar|IsA|type of business
+suffering|IsA|emotion
+rug|HasA|animal
+utah|IsA|state that starts with m
+desktop|HasA|edible items for sale
+supermarket|CapableOf|be eaten
+pool|UsedFor|eating or drinking
+internet|HasProperty|alive
+continent|HasProperty|human made
+injury|CapableOf|fly
+shelf|CapableOf|be opened
+bag|IsA|structure or building
+color|HasProperty|related to studying
+arboretum|IsA|place people live
+plate|UsedFor|heating up things to eat
+landfill|UsedFor|playing
+louisiana|IsA|state in uk
+wires|HasProperty|a property 
+doctor|HasProperty|able to be entered
+suburb|IsA|business that serves food
+desert|IsA|animal
+happiness|HasA|punish
+wilderness|IsA|man-made thing
+map|HasA|walls
+park|CapableOf|move
+love|IsA|negative feeling
+condiments|UsedFor|serving dinner
+ocean|IsA|place to live
+classroom|IsA|pencil
+discovery|HasA|physical appearance
+country|PartOf|the continent 
+house|UsedFor|pooping
+office|IsA|building 
+bathroom|MadeOf|trees
+florida|IsA|place of worship
+tension|HasA|physical element
+building|UsedFor|generating products or plants
+peanuts|HasA|to do with planets
+box|IsA|location
+demonstration|HasProperty|used at meal time
+theater|HasProperty|a place expressly for singing
+paper|HasA|walls
+house|HasA|front desk
+information|HasA|letter e in it
+safe|HasProperty|related to studying
+excitement|IsA|physical emotion
+pocket|CapableOf|be used for travel
+house|UsedFor|sleeping on
+building|CapableOf|be found naturally underground
+workplace|IsA|country
+apartment|AtLocation|inside a person's home
+field|IsA|sweet or savory
+cupboard|IsA|room (type)
+backyard|UsedFor|cooking food
+desk|UsedFor|work
+trunk|AtLocation|in a kitchen
+bathroom|UsedFor|furnishing a house
+field|HasA|first letter b
+cooking|IsA|country
+park|CapableOf|be alive
+peanuts|IsA|reply to a question
+bank|UsedFor|cooking
+pantry|CapableOf|be used for school
+museum|MadeOf|wood
+synagogue|IsA|planet
+building|CapableOf|plug into the wall
+snow|MadeOf|metal
+earth|UsedFor|learning
+library|MadeOf|people gathering together
+city|IsA|state
+water|PartOf|house
+cabinet|CapableOf|be eaten
+refrigerator|IsA|place to make food
+library|HasProperty|a solid item 
+sahara|AtLocation|at america
+village|HasProperty|in a cold climate
+warehouse|IsA|place to pray
+house|IsA|specific part of a structure
+chair|IsA|place or location
+beach|UsedFor|serving food
+sleeping|IsA|physical object
+sink|CapableOf|can you drink it
+casino|IsA|place of worship
+human|UsedFor|to get a degree
+backpack|IsA|place of learning
+park|HasProperty|a place you can work
+suicide|IsA|something considered as positive
+controversy|HasProperty|typically positive
+trauma|HasProperty|typically positive
+apartment|IsA|looks like paypal 
+discipline|CapableOf|cause injury
+teacher|UsedFor|carrying things
+clothing|CapableOf|allow you to travel
+wall|MadeOf|paper
+street|HasProperty|white
+pot|IsA|building
+bubblegum|IsA|place you can visit
+university|UsedFor|studying
+louisiana|IsA|country
+refrigerator|UsedFor|storing things in
+countryside|IsA|living/once living
+groceries|HasA|roof
+discomfort|IsA|emotion
+telephone|IsA|place
+action|IsA|emotion
+cabinet|UsedFor|cooking
+cave|HasProperty|item of clothing
+bathroom|IsA|food
+roof|IsA|building
+meeting|UsedFor|studying
+refrigerator|CapableOf|contain multiple people
+car|UsedFor|a place for knowledge
+town|HasA|lots of greenery / trees
+temple|AtLocation|in your room
+condiments|IsA|  place
+peanuts|UsedFor|storage
+outside|HasA|city inside
+chair|HasProperty|an animal
+antarctica|IsA|room
+fun|PartOf|house
+canada|IsA|outdoor location
+synagogue|UsedFor|camping
+knowing|IsA|negative emotion or feeling
+mountain|CapableOf|fly
+restaurant|AtLocation|in a building
+nebraska|HasProperty|something you can carry
+trash|IsA|furniture
+chair|MadeOf|energy
+tears|IsA|physical emotion
+playground|HasA|1 syllable  word
+food|AtLocation|in a house
+bed|UsedFor|reading
+meeting|AtLocation|in bathroom
+club|UsedFor|learning
+oven|CapableOf|store things
+countryside|HasProperty|man made
+river|CapableOf|be walked on
+wedding|IsA|planet
+meeting|MadeOf|paper
+ocean|HasProperty|item of clothing
+desktop|UsedFor|storage of physical items
+trunk|HasProperty|a social unit for gathering 
+show|MadeOf|chemicals
+nebraska|IsA|part of a municipality
+maze|HasA|airplanes
+sunshine|IsA|place
+wedding|IsA|tourist destination
+mountains|IsA|country
+apartment|IsA|ceremony
+freeway|IsA|business
+corner|HasA|feet to stand 
+apartment|UsedFor|storing things inside
+house|HasA|head
+field|IsA|natural product or man made
+car|IsA|n emotion
+kitchen|CapableOf|be slept in
+nursery|IsA|something kept at home
+stadium|MadeOf|bricks
+table|IsA|location
+soup|UsedFor|healthy eating
+building|IsA|place to live
+punishment|UsedFor|punish
+cupboard|CapableOf|storing food
+pocket|IsA|building
+butterflies|IsA|negative emotion
+food|IsA|type of room
+battle|PartOf|man body
+auditorium|IsA| event
+sink|HasProperty|made of wood
+trunk|HasProperty|an object
+bathroom|HasProperty|related to eating
+coats|CapableOf|be found naturally underground
+dinner|IsA|part media
+elevator|IsA|place you visit
+bowl|IsA|tableware
+soup|CapableOf|be chopped or slices
+fatigue|IsA|something considered as positive
+chairs|IsA|type of room
+couch|MadeOf|wood
+sink|HasProperty|a building
+stadium|IsA|place of learning
+persia|HasA|legs
+freeway|CapableOf|be lived in
+snow|IsA|brand
+encyclopedia|IsA|location
+food|UsedFor|storage
+jail|UsedFor|cooling
+cup|UsedFor|heating up things to eat
+house|HasA|fee to visit
+box|IsA|reply to a question
+canada|PartOf|house
+airplane|CapableOf|be lived in
+window|CapableOf|be used for school
+cabinet|IsA|room in a property
+tent|IsA|house where man live
+ranch|IsA|animal
+mexico|CapableOf|be part of a house
+person|PartOf|building
+office|IsA|place to live
+refrigerator|IsA|type of business
+canada|IsA|province instead of country
+hunger|IsA|emotion
+security|CapableOf|have people  inside
+office|HasProperty|a property 
+sweat|HasProperty|about  clashes
+library|MadeOf|meet
+suburb|IsA|state
+nebraska|AtLocation|inside a house
+mess|HasProperty|a building to live in
+machine|UsedFor|communication
+sky|PartOf|physical structure
+sea|HasProperty|human made
+outdoors|UsedFor|swimming
+families|IsA|event
+box|HasProperty|a building structure
+heaven|UsedFor|cooking
+subdivision|HasA|lots of greenery / trees
+box|CapableOf|fly
+nostalgia|IsA|positive thing
+desktop|CapableOf|be bought at ikea
+restaurant|CapableOf|be eaten
+corner|IsA|n electronic device
+bar|IsA|state in usa
+cleanliness|MadeOf|golden
+toilet|HasProperty|a room
+home|IsA|type of tree
+valley|UsedFor|driving on or over
+beach|CapableOf|fly
+classroom|IsA|ceremony
+dust|UsedFor|to keep items
+porch|CapableOf|storing food
+loft|UsedFor|buying things
+trouble|MadeOf|living parts
+underground|HasProperty|alive, of a natural state
+container|IsA|school supply
+canada|IsA|nature-related
+bank|IsA|animal
+field|UsedFor|farmers 
+machine|UsedFor|storing things inside
+sink|HasProperty|a piece of furniture
+tent|IsA|place
+shelf|MadeOf|wood
+town|UsedFor|transportation
+bedroom|HasProperty|edible
+discovery|CapableOf|fly
+books|MadeOf|sand mostly
+homes|UsedFor|education
+passageway|UsedFor|a holiday
+knowledge|HasA|screen
+remembering|IsA|emotion
+beaver|IsA|american state
+school|IsA|item of clothing
+home|AtLocation|in a kitchen
+junk|IsA|animal
+head|IsA|part media
+hole|MadeOf|paper
+kitchen|IsA|type of food
+refrigerator|AtLocation|inside a house
+supermarket|UsedFor|entertaining
+roof|HasProperty|capable of burning you
+box|IsA|structure or building
+swamp|HasProperty|alive, of a natural state
+corporation|CapableOf|place
+shop|IsA|physical item 
+canada|IsA|american state
+restaurant|CapableOf|storing food
+floor|IsA|place or location
+barn|UsedFor|worship
+bathroom|IsA|living thing
+battle|UsedFor|to get a degree
+demonstration|IsA|human or part of human
+excitement|IsA|verb
+wedding|HasProperty|a type of home
+store|AtLocation|inside a person's home
+attic|CapableOf|be made with bricks
+body|HasProperty|an event
+effort|HasProperty|usually fast
+office|CapableOf|be found naturally underground
+castle|AtLocation|mostly inside
+lamp|IsA|n electronic device
+circus|IsA|n item of furniture
+kitchen|AtLocation|with water
+competing|IsA|feeling or emotion
+silence|UsedFor|live performances
+information|HasProperty|a meal
+briefcase|IsA|building
+people|HasProperty|part of a human
+chocolate|IsA|part of the body
+tennessee|IsA|animal
+game|UsedFor|wearing
+street|IsA|natural product or man made
+countryside|IsA|natural product or man made
+carnival|UsedFor|storage
+punishment|MadeOf|one syllable
+information|MadeOf|paper
+bathtub|HasA|ceiling
+chair|HasA|four wheels
+skin|IsA|looks like paypal 
+rug|IsA|a animal
+television|AtLocation|in a kitchen
+skin|IsA|house where man live
+bar|IsA|piece of furniture
+cabinet|CapableOf|contain multiple people
+mexico|IsA|nature-related
+house|HasProperty|a place you can work
+minnesota|IsA|business that serves food
+apartment|AtLocation|in a building
+moon|IsA|car
+playground|IsA|place you visit often
+nails|IsA|place where students learn
+jail|HasA|fee to visit
+exercise|AtLocation|on the body
+church|IsA|state in usa
+understanding|UsedFor|driving
+shelf|IsA|room
+house|HasA|green plant
+school|UsedFor|packing things inside
+game|UsedFor|learning
+war|CapableOf|be performed
+ground|IsA|place
+persia|MadeOf|fewer than  20 physical things
+desk|AtLocation|above the ground
+arctic|IsA|popular attraction
+jail|HasProperty|outdoors
+color|UsedFor|studying
+sky|AtLocation|at a home
+drawer|UsedFor|reading
+bridge|PartOf|kitchen
+university|UsedFor|recreation activity
+house|MadeOf|food
+roof|HasA|animal
+desk|UsedFor|serving food
+dishwasher|CapableOf|cooking
+change|IsA|thing you have on person
+salad|CapableOf|be sweet
+food|HasProperty|sweet
+instruction|HasProperty|seen as a negative 
+nature|HasProperty|a 1 syllable word
+jar|MadeOf|wood
+communication|IsA|reaction
+car|AtLocation|inside a house
+rock|MadeOf|wood
+television|HasProperty|a room
+concert|CapableOf|plug into the wall
+subdivision|MadeOf|sand
+enemies|IsA|physical outcome
+countryside|CapableOf|fly
+human|IsA|building
+classroom|CapableOf|move location
+house|UsedFor|mainly sleeping
+box|IsA|place
+conference|UsedFor|writing
+nails|IsA|location
+entertaining|IsA|activity
+desk|UsedFor|cooking
+convention|IsA|social event
+sadness|HasProperty|linked to food
+loft|AtLocation|in your room
+backyard|UsedFor|standing on
+mouth|CapableOf|make a sound
+universe|MadeOf|wood
+conference|IsA|type of room
+happiness|UsedFor|punish
+magazines|HasProperty|able to be entered
+porch|HasProperty|easily movable
+shoes|AtLocation|on the map
+earth|IsA|part of a human
+texas|HasA|car
+kitchen|UsedFor|serving
+wedding|HasProperty|furniture in a house
+building|UsedFor|teaching
+ground|HasA|head
+computer|UsedFor|packing things inside
+song|AtLocation|on/in the human body
+corner|MadeOf|organic brown matter
+bathroom|CapableOf|fly
+bank|MadeOf|paper
+garage|CapableOf|storing food
+vaccines|AtLocation|usually in a bed
+montana|HasProperty|an event
+cabinet|IsA|place to make food
+microwave|AtLocation|library
+books|PartOf|north america
+trash|AtLocation|inside a house
+monastery|IsA|mental place
+cupboard|UsedFor|eating
+corner|IsA|building
+motel|HasProperty|1 syllable
+frogs|AtLocation|in your home
+demonstration|CapableOf|be purchased
+countryside|HasProperty|untouched by civilisation
+desktop|CapableOf|be worn
+field|HasProperty|related to studying
+entertainment|UsedFor|overnight stays
+book|CapableOf|be worn
+like|HasProperty|a positive emotion
+pride|HasProperty|used to drive in
+ground|HasA|green plant
+neighborhood|IsA|state
+coats|HasA|bed for sleeping
+city|IsA|building
+desk|IsA|building
+telephone|AtLocation|on/in the human body
+universe|IsA|animal or book
+container|HasProperty|a beverage
+tent|IsA|social event
+gentleman|UsedFor|wearing
+pot|IsA|place to make food
+rug|CapableOf|be painted
+universe|IsA|drink
+marmoset|IsA|place
+telephone|HasProperty|somewhere people stay
+opera|IsA|looks like paypal 
+television|MadeOf|paper
+jar|CapableOf|be eaten
+school|IsA|place where people work
+love|AtLocation|library
+office|CapableOf|move people
+sahara|HasProperty|associated with the environment
+flowers|IsA|place or location
+change|IsA|place to be entertained
+europe|AtLocation|in a building
+paper|UsedFor|writing
+kitchens|IsA|type of food
+home|UsedFor|sell things
+roof|CapableOf|laugh
+contemplating|IsA|physical state
+kitchen|CapableOf|cook things
+fight|IsA|positive card
+shelf|HasProperty|a room in a residence
+toilet|HasA|pool
+town|HasProperty|a type of home
+anger|HasA|punish
+store|UsedFor|cleaning your body
+container|UsedFor|heating up things to eat
+staircase|HasProperty|a room in a building
+ocean|UsedFor|serving food
+clothing|IsA|place people can meet
+city|IsA|animal
+california|HasA|start with a
+outside|MadeOf|wood
+container|IsA|type of room in houses
+bowl|CapableOf|be opened/closed
+glass|CapableOf|be used as transport 
+excavation|UsedFor|driving 
+television|CapableOf|grow itself or grow things
+dishwasher|IsA|form of entertainment
+restaurant|CapableOf|cooking
+jar|IsA|place where students learn
+pocket|UsedFor|reading
+dance|UsedFor|furnishing a house
+car|IsA|emotion
+backyard|HasA|walls
+pot|IsA|place for entertainment
+stuff|IsA|place
+fly|IsA|physical item 
+air|HasProperty|man made
+joy|CapableOf|happiness
+furniture|CapableOf|sleeping
+human|UsedFor|eating or drinking in
+jellyfish|CapableOf|have people inside
+commercial|IsA|place
+alcohol|CapableOf|be entered
+balloon|PartOf|food and drink
+ceiling|HasA|legs
+tropics|IsA|small area
+nails|UsedFor|storage
+closet|UsedFor|a holiday
+desktop|AtLocation|in bathroom
+dancing|HasProperty|an emotion
+library|IsA|building
+restaurant|IsA|place for entertainment
+drugstore|AtLocation|in your room
+supermarket|IsA|place
+town|AtLocation|inside a house
+wilderness|HasProperty|untouched by civilisation
+synagogue|UsedFor|teaching
+town|UsedFor|driving on or over
+inspiration|MadeOf|wood
+utensils|UsedFor|to keep items
+ranch|MadeOf|country
+garage|UsedFor|car travel
+yard|IsA|place where you can live
+crowd|IsA| event
+funeral|UsedFor|storing physical things
+trunk|CapableOf|store a car
+love|UsedFor|a gathering of people
+countryside|IsA|state
+gentleman|UsedFor|learning
+stick|HasProperty|green
+australia|UsedFor|cooking
+building|IsA|place you visit often
+tears|HasA|punish
+detroit|CapableOf|move freely
+store|IsA|country
+wedding|UsedFor|buying food
+jail|CapableOf|be closed
+class|HasProperty|a meal
+fun|IsA|activity
+city|UsedFor| housing animals
+bathroom|CapableOf|cook
+encyclopedia|CapableOf|be held with one hand
+clothing|CapableOf|provide a service
+countryside|IsA|nature-related
+playground|MadeOf|plastic
+hotel|CapableOf|be eaten
+building|IsA|sound
+inspiration|IsA|negative thing
+mouth|CapableOf|be eaten
+cabinet|IsA|place where students learn
+information|UsedFor|reading and borrowing reading materials
+garbage|PartOf|house
+ocean|HasA|earth
+rain|HasProperty|white
+pride|IsA|mental state
+building|CapableOf|float
+birds|PartOf|house 
+corner|UsedFor|standing on
+valley|HasProperty|made by humans
+peanuts|UsedFor|containing objects
+loft|IsA|type of building
+marmoset|IsA|activity 
+sloth|IsA|place or location to visit
+attic|HasProperty|used for cooking in
+human|HasProperty|child friendly
+bottle|UsedFor|storing things in
+bedroom|UsedFor|car repair
+kitchen|AtLocation|in a cupboard
+corner|HasProperty|used to hear sounds
+nails|UsedFor|carrying things
+town|IsA|place you buy food
+squirrel|HasProperty|man made
+locker|CapableOf|be worn
+carpet|AtLocation|in your home
+attic|MadeOf|fine particles, usually unpleasant 
+pride|IsA|verb
+forest|HasProperty|man-made
+house|MadeOf|organic material
+desktop|CapableOf|contain multiple people
+germany|PartOf|building
+newspaper|HasProperty|related to studying
+pot|UsedFor|storing things in
+bedroom|HasProperty|1 syllable
+basement|CapableOf|plug into the wall
+garage|IsA|furniture
+garbage|IsA|place
+mouse|IsA|room in a building
+computer|UsedFor|worship
+magazine|UsedFor|cooling
+university|AtLocation|home
+chair|CapableOf|have people  inside
+books|HasProperty|a piece of furniture
+classroom|AtLocation|in a building
+anthology|UsedFor|storing items
+trouble|IsA|weather
+heaven|IsA|country
+swimming|IsA|animal
+friends|IsA|type /part of building
+briefcase|UsedFor|writing
+book|HasProperty|a meal
+garden|IsA|country
+television|UsedFor|lighting up a room
+action|IsA|physical state
+backpack|UsedFor|to keep items
+house|HasProperty|an object
+dream|IsA|negative feeling
+tent|IsA|planet
+bridge|PartOf|the galaxy
+outside|HasProperty|made by humans
+garage|UsedFor|storage
+museum|CapableOf|be found in a house
+contemplating|HasProperty|used to drive in
+countryside|IsA|living thing
+voice|IsA|tv show
+apartment|HasProperty|a piece of furniture
+wilderness|IsA|place to keep money
+park|IsA|living/once living
+wall|IsA|item of furniture
+stable|MadeOf|country
+stadium|HasA|pool
+battlefield|HasA|exterior walls
+families|CapableOf|be eaten
+kitchen|CapableOf|cooking
+sun|AtLocation|on map
+home|IsA|tableware
+warehouse|CapableOf|be lifted by 1 person
+glass|HasProperty|a room in a residence
+moon|CapableOf|can you drink it
+library|MadeOf|paper
+bank|IsA|place where money is kept
+drawer|HasProperty|an animal
+church|UsedFor|furnishing a house
+bedroom|MadeOf|metal
+body|IsA|place
+disneyland|IsA|furniture
+condiments|HasA|store edible items
+supermarket|UsedFor|eating or drinking
+university|PartOf|house
+forest|HasProperty|related to water falling
+ontario|PartOf|america
+weather|PartOf|city
+airport|CapableOf|be lived in
+doorway|CapableOf|be lived in
+ocean|HasProperty|man-made
+sleep|IsA|place
+washington|IsA|object
+water|CapableOf|store small items
+hotel|IsA|list of alphabets
+bed|UsedFor|cooling
+joy|PartOf|city
+rock|HasProperty|somewhere to go
+safe|AtLocation|on a map
+tent|HasProperty|part of a human
+wilderness|IsA|animal
+movies|IsA|public building
+utensils|IsA|1 syllable word
+house|IsA|ground where child play
+store|IsA|part of a house
+farm|HasA|large population
+dance|IsA|type of room
+drink|CapableOf|be currently visited
+restaurant|CapableOf|be part of a house
+love|IsA|state in usa
+airport|AtLocation|library
+synagogue|IsA|place
+furniture|HasProperty|an animal
+heart|IsA|feeling 
+discovery|IsA|emotion
+inside|HasProperty|used for meals
+school|IsA|building
+theater|IsA|part of a human
+elevator|IsA|place where you can visit
+backyard|IsA|animal
+restaurant|HasProperty|something you can carry
+subdivision|IsA|state
+understanding|IsA|physical state
+jail|HasProperty|child friendly
+band|PartOf|man body
+party|HasProperty|1 syllable
+moon|IsA|man made
+library|HasA|pool
+apartment|IsA|furniture
+table|IsA|type of food
+church|IsA|place
+michigan|PartOf|the south
+closet|CapableOf|can you stand on yours
+table|HasProperty|able to be entered
+song|IsA|tv show
+bed|CapableOf|store
+water|IsA|car
+cellar|IsA|sweet or savory
+town|HasProperty|alive
+jar|UsedFor|serving dinner
+junk|IsA|place
+greenhouse|HasA|head
+convention|IsA|part of a human
+party|UsedFor|driving
+theater|IsA|type of room
+food|CapableOf|cook
+countryside|IsA|man made thing
+town|CapableOf|be drived on with car
+cabinet|HasA|usually have people inside
+birds|AtLocation|mostly inside
+groceries|MadeOf|wood
+suit|IsA|place people can meet
+bathroom|PartOf|natural landscape
+refrigerator|IsA|piece of furniture
+paperwork|IsA|building
+building|UsedFor|announcing something
+park|IsA|country
+montana|IsA|home
+happiness|UsedFor|hobbies
+plate|CapableOf|store things
+library|AtLocation|in your home
+attic|UsedFor|serving food
+stove|HasA|store edible items
+silence|IsA|physical and movable item
+anger|HasA|physical element
+bedroom|MadeOf|fewer than  20 physical things
+airport|CapableOf|be bought at ikea
+homes|CapableOf|move freely
+table|CapableOf|store
+jar|HasProperty|a building
+passageway|HasA|bed for sleeping
+teapot|IsA|place people live
+montana|IsA|looks like paypal 
+building|CapableOf|move location
+field|IsA|place to study
+carrots|IsA|orange colour
+god|UsedFor|praying
+corner|MadeOf|wood
+suburb|UsedFor|transportation
+office|IsA|place where students learn
+jar|IsA|place to be entertained
+room|UsedFor|a place for knowledge
+church|HasProperty|an event
+moon|UsedFor|link between places
+cup|CapableOf|be consumed
+window|IsA|ceremony
+manual|HasA|letter e in it
+beer|MadeOf|metal
+contemplating|CapableOf|fly
+cabinet|IsA|room
+outside|IsA|room
+greenhouse|PartOf|body
+lightning|IsA|physical damage to the body
+wallet|IsA|place you can visit
+trouble|IsA|book
+box|PartOf|house
+toronto|IsA|animal
+closet|MadeOf|food
+garden|CapableOf|give degrees such as bachelors
+cave|CapableOf|have a street address
+trouble|HasA|movie
+party|HasProperty|a place you can work
+church|UsedFor|free
+office|CapableOf|be used for travel
+backyard|IsA|nation
+closet|CapableOf|be lifted by 1 person
+color|IsA|part media
+picture|MadeOf|plastic
+windowsill|UsedFor|children to play
+cooking|IsA|us state
+table|CapableOf|show you time
+stupid|IsA|n emotion
+boredom|MadeOf|golden
+favors|HasProperty|an emotion
+internet|CapableOf| be held in your hand
+europe|UsedFor|learning
+refrigerators|UsedFor|heating up things to eat
+town|UsedFor|over night stays 
+food|IsA|  place
+floor|IsA|building
+countryside|IsA|place you visit often
+barnyard|UsedFor| housing animals
+lamp|IsA|building
+death|IsA|physical object
+ceiling|HasProperty|capable of burning you
+church|UsedFor|sleeping on
+bedroom|HasProperty|somewhere you can be employed
+trouble|IsA|animal
+waterfall|IsA|living/once living
+college|UsedFor|washing
+train|UsedFor|over night stays 
+ground|PartOf|glass
+cellar|UsedFor|mainly sleep
+desert|IsA|place where you can live
+building|IsA|nature-related
+kitchen|UsedFor|sleeping
+manual|PartOf|publication
+lamp|IsA|ground where child play
+trouble|MadeOf|walls and ceiling
+bathtub|IsA|ceremony
+lightning|IsA|animal
+performing|IsA|physical damage to the body
+bedroom|HasProperty|something you can carry
+homes|UsedFor|locking prisoners away
+reflection|IsA|negative emotion
+bar|IsA|place for entertainment
+tears|HasProperty|an emotion
+warehouse|IsA|private space
+pennsylvania|MadeOf|plastic
+porch|CapableOf|provide a service
+room|UsedFor|eating or drinking
+classroom|HasProperty|a type of home
+drawer|CapableOf|store
+trouble|IsA|organization 
+action|UsedFor|living
+joy|CapableOf|be physically touched
+museum|UsedFor|storage
+inside|CapableOf|be found in a house
+moon|PartOf|kitchen
+store|UsedFor|a holiday
+india|AtLocation|within the usa
+doctor|UsedFor|recreation activity
+mouse|IsA|furniture
+synagogue|IsA|sound
+park|UsedFor|eating
+table|UsedFor|storage
+pizza|IsA|location or room
+disneyland|IsA|building
+hole|UsedFor|cooking
+cupboard|HasA|roof
+pantry|HasA|ceiling
+electricity|IsA|physical and movable item
+china|IsA|state
+human|CapableOf|fly
+furniture|UsedFor|reading
+table|IsA|type of room
+warehouse|MadeOf|water
+can|IsA|type of business
+effort|AtLocation|on the body
+snow|IsA|vacation destination
+apartment|IsA|commercial browser
+opera|PartOf|building
+cage|CapableOf|be read
+meeting|HasProperty|a publication
+agreement|IsA|sad emotion
+desk|IsA|n electronic device
+remembering|IsA|negative emotion or feeling
+forest|IsA|popular attraction
+movies|CapableOf|be eaten
+suburbs|CapableOf|be read
+apartment|UsedFor|learning
+school|UsedFor|washing
+montana|UsedFor|driving 
+garage|CapableOf|cause harm if inhaled
+cabinet|CapableOf|be held in your hands
+wilderness|IsA|somewhere animals swim
+table|IsA|place
+field|CapableOf| be moved
+mexico|HasA|1 syllable  word
+dishwasher|AtLocation|on the map
+human|AtLocation|indoors
+room|HasProperty|white
+discipline|HasA|m at the beginning
+nightmares|IsA|feeling
+hole|HasProperty|wooded
+desert|HasProperty|wooded
+shop|CapableOf|store
+school|IsA|event
+hairbrush|HasA|exterior walls
+knowledge|IsA|emotion
+plants|PartOf|glass
+store|IsA|place to be entertained
+door|CapableOf|cause harm if inhaled
+library|HasProperty|material
+cupboard|IsA|room
+store|MadeOf|food
+briefcase|HasA|walls
+arguments|CapableOf|happiness
+human|IsA|place where you can visit
+museum|UsedFor|storing things inside
+barn|IsA|music related event
+cupboard|IsA|sweet or savory
+place|HasA|legs
+basement|AtLocation|in a kitchen
+lemur|MadeOf|paper
+sink|PartOf|the galaxy
+dream|MadeOf|wood
+kitchen|CapableOf|move location
+clothing|UsedFor|learning
+thinking|UsedFor|driving
+skin|HasProperty|an event
+demonstration|AtLocation|at a house
+ceiling|IsA|car
+switzerland|IsA|animal
+telegram|IsA|something kept a home
+motel|CapableOf|hold people against their will
+pocket|CapableOf|keeping cash
+tropics|IsA|n individual country
+suburbs|AtLocation|specifically named on a map
+discipline|AtLocation|on the body
+thinking|UsedFor|learning new knowledge
+dust|IsA|place you can go
+party|AtLocation|inside someone's home
+library|AtLocation|on a shelf
+backpack|IsA|furniture
+airplane|IsA|place to sleep
+kitchen|PartOf|vehicle
+church|HasA|multiple rooms
+knowing|MadeOf|wood
+potatoes|CapableOf|be sweet
+aquarium|IsA|place that humans can swim
+book|HasA|use electricity
+country|MadeOf|water
+imagination|IsA|religious card
+church|UsedFor|buying food
+meeting|IsA|furniture
+mouse|IsA|place to make food
+store|IsA|food
+newspaper|AtLocation|in a store
+arctic|PartOf|city
+conference|IsA|social event
+town|HasProperty|an event
+warehouse|PartOf|waste management system
+france|MadeOf|metal
+table|CapableOf|store things
+container|AtLocation|public area
+opera|CapableOf|plug into the wall
+cabinet|HasA|walls
+apartment|IsA|object
+house|IsA|room in a property
+playground|IsA|nation
+performing|IsA|negative emotion
+television|IsA|place
+church|IsA|place of religion
+lightning|HasProperty|used to drive in
+town|IsA|country
+apartment|IsA|place you buy food
+restaurant|IsA|place of learning
+bowl|UsedFor|healthy eating
+supermarket|CapableOf|be held in your hands
+agreement|HasProperty|a positive emotion
+canada|UsedFor|driving 
+telegram|HasProperty|a solid item 
+garden|UsedFor|purchasing edible items
+cage|IsA|place to keep money
+puddle|UsedFor|eating or drinking
+outside|IsA|country or state name
+shelf|HasProperty|exposed to outside elements (typically)
+boxes|IsA|room
+shower|HasA|door
+desktop|CapableOf|employ people
+inside|AtLocation|in a house
+detroit|CapableOf|be lived in
+outside|HasA|roof
+bed|IsA|room or building
+apartment|MadeOf|wood
+desktop|IsA|building
+families|IsA|place
+apartment|PartOf|waste management system
+city|CapableOf|make you do something
+bearing|UsedFor|farmers 
+doctor|CapableOf|store
+apartment|CapableOf|hold people against their will
+allergies|CapableOf|be physically touched
+home|IsA|informal term for youth
+bar|HasProperty|a property 
+desktop|UsedFor|sleeping on
+pantry|IsA|place to store items
+table|IsA|a place to read books
+room|IsA|part of a house
+glass|UsedFor|transportation
+injury|IsA|negative emotion
+paper|IsA|place of learning
+computer|UsedFor|sleeping on
+bathroom|IsA|sweet or savory
+anxiety|IsA|negative emotion
+dance|PartOf|building
+product|HasProperty|used at meal time
+newspaper|HasA|use electricity
+street|HasA|feet to stand 
+supermarket|HasA|ceiling
+hotel|HasA|pool
+happiness|IsA|physical emotion
+stream|IsA|place
+forest|IsA|brand
+food|UsedFor|keeping things cool
+alabama|IsA|state in uk
+closet|MadeOf|organic brown matter
+locker|CapableOf|have people go inside
+ground|CapableOf|make sounds
+books|IsA|place
+office|CapableOf|grow itself or grow things
+market|UsedFor|healthy eating
+kitchen|CapableOf|be used for school
+talk|IsA|feeling
+panic|IsA|negative emotion
+house|HasProperty|used for storing cars
+mountains|HasA|even number of letter
+person|IsA|type of building
+yard|UsedFor|transportation
+internet|HasProperty|a publication
+playground|IsA|country
+backpack|IsA|1 syllable word
+exercise|HasA|m at the beginning
+vacuum|PartOf|wood
+restaurant|UsedFor|worship
+dirt|PartOf|the continent 
+refrigerator|MadeOf|metal
+information|HasProperty|a publication
+universe|UsedFor|serving food
+tennessee|HasA|start with a
+office|IsA|item of clothing
+sky|HasProperty|man-made
+crying|IsA|positive thing
+fun|IsA|emotion
+california|IsA|building
+relaxation|UsedFor|seeking an answer
+universe|AtLocation|at a zoo
+speaker|CapableOf|make a sound
+kitchens|MadeOf|metal
+store|HasProperty|item of clothing
+trunk|CapableOf|be lived in
+carpet|PartOf|building a house
+church|IsA|part of a human
+restaurant|IsA|furniture
+car|UsedFor|storage
+confession|IsA|place or location
+house|IsA|object
+sky|PartOf|an office
+classroom|HasProperty|sold in stores
+hallway|HasProperty|a public place
+park|IsA|nation
+action|HasProperty|used to drive in
+money|IsA|emotion
+computer|IsA|country or state
+rug|IsA|type /part of building
+library|HasA|letter e in it
+house|UsedFor|worship
+floor|HasProperty|an object
+boxes|IsA|room (type)
+sweetness|IsA|emotion
+cabinet|CapableOf|cooking
+desk|IsA|ground where child play
+exhaustion|MadeOf|golden
+kitchen|HasProperty|furniture
+anger|UsedFor|punish
+sorrow|IsA|something a baby could have
+telephone|HasProperty|used for learning
+street|UsedFor|eating or drinking
+garden|IsA|object
+floor|HasProperty|a piece of furniture
+books|IsA|american state
+anxiety|CapableOf|fly
+shelf|CapableOf|cook
+headache|CapableOf|be physically touched
+depression|HasProperty|linked to food
+air|IsA|car
+marmoset|AtLocation|below
+college|UsedFor|housing
+knowledge|IsA|place to study
+pocket|IsA|place where students learn
+field|UsedFor|studying
+remembering|IsA|feeling/emotion
+table|IsA|pencil
+movies|UsedFor|eating
+floor|AtLocation|above the ground
+backyard|IsA|nature-related
+headache|MadeOf|golden
+birds|IsA|physical damage to the body
+outdoors|IsA|country
+basement|HasA|usually have people inside
+entertainment|UsedFor|over night stays 
+excitement|UsedFor|hobbies
+fulfillment|IsA|activity
+cup|AtLocation|on the map
+roof|CapableOf|fly
+apartment|IsA|building
+michigan|UsedFor|generating products or plants
+jar|PartOf|wood
+chair|IsA|place of religion
+restaurant|CapableOf|fly
+sleep|IsA|emotion
+answer|UsedFor|containing objects
+field|UsedFor|healthy eating
+house|UsedFor|car travel
+lemur|IsA|place or location to visit
+condiments|UsedFor|heating up things to eat
+rug|IsA|private space
+home|UsedFor|cooling
+sailboat|CapableOf|furnishing for a home
+playground|HasA|walls
+action|IsA|place to be entertained
+apartment|CapableOf|be sweet
+tree|HasProperty|man made
+outdoors|CapableOf|be man made
+microwave|IsA|animal
+mouth|IsA|place
+meeting|HasProperty|material
+pleasure|IsA|negative emotion or feeling
+exchange|UsedFor|furnishing a house
+florida|CapableOf|be read
+office|HasProperty|a public place
+trunk|UsedFor|car travel
+hole|IsA|place
+problems|IsA|negative feeling
+basement|IsA|place to pray
+food|UsedFor|serving dinner
+field|IsA|stone
+garden|CapableOf|laugh
+container|MadeOf|metal
+staircase|HasProperty|a type of building
+america|AtLocation|within the usa
+street|IsA|place for playing or relaxing
+workplace|UsedFor|education
+lamp|UsedFor|sleeping on
+food|IsA|public building
+australia|AtLocation|within the usa
+manual|PartOf|food and drink
+forest|IsA|living/once living
+dishwasher|IsA|something you eat off
+college|UsedFor|criminals
+house|UsedFor|cooking
+market|IsA|something kept at home
+speaker|IsA|human or part of human
+trunk|CapableOf|be worn
+restaurant|IsA|place or location
+ocean|CapableOf|be walked on
+building|IsA|business
+medium|CapableOf|be used as transport 
+library|IsA|ground where child play
+homes|HasProperty|visited by tourists
+injuries|IsA|feeling or emotion
+choir|IsA|electronic device
+sea|CapableOf|be walked on
+disneyland|HasProperty|found in the garden
+restaurant|UsedFor|punishing people
+candy|IsA|part of the body
+bar|UsedFor|storing things inside
+problems|IsA|emotion
+apartment|IsA|event
+ground|UsedFor|storage
+pleasure|MadeOf|wood
+computer|IsA|room in a property
+loft|CapableOf|move location
+town|CapableOf|be parked on
+supermarket|CapableOf| be moved
+ocean|HasA|salty water
+waterfall|IsA|somewhere animals swim
+wallet|CapableOf|hold objects
+ocean|IsA|continent
+bar|HasProperty|a room
+field|MadeOf|paper
+michigan|PartOf|house
+sink|UsedFor|storage 
+office|HasProperty|found in a house
+movies|IsA|part of the body
+relaxation|IsA|feeling
+store|PartOf|house
+convention|UsedFor|buying food
+car|UsedFor|storing vehicles
+neighborhood|UsedFor|transportation
+opera|IsA|part of a human
+mountain|IsA|location
+park|AtLocation|inside a home
+street|HasProperty|a country
+encyclopedia|IsA|place or location to visit
+bathroom|IsA|type of building
+books|HasA|letter e in it
+drawer|HasA|doors
+meeting|AtLocation|home
+pain|IsA|reaction
+desktop|HasProperty|edible
+container|IsA|type of food
+funeral|IsA|room in a home
+cow|MadeOf|country
+sink|HasProperty|a room in a residence
+body|IsA|looks like paypal 
+library|MadeOf|wood
+house|IsA|public place
+television|IsA|part of the body
+porch|CapableOf|store
+party|UsedFor|eating or drinking
+glass|UsedFor|food
+bedroom|UsedFor|furnishing a house
+party|IsA|building 
+theater|HasProperty|a type of home
+store|IsA|type of room
+picture|IsA|natural scenario
+meeting|CapableOf|move
+human|CapableOf|have someone inside it
+desktop|IsA|vacation destination
+park|CapableOf|happiness
+region|PartOf|the continent 
+outside|IsA|place
+pocket|UsedFor|living
+bar|UsedFor|communication
+minnesota|PartOf|a house/home
+cellar|UsedFor|a place for knowledge
+attic|CapableOf|make sounds
+street|IsA|place
+floor|MadeOf|living parts
+store|UsedFor|healthy eating
+house|IsA|animal or book
+jellyfish|UsedFor|reading
+city|CapableOf|be parked on
+shelf|UsedFor|washing or cooking
+roof|PartOf|natural landscape
+accomplishment|IsA|feeling or emotion
+action|CapableOf|be held in your hands
+beer|IsA|place for entertainment
+mountains|AtLocation|labeled on a map
+film|IsA|dish
+papers|IsA|furniture
+fun|IsA|physical emotion
+carpet|HasProperty|used for storage
+boat|IsA|ceremony
+bar|CapableOf|treat illness and disease
+music|PartOf|building
+restaurant|UsedFor|healthy eating
+cupboard|IsA|place to make food
+toilet|CapableOf|can you drink it
+desk|IsA|something you eat off
+desert|CapableOf|be parked on
+cup|IsA|  place
+beaver|MadeOf|sand mostly
+town|UsedFor|camping
+plate|IsA|furniture
+car|IsA|location
+house|PartOf|food and drink
+doctor|IsA|type /part of building
+box|PartOf|natural landscape
+bathtub|UsedFor|reading
+circus|IsA|religious card
+detroit|AtLocation|mostly inside
+ceiling|IsA|place to sleep
+library|IsA|place of learning
+closet|UsedFor|storing vehicles
+plate|IsA|piece of furniture
+ficus|IsA|place people live
+trees|MadeOf|metal
+region|IsA|continent
+computer|HasA|usually have people inside
+newspaper|HasProperty|a location
+jail|PartOf|food and drink
+imagination|UsedFor|praying
+light|MadeOf|wood
+television|CapableOf| be held in your hand
+crying|MadeOf|wood
+medium|UsedFor|eating or drinking
+stomach|HasProperty|made of wood
+stomach|CapableOf|be found in a house
+sun|IsA|car
+balloon|CapableOf|be entered
+wilderness|IsA|proper noun
+ocean|HasA|usually have people inside
+cupboard|HasProperty|a room in a residence
+knowledge|MadeOf|wood
+hotel|CapableOf|be found naturally underground
+cupboard|IsA|location
+television|HasA|usually have people inside
+paper|UsedFor|reading
+excavation|UsedFor|digging 
+dishes|HasProperty|a piece of furniture
+table|UsedFor|keeping books
+crying|IsA|emotion
+cabinet|UsedFor|viewing/reading
+store|HasProperty|an object
+closet|CapableOf|be found naturally underground
+jail|IsA|country
+cabinet|CapableOf|be used for travel
+prison|AtLocation|specifically named on a map
+birds|HasProperty|used to drive in
+knowledge|UsedFor|studying
+playground|AtLocation|at a party
+refrigerator|IsA|building
+soup|CapableOf|be used as transport 
+bay|IsA|small body of water
+garden|AtLocation|inside a home
+stomach|MadeOf|metal
+ocean|AtLocation|inland
+utah|PartOf|the south
+dream|IsA|negative emotion or feeling
+desktop|HasProperty|somewhere people stay
+cabinet|IsA|location
+building|IsA|physical and movable item
+show|UsedFor|to get a degree
+bathroom|AtLocation|outside
+pocket|IsA|place you can visit
+can|UsedFor|storing things in
+jar|PartOf|kitchen
+kitchen|CapableOf|storing food
+book|CapableOf|be bought at ikea
+container|IsA|location
+garage|UsedFor|mainly sleeping
+driveway|IsA|place where you can live
+michigan|CapableOf|be held in your hands
+library|IsA|place to live
+cupboard|HasA|edible items for sale
+ground|IsA|car
+silverware|HasProperty|edible
+kitchen|IsA|place to sleep
+park|IsA|part of the body
+pond|IsA|nature-related
+shelf|UsedFor|storage
+front|IsA|reply to a question
+smiles|IsA|emotion
+wilderness|IsA|activity 
+dinner|HasProperty|a social unit for gathering 
+movie|IsA|dish
+fun|HasProperty|a positive emotion
+communication|IsA|emotion
+forest|HasProperty|part of your  house
+garage|UsedFor|eating or sleeping in
+house|MadeOf|wood
+hole|UsedFor|food
+supermarket|IsA|sweet or savory
+pond|HasProperty|human made
+picture|HasA|city inside
+farmyard|IsA|object
+desk|UsedFor|praying
+conference|MadeOf|a natural material
+toilet|CapableOf|store small items
+doctor|IsA|physical item 
+hospital|IsA|place where people die typically
+table|UsedFor|worship
+battle|IsA|feeling or emotion
+person|HasProperty|a form of entertainment
+tears|IsA|enjoyable
+building|UsedFor|furnishing a house
+hallway|HasProperty|white
+headache|MadeOf|pause
+sloth|IsA|place
+bar|IsA|building 
+outside|AtLocation|indoors
+garage|IsA|place
+nightmares|AtLocation|usually in a bed
+theater|IsA|place where people live
+oven|HasA|edible items for sale
+trees|IsA|man made thing
+like|IsA|physical emotion
+sink|IsA|furniture
+desktop|CapableOf|be used for travel
+shop|CapableOf|cook
+sink|UsedFor|transportation
+air|HasProperty|white
+bar|UsedFor|urination
+field|HasProperty|made of wood
+color|IsA|group action
+office|IsA|religious card
+apartment|HasA|fee to visit
+church|UsedFor|a place for knowledge
+groceries|UsedFor|storage 
+stomach|HasProperty|a room in a residence
+working|IsA|negative feeling or expression
+clock|MadeOf|paper
+trouble|HasProperty|an animal
+conference|IsA|part of a human
+supermarket|HasA|clowns or mickey mouse
+bottle|HasProperty|a beverage
+stupid|HasProperty|an action
+conference|IsA|place where students learn
+opera|IsA|social event
+freeway|HasA|beds
+bar|IsA|list of alphabets
+candy|IsA|public building
+supermarket|UsedFor|storage
+love|UsedFor|eating or drinking in
+space|AtLocation|public area
+state|IsA|part of a municipality
+america|CapableOf|make movement
+library|IsA|1 syllable  word
+excitement|AtLocation|when you are peaceful
+office|UsedFor|a holiday
+building|IsA|music related event
+doctor|UsedFor|cooling
+favors|IsA|emotion
+house|PartOf|glass
+countryside|IsA|something kept at home
+loft|PartOf|vehicle
+theater|UsedFor|learning
+wedding|UsedFor|putting on a show
+embarrassment|IsA|something a baby could have
+lake|MadeOf|trees
+lights|CapableOf|have people physically in it
+cup|IsA|piece of furniture
+ocean|HasProperty|a building
+wall|IsA|ceremony
+market|CapableOf|be sweet
+control|IsA|organization 
+toilet|IsA|building
+house|IsA|pencil
+earth|IsA|home
+tent|HasProperty|an event
+forest|PartOf|city
+auditorium|IsA|religious card
+apartment|IsA|room
+roof|CapableOf|move location
+trash|UsedFor|playing
+underground|IsA|activity 
+porch|UsedFor|studying in
+bathroom|HasProperty|used for storing cars
+skyscraper|IsA|country or state
+sky|PartOf|natural landscape
+fish|HasA|water
+window|HasProperty|a piece of furniture
+beer|HasProperty|a beverage
+conference|IsA|religious card
+house|PartOf|body
+florida|IsA|thing you have on person
+garden|UsedFor|worship
+desktop|IsA|building 
+wall|UsedFor|storage
+salad|UsedFor|cleaning your body
+work|MadeOf|wood
+bathroom|AtLocation|in a kitchen
+families|IsA|object
+stadium|CapableOf|fly
+lamp|HasProperty|item of clothing
+city|MadeOf|sand
+countryside|IsA|stone
+garage|AtLocation|inside a house
+tile|UsedFor|sitting on
+australia|IsA|animal
+manual|CapableOf|be entered
+stupid|IsA|emotion
+table|UsedFor|packing things inside
+mail|IsA|room in a home
+performing|IsA|emotion
+teacher|UsedFor|writing
+greenhouse|CapableOf|laugh
+store|UsedFor|education
+shower|AtLocation|in a kitchen
+lemur|IsA|country
+cupboard|HasA|ceiling
+song|HasA|sound
+kitchen|IsA|animal or book
+manual|UsedFor|driving
+atlas|IsA|building
+supermarket|AtLocation|in a home
+lights|UsedFor|travel
+stamps|IsA|dish
+office|IsA|ceremony
+floor|HasProperty|a social unit for gathering 
+sweat|IsA|feeling
+lemur|UsedFor|food
+thinking|IsA|negative emotion
+bank|UsedFor|food
+classroom|CapableOf|be worn
+defeat|HasA|physical element
+house|AtLocation|in the home or  office
+air|IsA|location
+desktop|UsedFor|washing or cooking
+dishes|CapableOf|be used for school
+kitchen|HasProperty|easily movable
+neighborhood|MadeOf|sand
+street|IsA|place where you can live
+outside|IsA|room (type)
+injury|IsA|colorful
+factory|IsA|job
+bowl|CapableOf|be chopped or slices
+town|IsA|place
+opera|IsA|action
+paper|CapableOf|be worn
+monastery|UsedFor|praying
+cut|IsA|negative emotion
+bathroom|UsedFor|car repair
+office|HasProperty|easily movable
+texas|HasProperty|bordering with nevada
+cave|HasA|beds
+understanding|UsedFor|seeking an answer
+food|IsA|negative emotion
+prison|IsA|proper noun
+bar|MadeOf|metal
+bridge|HasA|water
+carpet|UsedFor|broadcasting visual images
+synagogue|IsA|commercial browser
+ground|PartOf|body
+drugstore|IsA|specific part of a structure
+ocean|UsedFor|eating or drinking
+jar|HasProperty|to do with currency
+oven|HasA|store edible items
+learning|MadeOf|the human body
+flower|IsA|place
+party|UsedFor|storing things inside
+cave|HasA|airplanes
+cabinet|IsA|place people can visit
+stream|CapableOf|be read
+thinking|IsA|physical damage to the body
+earth|HasProperty|part of a human
+house|UsedFor|ordering food and drink
+windowsill|AtLocation|in the sky
+park|HasA|head
+clock|MadeOf|a natural material
+windowsill|HasA|head
+cage|MadeOf|sand
+briefcase|IsA|place where students learn
+park|UsedFor|reading
+happiness|IsA|activity
+desert|HasA|buildings in it
+human|IsA|nation symbol
+battle|IsA|person
+bedroom|IsA|n electronic device
+clock|MadeOf|wood
+home|IsA|garden
+apartment|CapableOf|sleep on it
+wilderness|MadeOf|metal
+house|AtLocation|in a building
+internet|AtLocation|in a store
+concert|UsedFor|worship
+classroom|UsedFor|reading
+machine|UsedFor|fun
+grape|IsA|location
+pot|HasA|plug or power source
+school|PartOf|house 
+sky|IsA|item of furniture
+instruction|MadeOf|wood
+outdoors|IsA|nation
+homes|UsedFor|free
+suburbs|MadeOf|sand
+jar|AtLocation|public area
+churchyard|IsA|country or state
+human|IsA|state in usa
+airport|IsA|item of clothing
+floor|IsA|informal term for youth
+mind|PartOf|building
+furniture|IsA|private space
+magazine|IsA|room or building
+roof|MadeOf|natural materials
+apartment|HasProperty|part of a human
+corner|HasA|wheels
+countryside|CapableOf|be man made
+woods|HasProperty|a room
+college|HasA|pool
+apartment|UsedFor|mainly sleeping
+dust|MadeOf|food
+suffering|IsA|sad emotion
+cabinet|IsA|dish
+sewer|IsA|room (type)
+bedroom|HasA|legs
+windowsill|UsedFor|broadcasting visual images
+magazines|CapableOf|store
+wall|CapableOf|be bought at ikea
+windowsill|HasProperty|found outside a home typically
+library|CapableOf|be worn
+building|UsedFor|travel
+valley|HasProperty|a 1 syllable word
+bathroom|CapableOf|be performed
+library|HasProperty|somewhere people stay
+roof|IsA|a animal
+rain|IsA|geographic location
+classroom|CapableOf|give degrees such as bachelors
+supermarket|IsA|event
+office|IsA|place for reading
+air|UsedFor|ordering food and drink
+dreams|AtLocation|usually in a bed
+jar|IsA|reply to a question
+vase|IsA|place
+library|HasProperty|visited by tourists
+pennsylvania|AtLocation|at a party
+garage|HasProperty|a room
+street|CapableOf|be purchased or bought
+automobile|UsedFor|car travel
+theater|IsA| event
+school|AtLocation|mostly inside
+oklahoma|HasProperty|bordering with nevada
+dust|UsedFor|storage
+fox|IsA|natural scenario
+beaver|IsA|location
+magazines|UsedFor|cooling
+france|IsA|activity 
+clouds|HasProperty|used to hear sounds
+ground|CapableOf|laugh
+supermarket|UsedFor|driving
+vase|IsA|room
+cabinet|UsedFor|reading
+church|IsA|place you buy food
+park|AtLocation|at a party
+warehouse|IsA|room in a home
+loft|CapableOf|sleep on it
+paper|CapableOf|have people go inside
+passageway|IsA|business
+box|HasA|to do with planets
+teacher|IsA|place people can visit
+table|HasProperty|flat
+dishwasher|IsA|furniture
+landfill|AtLocation|inside
+house|PartOf|the interior of a building
+supermarket|HasProperty|a room in a residence
+car|HasProperty|associated with drinking
+persia|PartOf|house
+airport|UsedFor|cooling
+field|CapableOf|be opened/closed
+dinner|HasProperty|an object
+beer|UsedFor|storing things in
+desert|IsA|state
+city|UsedFor|music
+america|IsA|continent
+trash|UsedFor|eating
+sea|HasA|salty water
+ground|HasProperty|somewhere to go
+shed|UsedFor|a place for knowledge
+bathtub|CapableOf|sleeping
+air|IsA|animal
+windowsill|PartOf|body
+field|UsedFor|cooking
+tile|CapableOf|furnishing for a home
+forest|IsA|type of place
+conference|IsA|room in a house
+house|IsA|item of clothing
+wilderness|IsA|country
+enemies|CapableOf|create physical pain
+supermarket|UsedFor|living
+cupboard|CapableOf|be eaten
+tennessee|UsedFor| housing animals
+garage|UsedFor|keeping books
+church|IsA|room in a house
+yard|IsA|country or state
+porch|UsedFor|cooling
+magazine|IsA|place
+dinner|UsedFor|studying
+playground|HasProperty|a country
+apartment|AtLocation|with water
+mouth|IsA|electronic device
+supermarket|IsA|place to be entertained
+allergies|MadeOf|pause
+city|IsA|somewhere animals swim
+apartment|UsedFor|pooping
+cabinet|UsedFor|carrying things
+classroom|HasProperty|alive
+cupboard|IsA|1 syllable word
+friends|HasProperty|able to be entered
+park|IsA|animal
+toilet|UsedFor|car repair
+inside|CapableOf|be purchased or bought
+wedding|IsA|looks like paypal 
+cut|IsA|emotion
+clouds|IsA|place for clothes
+punishment|IsA|emotion
+countryside|IsA|proper noun
+countryside|HasProperty|2 syllables
+america|IsA|state
+cage|MadeOf|water
+moss|HasProperty|somewhere to go
+house|CapableOf|furnishing for a home
+windowsill|IsA|living thing
+forest|HasA|walls
+injuries|IsA|positive card
+bathroom|CapableOf| be moved
+ocean|IsA|small body of water
+desktop|CapableOf|be held with one hand
+porch|UsedFor|work
+bay|CapableOf|be walked on
+town|IsA|nation
+garage|HasA|fee to visit
+sunshine|IsA|vacation destination
+paper|IsA|building
+lightning|CapableOf|fly
+ground|UsedFor|storing food
+fly|IsA|place
+park|PartOf|city
+plane|IsA|music related event
+encyclopedia|CapableOf|contain multiple people
+california|UsedFor|storing food
+yard|IsA|state
+hotel|UsedFor|travel
+water|HasProperty|white
+laugh|HasProperty|a type of property
+house|HasA|airplanes
+cabinet|CapableOf|somewhere you can walk into
+restaurant|IsA|nation
+airport|HasProperty|item of clothing
+basement|HasProperty|white
+library|MadeOf|bricks
+library|HasProperty|a meal
+store|UsedFor|carrying things
+puddle|UsedFor|transportation
+trunk|UsedFor|keeping things inside
+yard|IsA|place you visit often
+montana|UsedFor|buying food
+cabinet|IsA|1 syllable word
+ceiling|IsA|item of furniture
+microwave|IsA|dish
+trunk|HasA|four wheels
+pride|IsA|negative emotion
+floor|CapableOf|sleeping
+universe|UsedFor|containing objects
+suit|UsedFor|learning
+building|UsedFor|swimming
+performing|CapableOf|tell stories
+hospital|IsA|list of alphabets
+control|HasA|movie
+barn|IsA|sound
+street|IsA|popular attraction
+conference|IsA|place
+picture|MadeOf|wood
+money|HasProperty|seen as a negative 
+headache|UsedFor|seeking an answer
+building|UsedFor|worship
+bowl|IsA|type of room
+church|IsA|house where man live
+jar|UsedFor|drinking 
+disneyland|IsA|room (type)
+sky|HasProperty|man made
+glass|HasProperty|a piece of furniture
+office|HasProperty|used for learning
+water|MadeOf|organic material
+head|HasProperty|related to studying
+apartment|HasProperty|found in a house
+garage|IsA|animal
+garage|UsedFor|mainly sleep
+choir|HasA|sound
+synagogue|IsA|mental place
+bar|IsA|device used for working
+farm|UsedFor|over night stays 
+toilet|MadeOf|bricks
+bedroom|CapableOf|move location
+car|HasProperty|alive
+car|HasProperty|a building structure
+shop|IsA|ground where child play
+bathroom|HasA|airplanes
+refrigerator|IsA|necessity for education
+wings|AtLocation|mostly inside
+park|IsA|vacation destination
+inside|HasProperty|material
+tree|HasProperty|furniture in a house
+bar|IsA|type of room in houses
+switzerland|MadeOf|country
+person|HasProperty|a type of property
+river|UsedFor|eating or drinking
+sea|IsA|vacation destination
+marmoset|IsA|state
+bed|CapableOf|provide a service
+trash|IsA|room in a home
+cellar|IsA|room
+boxes|IsA|structure or building
+park|MadeOf|paper
+stretch|HasA|m at the beginning
+jar|UsedFor|keeping things cool
+closet|HasA|wheels
+trunk|PartOf|house
+ground|IsA|place people live
+apartment|AtLocation|inside a house
+basement|HasA|roof
+body|IsA|house where man live
+birds|IsA|emotion
+trash|IsA|place
+book|HasA|walls
+supermarket|UsedFor|camping
+countryside|CapableOf|be parked on
+library|CapableOf|have people physically inside it
+apartment|CapableOf|fly
+head|IsA|place to study
+disneyland|CapableOf|storing food
+death|HasProperty|related to sleep
+table|IsA|place or location
+australia|UsedFor|food
+woods|IsA|type of building
+boat|CapableOf|be walked on
+hospital|HasProperty|1 syllable
+cleanliness|CapableOf|be physically touched
+table|UsedFor|cooling
+container|IsA|location or room
+garden|HasA|head
+supermarket|HasA|roof
+floor|CapableOf|be easily carried
+nails|CapableOf|be eaten
+pantry|MadeOf|wood
+liquid|UsedFor|storage
+teapot|UsedFor|storing food
+classroom|UsedFor|urination
+desert|UsedFor|expanding development
+australia|CapableOf|be read
+ficus|HasProperty|where someone can live
+food|HasA|store edible items
+drawer|CapableOf|allow you to travel
+death|HasA|exterior walls
+pot|CapableOf|cooking
+bottle|HasA|door
+demonstration|IsA|building
+carrots|CapableOf|be opened/closed
+yard|MadeOf|sand
+disneyland|AtLocation|inside a house
+hairbrush|HasProperty|capable of burning you
+stuff|IsA|piece of furniture
+house|AtLocation|in a kitchen
+minnesota|AtLocation|inside a house
+park|PartOf|body
+synagogue|IsA|home
+ground|CapableOf|show films
+library|IsA|ceremony
+auditorium|UsedFor|sleeping
+battlefield|PartOf|the human body
+store|UsedFor|buying products
+wilderness|HasA|water
+countryside|HasProperty|part of your  house
+building|IsA|room in a house
+musical|IsA|place or location
+park|IsA|public building
+carpet|IsA|place or location
+street|MadeOf|wood
+restaurant|UsedFor|cleaning your body
+drawer|CapableOf|provide a service
+street|PartOf|nature
+ceiling|CapableOf|show you time
+dentist|IsA|physical item 
+map|UsedFor|reading
+computer|IsA|a place to read books
+earth|HasProperty|an event
+talk|IsA|mental state
+corner|IsA|place for clothes
+newspaper|CapableOf|be bought at ikea
+forest|CapableOf|fly
+paperwork|UsedFor|sitting on
+conference|IsA|looks like paypal 
+apartment|IsA|place
+bedroom|HasProperty|used for cooking in
+agreement|HasProperty|an emotion
+bar|HasProperty|a beverage
+office|IsA|country or state
+city|IsA|object/thing
+fear|HasProperty|used to drive in
+sunshine|IsA|person
+buildings|HasProperty|alive
+theater|UsedFor|reading
+dinner|IsA|place to study
+town|UsedFor|milking cows
+connection|IsA|business
+store|IsA|location
+restaurant|IsA|state in usa
+playground|HasA|city inside
+house|IsA|room
+passageway|HasProperty|item of clothing
+garage|CapableOf|be attended
+glasses|CapableOf|have people  inside
+canada|PartOf|america
+mouse|IsA|room
+jar|CapableOf|store small items
+jar|IsA|event
+confession|HasA|clowns or mickey mouse
+rug|CapableOf|sleeping
+garage|AtLocation|indoors
+meeting|UsedFor|reading and borrowing reading materials
+house|AtLocation|inside someone's home
+office|HasProperty|somewhere people stay
+bathtub|HasA|wheels
+yard|IsA|tall building
+auditorium|IsA|place of religion
+book|CapableOf|be alive
+garage|HasProperty|used for cooking in
+effort|IsA|feeling or emotion
+ground|IsA|natural product or man made
+passageway|IsA|place to live
+wedding|UsedFor|learning
+supermarket|UsedFor| gathering together
+mouse|IsA|room (type)
+laughter|IsA|sad emotion
+roof|IsA|part of a house
+table|UsedFor|reading 
+funeral|MadeOf|wood
+plants|MadeOf|glass
+pain|IsA|positive thing
+revelations|UsedFor|driving
+field|HasProperty|edible
+action|UsedFor|driving
+street|MadeOf|sand
+countryside|IsA|1 syllable word
+field|IsA|man made thing
+woods|IsA|room
+russia|UsedFor|cooking
+airport|IsA|item of furniture
+synagogue|IsA|looks like paypal 
+backyard|MadeOf|fewer than  20 physical things
+closet|AtLocation|on the floor
+clothes|UsedFor|to keep items
+ocean|MadeOf|energy
+sunshine|IsA|animal or book
+school|IsA|part of the body
+stress|HasA|physical element
+cellar|CapableOf|be sweet
+store|IsA|living thing
+shelf|UsedFor|storing things in
+drugstore|IsA|place to sleep
+arboretum|IsA|type of tree
+woods|IsA|living/once living
+car|CapableOf| be held in your hand
+space|UsedFor|containing objects
+encyclopedia|UsedFor|storage of physical items
+store|CapableOf|sleeping
+garden|UsedFor|swimming
+basement|UsedFor|storing vehicles
+chair|IsA|mental place
+competing|HasProperty|about negative conflict
+arguments|MadeOf|golden
+trauma|HasProperty|linked to food
+buildings|HasProperty|a type of home
+suburb|CapableOf|be parked on
+entertaining|IsA|emotion
+corner|CapableOf|be slept in
+dreams|HasA|something not exist in life
+california|UsedFor|work
+classroom|UsedFor|happy or entertaining events
+money|HasProperty|caused by physical reason
+apartment|UsedFor|sitting on
+school|HasProperty|visited by tourists
+container|IsA|place where students learn
+synagogue|IsA|event
+wall|HasA|airplanes
+street|IsA|place to pray
+pantry|HasProperty|a beverage
+cellar|CapableOf| be moved
+excavation|IsA|location
+forest|UsedFor|swimming
+waterfall|IsA|man made
+porch|CapableOf|cooking
+market|IsA|type of food
+silence|HasA|sound
+library|HasProperty|a publication
+drawer|MadeOf|food
+computer|IsA|building
+trunk|HasA|doors
+pantry|HasProperty|furniture
+mountains|IsA|country or state name
+hallway|HasA|a bath
+restaurant|HasProperty|a room in a residence
+house|IsA|a animal
+neighborhood|HasA|lots of greenery / trees
+canada|IsA|us state
+office|HasProperty|a building to live in
+magazines|CapableOf|provide a service
+embarrassment|IsA|sad emotion
+groceries|HasA|ceiling
+joy|IsA|verb
+building|IsA|specific part of a structure
+meeting|PartOf|publication
+backpack|CapableOf|have people go inside
+museum|CapableOf|be worn
+exhaustion|MadeOf|pause
+ceiling|PartOf|building a house
+universe|CapableOf|be read
+backyard|MadeOf|fiber
+school|UsedFor|a holiday
+field|IsA|country
+corner|CapableOf|cause harm if inhaled
+field|IsA|group action
+jar|CapableOf|hold objects
+sleep|HasProperty|an animal
+telephone|IsA|ground where child play
+bay|HasProperty|human made
+cabinet|CapableOf|have people go inside
+house|IsA|car
+countryside|UsedFor|transportation
+countryside|IsA|country
+playground|UsedFor|swimming
+tile|AtLocation|with water
+house|UsedFor|mainly sleep
+backpack|CapableOf|be eaten
+concert|UsedFor|to get a degree
+doctor|UsedFor|to get a degree
+windowsill|AtLocation|inside a home
+safe|CapableOf|be lived in
+throne|IsA|place people can meet
+wallet|CapableOf|keeping cash
+window|HasProperty|furniture
+discovery|IsA|physical damage to the body
+house|CapableOf|fly
+ballpark|HasA|to do with planets
+safe|UsedFor|studying
+computer|AtLocation|in a kitchen
+house|HasProperty|capable of burning you
+ocean|CapableOf|have a street address
+doctor|UsedFor|furniture
+ground|MadeOf|fine particles, usually unpleasant 
+bank|IsA|country
+universe|HasProperty|related to children
+bar|UsedFor|storing things in
+color|HasProperty|a meal
+bedroom|IsA|building
+field|IsA|part media
+demonstration|UsedFor|packing things inside
+hallway|UsedFor|urination
+windowsill|CapableOf|fly
+computer|HasA|wheels
+park|HasProperty|found in a home
+tension|IsA|positive card
+book|CapableOf|have people go inside
+tent|IsA|event
+food|CapableOf|cook things
+home|AtLocation|mostly inside
+jar|UsedFor|in a bathroom
+hospital|IsA|ground where child play
+food|CapableOf|store things
+country|IsA|continent
+school|CapableOf|move
+trash|IsA|building
+utensils|UsedFor|storage
+michigan|HasProperty|something you can carry
+control|CapableOf|place
+ocean|IsA|living thing
+agreement|IsA|emotion
+jar|UsedFor|eating
+canada|CapableOf|be part of a house
+suburb|HasProperty|something you can carry
+kitchen|UsedFor|urination
+library|IsA|place where people work
+temple|IsA|specific part of a structure
+chair|UsedFor|work
+desktop|IsA|furniture
+argument|IsA|feeling or emotion
+human|UsedFor|a gathering of people
+egypt|UsedFor|driving 
+ground|AtLocation|in the sky
+information|CapableOf| be held in your hand
+ranch|UsedFor|housing animals
+war|PartOf|the human body
+jar|IsA|thing you have on person
+excavation|IsA|country
+meeting|CapableOf|have people physically in it
+yard|IsA|nature-related
+house|CapableOf|be found naturally underground
+river|CapableOf|be purchased or bought
+problems|HasProperty|linked to food
+commercial|AtLocation|at a zoo
+antarctica|UsedFor| housing animals
+room|MadeOf|living parts
+television|UsedFor|reading
+telephone|HasProperty|1 syllable
+aggression|IsA|positive card
+countryside|HasProperty|man-made
+desktop|UsedFor|worship
+problems|HasProperty|typically positive
+container|IsA|room in a building
+country|HasA|water
+universe|AtLocation|public area
+floor|UsedFor|storage
+bicycle|PartOf|house
+city|UsedFor|milking cows
+pot|MadeOf|metal
+party|IsA|building
+mind|IsA|action
+barnyard|UsedFor|food
+bedroom|CapableOf|move people
+school|UsedFor|sleeping
+meeting|IsA|building
+michigan|IsA|living thing
+supermarket|IsA|part of a human
+desktop|HasProperty|1 syllable
+village|IsA|country or state
+listening|IsA|emotion
+cupboard|CapableOf|be sweet
+store|IsA|sweet or savory
+restaurant|IsA|place you could sleep in
+pizza|HasProperty|a room in a residence
+book|MadeOf|technology
+tears|IsA|emotion
+basement|UsedFor|furnishing a house
+thinking|IsA|physical state
+love|HasA|airplanes
+river|IsA|small body of water
+building|IsA|ceremony
+telephone|IsA|building
+montana|UsedFor|digging 
+internet|MadeOf|meet
+tennessee|AtLocation|western united states
+park|PartOf|glass
+detroit|UsedFor|eating
+mansion|HasProperty|alive
+hunger|MadeOf|wood
+floor|IsA|room or building
+fear|CapableOf|fly
+sweat|IsA|feeling or emotion
+forest|IsA|man-made thing
+museum|AtLocation|in a building
+park|MadeOf|golden
+birds|IsA|colorful
+crying|UsedFor|manifesting joy
+rosebush|PartOf|house
+building|HasProperty|found in a house
+room|UsedFor|driving
+maine|IsA|part of the south
+stress|IsA|positive card
+puddle|IsA|physical item 
+university|IsA|furniture
+minnesota|IsA|object
+paperwork|AtLocation|with water
+restaurant|IsA|sweet or savory
+car|UsedFor|eating or drinking
+nest|CapableOf|fly
+classroom|IsA|place to sleep
+home|UsedFor|cooking food
+jail|CapableOf|store
+country|UsedFor|sleeping on
+shelf|UsedFor|keeping things inside
+cellar|HasProperty|a type of building
+crying|HasProperty|typically positive
+movie|IsA|something you eat off
+supermarket|AtLocation|in  a residence
+erections|AtLocation|usually in a bed
+trouble|IsA|part of a house
+people|IsA|place or location
+confusion|IsA|five-letter word
+color|PartOf|the human body
+home|HasProperty|related to eating
+conference|UsedFor|happy or entertaining events
+street|AtLocation|inside a house
+field|CapableOf|be sweet
+louisiana|HasA|even number of letter
+human|HasA|usually have people inside
+michigan|IsA|building
+animals|PartOf|the human body
+apartment|HasProperty|a state in the usa
+information|PartOf|publication
+bowl|IsA|food
+shop|IsA|n electronic device
+lamp|HasA|bed for sleeping
+museum|UsedFor|storing cars 
+town|UsedFor|swimming
+street|UsedFor|playing
+floor|IsA|place
+gate|IsA|public place
+trees|AtLocation|below
+house|UsedFor|driving
+concert|IsA|place
+dinner|IsA|public place
+pantry|IsA|object
+locker|UsedFor|reading
+attic|HasProperty|found below ground level
+work|CapableOf|be bought at ikea
+clothing|CapableOf|store
+shock|IsA|positive thing
+kitchen|UsedFor|work
+town|HasProperty|a country
+town|HasProperty|part of a human
+synagogue|HasA|dead bodies within it typically
+lake|IsA|place
+backyard|MadeOf|walls and ceiling
+school|UsedFor|sporting events
+restaurant|UsedFor|learning
+church|CapableOf|give degrees such as bachelors
+bathroom|UsedFor| gathering together
+car|MadeOf|wood
+town|IsA|state
+newspaper|HasA|screen
+shelf|HasA|edible items for sale
+supermarket|AtLocation|in a kitchen
+beach|UsedFor|farmers 
+dentist|IsA|room or building
+ground|UsedFor|at home
+alcohol|UsedFor|ordering food and drink
+countryside|UsedFor|expanding development
+dust|AtLocation|in the sky
+kitchens|HasProperty|a beverage
+regret|IsA|action
+war|PartOf|building
+class|PartOf|human mind
+corner|UsedFor|storage
+stamps|IsA|something you eat off
+supermarket|IsA|place for entertainment
+ground|AtLocation|at a home
+church|IsA|thing you have on person
+pantry|IsA|type of food
+mess|AtLocation|with water
+inside|CapableOf|move
+greenhouse|IsA|furniture
+kitchen|HasProperty|found below ground level
+effort|HasA|m at the beginning
+building|AtLocation|in your room
+waterfall|IsA|place that humans can swim
+ocean|UsedFor|sitting on
+speaker|UsedFor|lighting up a room
+refrigerator|IsA|food
+beach|IsA|nation
+magazines|IsA|room or building
+commercial|IsA|animal or book
+plants|CapableOf|laugh
+demonstration|UsedFor|furniture
+theater|IsA|house where man live
+restaurant|CapableOf| be moved
+meeting|PartOf|human mind
+communication|HasProperty|an emotion
+notebook|CapableOf|move
+bar|HasProperty|something you can carry
+theater|UsedFor|living
+mouth|IsA|human or part of human
+forest|IsA|living thing
+groceries|IsA|type of business
+water|IsA|man made
+heaven|AtLocation|mostly inside
+neighborhood|HasProperty|a country
+trash|UsedFor|eating food off
+hallway|IsA|country or state
+backpack|UsedFor|writing
+fox|HasA|even number of letter
+government|IsA|object/thing
+valley|IsA|man made
+discovery|CapableOf|tell stories
+cheese|IsA|location or room
+conference|IsA|inanimate object
+knowledge|HasProperty|seen as a negative 
+street|MadeOf|organic brown matter
+seattle|IsA|popular attraction
+head|HasProperty|a meal
+school|CapableOf|be lived in
+hole|MadeOf|sand
+computer|CapableOf|somewhere you can walk into
+suffering|CapableOf|cause physical harm
+pantry|IsA|  place
+wilderness|AtLocation|below
+clouds|CapableOf|make sounds
+waterfall|CapableOf|be walked on
+asia|CapableOf|make movement
+supermarket|HasProperty|associated with drinking
+picture|MadeOf|paper
+plate|CapableOf|cook things
+stairs|IsA|type of building
+dust|HasProperty|used to hear sounds
+class|IsA|action
+street|IsA|vacation destination
+apartment|HasProperty|somewhere you can be employed
+party|PartOf|food and drink
+outside|MadeOf|plastic
+garage|IsA|sound
+table|UsedFor|reading
+mouse|UsedFor|cooking
+president|IsA|book
+floor|IsA|garden
+pocket|CapableOf|have people go inside
+motion|AtLocation|on the body
+trunk|UsedFor|storing things
+trunk|MadeOf|metal
+table|MadeOf|wood
+bridge|CapableOf|store small items
+detroit|CapableOf|fly
+floor|CapableOf|furnishing for a home
+bridge|IsA|somewhere animals swim
+desktop|UsedFor|reading
+park|MadeOf|plastic
+apartment|CapableOf|float
+porch|UsedFor|cooking
+room|PartOf|food and drink
+stomach|HasProperty|edible
+meeting|HasProperty|related to studying
+cellar|IsA|food
+plate|IsA|location or room
+love|HasProperty|child friendly
+classroom|AtLocation|in your room
+hospital|IsA|business
+punch|HasA|punish
+rosebush|IsA|us state
+garage|UsedFor|eating or drinking
+embarrassment|IsA|emotion
+mexico|HasProperty|made by humans
+windowsill|PartOf|glass
+movement|HasProperty|usually fast
+communication|HasProperty|a positive emotion
+closet|CapableOf|cause harm if inhaled
+floor|PartOf|an office
+church|UsedFor|praying
+human|CapableOf|move
+trash|HasA|first letter b
+kitchen|IsA|furniture
+concert|MadeOf|chemicals
+roof|HasA|green plant
+michigan|CapableOf|be made with bricks
+thinking|HasA|screen
+house|CapableOf|be parked on
+humiliation|IsA|something considered as positive
+relaxation|UsedFor|driving
+town|HasA|ticket box usually
+crying|IsA|feeling/emotion
+ocean|CapableOf|have someone inside it
+garage|HasProperty|somewhere you can be employed
+connection|CapableOf|be bought at ikea
+seattle|IsA|shoe
+people|IsA|place you buy food
+valley|IsA|building
+television|IsA|place for clothes
+plants|HasA|head
+valley|IsA|tall building
+desert|IsA|country
+basement|UsedFor|cooking
+doctor|IsA|nation symbol
+workplace|HasProperty|outdoors
+pantry|IsA|type of business
+closet|IsA|room in a home
+valley|HasProperty|human made
+supermarket|UsedFor|learning
+thinking|HasProperty|a meal
+wedding|AtLocation|on a map
+basement|IsA|building
+california|AtLocation|at south united states
+attic|MadeOf|water
+dictionary|MadeOf|water
+steakhouse|IsA|us state
+roof|IsA|stone
+revelations|HasProperty|(usually) between/towards people
+nightmares|IsA|physical object
+mountains|IsA|state in uk
+state|IsA|building
+seattle|HasProperty|found on multiple continents
+bedroom|UsedFor|cooking food
+river|HasA|earth
+car|HasProperty|an action
+universe|HasProperty|found in the house
+field|HasA|screen
+demonstration|IsA|place
+throne|HasProperty|somewhere people visit
+park|AtLocation|inside a house
+tree|PartOf|house
+cut|IsA|animal
+band|IsA|country
+yard|HasA|buildings in it
+entertainment|IsA|emotion
+love|HasA|use electricity
+ground|HasProperty|used to hear sounds
+rock|HasProperty|in a cold climate
+battle|IsA|nation symbol
+street|AtLocation|at a home
+crying|HasProperty|linked to food
+person|IsA|sound
+computer|UsedFor|lighting up a room
+apartment|CapableOf|storing food
+store|IsA|thing you have on person
+connection|AtLocation|library
+field|UsedFor|cleaning your body
+sorrow|HasProperty|caused by physical reason
+office|IsA|room in a house
+pond|HasA|earth
+forest|IsA|inanimate object
+hospital|UsedFor|a holiday
+table|UsedFor|sleeping on
+closet|CapableOf|have a street address
+lizard|IsA|location
+trunk|HasProperty|a beverage
+rosebush|UsedFor|transport
+hairbrush|IsA|place to sleep
+countryside|UsedFor|children to play
+briefcase|CapableOf|have people go inside
+human|PartOf|house 
+funeral|IsA|part of the body
+concert|HasA|four walls and a ceiling
+house|HasA|buildings in it
+cleanliness|CapableOf|happiness
+case|UsedFor|eating
+garage|MadeOf|water
+sloth|MadeOf|water
+inside|UsedFor|heating up things to eat
+hallway|UsedFor|car repair
+synagogue|CapableOf|be worn
+container|IsA|room
+fun|UsedFor|storage
+hospital|HasProperty|item of clothing
+corner|CapableOf|make sounds
+notes|HasProperty|material
+roof|IsA|place to sleep
+attic|UsedFor|cooking
+cup|CapableOf|store things
+atlas|CapableOf|have people go inside
+office|IsA|n item of furniture
+street|IsA|car
+shed|AtLocation|the bottom of a building
+apartment|UsedFor|putting on a show
+exercising|HasProperty|usually fast
+school|HasA|fee to visit
+field|CapableOf|be chopped or slices
+boredom|MadeOf|pause
+churchyard|IsA|tall building
+city|UsedFor|food
+table|HasProperty|edible
+city|IsA|proper noun
+garden|HasA|walls
+synagogue|UsedFor|reading
+picture|IsA|country or state name
+newspaper|MadeOf|sand
+building|HasA|airplanes
+barn|UsedFor|teaching
+ground|IsA|type of tree
+key|HasProperty|to do with currency
+paper|UsedFor|storage
+store|IsA|place to live
+airport|IsA|1 syllable  word
+desert|PartOf|political geographical area
+field|HasA|punish
+bathroom|CapableOf|be lived in
+mountain|AtLocation|at a party
+office|UsedFor|furnishing a house
+garage|UsedFor|announcing something
+humans|IsA|place you can visit
+pond|IsA|place you visit often
+hospital|AtLocation|inside someone's home
+tent|UsedFor|buying food
+dishes|HasProperty|furniture
+workplace|IsA|place people go for fun
+entertainment|IsA|tourist destination
+nest|PartOf|house
+shed|IsA|room in a home
+classroom|IsA|type of building
+school|IsA|object
+store|UsedFor|storage
+farm|UsedFor|overnight stays
+dentist|UsedFor|cooling
+picture|IsA|location
+montana|IsA|place
+dust|HasProperty|part of a building
+moon|CapableOf|store small items
+nostalgia|HasProperty|linked to food
+class|UsedFor|studying
+trash|IsA|place for playing or relaxing
+restaurant|UsedFor|locking prisoners away
+happiness|IsA|colorful
+trouble|CapableOf|place
+attic|IsA|place to pray
+ceiling|CapableOf|rain
+box|PartOf|physical structure
+switzerland|MadeOf|plastic
+barnyard|IsA|another name for food
+outdoors|IsA|1 syllable word
+closet|IsA|place to pray
+outside|AtLocation|inside
+universe|IsA|place you can visit
+meeting|HasProperty|a solid item 
+chair|UsedFor|storing things
+cage|IsA|living thing
+stable|IsA|animal
+groceries|HasProperty|a beverage
+contemplating|IsA|colorful
+anxiety|CapableOf|tell stories
+wings|CapableOf|fly
+computer|IsA|location
+demonstration|UsedFor|a physical meeting of people
+bicycle|UsedFor|storing vehicles
+table|CapableOf|be worn
+sky|CapableOf|fly
+demonstration|CapableOf|be touched
+garage|PartOf|the human body
+field|PartOf|the human body
+computer|UsedFor|housing
+library|UsedFor|housing
+home|IsA|physical item 
+disneyland|UsedFor|cooking
+factory|MadeOf|water
+bar|IsA|type of food
+house|CapableOf|store a car
+workplace|UsedFor|punishing people
+hotel|UsedFor|washing
+alabama|HasA|even number of letter
+bathtub|CapableOf|sleep on it
+cabinet|IsA|place of learning
+internet|CapableOf|have people physically in it
+opera|UsedFor|learning
+cabinet|CapableOf|have people  inside
+city|IsA|country
+weather|IsA|popular attraction
+moon|HasProperty|hot
+yard|IsA|nation
+office|IsA|school supply
+museum|HasProperty|a room
+forest|IsA|animal
+bedroom|HasA|front desk
+wilderness|HasProperty|a 1 syllable word
+desert|IsA|1 syllable word
+ground|IsA|place for clothes
+museum|UsedFor|car repair
+table|UsedFor|viewing/reading
+soup|UsedFor|cleaning your body
+pot|IsA|furniture
+container|IsA|structure or building
+bed|CapableOf|be lived in
+cellar|IsA|type of building
+supermarket|HasProperty|an event
+restaurant|HasProperty|found in the garden
+dust|UsedFor|keeping things inside
+ground|HasProperty|used at meal time
+cabinet|UsedFor|writing in
+kitchen|HasProperty|edible
+briefcase|CapableOf|be worn
+chair|UsedFor|cooking
+trouble|IsA|part of a property
+arizona|HasProperty|bordering idaho
+punch|IsA|emotion
+papers|CapableOf|opened or closed
+house|IsA|business
+love|UsedFor|hobbies
+class|HasA|screen
+problems|MadeOf|wood
+relaxation|IsA|action
+front|HasProperty|related to children
+boat|HasProperty|furniture in a house
+desert|UsedFor|holding animals
+meeting|PartOf|the human body
+air|AtLocation|at a home
+pot|HasProperty|a beverage
+sailboat|HasProperty|a type of building
+refrigerator|IsA|type of food
+building|IsA|item of clothing
+office|UsedFor|praying
+aggression|HasA|physical element
+book|UsedFor|news
+food|IsA|animal
+barn|UsedFor|travel
+flowers|UsedFor|storing items
+problems|IsA|feeling/emotion
+bowl|IsA|building
+town|IsA|looks like paypal 
+teaching|IsA|negative feeling or expression
+store|CapableOf| be moved
+indiana|PartOf|house
+hole|UsedFor|holding animals
+hunger|IsA|negative feeling
+shelf|CapableOf|contain multiple people
+jar|UsedFor|heating up things to eat
+discipline|HasProperty|a physical activity
+class|IsA|part media
+ground|HasProperty|where someone can live
+radio|AtLocation|on/in the human body
+market|HasProperty|used at meal time
+information|AtLocation|in a store
+lightning|IsA|colorful
+mouth|CapableOf|be attended
+university|AtLocation|at home
+manual|AtLocation|in a store
+thinking|UsedFor|studying
+water|UsedFor|transportation
+porch|UsedFor|serving food
+locker|IsA|building
+plants|IsA|location
+house|CapableOf|store small items
+windowsill|MadeOf|wood
+drugstore|CapableOf|move location
+world|HasProperty|ruled by one government
+ocean|CapableOf|can you drink it
+answer|HasProperty|related to children
+television|IsA|type of building
+gentleman|HasProperty|somewhere people visit
+opera|HasProperty|a type of home
+cup|UsedFor|keeping things cool
+plate|IsA|type of food
+drawer|CapableOf|be worn
+nightmares|IsA|emotion
+toilet|PartOf|kitchen
+dirt|HasA|feet to stand 
+television|IsA|building
+jar|IsA|place you can visit
+party|IsA|place children play
+rug|HasProperty|able to be entered
+supermarket|IsA|house where man live
+tennessee|MadeOf|country
+desert|PartOf|city
+paper|CapableOf|be used for travel
+reflection|CapableOf|fly
+building|HasProperty|capable of burning you
+wall|AtLocation|above the ground
+ground|AtLocation|inside
+groceries|IsA|place for entertainment
+restaurant|IsA|food
+arguments|CapableOf|be physically touched
+information|MadeOf|electronic/electrical parts
+refrigerator|IsA|public place
+closet|AtLocation|with water
+home|IsA|animal
+clothing|UsedFor|storage
+exercise|HasProperty|usually fast
+town|IsA|nature-related
+outside|UsedFor|driving on or over
+mouth|IsA|tv show
+television|UsedFor|sleeping on
+office|UsedFor|fun
+town|IsA|home
+oven|HasProperty|edible
+city|IsA|country or state
+newspaper|CapableOf|provide a service
+kitchens|IsA|piece of furniture
+airport|CapableOf|give degrees such as bachelors
+conference|IsA|object
+highway|CapableOf|be lived in
+desktop|HasProperty|a room in a residence
+table|IsA|dish
+town|HasA|walls
+synagogue|PartOf|the human body
+love|IsA|physical emotion
+heaven|IsA|animal
+battle|IsA|physical outcome
+garden|IsA|nation
+library|CapableOf|be held with one hand
+shed|PartOf|house
+windowsill|CapableOf|cause harm if inhaled
+basement|IsA|car
+restaurant|IsA|tableware
+city|HasProperty|something you can carry
+jar|IsA|part of the body
+shelf|IsA|place
+meeting|MadeOf|meet
+human|IsA|place
+circus|UsedFor|praying
+bathroom|IsA|building
+teacher|IsA|place where students learn
+store|CapableOf|fly
+movies|IsA|event
+closet|MadeOf|asphalt
+bird|MadeOf|trees
+stairs|CapableOf|sleep on it
+rosebush|MadeOf|fiber
+apartment|IsA|pencil
+government|IsA|book
+pain|IsA|emotion
+nostalgia|IsA|negative thing
+kitchen|HasProperty|a piece of furniture
+attic|IsA|animal
+garden|HasA|wheels
+village|AtLocation|in your company
+internet|AtLocation|on a shelf
+container|UsedFor|drinking 
+hope|HasProperty|found in the house
+dust|IsA|necessity for education
+action|IsA|negative emotion
+suburbs|UsedFor|transportation
+nails|IsA|school supply
+airport|IsA|place to live
+leaves|IsA|man made thing
+pleasure|IsA|emotion
+desk|IsA|dish
+fingernails|HasA|first letter c
+bathtub|MadeOf|asphalt
+telephone|HasProperty|a property 
+thinking|HasProperty|used to drive in
+manual|MadeOf|technology
+clothes|MadeOf|food
+box|UsedFor|eating
+funeral|CapableOf|be eaten
+outside|IsA|natural scenario
+shelf|IsA|type of business
+pond|UsedFor|recreation/leisure
+clothes|MadeOf|wood
+snore|HasProperty|an animal
+street|IsA|type of place
+fear|CapableOf|tell stories
+thinking|IsA|part media
+books|PartOf|political geographical area
+ballpark|UsedFor|storage
+trunk|MadeOf|food
+snow|IsA|type of place
+dream|IsA|emotion
+tree|IsA|location
+rosebush|IsA|country
+performing|HasProperty|used to drive in
+car|IsA|place to pray
+instruction|IsA|negative thing
+person|HasA|roof
+kitchen|AtLocation|in your room
+dinner|UsedFor|storage
+arkansas|HasA|even number of letter
+store|IsA|tableware
+ground|AtLocation|outside
+lemur|UsedFor|cooking
+ground|HasA|feet to stand 
+coats|CapableOf|have a street address
+bed|IsA|store items
+bathroom|UsedFor|serving
+information|MadeOf|meet
+house|IsA|room in a building
+porch|IsA|building
+ground|IsA|animal
+refrigerator|IsA|sweet or savory
+suffering|UsedFor|punish
+rug|HasA|ceiling
+ground|HasProperty|white
+party|HasProperty|used for learning
+suburbs|CapableOf|be parked on
+opera|HasProperty|an event
+connection|HasA|airplanes
+florida|CapableOf|be held in your hands
+theater|IsA|place of worship
+restaurant|UsedFor|swimming
+temple|IsA|place to sleep
+pain|HasProperty|typically positive
+person|HasProperty|a type of building
+newspaper|IsA|place where you can live
+concert|UsedFor|referring to humans
+carpet|IsA|place you can go
+shelf|HasProperty|an object
+magazine|CapableOf|provide a service
+montana|IsA|religious card
+president|HasA|movie
+warehouse|UsedFor|generating products or plants
+antarctica|MadeOf|wood
+playground|UsedFor|driving on or over
+television|MadeOf|people gathering together
+demonstration|MadeOf|a natural material
+field|AtLocation|in  a residence
+backpack|HasA|doors
+couch|CapableOf|be lived in
+continent|HasA|water
+forest|AtLocation|specifically named on a map
+closet|HasProperty|an object
+ocean|UsedFor|storing things
+concert|HasA|clowns or mickey mouse
+moon|IsA|animal or book
+listening|MadeOf|the human body
+controversy|IsA|positive thing
+attic|UsedFor|eating or sleeping in
+headache|IsA|something considered as positive
+store|CapableOf|be lifted by 1 person
+floor|PartOf|building a house
+voice|IsA|electronic device
+suburbs|IsA|proper noun
+drawer|IsA|form of entertainment
+outside|PartOf|natural scenario
+stuff|IsA|furniture
+michigan|UsedFor|eating
+floor|CapableOf|store
+sewer|IsA|private space
+hospital|AtLocation|inside a house
+palace|PartOf|the human body
+house|CapableOf|move location
+shock|HasProperty|caused by physical reason
+ground|IsA|man made thing
+montana|IsA|place you buy food
+school|UsedFor|free
+water|UsedFor|storing vehicles
+france|HasA|car
+ocean|PartOf|house
+newspaper|CapableOf|be parked on
+briefcase|UsedFor|reading
+city|UsedFor|digging 
+dust|CapableOf|be held with one hand
+demonstration|HasA|exterior walls
+bottle|HasA|plug or power source
+death|IsA|feeling
+leaves|MadeOf|wood
+desk|CapableOf|be held with one hand
+office|IsA|list of alphabets
+loft|IsA|place to sleep
+store|IsA|public place
+table|IsA|room
+ground|HasProperty|found inside a house
+safe|CapableOf|store a car
+california|MadeOf|fiber
+street|AtLocation|at floor level
+bathroom|HasA|roof
+desert|HasProperty|related to water falling
+glass|HasProperty|made of wood
+passageway|HasA|beds
+library|HasProperty|1 syllable
+suicide|MadeOf|the human body
+monastery|IsA|place of religion
+montana|HasA|lots of greenery / trees
+desktop|HasProperty|derived from wood
+boxes|IsA|room in a building
+agreement|IsA|negative feeling
+death|IsA|feeling or emotion
+roof|IsA|natural product or man made
+sleeping|PartOf|human body
+sink|UsedFor|eating or drinking
+coffee|IsA|piece of furniture
+fish|HasA|earth
+floor|MadeOf|food
+summer|IsA|person
+park|UsedFor|music
+clouds|UsedFor|storage
+theater|IsA|social event
+musical|HasA|ticket box usually
+classroom|UsedFor|car repair
+meeting|HasA|screen
+rug|IsA|informal term for youth
+montana|IsA|part of a human
+desk|CapableOf|be used virtually 
+casino|UsedFor|living
+table|IsA|building
+mountains|AtLocation|below
+theater|CapableOf|float
+exchange|IsA|room in a house
+fox|IsA|country or state name
+hospital|HasA|airplanes
+classroom|IsA|object
+town|UsedFor|putting on a show
+cupboard|MadeOf|food
+trees|IsA|country
+utensils|IsA|piece of furniture
+container|PartOf|wood
+heaven|UsedFor|praying
+drawer|IsA|room or building
+bowl|UsedFor|storage
+discovery|HasProperty|(usually) between/towards people
+garage|CapableOf|hold people against their will
+shelf|HasA|doors
+discomfort|HasA|positive connotation
+shelf|CapableOf|be held with one hand
+car|CapableOf|be bought at ikea
+nebraska|IsA|business that serves food
+smiles|IsA|activity
+woods|AtLocation|in a building
+person|IsA|type of fluid
+pond|IsA|nation
+newspaper|CapableOf|store
+books|IsA|furniture
+apartment|IsA|social event
+table|CapableOf|be consumed
+tent|IsA|home
+concert|CapableOf|give degrees such as bachelors
+opera|UsedFor|worship
+trees|CapableOf|be man made
+bowl|IsA|furniture
+library|HasA|screen
+balloon|UsedFor|driving
+roadway|HasA|buildings in it
+party|IsA|electronic device
+basement|IsA|place or location
+garage|AtLocation|in a building
+choir|AtLocation|on/in the human body
+conference|HasProperty|a type of home
+cave|UsedFor|a holiday
+backpack|UsedFor|eating
+field|CapableOf|make you sad
+hospital|IsA|place to live
+skyscraper|AtLocation|mostly inside
+television|UsedFor|eating
+homes|AtLocation|mostly inside
+vaccines|IsA|feeling
+water|IsA|mode of transportation
+windowsill|IsA|room
+ground|IsA|living/once living
+good|IsA|action
+people|IsA|part of a human
+cabinet|CapableOf|be worn
+food|IsA|colorful
+toilet|MadeOf|organic material
+cabinet|UsedFor|mainly sleep
+clouds|CapableOf|be entered
+people|IsA|religious card
+party|UsedFor|communication
+pool|UsedFor|transportation
+hotel|UsedFor|studying in
+table|CapableOf|be held in your hands
+product|IsA|place
+wedding|IsA|place
+pocket|UsedFor|writing
+airplane|PartOf|house 
+snore|IsA|animal
+stomach|AtLocation|in a house
+bed|IsA|place
+peanuts|UsedFor|travel
+apartment|UsedFor|formal learning
+wisconsin|IsA|somewhere animals swim
+dreams|IsA|medical product
+supermarket|IsA|part of the body
+water|UsedFor|storage
+box|UsedFor|storage
+shelf|HasProperty|used at meal time
+pride|CapableOf|fly
+closet|AtLocation|on the map
+supermarket|UsedFor|healthy eating
+thinking|IsA|colorful
+disneyland|CapableOf|be found in a house
+demonstration|PartOf|the human body
+fish|IsA|somewhere animals swim
+magazine|CapableOf|store
+newspaper|UsedFor|cooling
+plants|AtLocation|inside a home
+underground|IsA|place
+tent|IsA|commercial browser
+love|IsA|business
+bed|UsedFor|reading 
+case|IsA|place
+theater|IsA|ceremony
+market|IsA|place or location
+dust|HasProperty|used for storage
+michigan|AtLocation|inside a house
+plants|UsedFor|children to play
+mountains|IsA|place
+africa|CapableOf|make movement
+theater|IsA|looks like paypal 
+office|HasA|bed for sleeping
+street|UsedFor|storing vehicles
+london|UsedFor|milking cows
+connection|IsA|public place
+loft|CapableOf|sleeping
+dinner|CapableOf|be entered
+depression|MadeOf|wood
+town|IsA|building
+office|UsedFor|housing
+synagogue|AtLocation|at a house
+toilet|CapableOf|storing food
+suffering|IsA|feeling
+satisfaction|IsA|negative feeling or expression
+building|IsA|place to sleep
+disneyland|HasProperty|found on multiple continents
+france|HasProperty|alive, of a natural state
+dishwasher|IsA|building
+backpack|IsA|place
+bowl|IsA|place to make food
+cave|HasA|bed for sleeping
+map|CapableOf|be worn
+music|IsA|physical and movable item
+embarrassment|IsA|something considered as positive
+fight|IsA|physical outcome
+reflection|IsA|colorful
+bathroom|HasA|multiple rooms
+encyclopedia|IsA|place
+lightning|CapableOf|tell stories
+manual|UsedFor|reading and borrowing reading materials
+demonstration|IsA|sound
+house|CapableOf|can you drink it
+room|HasProperty|associated with drinking
+skin|IsA|emotion
+field|IsA|food
+dog|UsedFor|transport
+table|CapableOf|opened or closed
+sky|MadeOf|trees
+skyscraper|AtLocation|indoors
+problems|IsA|positive thing
+toilet|PartOf|the galaxy
+opera|IsA|planet
+hotel|IsA|event
+drawer|PartOf|house
+forest|IsA|nation
+container|HasProperty|used for meals
+excitement|IsA|negative feeling or expression
+army|IsA|object/thing
+potatoes|CapableOf|be opened/closed
+class|CapableOf|be performed
+bar|AtLocation|in a building
+person|CapableOf|be performed
+floor|CapableOf|be used for school
+pond|IsA|country
+maze|IsA|business
+excitement|IsA|activity
+closet|HasProperty|used to hear sounds
+home|HasProperty|a public place
+orbit|PartOf|wood
+discovery|IsA|negative emotion
+table|IsA|room or building
+opera|UsedFor|buying food
+sink|MadeOf|wood
+jar|IsA|  place
+bowl|IsA|sweet or savory
+house|CapableOf|fit the titanic inside it
+canada|UsedFor|digging 
+inside|IsA|object
+building|AtLocation|at a house
+park|IsA|building
+fun|UsedFor|storing vehicles
+office|IsA|place of learning
+ocean|IsA|religious card
+entertainment|AtLocation|on a map
+cabinet|IsA|school supply
+sleep|IsA|animal
+box|IsA|place to pray
+train|AtLocation|on a map
+dinner|UsedFor|ordering food and drink
+magazines|UsedFor|furniture
+lights|UsedFor|music
+classroom|UsedFor|packing things inside
+museum|UsedFor|fitness
+bedroom|IsA|physical and movable item
+office|HasProperty|religious
+wilderness|IsA|place
+apartment|IsA|dish
+waterfall|HasA|earth
+restaurant|IsA|place you visit often
+tent|IsA|looks like paypal 
+demonstration|IsA|inanimate object
+musical|UsedFor|referring to humans
+refrigerator|UsedFor|reading
+box|UsedFor|storing vehicles
+landfill|UsedFor|farmers 
+college|IsA|object
+meeting|IsA|part media
+change|UsedFor|living
+arkansas|IsA|state in uk
+cup|HasA|store edible items
+city|UsedFor|transportation
+leaves|IsA|natural product or man made
+roof|AtLocation|in your room
+greenhouse|AtLocation|inside a house
+hotel|IsA|item of clothing
+notebook|IsA|building
+encyclopedia|IsA|place people can meet
+mountains|IsA|living/once living
+dreams|PartOf|human body
+restaurant|IsA|type of room
+sorrow|IsA|positive thing
+store|UsedFor|living
+windowsill|IsA|vacation destination
+disneyland|IsA|shoe
+theater|IsA|thing you have on person
+street|IsA|geographic location
+sink|CapableOf|be used as transport 
+sleeping|IsA|feeling
+library|CapableOf|move
+party|CapableOf|be closed
+crying|IsA|sad emotion
+desktop|MadeOf|wood
+countryside|IsA|man-made thing
+motion|HasProperty|usually fast
+onions|IsA|location or room
+wilderness|MadeOf|sand
+party|UsedFor|sleeping
+books|HasProperty|singular
+confusion|IsA|action
+chocolate|IsA|public building
+box|IsA|room in a home
+hotel|HasProperty|item of clothing
+desk|IsA|type of room
+floor|CapableOf|provide a service
+ficus|UsedFor|storing food
+park|IsA|drink
+paperwork|HasProperty|a type of building
+convention|IsA|commercial browser
+dust|UsedFor|storage of physical items
+office|CapableOf|be worn
+house|PartOf|the human body
+table|PartOf|admin role
+human|UsedFor|eating
+air|IsA|shoe
+classroom|PartOf|vehicle
+cave|IsA|place to live
+porch|UsedFor|sleeping in
+friends|UsedFor|furniture
+building|HasA|ticket box usually
+building|MadeOf|water
+bathroom|IsA|natural thing
+library|HasA|bed for sleeping
+fun|IsA|feeling
+television|AtLocation|in a store
+warehouse|UsedFor|a place for knowledge
+pantry|UsedFor|heating up things to eat
+room|UsedFor|standing on
+stable|UsedFor|food
+hotel|IsA|place where people die typically
+meeting|AtLocation|on a shelf
+movies|IsA|drink
+sweetness|CapableOf|make you sad
+trunk|CapableOf|allow you to travel
+silence|IsA|electronic device
+restaurant|AtLocation|in your home
+sun|HasA|movie
+bedroom|HasProperty|capable of burning you
+conference|IsA|n item of furniture
+beaver|IsA|country
+desires|IsA|physical object
+kentucky|IsA|border state
+bathtub|MadeOf|organic brown matter
+toilet|IsA|place of learning
+bedroom|CapableOf|give degrees such as bachelors
+apartment|UsedFor|packing things inside
+shelf|IsA|object
+beach|MadeOf|wood
+imagination|IsA|n item of furniture
+restaurant|MadeOf|metal
+funeral|PartOf|the human body
+table|CapableOf|be opened
+auditorium|IsA|building
+confusion|HasProperty|a form of entertainment
+cat|HasProperty|an animal
+school|PartOf|the human body
+store|IsA|private space
+home|CapableOf|move freely
+commercial|CapableOf|be read
+chair|IsA|large item of furniture
+australia|MadeOf|paper
+building|CapableOf|be attended
+bathtub|IsA|type of building
+indiana|MadeOf|fiber
+carnival|UsedFor|drinking 
+city|UsedFor|over night stays 
+depression|IsA|negative feeling
+person|IsA|human or part of human
+airplane|HasProperty|capable of burning you
+rain|IsA|popular attraction
+book|IsA|place
+market|UsedFor|cleaning your body
+garden|MadeOf|wood
+dinner|IsA|piece of furniture
+table|CapableOf|cook things
+stadium|UsedFor|pooping
+floor|UsedFor|keeping things inside
+bowl|CapableOf|keep things cool
+conference|IsA|house where man live
+desktop|IsA|place of learning
+garage|HasProperty|an animal
+imagination|IsA|mental place
+synagogue|HasA|clowns or mickey mouse
+work|AtLocation|in your company
+bottle|MadeOf|wood
+field|HasA|edible items for sale
+cabinet|CapableOf|storing food
+theater|IsA|physical and movable item
+internet|IsA|location
+meeting|CapableOf|be alive
+windowsill|CapableOf|laugh
+butterflies|CapableOf|tell stories
+library|CapableOf|store
+street|IsA|building
+trouble|IsA|place
+greenhouse|PartOf|glass
+theater|UsedFor|music
+silence|HasA|four walls and a ceiling
+supermarket|IsA|thing you have on person
+internet|MadeOf|people gathering together
+hospital|UsedFor|pleasure
+bed|AtLocation|on the map
+world|PartOf|the continent 
+office|IsA|ground where child play
+desert|HasProperty|man made
+homes|IsA|state in usa
+sink|HasProperty|edible
+cellar|IsA|place to pray
+museum|UsedFor|religious services
+crying|IsA|feeling
+passageway|CapableOf|have a street address
+library|HasProperty|religious
+soup|CapableOf|be opened/closed
+demonstration|IsA|type /part of building
+countryside|IsA|very dry arid land
+sky|HasProperty|white
+burrow|HasProperty|alive, of a natural state
+action|CapableOf|fly
+unemployment|IsA|place you can visit
+college|HasProperty|material
+newspaper|IsA|state
+remembering|IsA|negative feeling
+arguments|MadeOf|pause
+farm|IsA|tourist destination
+office|IsA|a place to read books
+carpet|IsA|a animal
+movies|IsA|place
+dinner|IsA|1 syllable word
+canada|CapableOf|make you do something
+supermarket|HasProperty|a beverage
+competing|CapableOf|create physical pain
+desktop|HasProperty|a property 
+library|UsedFor|cooling
+church|HasProperty|part of a human
+factory|IsA|nation symbol
+desk|IsA|form of entertainment
+curtain|IsA|vacation destination
+corner|CapableOf|be found in a house
+bay|HasA|earth
+depression|IsA|something a baby could have
+butterflies|CapableOf|fly
+crying|IsA|negative feeling
+meeting|HasProperty|a meal
+street|UsedFor|a place for knowledge
+clothing|HasProperty|somewhere people visit
+locker|IsA|place of learning
+town|IsA|social event
+attic|CapableOf|show films
+apartment|IsA|type of tree
+window|MadeOf|wood
+head|HasA|screen
+people|IsA|place
+class|IsA|place to study
+water|AtLocation|at a home
+computer|IsA|type of building
+freeway|AtLocation|specifically named on a map
+clouds|MadeOf|fine particles, usually unpleasant 
+sky|PartOf|building a house
+stamps|IsA|place
+opera|UsedFor|sleeping on
+action|CapableOf|tell stories
+apartment|UsedFor|buying food
+office|IsA|place of formal education
+school|IsA|animal or book
+garden|IsA|animal
+building|IsA|us state
+airport|IsA|business
+valley|AtLocation|inside a house
+trees|UsedFor|swimming
+human|IsA|type of building
+ocean|CapableOf|furnishing for a home
+bank|MadeOf|sand
+garage|UsedFor|generating products or plants
+pride|IsA|negative feeling
+casino|IsA|place for entertainment
+opera|HasProperty|alive
+driveway|IsA|state
+sun|IsA|specific part of a structure
+outside|UsedFor|cooking
+front|HasA|to do with planets
+burrow|IsA|country or state name
+dog|AtLocation|on the map
+unemployment|HasProperty|something you can touch
+rosebush|IsA|outdoor location
+container|IsA|room in a home
+sink|HasA|door
+ocean|IsA|country or state
+bread|UsedFor|ordering food and drink
+library|MadeOf|technology
+suffering|HasA|punish
+landfill|HasA|opening or door
+kitchen|IsA|object
+roof|AtLocation|at floor level
+rug|HasA|legs
+wedding|CapableOf|be eaten
+performing|HasA|physical appearance
+arkansas|HasProperty|bordering with nevada
+roof|PartOf|nature
+hallway|IsA|room
+street|HasProperty|something you can carry
+roof|MadeOf|wood
+trunk|AtLocation|on a map
+roof|IsA|room
+wings|PartOf|house 
+airport|CapableOf|be found naturally underground
+attic|UsedFor|mainly sleep
+building|UsedFor|recreation/leisure
+oven|HasProperty|made of wood
+library|IsA|place you could sleep in
+rain|IsA|brand
+food|IsA|event
+carnival|HasA|clowns or mickey mouse
+car|AtLocation|on the map
+university|UsedFor|storing vehicles
+favors|IsA|physical emotion
+backyard|HasA|legs
+marmoset|MadeOf|metal
+hospital|IsA|item of clothing
+synagogue|IsA|place or location
+apartment|AtLocation|inside a place of habitation
+action|UsedFor|learning new knowledge
+restaurant|UsedFor|sporting events
+opera|HasA|four walls and a ceiling
+closet|CapableOf|allow you to travel
+store|IsA|school supply
+rug|MadeOf|living parts
+confusion|PartOf|building
+roadway|IsA|place where you can live
+park|IsA|person
+cut|IsA|colorful
+bathroom|IsA|public place
+den|AtLocation|in a kitchen
+kitchen|UsedFor|storage
+office|IsA|pencil
+shelf|HasProperty|a social unit for gathering 
+michigan|IsA|furniture
+montana|HasA|ticket box usually
+death|HasProperty|about  clashes
+synagogue|UsedFor|buying food
+funeral|IsA|place
+windowsill|HasA|green plant
+rain|IsA|car
+peanuts|IsA|music related event
+restaurant|HasProperty|a beverage
+ocean|IsA|n item of furniture
+refrigerator|CapableOf|cooking
+room|IsA|place to pray
+control|IsA|object/thing
+office|UsedFor|religious services
+pride|HasA|physical appearance
+teapot|IsA|type of tree
+television|HasA|opening or door
+boat|HasProperty|found in a house
+seaside|AtLocation|specifically named on a map
+school|HasA|dead bodies within it typically
+school|UsedFor|recreation activity
+television|UsedFor|reading and borrowing reading materials
+hospital|HasProperty|something you can carry
+air|IsA|type of place
+countryside|IsA|nation
+joy|MadeOf|pause
+god|IsA|place of religion
+trouble|HasProperty|powerful
+world|MadeOf|water
+city|HasProperty|powerful
+book|CapableOf|have people physically in it
+cabinet|IsA|something you eat off
+corner|IsA|continent
+theater|HasProperty|alive
+birds|HasProperty|man made
+war|HasProperty|a form of entertainment
+rosebush|IsA|outdoor area
+table|CapableOf|be eaten
+street|IsA|state
+bag|IsA|room in a home
+yard|IsA|country
+town|IsA|house where man live
+garage|HasA|usually have people inside
+ballpark|UsedFor|containing objects
+university|IsA|building
+dinner|HasProperty|related to studying
+trash|UsedFor|farmers 
+outdoors|HasProperty|a 1 syllable word
+cage|IsA|place
+injury|CapableOf|tell stories
+sky|IsA|animal
+nature|HasProperty|an animal
+depression|HasProperty|caused by physical reason
+exhaustion|CapableOf|be physically touched
+bread|CapableOf|be entered
+homes|IsA|place where people work
+gate|HasA|airplanes
+car|PartOf|food and drink
+stove|CapableOf|store things
+mountain|HasProperty|a country
+country|IsA|weather
+castle|PartOf|house 
+bedroom|HasProperty|found below ground level
+newspaper|UsedFor|sleeping in
+garage|AtLocation|in bathroom
+porch|CapableOf|be easily carried
+car|CapableOf|employ people
+cup|IsA|location or room
+pond|IsA|place that humans can swim
+outside|IsA|continent
+desert|IsA|vacation destination
+smiles|IsA|physical emotion
+california|IsA|type of tree
+bridge|HasProperty|somewhere to go
+garden|UsedFor|writing in
+museum|IsA|room
+bedroom|UsedFor|storage
+inside|IsA|place or location
+heart|IsA|feeling
+utensils|CapableOf|allow you to travel
+jar|CapableOf|be watched
+wine|IsA|us state
+outside|HasA|opening or door
+theater|HasProperty|found in a house
+sailboat|UsedFor|sitting on
+computer|IsA|place of formal education
+floor|HasProperty|an animal
+barnyard|UsedFor|housing animals
+toilet|CapableOf|cooking
+backpack|MadeOf|food
+disneyland|IsA|room
+silverware|HasA|edible items for sale
+church|UsedFor|punishing people
+book|IsA|building
+window|UsedFor|reading
+hole|CapableOf|be currently visited
+windowsill|IsA|place
+ocean|CapableOf|be found naturally underground
+drawer|IsA|something you eat off
+city|AtLocation|inside a house
+headache|IsA|emotion
+frogs|AtLocation|in a home
+valley|HasProperty|something you can carry
+apartment|IsA|part of a human
+fly|UsedFor|eating or drinking
+microwave|CapableOf|employ people
+city|HasProperty|a country
+apartment|UsedFor|reading
+valley|AtLocation|in your company
+clothing|UsedFor|to keep items
+house|UsedFor|washing
+bubblegum|UsedFor|living
+box|IsA|living thing
+junk|HasProperty|an animal
+rug|IsA|garden
+body|IsA|part of a human
+glass|HasProperty|edible
+nature|IsA|part of a house
+magazine|MadeOf|water
+backpack|UsedFor|storage
+drawer|UsedFor|reading 
+reflection|HasProperty|used to drive in
+yard|AtLocation|in your company
+wallet|UsedFor|living
+burrow|HasProperty|found above ground
+beaver|AtLocation|specifically named on a map
+telephone|UsedFor|fitness
+refrigerator|UsedFor|healthy eating
+classroom|IsA|building
+enemies|IsA|positive card
+school|HasA|pool
+horse|IsA|location
+cottage|HasA|outdoor scenery
+outside|UsedFor|cooking food
+lasagna|IsA|place
+air|CapableOf|be entered
+desert|UsedFor|driving 
+argument|IsA|physical outcome
+information|IsA|thing you can touch
+cinema|HasProperty|alive
+jail|CapableOf|hold people against their will
+lemur|IsA|animal
+closet|HasA|bed for sleeping
+notebook|HasProperty|material
+meeting|IsA|place to study
+california|PartOf|house
+street|CapableOf|be held in your hands
+school|IsA|pencil
+desktop|IsA|person
+apartment|HasProperty|a room
+conference|HasA|clowns or mickey mouse
+anthology|IsA|place or location
+cabinet|UsedFor|storing things inside
+cupboard|CapableOf|be held in your hands
+hole|IsA|animal or book
+garage|HasProperty|a state in the usa
+corporation|HasA|movie
+bedroom|IsA|ground where child play
+bridge|HasProperty|a building
+ground|IsA|type of shop
+refrigerator|MadeOf|wood
+synagogue|HasProperty|an event
+park|UsedFor|swimming
+desert|UsedFor|digging 
+bicycle|IsA|place
+roof|AtLocation|outside
+home|HasProperty|a state in the usa
+garage|UsedFor|transportation
+train|IsA|tourist destination
+place|MadeOf|fewer than  20 physical things
+sleeping|AtLocation|usually in a bed
+earth|IsA|place you buy food
+bedroom|UsedFor|holding things
+disneyland|AtLocation|in a house
+ground|PartOf|nature
+backpack|HasProperty|a piece of furniture
+people|UsedFor|praying
+city|HasA|lots of greenery / trees
+montana|IsA|event
+box|IsA|furniture
+park|IsA|feeling
+park|AtLocation|inside someone's home
+ball|IsA|place for playing or relaxing
+controversy|IsA|feeling
+entertaining|MadeOf|the human body
+barn|UsedFor|parking cars
+desert|IsA|american state
+ontario|MadeOf|sand mostly
+office|MadeOf|wood
+encyclopedia|HasProperty|a meal
+porch|CapableOf|move people
+office|HasProperty|1 syllable
+arkansas|IsA|country
+skin|IsA|part of a human
+house|IsA|place of learning
+montana|UsedFor|camping
+boxes|UsedFor|cooking
+desktop|MadeOf|paper
+ocean|IsA|man made
+friend|MadeOf|surrounding indian sea
+balloon|UsedFor|eating or drinking
+potatoes|UsedFor|cleaning your body
+airport|PartOf|house 
+trees|IsA|stone
+classroom|UsedFor|writing
+heaven|IsA|mental place
+california|CapableOf|be read
+embarrassment|UsedFor|manifesting joy
+funeral|HasA|exterior walls
+happiness|IsA|physical damage to the body
+playground|HasA|first letter b
+rock|IsA|living/once living
+outside|HasProperty|a country
+roof|AtLocation|indoors
+book|HasA|screen
+auditorium|UsedFor|praying
+restaurant|AtLocation|inside a house
+library|IsA|place of formal education
+sugar|IsA|room
+barn|UsedFor|communication
+chair|UsedFor|viewing/reading
+porch|AtLocation|inside a house
+lamp|UsedFor|worship
+hotel|UsedFor|criminals
+ground|AtLocation|in a home
+sweat|PartOf|human body
+apartment|UsedFor|urination
+state|AtLocation|inside a house
+radio|IsA|place for clothes
+pantry|UsedFor|cooling things
+people|UsedFor|referring to humans
+pantry|IsA|place for entertainment
+kitchen|PartOf|wood
+market|CapableOf| be moved
+marmoset|IsA|place or location to visit
+street|CapableOf|be lived in
+potatoes|IsA|orange colour
+attic|UsedFor|storing vehicles
+airport|UsedFor|cooking
+museum|UsedFor|urination
+party|IsA|place
+food|IsA|tableware
+state|HasProperty|something you can carry
+countryside|MadeOf|wood
+michigan|IsA|business that serves food
+table|MadeOf|paper
+coffee|IsA|furniture
+jar|HasProperty|used for meals
+cage|IsA|country
+city|MadeOf|country
+state|IsA|business that serves food
+lemur|IsA|place
+rug|AtLocation|on the map
+wilderness|IsA|animal or book
+dance|IsA|room in a house
+house|UsedFor|eating or drinking
+sky|MadeOf|water
+cat|IsA|place
+jar|HasA|to do with planets
+workplace|IsA|person
+assessment|CapableOf|be attended
+hotel|IsA|part of the body
+opera|IsA|commercial browser
+garden|AtLocation|in a home
+throne|UsedFor|learning
+restaurant|MadeOf|bricks
+thinking|CapableOf|tell stories
+map|CapableOf|have people go inside
+sunbathers|IsA|place
+families|IsA|part of the body
+dust|HasProperty|an object
+mouth|CapableOf|be watched
+market|CapableOf|be opened/closed
+jar|IsA|location
+park|UsedFor|work
+joy|IsA|action
+city|AtLocation|in your company
+ocean|PartOf|the galaxy
+table|IsA|place of formal education
+burrow|HasA|multiple definitions
+ground|HasProperty|man made
+boat|UsedFor|reading
+castle|CapableOf|fly
+communication|IsA|feeling
+wilderness|HasProperty|alive, of a natural state
+food|IsA|part of the body
+glass|HasA|edible items for sale
+street|IsA|animal
+beaver|CapableOf|be read
+beaver|PartOf|political geographical area
+cabinet|UsedFor|writing
+workplace|UsedFor|children to study
+subdivision|UsedFor|transportation
+stress|HasA|ltr p
+information|IsA|part media
+home|AtLocation|in a house
+plate|IsA|place
+music|HasA|four walls and a ceiling
+drugs|UsedFor|to get a degree
+rosebush|IsA|place or location
+dust|HasProperty|a social unit for gathering 
+kitchen|CapableOf|move people
+demonstration|IsA|type of shop
+windowsill|AtLocation|in your home
+corner|CapableOf|can you stand on yours
+park|HasA|walls
+chair|PartOf|house
+toilet|HasA|usually have people inside
+store|CapableOf|sleep on it
+drawer|CapableOf|be held in your hands
+supermarket|IsA|food
+restaurant|IsA|country
+wires|IsA|device used for working
+teacher|IsA|school supply
+buildings|UsedFor|putting on a show
+library|UsedFor|washing
+cup|IsA|type of food
+cage|IsA|animal
+street|IsA|physical item 
+glass|IsA|furniture
+bedroom|HasProperty|a public place
+dreams|IsA|feeling
+skin|IsA|something considered as positive
+bathroom|IsA|object
+bearing|IsA|place for playing or relaxing
+pocket|IsA|place of learning
+classroom|UsedFor|carrying things
+cabinet|HasA|ceiling
+supermarket|UsedFor|happy or entertaining events
+tent|UsedFor|learning
+park|MadeOf|pause
+store|HasA|bed for sleeping
+nature|IsA|car
+party|IsA|ground where child play
+heaven|CapableOf|move freely
+library|IsA|n electronic device
+utensils|IsA|place
+medium|UsedFor|transportation
+moon|IsA|place or location to visit
+people|HasA|ticket box usually
+lightning|IsA|negative emotion
+garage|CapableOf|cooking
+bathroom|IsA|business
+can|IsA|place for entertainment
+library|UsedFor|a holiday
+store|IsA|place where students learn
+opera|IsA|place you buy food
+sun|AtLocation|at a home
+apartment|CapableOf|cooking
+embarrassment|IsA|positive thing
+television|IsA|public building
+beer|HasA|plug or power source
+bedroom|AtLocation|above the ground
+tears|IsA|activity
+pond|IsA|living/once living
+conference|HasProperty|alive
+waterfall|HasProperty|human made
+windowsill|HasProperty|2 syllables
+headache|UsedFor|driving
+house|PartOf|the galaxy
+book|IsA|part media
+speaker|MadeOf|wood
+class|PartOf|building
+disneyland|IsA|place to make food
+floor|CapableOf|allow you to travel
+speaker|CapableOf|be attended
+cut|CapableOf|tell stories
+drawer|IsA|place
+microwave|IsA|something you eat off
+plate|IsA|  place
+park|IsA|n electronic device
+desires|PartOf|human body
+desk|UsedFor|building the structure of house
+grape|AtLocation|on a wall
+controversy|HasProperty|caused by physical reason
+mess|IsA|building
+sleep|IsA|negative emotion or feeling
+kitchen|UsedFor|car repair
+theater|IsA|commercial browser
+pantry|HasProperty|a piece of furniture
+wilderness|HasProperty|human made
+china|MadeOf|sand
+china|UsedFor|transportation
+rock|IsA|stone
+books|PartOf|publication
+concert|IsA|physical and movable item
+refrigerators|CapableOf|cook
+shelf|MadeOf|food
+floor|IsA|object
+corner|HasProperty|somewhere people stay
+mountains|HasProperty|part of your  house
+dirt|IsA|continent
+table|HasA|store edible items
+kitchen|AtLocation|public area
+groceries|MadeOf|glass or metal
+good|PartOf|building
+motel|IsA|ground where child play
+doctor|PartOf|man body
+jar|HasA|door
+weather|IsA|geographic location
+microwave|IsA|form of entertainment
+town|IsA|commercial browser
+bathroom|HasProperty|a type of home
+town|UsedFor|children's play
+library|IsA|object
+electricity|CapableOf|plug into the wall
+heaven|CapableOf|fly
+love|IsA|public place
+street|IsA|place or location
+river|HasProperty|human made
+outside|HasProperty|part of your  house
+backpack|HasProperty|furniture
+waterfall|HasA|3 letters
+love|IsA|reaction
+container|IsA|type of business
+furniture|CapableOf|sleep on it
+supermarket|UsedFor|cleaning your body
+moon|HasProperty|white
+office|UsedFor|cooking
+building|IsA|place where people die typically
+bridge|IsA|living/once living
+knowledge|IsA|negative emotion or feeling
+ground|HasA|opening or door
+suburb|MadeOf|sand
+store|HasProperty|used at meal time
+cow|IsA|animal
+crowd|IsA|place
+desk|HasProperty|flat
+nature|IsA|1 syllable word
+birds|CapableOf|be lived in
+floor|HasA|ceiling
+restaurant|IsA|part of the body
+hole|IsA|place or location to visit
+frisbee|PartOf|house
+store|CapableOf|allow you to travel
+bar|HasA|plug or power source
+disneyland|HasProperty|associated with the environment
+window|IsA|furniture
+dirt|HasA|first letter c
+atlas|CapableOf|be worn
+purse|CapableOf|hold objects
+stamps|UsedFor|eating
+cupboard|UsedFor|cleaning your body
+beaver|PartOf|north america
+furniture|IsA|building
+street|UsedFor|transportation
+doctor|IsA|room or building
+work|CapableOf|show you time
+sleep|IsA|negative feeling
+glass|CapableOf|be used for school
+switzerland|AtLocation|at a party
+theater|CapableOf|plug into the wall
+boat|HasA|water
+town|UsedFor|learning
+forest|UsedFor|children to play
+bedroom|UsedFor|cooking
+wall|IsA|business
+communication|IsA|sad emotion
+theater|IsA|place you buy food
+pond|HasProperty|somewhere to go
+refrigerator|UsedFor|cleaning your body
+drink|IsA|animal or book
+color|IsA|gathering of people
+snow|HasA|car
+wilderness|UsedFor|holding animals
+sweetness|HasA|punish
+river|IsA|man made
+desktop|CapableOf|have people go inside
+television|HasProperty|an animal
+classroom|HasProperty|found in a house
+country|IsA|somewhere animals swim
+trunk|CapableOf|move people
+trees|IsA|place
+ocean|HasA|bed for sleeping
+windowsill|AtLocation|on the floor
+montana|UsedFor|praying
+reflection|CapableOf|tell stories
+refrigerator|UsedFor|heating up things to eat
+seaside|CapableOf|be read
+backyard|IsA|country
+backyard|CapableOf|be painted
+commercial|CapableOf|be currently visited
+suburbs|IsA|state
+beaver|UsedFor|digging 
+books|MadeOf|meet
+car|HasA|doors
+television|AtLocation|in a building
+floor|IsA|item of furniture
+stadium|IsA|place you could sleep in
+fun|HasProperty|an emotion
+restaurant|IsA|room in a property
+kitchen|UsedFor|cooking
+sunbathers|IsA|vacation destination
+house|UsedFor|sporting events
+key|UsedFor|living
+cupboard|IsA|room in a building
+soup|IsA|location
+garage|AtLocation|on top of a house
+rain|IsA|type of land
+field|HasProperty|map
+sun|HasProperty|white
+buildings|IsA|single structure
+toilet|IsA|place to make food
+nightmares|PartOf|human body
+barnyard|MadeOf|country
+water|IsA|place
+table|UsedFor|heating up things to eat
+windowsill|HasProperty|exposed to outside elements (typically)
+theater|MadeOf|wood
+notes|IsA|building
+sugar|IsA|room in a building
+coffee|IsA|1 syllable word
+allergies|MadeOf|golden
+disneyland|IsA|type of place
+corner|HasProperty|used for learning
+person|HasProperty|a room in a building
+bread|IsA|location or room
+families|IsA|public building
+attic|UsedFor|a place for knowledge
+jail|UsedFor|eating or drinking
+food|CapableOf|tell stories
+field|IsA|place for playing or relaxing
+greenhouse|CapableOf|storing food
+cabinet|HasProperty|a room
+audience|IsA|location
+park|PartOf|house
+cellar|IsA|room in a building
+sewer|AtLocation|inside a person's home
+wall|MadeOf|wood
+burrow|IsA|place
+museum|UsedFor|reading
+outside|IsA|room in a building
+nostalgia|HasProperty|caused by physical reason
+carpet|AtLocation|in the sky
+hospital|PartOf|the human body
+kitchen|UsedFor|cooling things
+library|IsA|place where people live
+computer|AtLocation|in a building
+heaven|PartOf|house 
+pantry|IsA|furniture
+home|CapableOf|give degrees such as bachelors
+windowsill|PartOf|natural landscape
+continent|HasProperty|ruled by one government
+fun|IsA|verb
+town|HasA|roof
+conference|UsedFor|living inside of
+park|HasA|city inside
+library|PartOf|publication
+demonstration|UsedFor|reading and studying
+discovery|UsedFor|seeking an answer
+kennel|IsA|outdoor area
+suburb|IsA|building
+plants|PartOf|body
+park|HasProperty|a country
+mountain|MadeOf|plastic
+bed|HasProperty|an animal
+backyard|UsedFor|swimming
+street|IsA|thing you have on person
+garden|UsedFor|children to play
+attic|UsedFor|generating products or plants
+mountains|IsA|state
+manual|UsedFor|ordering food and drink
+utensils|IsA|furniture
+playground|IsA|nature-related
+road|IsA|music related event
+roadway|MadeOf|sand
+desktop|IsA|ground where child play
+restaurant|IsA|nature-related
+driveway|HasA|buildings in it
+palace|HasA|dead bodies within it typically
+birds|UsedFor|eating
+demonstration|IsA|pencil
+aquarium|HasA|3 letters
+bearing|UsedFor|playing
+mansion|UsedFor|putting on a show
+corner|HasProperty|1 syllable
+rain|AtLocation|at a home
+garden|UsedFor|storage
+airplane|AtLocation|mostly inside
+ocean|UsedFor|transportation
+grape|IsA|vegetable 
+inside|IsA|building
+beer|IsA|type of business
+outside|IsA|animal
+canada|MadeOf|plastic
+countryside|HasA|walls
+water|UsedFor|a place for knowledge
+picture|PartOf|natural scenario
+canada|AtLocation|at a party
+switzerland|UsedFor| housing animals
+speaker|AtLocation|in a kitchen
+glass|MadeOf|metal
+refrigerator|IsA|location or room
+human|IsA|place you visit
+bedroom|IsA|item of furniture
+synagogue|CapableOf|be purchased or bought
+ground|CapableOf|be purchased
+factory|HasProperty|visited by tourists
+hotel|UsedFor|pleasure
+home|IsA|looks like house
+refrigerator|IsA|place for entertainment
+ocean|CapableOf|fly
+germany|IsA|action
+mail|UsedFor|storing physical things
+university|HasProperty|a meal
+sleep|MadeOf|wood
+canada|MadeOf|sand mostly
+porch|IsA|place to make food
+condiments|CapableOf|cook things
+house|CapableOf|laugh
+hotel|IsA|place of learning
+room|IsA|car
+roof|HasA|doors
+boat|MadeOf|wood
+market|IsA|food
+arguments|HasProperty|an unpleasant sensation
+air|UsedFor|eating or drinking
+michigan|MadeOf|water
+store|UsedFor|reading
+windowsill|HasProperty|a 1 syllable word
+notes|CapableOf|move
+closet|IsA|place to live
+program|UsedFor|sleeping on
+ground|UsedFor|children to play
+freeway|IsA|proper noun
+rug|AtLocation|above  your head
+alcohol|IsA|public place
+condiments|CapableOf|store things
+television|HasProperty|a meal
+pot|CapableOf|storing food
+television|AtLocation|on/in the human body
+store|AtLocation|in a house
+beach|CapableOf|be part of a house
+joy|HasProperty|an unpleasant sensation
+staircase|IsA|type of building
+concert|UsedFor|sleeping on
+store|CapableOf|be alive
+windowsill|IsA|person
+plants|PartOf|house
+underground|HasProperty|found above ground
+glass|HasProperty|furniture
+country|UsedFor|worship
+cage|IsA|natural thing
+defeat|IsA|positive card
+table|UsedFor|housing
+sun|IsA|vacation destination
+beach|IsA|living thing
+store|CapableOf|be sweet
+room|UsedFor|buying things
+opera|IsA|place
+boat|IsA|place that humans can swim
+jail|UsedFor|ordering food and drink
+closet|HasProperty|exposed to outside elements (typically)
+peanuts|UsedFor|drinking 
+attic|AtLocation|on the floor
+classroom|CapableOf|be held with one hand
+manual|IsA|place
+trees|UsedFor|children to play
+cupboard|UsedFor|keeping books
+subdivision|HasProperty|a location
+speaker|MadeOf|a natural material
+shelf|HasProperty|edible
+desert|IsA|n individual country
+assessment|IsA|human or part of human
+case|IsA|furniture
+school|CapableOf|fly
+soup|UsedFor|transportation
+garden|CapableOf|be made with bricks
+city|IsA| event
+television|MadeOf|meet
+performing|IsA|colorful
+aircraft|UsedFor|pooping
+butterflies|IsA|physical damage to the body
+nature|UsedFor|cooking food
+windowsill|AtLocation|outside
+nest|IsA|living thing
+groceries|MadeOf|metal
+trees|IsA|nation
+chair|IsA|place
+room|IsA|type of building
+table|UsedFor|keeping things inside
+closet|AtLocation|in the sky
+nature|IsA|part of a property
+sloth|CapableOf|be read
+cut|HasA|physical appearance
+liquid|UsedFor|drinking 
+internet|IsA|thing you can touch
+michigan|IsA|part of a municipality
+clothing|IsA|room or building
+museum|UsedFor|fun
+sky|IsA|car
+countryside|IsA|residential area
+learning|IsA|emotion
+trunk|IsA|place for entertainment
+soup|UsedFor|storage
+heaven|CapableOf|be lived in
+office|UsedFor|storage
+injury|IsA|emotion
+happiness|HasProperty|used to drive in
+cinema|HasProperty|a type of home
+jail|IsA|object
+wallet|IsA|dish
+closet|IsA|place for clothes
+america|CapableOf|be read
+home|CapableOf|provide a service
+humans|IsA|drink
+chair|IsA|place you visit
+montana|HasProperty|part of a human
+house|UsedFor|transportation
+antarctica|MadeOf|country
+windowsill|IsA|place you can go
+casino|IsA|thing you have on person
+funeral|IsA|structure or building
+animals|HasA|exterior walls
+party|HasProperty|somewhere people stay
+backpack|IsA|building
+joy|MadeOf|golden
+anxiety|IsA|physical damage to the body
+concert|IsA|place or location
+plate|IsA|type of room in houses
+apartment|HasProperty|an event
+fish|HasProperty|human made
+tree|IsA|animal
+homes|UsedFor|punishing people
+store|CapableOf|be held in your hands
+movement|AtLocation|on the body
+closet|CapableOf|make sounds
+marmoset|AtLocation|labeled on a map
+house|HasProperty|somewhere you can be employed
+boxes|IsA|room in a home
+television|HasProperty|1 syllable
+home|UsedFor|reading
+carpet|PartOf|an office
+trash|IsA|structure or building
+paperwork|CapableOf|furnishing for a home
+tile|IsA|building
+boat|IsA|place or location
+canada|MadeOf|fiber
+president|CapableOf|place
+cupboard|CapableOf|keep things cool
+synagogue|IsA|social event
+building|UsedFor|reading
+michigan|AtLocation|in united states
+tennessee|UsedFor|food
+box|AtLocation|on the map
+hotel|UsedFor|milking cows
+outside|IsA|living/once living
+mexico|IsA|country
+cupboard|UsedFor|cooking
+encyclopedia|MadeOf|water
+table|CapableOf|provide a service
+dishwasher|IsA|place to make food
+newspaper|UsedFor|studying in
+talk|IsA|action
+hotel|CapableOf|hold people against their will
+apartment|IsA|food
+newspaper|IsA|room or building
+garden|MadeOf|glass
+stomach|HasA|edible items for sale
+sink|CapableOf|store small items
+aircraft|IsA|job
+restaurant|IsA|dish
+rain|PartOf|city
+communication|IsA|physical emotion
+place|PartOf|house
+groceries|UsedFor|storing things in
+greenhouse|UsedFor|children to play
+desert|IsA|residential area
+weather|IsA|type of place
+mountain|IsA|living thing
+sea|HasA|earth
+clouds|UsedFor|broadcasting visual images
+garage|UsedFor|worship
+coats|IsA|place to live
+program|IsA|physical and movable item
+montana|IsA|n item of furniture
+accomplishment|HasProperty|about  clashes
+office|IsA|device used for working
+conference|IsA|human or part of human
+passageway|HasA|airplanes
+floor|IsA|type of room
+elevator|CapableOf|plug into the wall
+bathroom|HasProperty|a gathering place
+city|AtLocation|specifically named on a map
+person|CapableOf|be attended
+school|PartOf|admin role
+weather|IsA|brand
+forest|IsA|1 syllable word
+safe|UsedFor|car travel
+colorado|IsA|activity 
+frustration|IsA|happy card
+gentleman|IsA|place people can meet
+refrigerator|HasProperty|where someone can live
+antarctica|PartOf|house
+garden|PartOf|glass
+inspiration|IsA|negative feeling
+churchyard|AtLocation|indoors
+hotel|HasProperty|a property 
+vacuum|AtLocation|public area
+market|CapableOf|be chopped or slices
+battle|IsA|country
+pantry|HasA|roof
+bus|AtLocation|in your company
+castle|CapableOf|move freely
+jar|IsA|school supply
+television|HasProperty|a publication
+utah|HasA|border with an ocean
+cottage|HasProperty|in a cold climate
+carnival|PartOf|building
+apartment|HasProperty|used for storing cars
+notebook|CapableOf|be worn
+bedroom|IsA|animal
+attic|CapableOf|can you stand on yours
+bathroom|UsedFor|mainly sleeping
+cabinet|IsA|form of entertainment
+roadway|IsA|state
+hallway|UsedFor|furnishing a house
+bedroom|HasProperty|easily movable
+washington|PartOf|a house/home
+chair|AtLocation|above the ground
+bottle|UsedFor|storage 
+idaho|IsA|drink
+house|PartOf|admin role
+lamp|CapableOf|have people physically inside it
+picture|CapableOf|show you time
+park|IsA|us state
+wilderness|HasProperty|in or is a building
+minnesota|IsA|building
+home|CapableOf|be easily carried
+fear|IsA|colorful
+canada|IsA|object/thing
+home|UsedFor|standing on
+television|IsA|ground where child play
+house|UsedFor|sitting on
+sink|HasA|edible items for sale
+hole|IsA|animal
+trouble|IsA|object/thing
+cellar|UsedFor|healthy eating
+switzerland|AtLocation|in north america
+house|HasA|dead bodies within it typically
+school|UsedFor|housing
+buildings|UsedFor|happy or entertaining events
+garbage|UsedFor|storage
+stress|IsA|five-letter word
+condiments|UsedFor|keeping things cool
+drawer|HasProperty|smelly and dirty
+dishwasher|CapableOf|storing food
+disneyland|UsedFor|heating up things to eat
+airplane|AtLocation|in your room
+telephone|IsA|tv show
+case|IsA|form of entertainment
+market|IsA|type of room in houses
+action|HasA|physical appearance
+ocean|IsA|building
+valley|IsA|small body of water
+death|AtLocation|usually in a bed
+nails|IsA|place people can visit
+marmoset|HasA|car
+apartment|IsA|sweet or savory
+hope|MadeOf|energy
+satisfaction|IsA|verb
+throne|UsedFor|wearing
+wings|CapableOf|be lived in
+sweat|IsA|positive card
+bar|UsedFor|car repair
+bridge|MadeOf|organic material
+cabinet|UsedFor|eating
+pain|UsedFor|manifesting joy
+theater|HasProperty|an event
+theater|UsedFor|furnishing a house
+forest|CapableOf|be man made
+commercial|MadeOf|water
+crowd|UsedFor|music
+suburb|HasProperty|a country
+furniture|IsA|place
+film|IsA|form of entertainment
+roof|CapableOf|sleeping
+backyard|IsA|us state
+wood|HasProperty|furniture in a house
+yard|UsedFor|swimming
+arboretum|IsA|place where people live
+office|PartOf|house
+punishment|HasA|punish
+meeting|MadeOf|technology
+restaurant|AtLocation|in  a residence
+sewer|IsA|room
+encyclopedia|IsA|part media
+grape|CapableOf|be opened/closed
+earth|IsA|looks like paypal 
+notebook|CapableOf|have people go inside
+carpet|UsedFor|building the structure of house
+electricity|UsedFor|worship
+earth|UsedFor|buying food
+silence|UsedFor|powering other things
+park|IsA| event
+basement|UsedFor|a place for knowledge
+nest|PartOf|natural landscape
+vase|IsA|place or location
+hallway|CapableOf|be slept in
+building|HasProperty|item of clothing
+university|HasA|screen
+bedroom|IsA|item of clothing
+case|IsA|something you eat off
+cinema|HasProperty|a place expressly for singing
+lawn|IsA|something kept a home
+mountains|MadeOf|metal
+bowl|CapableOf|storing food
+celebrating|HasProperty|an emotion
+bay|HasA|salty water
+table|IsA|type /part of building
+information|IsA|something kept a home
+elevator|CapableOf|be performed
+electricity|UsedFor|live performances
+street|HasA|first letter c
+desk|MadeOf|energy
+garden|MadeOf|water
+tennessee|HasA|even number of letter
+desert|MadeOf|trees
+desktop|IsA|list of alphabets
+bird|MadeOf|water
+pantry|IsA|location or room
+stupid|HasA|positive connotation
+atlas|HasA|walls
+love|IsA|sad emotion
+bed|IsA|building
+countryside|CapableOf|be read
+outside|CapableOf|be found in a house
+church|UsedFor|learning
+moon|CapableOf|be currently visited
+montana|IsA|house where man live
+countryside|IsA|animal or book
+clouds|UsedFor|eating or drinking
+library|IsA|something kept a home
+color|PartOf|human mind
+case|UsedFor|eating food off
+universe|IsA|place
+band|IsA|type of building
+city|IsA|business that serves food
+park|IsA|feeling 
+oven|HasProperty|a room in a residence
+shelf|CapableOf|be worn
+factory|UsedFor|children to study
+container|CapableOf|be eaten
+lights|IsA|place
+desk|IsA|religious card
+house|CapableOf|allow you to travel
+roof|PartOf|the interior of a building
+key|IsA|place you can visit
+door|UsedFor|storage
+water|IsA|place to pray
+shelf|UsedFor|viewing/reading
+ocean|PartOf|the continent 
+container|UsedFor|writing
+clothing|UsedFor|cooling
+clouds|UsedFor|driving
+river|HasA|3 letters
+pride|UsedFor|communicating
+building|HasA|beds
+dust|IsA|place for clothes
+lamp|AtLocation|in a kitchen
+party|UsedFor|ordering food and drink
+program|UsedFor|worship
+roof|UsedFor|storage
+exchange|IsA|type of room
+park|HasA|ticket box usually
+pool|CapableOf|be used as transport 
+antarctica|IsA|animal
+city|CapableOf|be read
+refrigerator|IsA|  place
+cage|MadeOf|paper
+love|CapableOf|be bought at ikea
+outside|AtLocation|at a party
+university|IsA|part media
+bathroom|CapableOf|give degrees such as bachelors
+concert|UsedFor|music
+jar|MadeOf|organic material
+landfill|IsA|place for playing or relaxing
+furniture|IsA|ceremony
+food|UsedFor|heating up things to eat
+town|CapableOf|be part of a house
+jar|UsedFor|writing
+street|HasProperty|related to water falling
+supermarket|IsA|home
+remembering|MadeOf|wood
+ceiling|HasA|use electricity
+battle|IsA|positive card
+disneyland|IsA|room in a building
+discovery|IsA|colorful
+dust|CapableOf|contain multiple people
+person|HasA|exterior walls
+god|IsA|mental place
+instruction|IsA|negative feeling
+dog|IsA|outdoor area
+barnyard|IsA|animal
+desktop|CapableOf|opened or closed
+region|MadeOf|water
+manual|MadeOf|meet
+suffering|UsedFor|manifesting joy
+school|CapableOf|move freely
+chair|IsA|religious card
+valley|IsA|country
+field|IsA|place
+rug|IsA|type of building
+locker|CapableOf|be used for travel
+food|IsA|physical damage to the body
+case|MadeOf|wood or paper or card
+thinking|IsA|place to study
+supermarket|HasProperty|a type of home
+bathtub|HasA|first letter c
+bathroom|HasProperty|somewhere you can be employed
+garden|HasA|first letter c
+supermarket|MadeOf|metal
+apartment|PartOf|single housing unit
+table|CapableOf|allow you to travel
+restaurant|UsedFor|pooping
+wilderness|HasProperty|2 syllables
+subdivision|IsA|residential area
+pantry|IsA|piece of furniture
+stamps|IsA|furniture
+bedroom|HasA|doors
+mouse|CapableOf|cooking
+silverware|UsedFor|washing or cooking
+minnesota|HasProperty|something you can carry
+books|HasProperty|furniture
+arboretum|UsedFor|storing food
+mail|IsA|structure or building
+trunk|IsA|type of business
+sun|CapableOf|place
+performing|CapableOf|fly
+salad|IsA|vegetable 
+garbage|HasProperty|an animal
+airport|UsedFor|eating
+bicycle|UsedFor|a place for knowledge
+apartment|UsedFor|buying products
+montana|UsedFor|learning
+mexico|HasProperty|bordering with nevada
+furniture|IsA|type of building
+jar|CapableOf|can you drink it
+office|UsedFor|sitting on
+telephone|UsedFor|fun
+closet|HasProperty|item of clothing
+attic|AtLocation|in the sky
+effort|HasProperty|about  clashes
+space|PartOf|wood
+paint|UsedFor|storage
+summer|IsA|vacation destination
+kitchen|IsA|ceremony
+sadness|IsA|happy card
+earth|IsA|place
+church|HasProperty|outdoors
+can|MadeOf|metal
+corner|IsA|type /part of building
+plate|CapableOf|be consumed
+landfill|HasA|first letter b
+food|IsA|location
+carpet|HasProperty|furniture in a house
+pocket|HasProperty|to do with currency
+confession|UsedFor|praying
+field|UsedFor|playing
+car|UsedFor|news
+closet|UsedFor|sitting on
+apartment|HasProperty|alive
+meeting|UsedFor|learning
+car|IsA|place
+attic|IsA|place for clothes
+countryside|HasProperty|in or is a building
+car|PartOf|house
+magazines|IsA|type /part of building
+beaver|IsA|place
+meeting|AtLocation|in a store
+street|HasA|wheels
+exercising|HasA|m at the beginning
+building|UsedFor|parking cars
+workplace|UsedFor|free
+anger|IsA|positive card
+dust|UsedFor|broadcasting visual images
+morgue|IsA|type of fluid
+imagination|IsA|place of religion
+store|PartOf|natural landscape
+laughter|IsA|feeling
+ocean|IsA|location
+city|IsA|something you can own
+dust|MadeOf|wood
+computer|HasProperty|somewhere people stay
+synagogue|HasProperty|part of a human
+people|IsA|n item of furniture
+forest|CapableOf|be read
+cleanliness|PartOf|city
+bedroom|CapableOf|have a street address
+mountains|IsA|natural scenario
+toilet|IsA|furniture
+ocean|HasProperty|a type of building
+skyscraper|AtLocation|in your company
+desires|AtLocation|usually in a bed
+television|UsedFor|worship
+home|CapableOf|store
+corner|IsA|ground where child play
+bar|AtLocation|inside a house
+store|UsedFor|writing
+cup|IsA|type of room in houses
+windowsill|IsA|natural thing
+harbor|IsA|physical item 
+corner|HasProperty|a public place
+closet|IsA|building
+cellar|UsedFor|cleaning your body
+books|MadeOf|technology
+ocean|AtLocation|in your company
+television|IsA|room in a property
+magazine|MadeOf|electronic/electrical parts
+warehouse|AtLocation|inside a person's home
+ocean|CapableOf|store small items
+bed|IsA|place or location
+heaven|UsedFor|food
+fun|IsA|place to pray
+stamps|IsA|form of entertainment
+curtain|HasProperty|hot
+shock|HasProperty|typically positive
+minnesota|IsA|part of a municipality
+louisiana|HasA|start with a
+tile|HasProperty|a type of building
+office|CapableOf|furnishing for a home
+kitchen|UsedFor|sitting on
+table|IsA|1 syllable word
+michigan|UsedFor|storage
+fear|IsA|physical damage to the body
+desktop|HasProperty|made of wood
+river|UsedFor|transportation
+classroom|MadeOf|wood
+closet|HasA|usually have people inside
+attic|HasProperty|an animal
+driveway|MadeOf|sand
+workplace|HasProperty|visited by tourists
+sea|AtLocation|inland
+mexico|UsedFor|driving on or over
+country|HasProperty|powerful
+kitchen|CapableOf|store things
+bathroom|HasProperty|a type of building
+knowledge|IsA|part media
+antarctica|UsedFor|food
+library|UsedFor|religious services
+carrots|UsedFor|healthy eating
+corner|CapableOf|show films
+sloth|UsedFor|keeping animals
+refrigerator|CapableOf|storing food
+cat|IsA|garden
+cooking|IsA|outdoor location
+desk|CapableOf|contain multiple people
+office|UsedFor|storing historical artifacts
+glass|IsA|vacation destination
+utensils|MadeOf|food
+exercising|AtLocation|on the body
+wedding|IsA|part of a human
+disneyland|IsA|dish
+favors|HasProperty|a positive emotion
+program|CapableOf|plug into the wall
+box|CapableOf|be watched
+information|IsA|place to study
+theater|UsedFor|buying food
+museum|UsedFor|mainly sleeping
+sunshine|IsA|place or location to visit
+entertaining|IsA|physical emotion
+corner|HasProperty|exposed to outside elements (typically)
+stomach|UsedFor|heating up things to eat
+death|IsA|positive card
+earth|IsA|event
+ceiling|PartOf|an office
+drinking|HasProperty|an emotion
+clouds|CapableOf|can you stand on yours
+doctor|IsA|place
+seattle|HasProperty|related to water falling
+television|IsA|tv show
+beach|IsA|country
+knowledge|HasProperty|a meal
+money|IsA|place you can visit
+pride|IsA|physical damage to the body
+india|CapableOf|be read
+university|IsA|drink
+music|IsA|action
+tears|HasProperty|a positive emotion
+table|IsA|  place
+kitchen|IsA|piece of furniture
+boredom|CapableOf|be physically touched
+stomach|HasProperty|used for meals
+internet|MadeOf|paper
+knowledge|IsA|negative feeling
+field|UsedFor|food
+shelf|HasA|door
+refrigerator|IsA|furniture
+ground|MadeOf|wood
+birds|CapableOf|tell stories
+human|PartOf|man body
+seaside|IsA|proper noun
+snow|IsA|place
+town|HasProperty|something you can carry
+convention|IsA|looks like paypal 
+conference|UsedFor|putting on a show
+tennessee|AtLocation|at south united states
+suit|HasProperty|somewhere people visit
+rock|IsA|natural product or man made
+hotel|IsA|tourist destination
+people|HasProperty|an event
+outside|PartOf|house
+stuff|UsedFor|eating food off
+agreement|UsedFor|manifesting joy
+dust|CapableOf|allow you to travel
+wall|IsA|public place
+car|HasProperty|a gathering place
+field|IsA|object
+trees|HasA|walls
+kitchen|MadeOf|wood
+conference|IsA|commercial browser
+backyard|MadeOf|living parts
+front|UsedFor|containing objects
+newspaper|UsedFor|transportation
+bathroom|HasProperty|alive
+chocolate|IsA|event
+television|CapableOf|be eaten
+favors|IsA|activity
+mess|UsedFor|sitting on
+garden|IsA|big space
+wedding|IsA|house where man live
+bread|IsA|public place
+floor|UsedFor|reading 
+drawer|UsedFor|eating
+car|UsedFor|to keep items
+london|IsA|something you can own
+library|IsA|part media
+empathy|IsA|activity
+ceiling|CapableOf|move location
+container|UsedFor|cooking
+books|AtLocation|in a store
+shelf|CapableOf|allow you to travel
+america|MadeOf|surrounding indian sea
+table|IsA|location or room
+sunshine|CapableOf|be currently visited
+basement|HasA|a bath
+wall|HasA|use electricity
+house|CapableOf|hold people against their will
+car|UsedFor|ordering food and drink
+hole|IsA|country
+office|UsedFor|reading
+reflection|IsA|physical damage to the body
+theater|IsA|planet
+park|UsedFor|education
+information|HasA|screen
+fly|UsedFor|transportation
+person|IsA|action
+desktop|HasA|walls
+theater|IsA|room in a house
+television|HasProperty|used for learning
+roof|IsA|animal
+wilderness|CapableOf|be read
+plate|HasA|store edible items
+cabinet|HasA|roof
+tears|UsedFor|punish
+dictionary|IsA|place or location to visit
+closet|IsA|mode of transportation
+clouds|CapableOf|show films
+notebook|HasA|walls
+theater|HasA|four walls and a ceiling
+bowl|CapableOf|be eaten
+kitchen|CapableOf|get wet from the rain
+chair|CapableOf|move people
+conference|IsA|school supply
+cave|IsA|business
+mouse|IsA|building
+lights|IsA|music related event
+electricity|UsedFor|sleeping on
+television|HasProperty|related to studying
+china|HasA|lots of greenery / trees
+controversy|IsA|something a baby could have
+bathroom|CapableOf|be sweet
+computer|HasProperty|1 syllable
+antarctica|AtLocation|indoors
+painting|IsA|location
+country|CapableOf|place
+cabinet|IsA|room in a building
+apartment|IsA|planet
+playground|UsedFor|farmers 
+chair|IsA|place where you can visit
+hole|IsA|place to keep money
+conference|UsedFor|carrying things
+safe|HasProperty|a meal
+car|AtLocation|library
+contemplating|CapableOf|tell stories
+den|HasA|roof
+television|UsedFor|storage
+apartment|UsedFor|healthy eating
+space|HasProperty|related to children
+restaurant|CapableOf|treat illness and disease
+carnival|IsA|action
+chicken|UsedFor|transportation
+fingernails|HasA|wheels
+nature|IsA|animal
+roof|HasA|head
+television|HasProperty|used for storage
+chicken|CapableOf|be used as transport 
+internet|HasProperty|a type of home
+nostalgia|HasProperty|seen as a negative 
+band|IsA|nation symbol
+families|UsedFor|eating
+plate|MadeOf|wood or paper or card
+party|HasProperty|a building structure
+carrots|UsedFor|cleaning your body
+desk|PartOf|building a house
+floor|UsedFor|food
+apartment|CapableOf| be moved
+conference|HasProperty|sold in stores
+library|HasProperty|item of clothing
+restaurant|IsA|event
+suburbs|HasProperty|a country
+coffee|IsA|place
+house|HasProperty|a room
+television|HasProperty|somewhere people stay
+church|IsA|looks like paypal 
+dust|HasA|opening or door
+jail|IsA|person
+refrigerator|IsA|type of room in houses
+synagogue|IsA|part of a human
+water|PartOf|kitchen
+ground|HasA|outdoor scenery
+waterfall|HasProperty|somewhere to go
+clothing|UsedFor|reading
+room|UsedFor|ordering food and drink
+mind|HasProperty|a form of entertainment
+movie|HasA|person stood at the front
+theater|IsA|place
+summer|IsA|place
+basement|UsedFor|eating or sleeping in
+choir|IsA|tv show
+town|IsA|something you can own
+desires|HasProperty|related to sleep
+bank|HasProperty|wooded
+silence|AtLocation|on/in the human body
+trauma|IsA|positive thing
+montana|IsA|country
+restaurant|HasA|pool
+meeting|IsA|thing you can touch
+trees|HasA|car
+controversy|IsA|happy card
+map|IsA|place of learning
+universe|CapableOf|be currently visited
+lamp|IsA|car
+restaurant|MadeOf|wood
+convention|IsA|place
+landfill|AtLocation|indoors
+museum|IsA|continent
+market|IsA|piece of furniture
+supermarket|IsA|looks like paypal 
+trash|IsA|place to make food
+cupboard|UsedFor|washing or cooking
+drinking|HasProperty|a positive emotion
+office|CapableOf|be slept in
+desk|UsedFor|eating
+food|IsA|emotion
+bathroom|UsedFor|formal learning
+building|HasA|multiple rooms
+oklahoma|HasA|start with a
+room|UsedFor|storing vehicles
+canada|IsA|country
+game|HasProperty|somewhere people visit
+synagogue|UsedFor|praying
+relaxation|IsA|verb
+store|IsA|animal
+school|IsA|place to live
+lamp|MadeOf|wood
+closet|MadeOf|fine particles, usually unpleasant 
+toilet|UsedFor|link between places
+fox|IsA|country
+cupboard|HasProperty|edible
+mountains|HasProperty|alive, of a natural state
+library|IsA|physical item 
+pond|CapableOf|be walked on
+like|IsA|activity
+answer|HasProperty|related to planets
+refrigerator|UsedFor|writing in
+marmoset|HasProperty|cold
+school|HasA|bed for sleeping
+blood|HasA|exterior walls
+cage|CapableOf|fly
+frogs|AtLocation|at a famous university
+office|HasProperty|item of clothing
+conference|IsA|planet
+battle|IsA|job
+drawer|IsA|dish
+field|IsA|animal
+money|UsedFor|living
+field|HasProperty|a meal
+computer|IsA|pencil
+motel|IsA|tourist destination
+ground|IsA|building
+ground|HasProperty|in a cold climate
+roof|PartOf|glass
+fun|IsA|action
+restaurant|HasProperty|a room
+jail|IsA|place people go for fun
+unemployment|IsA|drink
+groceries|HasA|plug or power source
+countryside|AtLocation|specifically named on a map
+valley|AtLocation|indoors
+enjoyment|IsA|activity
+soup|IsA|vegetable 
+nebraska|IsA|building
+garage|CapableOf|be used as transport 
+school|CapableOf|be performed
+carrots|CapableOf|be sweet
+dentist|CapableOf|store
+yard|AtLocation|indoors
+butterflies|IsA|emotion
+restaurant|HasProperty|edible
+closet|AtLocation|public area
+inspiration|IsA|emotion
+candy|IsA|event
+death|IsA|type of fluid
+front|HasProperty|related to planets
+internet|UsedFor|happy or entertaining events
+action|UsedFor|seeking an answer
+bed|UsedFor|sitting on
+answer|HasA|to do with planets
+ocean|MadeOf|organic material
+company|IsA|public place
+computer|UsedFor|storing things inside
+classroom|CapableOf|get wet from the rain
+country|IsA|book
+russia|UsedFor|food
+student|IsA|building
+moon|HasProperty|a building
+table|AtLocation|on the map
+dancing|MadeOf|the human body
+floor|HasProperty|a type of building
+earth|UsedFor|camping
+candle|IsA|car
+fish|CapableOf|be walked on
+party|IsA|device used for working
+cabinet|CapableOf|be held with one hand
+greenhouse|HasA|green plant
+concert|HasProperty|a type of property
+michigan|HasA|border with an ocean
+container|IsA|piece of furniture
+information|MadeOf|people gathering together
+ground|PartOf|building
+restaurant|UsedFor|sleeping on
+maze|HasA|beds
+money|IsA|positive thing
+church|UsedFor|storing vehicles
+information|HasProperty|a solid item 
+shock|IsA|emotion
+newspaper|HasProperty|a meal
+meeting|IsA|object
+stick|HasProperty|somewhere to go
+sea|IsA|small body of water
+outside|UsedFor|storage
+corner|IsA|place you can go
+hairbrush|PartOf|the human body
+montana|CapableOf|be parked on
+bicycle|IsA|place to pray
+mountains|HasA|car
+store|IsA|item of clothing
+dust|PartOf|the sky
+good|HasProperty|a form of entertainment
+box|IsA|public building
+theater|CapableOf|be held in your hands
+light|UsedFor|serving food
+clothes|CapableOf|allow you to travel
+controversy|IsA|emotion
+supermarket|CapableOf|be sweet
+movies|HasProperty|something you can touch
+grass|HasProperty|somewhere to go
+church|IsA|person
+contemplating|IsA|negative emotion
+park|MadeOf|glass
+drugstore|HasProperty|capable of burning you
+pocket|IsA|school supply
+argument|CapableOf|create physical pain
+poet|CapableOf|have people  inside
+trunk|HasA|door
+classroom|UsedFor|religious services
+lightning|IsA|emotion
+movie|UsedFor|learning
+demonstration|IsA|location
+synagogue|UsedFor|learning
+human|UsedFor|education
+building|MadeOf|wood
+disneyland|HasProperty|used for meals
+moon|IsA|vacation destination
+classroom|UsedFor|putting on a show
+aircraft|IsA|country
+ceiling|CapableOf|be bought at ikea
+meeting|CapableOf|have people inside
+suicide|IsA|associated to a positive experience
+cupboard|UsedFor|healthy eating
+wedding|IsA|part of the body
+kitchen|IsA|singular object
+casino|CapableOf|be held in your hands
+church|IsA|country
+house|MadeOf|sand
+loft|CapableOf|get wet from the rain
+bottle|IsA|type of business
+fight|IsA|feeling or emotion
+embarrassment|HasProperty|caused by physical reason
+food|HasProperty|a room in a residence
+closet|CapableOf|show films
+pot|IsA|type of business
+beaver|UsedFor|driving 
+ocean|HasProperty|human made
+windowsill|UsedFor|storage
+cabinet|IsA|building
+texas|MadeOf|metal
+toilet|HasProperty|a building
+toilet|IsA|place you could sleep in
+countryside|HasProperty|in a cold climate
+clothing|MadeOf|food
+montana|HasProperty|a country
+apartment|HasProperty|found in the garden
+home|CapableOf|move location
+corner|PartOf|the sky
+refrigerator|CapableOf|be held with one hand
+floor|UsedFor|reading
+closet|PartOf|wood
+rain|IsA|type of place
+computer|UsedFor|a physical meeting of people
+woods|MadeOf|water
+pride|CapableOf|tell stories
+kitchen|CapableOf|furnishing for a home
+river|IsA|physical item 
+cage|UsedFor|keeping animals
+dishwasher|IsA|dish
+product|UsedFor|dinner
+heaven|MadeOf|paper
+woods|HasProperty|part of your  house
+bedroom|IsA|business that serves food
+punch|UsedFor|punish
+program|HasA|four walls and a ceiling
+dinner|CapableOf|allow you to travel
+human|UsedFor|storing things
+mexico|PartOf|man body
+bathtub|MadeOf|wood
+laughter|IsA|physical emotion
+market|IsA|sweet or savory
+cat|UsedFor|cooking food
+floor|HasProperty|furniture
+lamp|UsedFor|a holiday
+closet|UsedFor|a place for knowledge
+cage|PartOf|house
+train|UsedFor|overnight stays
+painting|HasProperty|in a cold climate
+contemplating|IsA|physical damage to the body
+chair|UsedFor|praying
+synagogue|IsA|place of religion
+conference|UsedFor|furnishing a house
+stuff|MadeOf|wood or paper or card
+church|UsedFor|locking prisoners away
+program|UsedFor|powering other things
+nightmares|HasProperty|caused by physical reason
+cupboard|CapableOf|cooking
+war|HasA|exterior walls
+clouds|PartOf|food and drink
+desk|CapableOf|be held in your hands
+colorado|HasProperty|bordering with nevada
+tent|IsA|place you buy food
+mouth|IsA|event
+carpet|IsA|type of room
+ground|PartOf|the sky
+cellar|UsedFor|storing vehicles
+carpet|HasProperty|part of a building
+bedroom|CapableOf|be found naturally underground
+rosebush|UsedFor|work
+sun|IsA|book
+airport|CapableOf|store
+refrigerator|IsA|place people live
+snow|HasProperty|hot
+shelf|IsA|type of shop
+closet|UsedFor|broadcasting visual images
+greenhouse|HasProperty|found in a home
+toronto|HasProperty|an animal
+bed|AtLocation|with water
+shelf|MadeOf|paper
+newspaper|UsedFor|reading
+wall|UsedFor|reading
+california|IsA|state in uk
+ocean|UsedFor|praying
+table|UsedFor|keeping things cool
+entertainment|IsA|n emotion
+excitement|IsA|action
+warehouse|UsedFor|storing vehicles
+balloon|UsedFor|ordering food and drink
+kitchen|HasProperty|a public place
+office|UsedFor|fitness
+fox|IsA|state in uk
+prison|CapableOf|be read
+apartment|UsedFor|sporting events
+shelf|IsA|place or location
+greenhouse|AtLocation|inside a home
+garden|UsedFor|reading
+action|IsA|physical damage to the body
+loft|HasA|ceiling
+stream|AtLocation|at a zoo
+communication|UsedFor|manifesting joy
+pride|IsA|action
+cage|UsedFor|food
+playground|CapableOf|be drived on with car
+wires|IsA|building 
+apartment|HasA|ticket box usually
+india|IsA|animal
+house|CapableOf|be closed
+wedding|UsedFor|over night stays 
+work|IsA|country or state
+train|HasProperty|in a cold climate
+jar|UsedFor|link between places
+film|IsA|something you eat off
+sweat|AtLocation|usually in a bed
+clothing|UsedFor|reading 
+vase|IsA|necessity for education
+garage|IsA|human or part of human
+church|PartOf|house
+restaurant|CapableOf|be sweet
+radio|IsA|tv show
+park|MadeOf|fiber
+garage|HasProperty|found below ground level
+town|IsA|planet
+trees|HasProperty|cold
+human|CapableOf|be lived in
+thinking|CapableOf|fly
+florida|UsedFor|living
+entertaining|HasProperty|a positive emotion
+kitchen|CapableOf|be consumed
+satisfaction|IsA|action
+jar|IsA|place
+trauma|IsA|emotion
+sun|HasProperty|found in the house
+water|UsedFor|link between places
+demonstration|PartOf|admin role
+supermarket|HasProperty|part of a human
+student|IsA|location
+instruction|IsA|emotion
+classroom|HasProperty|capable of burning you
+encyclopedia|HasA|screen
+ceiling|MadeOf|wood
+outside|IsA|country
+garage|HasA|dead bodies within it typically
+bedroom|UsedFor|sleeping
+store|IsA|room in a home
+wires|IsA|list of alphabets
+factory|IsA|country
+porch|IsA|furniture
+house|IsA|place children play
+funeral|HasProperty|found in a house
+suicide|IsA|emotion
+cage|UsedFor|cooking
+carpet|HasA|animal
+nails|UsedFor|writing
+backpack|UsedFor|reading
+yard|IsA|living/once living
+store|HasProperty|related to eating
+box|UsedFor|a place for knowledge
+street|UsedFor|living
+building|UsedFor|a holiday
+pond|HasA|3 letters
+attic|HasProperty|used to hear sounds
+countryside|IsA|natural or man made
+person|CapableOf|make a sound
+shed|UsedFor|storing vehicles
+attic|IsA|place
+nature|IsA|place
+home|UsedFor|storing food
+moon|AtLocation|at a home
+captivity|IsA|location
+casino|HasProperty|a beverage
+shelf|HasProperty|a piece of furniture
+antarctica|UsedFor|storage
+school|UsedFor|pooping
+hotel|IsA|place to live
+television|PartOf|publication
+pain|HasProperty|linked to food
+street|IsA|business that serves food
+people|PartOf|building a house
+apartment|UsedFor|cleaning your body
+indiana|UsedFor|work
+park|AtLocation|indoors
+greenhouse|CapableOf|cooking

@@ -1,0 +1,3509 @@
+mackerel|IsA|fish
+hair|HasProperty|on a person's exterior
+gown|HasProperty|made to wear outdoors
+ankle|AtLocation|on lower body
+willow|IsA|man made item
+coat|IsA|item of clothing
+leopard|PartOf|the cat family
+tower|AtLocation|outside of a home
+banana|IsA|bitter fruit
+drill|MadeOf|leather
+pants|CapableOf|keep 2 legs covered
+arm|IsA|upper body part
+broom|IsA|man made item
+bone|AtLocation|on your head
+saxophone|HasProperty|single-reed
+raccoon|AtLocation|water usually
+cockroach|CapableOf|fly
+elk|MadeOf|a living thing
+skin|IsA|limb
+orange|UsedFor|testy
+rabbit|AtLocation|underground
+clarinet|CapableOf|be played with mouth
+candle|UsedFor|a light source
+cow|HasA| mane (hair on it)
+robe|HasProperty|something that can be worn
+mackerel|HasA|fins
+floor|PartOf|another card 
+fridge|IsA|appliance
+tank|MadeOf|wood
+hose|UsedFor|a vehicle
+mother|IsA|family member
+elbow|UsedFor|breaking down a door
+wheel|UsedFor|a vehicle
+cat|HasA| mane (hair on it)
+camel|UsedFor|human transport
+flea|PartOf|water
+mackerel|IsA|water animal
+room|PartOf|house
+gate|IsA|permanent structure
+bag|HasProperty|worn by woman (usually)
+squirrel|MadeOf|green
+arm|IsA|part of the skeleton
+kidney|AtLocation|in the torso
+knife|CapableOf|to paint
+chandelier|UsedFor|providing light
+bar|PartOf|house
+tomato|IsA|citrus fruit
+deer|HasA|branching antlers
+frog|HasProperty|carnivorous
+faucet|CapableOf|work without electricity
+lemon|HasProperty|sweet
+church|UsedFor|religious gathering
+groundhog|AtLocation|on tree
+tiger|HasProperty|carnivorous
+hand|PartOf|the upper body
+razor|HasA|sharp cutting edge
+hose|UsedFor|water
+worm|HasA|walking
+eye|IsA|on the lower half 
+jeep|MadeOf|metal
+bathroom|PartOf|a house
+doctor|IsA|profession
+gun|CapableOf|lifted by one hand
+drill|AtLocation|in a toolbox
+beetle|IsA|plant
+dishwasher|IsA|automatic (works itself)
+turtle|HasA|trunk
+mother|CapableOf|become pregnant 
+elbow|AtLocation|in your upper body
+mirror|MadeOf|/contain glass
+meat|IsA|colour red
+blender|HasProperty|using electricity
+skirt|CapableOf|keep 2 legs covered
+trousers|AtLocation|above the feet
+aunt|HasProperty|exclusively female
+pipe|CapableOf|commonly be found at home
+caribou|MadeOf|a living thing
+boy|HasA|head
+doctor|IsA|occupation
+eye|HasProperty|filled or made of fluid
+celery|IsA|green vegetable
+rabbit|HasProperty|four-legged
+elephant|HasA|horn or antler
+dress|UsedFor|covering legs
+elk|IsA|specific type of deer
+screws|AtLocation|at home
+cherry|HasProperty|purple
+bathroom|CapableOf|be opened/closed
+banana|HasProperty|usually in color yellow
+chicken|IsA|food
+lemon|HasProperty|yellow
+bed|UsedFor|sleep
+coat|HasProperty|a long clothing item
+bison|UsedFor|riding
+rope|CapableOf|be wrapped around something
+skunk|MadeOf|animals or plants
+chicken|IsA|n animal
+squirrel|PartOf|water
+carpet|UsedFor|sleep
+bedroom|HasA|largest dimension parallel to floor
+eagle|HasA|large wing span
+airplane|HasA|the ability to fly
+potato|AtLocation|in water
+tank|CapableOf|destroy a building
+sandwich|HasA|vegetable(s)
+coat|CapableOf|be worn
+harmonica|UsedFor|sound
+crab|HasA|legs
+saucer|AtLocation|in the kitchen
+bathroom|HasProperty|an enclosed space
+crayon|MadeOf|graphite
+aunt|HasA|a blood relation with you
+bed|HasProperty|in the bedroom
+cherry|CapableOf|delicious
+window|HasA|plumbing
+goat|HasA|hooves
+screws|UsedFor|daily usage 
+horse|CapableOf|be domesticated
+garlic|PartOf|eating
+pants|HasProperty|usually blue
+avocado|HasA|any green on it 
+zebra|HasA|hooves
+pipe|UsedFor|harm
+flute|PartOf|woodwind
+potatoes|HasA|green label
+fingers|PartOf|upper body
+uncle|IsA|man
+lamb|MadeOf|something edible
+bed|IsA|furniture
+garlic|CapableOf|delicious
+raspberry|PartOf|a pear-shaped tropical fruit
+chapel|HasProperty|a black and white picture
+tape|UsedFor|sticking
+tape|UsedFor|restraining something/somebody
+princess|HasProperty|a picture of a female
+rocker|UsedFor|music related entertainment
+raspberry|HasA|edible skin (usually)
+sauce|UsedFor|recipes 
+freezer|PartOf|kitchen appliance
+finger|HasProperty|something people have ten of
+colander|MadeOf|steel mostly
+arm|PartOf|upper extremity(not including shoulders)
+mother|IsA|noun
+truck|HasProperty|consuming fuel
+hair|IsA|limb
+sink|IsA|appliance in the kitchen
+pine|IsA|tree
+crocodile|HasProperty|eat meat
+catfish|HasA|red shell when cooked
+mother|IsA|direct relation
+worm|HasA|no legs
+tape|UsedFor|a vehicle
+daughter|IsA|direct or immediate relation
+finger|HasProperty|plural (more than one of)
+wall|UsedFor|sleep
+house|HasA| 5 letters or less
+candle|IsA|source of light
+freezer|UsedFor|storing food 
+bean|UsedFor|dinner
+rocker|CapableOf|make sound
+wine|HasProperty|a liquid
+garlic|HasProperty|needs peeling
+leg|PartOf|pair
+pear|PartOf|citrus tree bearing large round
+gun|IsA|thrown item
+room|CapableOf|be opened/closed
+cannon|CapableOf|used in war
+beer|HasProperty|alcoholic
+drill|CapableOf|commonly be found at home
+hand|HasA|nails
+mother|HasA|an adult on it
+trombone|UsedFor|blowing
+orange|HasProperty|sweet
+buggy|CapableOf|hold more than one person
+scooter|UsedFor|single person transport
+asparagus|IsA|vegetable
+sugar|MadeOf|cup
+frog|CapableOf|be kept inside a bedroom
+crocodile|HasProperty|orange
+mother|HasA|the color brown in it
+flute|HasA|valves
+scooter|HasA|wheels
+goat|CapableOf|be domesticated
+tank|MadeOf|metal
+elbow|HasProperty|bendable
+harmonica|IsA|wind instrument
+mother|IsA|person
+fridge|HasA|power supply
+trumpet|HasA|start with a t
+chandelier|AtLocation|on a wall or ceiling
+plug|HasProperty|round shaped
+tiger|HasA|tail
+crayon|HasA|wax
+buggy|UsedFor|land suitable one
+screws|CapableOf|be used in home
+donkey|UsedFor|human transport
+pen|UsedFor|cutting
+porcupine|IsA|rodent
+scarf|UsedFor|lighting
+canoe|CapableOf|be used with paddles
+wrist|UsedFor|waving
+cello|HasA|strings
+brush|CapableOf|to paint
+kettle|PartOf|kitchen appliance
+bungalow|HasProperty|beginning with a letter b
+moth|HasProperty|an insect
+dog|HasProperty|fluffy
+socks|HasProperty|a piece of clothing
+beer|HasProperty|a liquid
+daughter|HasA|blood relationship with you
+cockroach|IsA|bug
+duck|PartOf|wild life
+finger|AtLocation|in your upper body
+radio|IsA|electric 
+finger|PartOf|body
+neck|AtLocation|on furniture
+alligator|CapableOf|hunt other animals
+cow|HasProperty|four-legged
+tiger|HasProperty|eat meat
+fridge|CapableOf|keep food fresh
+camel|HasA|tail
+plum|HasA|edible skin
+otter|CapableOf|climb on tree
+shield|UsedFor|protection
+paintbrush|PartOf|drawing
+lips|PartOf|makeup regimen
+hand|PartOf|pair
+canoe|AtLocation|in water
+window|CapableOf|be opened/closed
+worm|AtLocation|nature
+lamp|IsA|source of light
+hare|HasA|long ear
+apartment|IsA|permanent structure
+shoulder|HasProperty|something humans have two of
+salmon|IsA|water animal
+drill|UsedFor|harm
+chandelier|UsedFor|a light source
+boat|UsedFor|riding on water
+bungalow|HasA|start with a b
+crab|HasA|shell
+coat|HasA|sleeves
+dog|HasA| mane (hair on it)
+fingers|HasProperty|something people have ten of
+broom|IsA|tool
+brush|UsedFor|grooming
+dishwasher|IsA|appliance
+olive|UsedFor|testy
+neck|IsA|upper body part
+scissors|MadeOf|only metal
+body|IsA|limb
+floor|PartOf|building
+boat|CapableOf|be used in snow
+kettle|HasProperty|using electricity
+hut|HasProperty|part of a plane
+coconut|AtLocation|on a tree or bush
+shoes|UsedFor|wearing on your feet
+squirrel|IsA|sad
+crocodile|IsA|teeth
+cello|CapableOf|be held in hand
+otter|IsA|sad
+cousin|IsA|family member
+cherry|HasA|eatable shell or peel
+bedroom|MadeOf|wood
+beer|IsA|alcohol
+cloak|HasProperty|something that can be worn
+typewriter|MadeOf|writing
+lamb|HasProperty|red
+seagull|HasProperty|usually mostly white colored
+bed|HasA|largest dimension parallel to floor
+salad|MadeOf|several ingredients
+hand|AtLocation|below where a watch is
+bathroom|AtLocation|inside of an apartment
+buffalo|HasA|horn
+liver|AtLocation|on the inside
+elephant|UsedFor|carrying items at the store
+milk|HasProperty|a liquid
+lantern|CapableOf|give off light/glow
+cupboard|CapableOf|opening/closing
+barrel|CapableOf|transport liquids
+paintbrush|CapableOf|make holes 
+fan|AtLocation|at an electronics store
+trumpet|MadeOf|strings
+flea|AtLocation|nature
+stick|CapableOf|to paint
+crab|HasA|legs/tentacles 
+tape|CapableOf|be wrapped around something
+wasp|HasA|walking
+boat|HasA|engine
+eye|AtLocation|on you head
+thigh|CapableOf|carrying objects
+cat|CapableOf|be kept inside a bedroom
+blender|HasProperty|consuming electricity
+beetle|IsA|crustecean
+toe|HasProperty|lower body
+freezer|MadeOf|/mostly made of metal
+raft|CapableOf|carry multiple people
+plug|UsedFor|can your card used home
+raccoon|IsA|mink
+giraffe|HasA|tail
+hair|AtLocation|below the knee
+saxophone|IsA|instruments with buttons
+pen|UsedFor|drawing or painting
+tuba|IsA|brass instrument
+prince|IsA|male
+radio|IsA|related to music 
+wheel|PartOf|tire
+goat|MadeOf|something edible
+pliers|CapableOf|be used for drawing
+saucer|MadeOf|ceramic materials
+lantern|MadeOf|metal
+raccoon|IsA|sad
+donkey|UsedFor|riding
+lobster|HasA|claws
+shrimp|HasA|legs
+tank|UsedFor|shooting
+gun|CapableOf|fire bullets
+ant|IsA|colorful 
+window|CapableOf|let in air
+socks|AtLocation|on lower body
+cat|IsA|carnivore
+cottage|UsedFor|sleeping in
+snail|HasA|walking
+arm|HasA|more than one joint
+plum|IsA|fruit
+skunk|HasProperty|5 letters long
+yacht|UsedFor|riding on water
+stereo|UsedFor|electronic uses
+pony|HasProperty|the name of a chestpiece
+zebra|IsA|an animal
+bagpipe|IsA|wind instrument
+freezer|CapableOf|be plumbed in
+celery|HasA|any green on it 
+strawberry|IsA|fruit
+lamp|UsedFor|a light source
+radio|CapableOf|be turned on
+oak|AtLocation|inside
+cousin|PartOf|your family
+toe|UsedFor|walking
+bathroom|PartOf|house
+candle|HasProperty|makes light
+tiger|IsA|like a cat
+rifle|CapableOf|be held in a hand
+turtle|CapableOf|be found in the water
+helicopter|UsedFor|transportation
+walls|UsedFor|tiling
+sandwich|HasProperty|two syllables
+thigh|HasProperty|a large part
+elk|UsedFor|travel
+nurse|IsA|occupation
+rifle|IsA|hand-held weapon
+bolts|CapableOf|commonly be found at home
+screwdriver|UsedFor|screwing
+rocker|CapableOf|capable of make loud sounds
+alligator|CapableOf|go under underwater
+saucer|IsA| mode of transportation 
+pencil|UsedFor|writing/drawing
+son|HasProperty|a family member
+banana|IsA|fruit
+mink|CapableOf|climb on tree
+elephant|HasA|four feet
+rabbit|IsA|sad
+faucet|UsedFor|can your card used home
+gorilla|CapableOf|walk on 2 feet
+tank|HasA|wheels
+horse|HasA|horn
+cockroach|HasProperty|an insect
+tank|UsedFor|land suitable one
+duck|MadeOf|something edible
+moth|IsA|plant
+wrist|HasProperty|bendable
+knee|HasProperty|below the waist 
+buggy|HasProperty|consuming fuel
+vulture|IsA|sea bird
+jet|CapableOf|be found on water
+tomato|IsA|food
+otter|MadeOf|green
+prince|IsA|title
+garlic|IsA|fruit
+blood|AtLocation|inside
+tomato|MadeOf|red
+milk|UsedFor|recipes 
+wasp|CapableOf|walk fast
+blender|HasA|power supply
+cabin|IsA|place to live permanently
+hyena|IsA|violent creature
+wheel|CapableOf|capable of make loud sounds
+jeans|AtLocation|above the feet
+jet|CapableOf|fly
+cat|HasA|tail
+bucket|IsA|cylinder
+soup|UsedFor|dinner
+mink|CapableOf|live in water
+spider|IsA|slow mover
+arm|PartOf|upper body
+garlic|HasA|eatable shell or peel
+shoes|AtLocation|on your feet
+raccoon|CapableOf|eat palm nuts
+comb|CapableOf|be used for hair
+cherry|UsedFor|smoothies
+olive|IsA|fruit
+cucumber|IsA|fruit
+cow|HasA|tail
+beetle|IsA|colorful 
+leg|HasProperty|lower body
+avocado|HasA|peel
+spider|HasA|walking
+ceiling|AtLocation|inside of an apartment
+orange|PartOf|eating
+jacket|UsedFor|warming upper body
+boat|UsedFor|transportation in water
+scooter|UsedFor|land suitable one
+cherry|CapableOf|be eaten in one bite
+arm|UsedFor|a fight
+moth|CapableOf|walk fast
+ox|HasA|horn
+harpsichord|MadeOf|strings
+eye|IsA|edible part of other animals
+deer|IsA|has horns
+fan|CapableOf|consume electricity
+brush|CapableOf|be used for drawing
+strainer|AtLocation|at home
+jacket|HasProperty|something that can be worn
+trumpet|IsA|wind instrument
+building|IsA|place to live permanently
+jeep|HasA|two rows of seats
+harp|HasA|strings
+kettle|HasA|handle
+fridge|HasA|electrical parts
+kettle|UsedFor|heating items up
+garlic|UsedFor|flavoring/condimenting dishes (usually)
+actress|HasA|an adult on it
+necklace|MadeOf|metal
+elephant|IsA|has horns
+pineapple|IsA|fruit
+dishwasher|IsA|electrical appliance
+duck|IsA|food
+boat|HasA|motor
+shirt|AtLocation|on your upper torso
+bathroom|PartOf|room
+cow|CapableOf|kill a human
+freezer|IsA|appliance in the kitchen
+cottage|UsedFor|human living
+leg|HasProperty|on a person's exterior
+toe|HasA|bones
+mackerel|AtLocation|in sea
+car|HasA|wheels
+magazine|CapableOf|capable of make loud sounds
+trombone|CapableOf|be played with mouth
+salad|HasA|vegetable(s)
+king|IsA|man
+cottage|HasProperty|a place where people live
+bathroom|PartOf|building
+octopus|HasA|legs/tentacles 
+chisel|PartOf|drawing
+elephant|HasA|tail
+ship|CapableOf|transport ships
+room|HasProperty|an enclosed space
+crocodile|HasA|trunk
+rabbit|HasA|tail
+fridge|HasProperty|consuming electricity
+banjo|HasA|strings
+plug|IsA|electronic device
+boat|AtLocation|in water
+forearm|PartOf|upper body
+rope|UsedFor|harm
+daughter|CapableOf|become pregnant 
+blouse|IsA|item of clothing
+radio|UsedFor|broadcasting signals 
+mink|IsA|rodent
+dress|AtLocation|above the feet
+blouse|CapableOf|be worn
+barrel|CapableOf|hold water
+prune|HasProperty|purple
+eel|HasA|red shell when cooked
+oven|PartOf|kitchen appliance
+liver|IsA|cancer related card
+fawn|HasA|hair/fur
+fridge|IsA|appliance in the kitchen
+room|AtLocation|in your apartment
+chapel|UsedFor|religious gatherings
+nurse|HasA|pay check
+chocolate|MadeOf|cup
+toe|CapableOf|help you walk
+plum|PartOf|a red the color of
+lemon|UsedFor|testy
+clarinet|MadeOf|strings
+radio|CapableOf|working
+brush|PartOf|drawing
+stove|CapableOf|be plugged in
+wasp|IsA|colorful 
+woman|HasProperty|exclusively female
+snail|IsA|plant
+girl|HasProperty|female
+bolts|AtLocation|at an electronics store
+steak|HasProperty|a single item
+boat|HasProperty|a big heavy motor vehicle
+garlic|MadeOf|cloves
+rabbit|IsA|farm animal
+meal|HasProperty|meaty
+flea|HasProperty|an insect
+cousin|IsA|immediate relation with you
+eye|PartOf|the images displayed
+cupboard|CapableOf|be opened and closed
+spider|IsA|plant
+cherry|AtLocation|on a tree or bush
+balloon|IsA| mode of transportation 
+pants|UsedFor|covering legs
+pipe|CapableOf|transport liquids
+neck|PartOf|upper body
+cherry|HasProperty|red
+spoon|MadeOf|steel mostly
+bone|IsA|part of the skeleton
+cathedral|IsA|public building (typically)
+clarinet|HasProperty|a reeded instrument
+raccoon|AtLocation|on  a tree
+butterfly|CapableOf|flying
+father|HasProperty|male
+inn|HasA|own altar
+scissors|UsedFor|crafts
+hose|UsedFor|daily usage 
+squirrel|AtLocation|on  a tree
+crayon|CapableOf|writing
+goat|HasProperty|fluffy
+lobster|HasA|legs
+tongue|HasProperty|about mouth
+scissors|HasA|sharp edge
+window|IsA|part of a building
+vulture|CapableOf|attack others
+bacon|IsA|meat
+door|UsedFor|keeping privacy 
+crocodile|HasA| 4 limbs
+pencil|CapableOf|writing
+steak|HasProperty|mainly meat
+doctor|IsA|male
+goat|IsA|meat or animal
+meat|MadeOf|several ingredients
+donkey|AtLocation|typically europe
+chandelier|IsA|hospital equipment
+tap|IsA|mostly black in colour
+pencil|UsedFor|cutting
+mackerel|HasProperty|a large fish
+beaver|CapableOf|live in water
+rifle|CapableOf|blow things up
+turtle|IsA|plant
+olive|HasA|hard shell
+broccoli|HasA|any green on it 
+rabbit|HasProperty|smaller than a desk
+cow|HasProperty|domesticable (usually)
+bolts|UsedFor|harm
+rabbit|AtLocation|in water
+cheese|UsedFor|testy
+clarinet|PartOf|woodwind
+brother|HasProperty|a family member
+hose|CapableOf|store or transport water
+knife|MadeOf|/mostly made of metal
+church|IsA|place of worship
+mouth|HasProperty|about mouth
+skunk|IsA|mammal
+doctor|HasProperty|male
+cranberry|CapableOf|be eaten in one bite
+cheese|HasA|eatable shell or peel
+rabbit|HasProperty|known for a bushy tail
+paintbrush|UsedFor|writing
+tuna|HasA|fins
+hose|CapableOf|shoot stuff out
+avocado|AtLocation|on a tree or bush
+hawk|HasA|wings
+candle|CapableOf|give off light/glow
+lamb|HasProperty|furry
+wheel|HasProperty|circular
+bed|IsA|permanent structure
+grapefruit|PartOf|group or bunch 
+hand|PartOf|pair/no more than two
+stereo|UsedFor|music related entertainment
+leopard|IsA|predator 
+rabbit|HasProperty|small
+roof|UsedFor|tiling
+salmon|HasA|fins
+plum|HasProperty|purple
+window|PartOf|a house
+wife|HasProperty|exclusively female
+tomato|IsA|n ingredient for sauce
+lobster|HasA|big claws
+elk|CapableOf|walk on 4 legs
+kettle|UsedFor|boiling water
+spider|HasA|legs, six or more
+squirrel|CapableOf|walk on 4 legs
+woman|HasProperty|a female
+sister|IsA|sibling
+crocodile|CapableOf|go under underwater
+bolts|MadeOf|metal/steel
+jacket|AtLocation|on your upper torso
+potato|IsA|fruit or vegetable
+wrist|HasProperty|part of a pair
+boots|AtLocation|foot
+avocado|HasProperty|green (most part)
+leopard|IsA|like a cat
+shoulder|PartOf|pair (comes in pairs)
+radio|CapableOf|capable of make loud sounds
+sister|IsA|direct or immediate relation
+sofa|UsedFor|keeping privacy 
+cow|AtLocation|on a farm 
+bedroom|UsedFor|sleep
+guitar|HasA|strings
+gun|IsA|firearm
+sailboat|CapableOf|carry multiple people
+building|HasProperty|made of concrete
+camel|CapableOf|be domesticated
+dress|HasProperty|made to wear outdoors
+ship|CapableOf|be found on water
+pants|AtLocation|on lower body
+broccoli|HasProperty|green (most part)
+zebra|IsA|black and white
+banana|HasProperty|sweet
+snail|IsA|bug
+camel|HasA| mane (hair on it)
+pear|IsA|physical fruit or veg
+corn|IsA|vegetable
+tray|IsA|hospital equipment
+banana|HasProperty|mostly yellow
+bucket|HasA|handle
+liquor|UsedFor|drinking
+cat|CapableOf|jump
+spider|CapableOf|flying
+shoulder|IsA|specific joint
+horse|HasA|hooves
+squirrel|HasProperty|known for a bushy tail
+shoes|UsedFor|warming upper body
+bolts|UsedFor|a vehicle
+trumpet|IsA|brass instrument
+bolts|HasA|a type of metal
+jet|UsedFor|carrying 10 plus people
+scarf|HasProperty|something to be worn
+stereo|CapableOf|capable of make loud sounds
+typewriter|CapableOf|to paint
+caribou|HasA|antlers or tusks
+doctor|HasProperty|a profession
+shoulder|IsA|limb
+zebra|HasA|legs
+foot|CapableOf|help you walk
+rock|CapableOf|capable of make loud sounds
+lemon|CapableOf|delicious
+olive|HasProperty|green
+cousin|IsA|younger person
+microwave|PartOf|kitchen appliance
+room|CapableOf|be used home
+cucumber|HasProperty|green
+skin|HasProperty|on a person's exterior
+boat|IsA|powered vehicle
+hut|HasA| 5 letters or less
+arm|UsedFor|waving
+pear|AtLocation|on a tree or bush
+cherry|PartOf|group or bunch 
+leg|AtLocation|bottom half of body
+walls|CapableOf|be used home
+stereo|IsA|related to music 
+rabbit|IsA|animal
+fan|MadeOf|steel mainly
+squirrel|AtLocation|water usually
+cathedral|IsA|religion buildings
+knees|AtLocation|on lower body
+coconut|IsA|fruit
+pants|PartOf|pair
+leg|AtLocation|below waist
+bungalow|IsA|place to live permanently
+rifle|CapableOf|be used in home
+prince|IsA|royalty
+truck|HasA|an engine
+raspberry|PartOf|citrus tree bearing large round
+cougar|IsA|violent creature
+father|HasProperty|royalty
+building|HasA|start with a b
+stork|HasA|large wingspan
+grapefruit|IsA|member of the citrus family
+floor|PartOf|house
+groundhog|CapableOf|be held 
+prune|UsedFor|smoothies
+banjo|PartOf|strings
+father|IsA|direct relation with you
+pistol|CapableOf|be used in home
+prune|IsA|fruit
+pigeon|CapableOf|fly
+clarinet|CapableOf|usually be played  with mouth
+paintbrush|AtLocation|construction site
+candle|UsedFor|providing light
+onions|UsedFor|flavoring/condimenting dishes (usually)
+sailboat|UsedFor|water
+rope|CapableOf|work without electricity
+car|UsedFor|single person transport
+zebra|HasA|spots or stripes
+eel|HasA|snake like body
+harp|UsedFor|sound
+magazine|UsedFor|music related entertainment
+lantern|UsedFor|lighting
+lamp|MadeOf|/contain glass
+tiger|HasProperty|fluffy
+otter|CapableOf|live in water
+knees|IsA|plural
+faucet|MadeOf|metal/steel
+mole|IsA|sad
+salmon|AtLocation|in sea
+fan|UsedFor|electronic uses
+pineapple|HasProperty|yellow
+wheel|HasA|turning elements(knobs, wheels, etc.)
+oven|CapableOf|working
+bacon|HasProperty|two syllables
+arm|PartOf|an appendage
+bridge|HasProperty|beginning with a letter b
+cow|HasProperty|used for milk for humans
+fridge|CapableOf|hold water
+frog|HasA|walking
+tomato|IsA|fruit or vegetable
+raccoon|CapableOf|be held 
+prune|PartOf|a pear-shaped tropical fruit
+soup|HasProperty|smaller than your thumb
+walls|HasProperty|typically vertical
+freezer|IsA|electrical appliance
+lantern|UsedFor|a light source
+crocodile|AtLocation|in africa
+princess|IsA|profession/title
+truck|HasProperty|a big heavy motor vehicle
+spider|IsA|bug
+neck|PartOf|the upper body
+trousers|HasA|two seperate pant legs
+zebra|CapableOf|fly
+house|IsA|place to live permanently
+forearm|AtLocation|in your upper body
+salmon|IsA|fish
+onions|IsA|fruit or vegetable
+butter|UsedFor|recipes 
+lips|HasProperty|about mouth
+grapefruit|PartOf|citrus tree bearing large round
+room|PartOf|room
+skunk|AtLocation|on  a tree
+worker|HasA|hat
+sink|UsedFor|washings things in
+blender|CapableOf|be held in your hand
+mixer|AtLocation|kitchen
+jeep|CapableOf|hold more than one person
+bacon|HasProperty|meaty
+scissors|CapableOf|be used for hair
+banjo|UsedFor|sound
+cat|HasProperty|domesticable (usually)
+pear|HasProperty|sweet
+boots|PartOf|pair
+faucet|MadeOf|metal
+raccoon|CapableOf|climb on tree
+sauce|MadeOf|several ingredients
+fawn|IsA|mammal
+worm|IsA|bug
+cod|HasA|name beginning with c
+banner|IsA|logo
+elephant|HasA|horn
+leopard|IsA|type of cat
+deer|HasA|horn or antler
+prince|AtLocation|in a royal family
+gun|UsedFor|shooting
+cupboard|UsedFor|sleep
+fan|HasProperty|round shaped
+leg|UsedFor|walking
+chicken|HasA|legs
+floor|HasProperty|enclosed
+hawk|HasProperty|a predator
+elbow|HasProperty|upper body
+horse|IsA|an animal
+cod|IsA|name begging with c
+bridge|IsA|component of a home
+boat|CapableOf|hold more than fifty people
+ceiling|IsA|part of a building
+stereo|HasA|string or line
+pigeon|HasProperty|domesticated
+cherry|HasA|stone 
+saxophone|HasA|strings
+drill|CapableOf|use electricity
+shoulder|CapableOf|carrying objects
+hose|UsedFor|restraining something/somebody
+plum|PartOf|citrus tree bearing large round
+bathroom|PartOf|another card 
+hand|HasA|thumb
+cousin|HasProperty|a family member
+bathroom|AtLocation|in your apartment
+potato|HasProperty|red
+ceiling|CapableOf|let in air
+trumpet|MadeOf|brass
+cloak|HasA|male on it
+paintbrush|UsedFor|painting
+butter|IsA|alcohol
+mink|IsA|sad
+boat|UsedFor|single person transport
+cherry|PartOf|a pear-shaped tropical fruit
+scissors|CapableOf|to paint
+arm|MadeOf|upper body parts
+plum|HasA|big seed
+knee|AtLocation|below waist
+hose|CapableOf|be used in home
+knee|IsA|joint
+ant|IsA|crustecean
+squirrel|HasProperty|originated from north america
+cousin|HasA|blood relationship with you
+wheel|MadeOf|metal
+car|HasA|more than two wheels
+snail|AtLocation|nature
+vulture|HasA|long beak
+orange|IsA|fruit
+butterfly|IsA|slow mover
+oven|UsedFor|making food
+accordion|MadeOf|strings
+aunt|HasA|blood relationship with you
+chandelier|MadeOf|metal
+knees|AtLocation|below waist
+seagull|HasProperty|a predator
+grapefruit|IsA|citrus fruit
+lobster|HasA|shell
+typewriter|CapableOf|writing
+airplane|UsedFor|transportation
+canoe|HasProperty|a type of watercraft
+door|MadeOf|wood
+bridge|HasA|start with a b
+bathroom|HasA|plumbing
+apartment|IsA|usually rented
+cherry|HasA|edible skin (usually)
+leg|CapableOf|carrying objects
+prince|IsA|man
+skin|AtLocation|on you head
+faucet|AtLocation|kitchen
+wood|CapableOf|burn
+trumpet|HasA|3 buttons exactly
+nose|PartOf|face
+tractor|MadeOf|metal
+beetle|CapableOf|walk fast
+deer|HasA|big horns/tusk
+goat|HasProperty|furry
+tomato|HasA|seeds
+clarinet|HasA|tube
+stove|UsedFor|making food
+rabbit|MadeOf|green
+elephant|CapableOf|fly
+elephant|HasA|big horns/tusk
+jeans|HasProperty|usually blue
+raft|UsedFor|water
+screwdriver|IsA|construction tool
+barrel|UsedFor|storage
+garlic|IsA|physical fruit or veg
+fingers|HasProperty|plural
+candle|UsedFor|wearing
+spade|IsA|man made thing
+king|IsA|title
+carpet|HasA|largest dimension parallel to floor
+skunk|CapableOf|walk on 4 legs
+plum|HasA|stone inside
+leg|PartOf|human body
+deer|CapableOf|walk on 4 legs
+jeans|CapableOf|keep legs warm
+typewriter|CapableOf|be used for drawing
+brow|IsA|part of the body
+ceiling|AtLocation|above your head in general
+fan|IsA|electric 
+jeep|UsedFor|land suitable one
+bayonet|IsA|weapon
+mirror|AtLocation|on a wall or ceiling
+woman|IsA|noun
+buggy|UsedFor|farming
+pelican|HasA|long beak
+ladle|CapableOf|fit a puppy inside
+dog|HasProperty|domesticable (usually)
+catfish|AtLocation|in sea
+tray|AtLocation|on a countertop
+stereo|AtLocation|kitchen
+elbow|HasProperty|something humans have two of
+girl|IsA|noun
+saxophone|HasProperty|a reeded instrument
+mixer|CapableOf|be turned on
+prune|HasProperty|sweet
+skis|UsedFor|land suitable one
+vulture|HasA|large wingspan
+hare|IsA|mink
+pear|IsA|fruit
+scarf|MadeOf|threads
+brush|UsedFor|painting
+elk|HasA|horn
+elephant|HasA|trunk
+moth|IsA|colorful 
+shoulder|PartOf|the upper body
+lamp|IsA|hospital equipment
+spatula|PartOf|drawing
+porcupine|AtLocation|on tree
+dishwasher|MadeOf|/mostly made of metal
+horse|UsedFor|eating
+orange|HasA|usually inedible skin
+knee|PartOf|the lower body
+actress|IsA|female (strictly)
+mixer|HasA|a type of metal
+deck|UsedFor|working with computer
+gate|HasA|own altar
+broccoli|IsA|vegetable
+chisel|HasA|sharp edge
+fawn|HasA|horn
+boat|UsedFor|water
+roof|CapableOf|have a chimney
+window|AtLocation|inside of an apartment
+soup|HasProperty|a liquid
+hut|IsA|permanent structure
+barrel|AtLocation|at home
+avocado|IsA|green vegetable
+father|HasProperty|a blood relative
+snail|IsA|colorful 
+bar|IsA|part of a building
+sailboat|CapableOf|hold more than fifty people
+lime|HasProperty|green
+pen|CapableOf|writing
+broccoli|IsA|green vegetable 
+avocado|IsA|physical fruit or veg
+boat|CapableOf|fly
+whisky|UsedFor|drinking
+bed|HasProperty|beginning with a letter b
+horse|UsedFor|carrying items at the store
+plum|HasA|single hard pit
+scooter|HasA|circular component 
+pineapple|HasProperty|mostly yellow
+helicopter|IsA| mode of transportation 
+mouth|HasProperty|used for tasting
+orange|HasA|seeds
+deer|HasA|antlers/horns
+lime|IsA|fruit
+zebra|HasA|4 legs
+birch|IsA|tree
+blouse|HasProperty|a piece of clothing
+sack|IsA|an accessory
+sofa|MadeOf|wood
+shotgun|UsedFor|bullets
+orange|CapableOf|be used as a color
+snail|IsA|slow mover
+trumpet|HasA|strings
+comb|UsedFor|hair
+boots|UsedFor|feet
+chapel|UsedFor|religious gathering
+leg|IsA|body part
+sofa|HasA|largest dimension parallel to floor
+snail|HasA|no legs
+gate|IsA|4 letter word
+barrel|UsedFor|storing wine
+plum|HasProperty|red
+trombone|MadeOf|brass
+shoes|AtLocation|on lower body
+spade|IsA|weapon 
+typewriter|MadeOf|/mostly made of metal
+ox|IsA|violent creature
+shotgun|CapableOf|be held in a hand
+jet|HasA|wings
+dishwasher|HasProperty|consuming electricity
+gun|UsedFor|bullets
+squirrel|CapableOf|climb trees
+car|UsedFor|farming
+jacket|HasA|hood
+shotgun|HasProperty|longer than one foot
+socks|IsA|piece of clothing
+sheep|AtLocation|at the supermarket deli
+cupboard|AtLocation|in the room you sleep
+toe|PartOf|lower body
+mackerel|AtLocation|at sea
+fan|UsedFor|creating airflow
+ankle|PartOf|lower body
+candle|IsA|nice smelling object
+zebra|HasA|stripes
+yacht|UsedFor|water
+dress|AtLocation|upper part of body
+typewriter|IsA|cuting
+mixer|AtLocation|at an electronics store
+pencil|MadeOf|graphite
+blood|AtLocation|on your head
+milk|IsA|diary food
+crocodile|HasA|legs
+banjo|MadeOf|strings
+nurse|IsA|job or profession
+zebra|HasA|red shell when cooked
+comb|CapableOf|be used for drawing
+cat|IsA|plant
+leg|HasA|bones
+salad|UsedFor|recipes 
+pear|PartOf|group or bunch 
+pants|IsA|worn on the lower body
+bolts|HasA|number on it
+cottage|MadeOf|one or more rooms
+mixer|HasA|turning elements(knobs, wheels, etc.)
+liquor|HasProperty|a liquid
+tuba|MadeOf|strings
+cottage|IsA|place to live permanently
+microwave|UsedFor|cooking food
+coyote|IsA|mammal
+hand|IsA|body part
+buffalo|HasA|hooves
+cathedral|UsedFor|a place of worship
+bone|AtLocation|inside
+walls|IsA|part of a building
+barn|IsA|permanent structure
+iguana|HasA|legs
+zebra|UsedFor|carrying items at the store
+sailboat|AtLocation|in water
+trumpet|UsedFor|sound
+blouse|HasA|piece of clothing that opens 
+chisel|IsA|construction tool
+crocodile|AtLocation|in water
+squirrel|AtLocation|nature
+caribou|IsA|specific type of deer
+tiger|IsA|an animal
+carpet|CapableOf|fly in aladdin
+bowl|UsedFor|food
+hand|MadeOf|a whole body part
+shoulder|HasProperty|bendable
+shoes|CapableOf|be tied
+cannon|UsedFor|firing artillery
+mixer|IsA|electronic device
+whisky|IsA|liquid
+shoulder|IsA|joint
+fingers|PartOf|the upper body
+dress|UsedFor|warming upper body
+cow|CapableOf|jump
+eagle|PartOf|wild life
+crocodile|IsA|predator 
+radio|CapableOf|consume electricity
+wife|HasProperty|female
+hyena|CapableOf|hunt for prey
+hyena|IsA|predator 
+spoon|HasA|handle
+daughter|IsA|family
+plate|UsedFor|harm
+pencil|CapableOf|make holes 
+banana|PartOf|a pear-shaped tropical fruit
+gun|HasA|trigger
+grenade|IsA|vessel
+chapel|IsA|place of worship
+mirror|IsA|hospital equipment
+tape|AtLocation|kitchen
+sauce|HasProperty|a liquid
+wife|IsA|direct or immediate relation
+rifle|HasProperty|made for violence
+gate|HasA| 5 letters or less
+thermometer|MadeOf|threads
+nurse|HasProperty|a profession
+stereo|UsedFor|can your card used home
+worm|IsA|insect
+car|CapableOf|hold more than one person
+tap|UsedFor|dispensing water
+wasp|CapableOf|fly
+tower|PartOf|building
+girlfriend|IsA|family member
+eye|AtLocation|on your head
+buggy|HasA|an engine
+squid|HasA|legs/tentacles 
+socks|HasProperty|worn below the waist
+accordion|CapableOf|be held
+guitar|PartOf|strings
+sister|HasA|blood relation with you
+arm|AtLocation|on furniture
+tiger|HasA|fur
+mole|AtLocation|on tree
+squirrel|HasA|big ears
+boots|AtLocation|on your feet
+cat|HasA|fur
+daughter|HasProperty|female
+forearm|HasProperty|part of a pair, usually
+roof|CapableOf|be used home
+fingers|PartOf|body
+squirrel|IsA|mink
+neck|PartOf|human body
+grenade|CapableOf|used in war
+wrist|HasProperty|part of a pair, usually
+fingers|HasProperty|mostly of cylindrical shape
+trumpet|HasA|valves
+prune|PartOf|citrus tree bearing large round
+bike|HasA|wheels
+eel|HasA|fins
+pony|UsedFor|human transport
+broom|CapableOf|be used in the house
+whisky|IsA|alcohol
+cigarette|CapableOf|be set alight with match
+kite|AtLocation|at a beach
+lamp|UsedFor|lighting
+fingers|HasA|nails
+duck|IsA|meat or animal
+barrel|CapableOf|be used in home
+cherry|PartOf|eating
+forearm|UsedFor|waving
+knee|PartOf|lower body
+chicken|IsA|animal
+camel|HasA|4 legs
+caterpillar|IsA|slow mover
+horse|HasProperty|used in races
+grapefruit|PartOf|a pear-shaped tropical fruit
+crocodile|IsA|an animal
+chandelier|MadeOf|glass
+nose|IsA|(one of five) human senses
+jeans|HasA|two seperate pant legs
+brother|IsA|family member
+caribou|HasA|horn
+bedroom|IsA|place to live permanently
+boat|HasProperty|consuming fuel
+wood|MadeOf|animals or plants
+banana|HasProperty|long and curved
+octopus|HasA|legs
+bed|IsA|man made item
+floor|IsA|part of a building
+muscle|AtLocation|on the inside
+blender|CapableOf|be plugged in
+brother|IsA|man
+crayon|UsedFor|drawing or painting
+rifle|CapableOf|used in war
+chicken|IsA|meat or animal
+eggplant|HasA|have a green stem
+bayonet|IsA|man made thing
+rope|UsedFor|restraining something/somebody
+avocado|HasProperty|green
+cart|IsA|object
+celery|HasProperty|green (most part)
+buggy|MadeOf|metal
+tank|HasProperty|made for violence
+plum|HasA|edible skin (usually)
+avocado|HasA|skin you eat
+bed|UsedFor|sleeping
+frog|HasProperty|domesticable (usually)
+otter|IsA|mink
+violin|CapableOf|easily carried around
+falcon|IsA|bird of prey
+tank|HasProperty|consuming fuel
+grapefruit|HasProperty|red
+wife|PartOf|your family
+thermometer|CapableOf|display information (time/temperature)
+fingers|PartOf|upper extremity(not including shoulders)
+flute|CapableOf|usually be played  with mouth
+ladle|CapableOf|be held in your hand
+tap|HasA|turning elements(knobs, wheels, etc.)
+pencil|CapableOf|get smaller as it's used
+tiger|HasProperty|orange
+skunk|IsA|mink
+boat|CapableOf|be found on water
+butterfly|HasProperty|an insect
+chisel|CapableOf|be used for drawing
+canoe|HasProperty|colored red
+plum|PartOf|a pear-shaped tropical fruit
+dress|IsA|piece of clothing
+pony|HasProperty|fluffy
+groundhog|HasA|hair/fur
+groundhog|CapableOf|walk on 4 legs
+boat|HasA|an engine
+rattlesnake|IsA|reptile
+toe|AtLocation|on lower body
+rabbit|IsA|mink
+fridge|MadeOf|/mostly made of metal
+camel|HasA|hump 
+camel|HasProperty|fluffy
+wheelbarrow|IsA|an accessory
+tap|HasA|a type of metal
+man|IsA|car
+pony|HasProperty|domesticable (usually)
+dishwasher|HasA|electrical parts
+arm|AtLocation|upper body
+squirrel|HasA|legs
+cabin|MadeOf|one or more rooms
+inn|UsedFor|sleeping in
+ceiling|UsedFor|cooling down
+arm|HasA|bones
+rabbit|IsA|food
+cheetah|IsA|type of big cat
+dishwasher|HasA|power supply
+peach|AtLocation|on a tree or bush
+necklace|HasProperty|worn on the neck
+trousers|CapableOf|keep 2 legs covered
+cannon|IsA|weapon
+cottage|HasA|roof
+ant|HasA|walking
+necklace|HasProperty|something to be worn
+rifle|UsedFor|bullets
+cottage|IsA|permanent structure
+cat|HasProperty|carnivorous
+meat|HasA|green label
+princess|IsA|occupation
+brush|UsedFor|hair
+squirrel|HasProperty|furry
+sheep|IsA|teeth
+knees|PartOf|lower body
+pen|MadeOf|writing
+aunt|CapableOf|become pregnant 
+finger|PartOf|upper body
+magazine|UsedFor|entertainment
+dress|IsA|item of clothing
+glass|IsA|bottle
+drill|AtLocation|typically at a construction site
+bathroom|CapableOf|be used home
+coat|HasProperty|made to wear outdoors
+elbow|PartOf|pair (comes in pairs)
+hare|HasA|big ears
+sofa|IsA|furniture
+blood|IsA|edible part of other animals
+arm|IsA|body part
+ship|CapableOf|float 
+pen|AtLocation|construction site
+wife|CapableOf|become pregnant 
+goat|IsA|food
+meal|UsedFor|dinner
+kidney|IsA|edible part of other animals
+scissors|MadeOf|writing
+wrist|AtLocation|upper body
+dog|HasProperty|smaller than a desk
+mouth|IsA|(one of five) human senses
+spatula|MadeOf|/mostly made of metal
+jeans|PartOf|pair
+rabbit|CapableOf|jump
+grapefruit|IsA|fruit
+stereo|IsA|electric 
+jet|AtLocation|in the air
+rope|UsedFor|a vehicle
+shoes|PartOf|pair
+plug|UsedFor|electronic uses
+bacon|IsA|part of a pig
+pistol|CapableOf|shoot stuff out
+window|PartOf|building
+cheetah|IsA|type of cat
+vulture|HasProperty|able to be domesticated
+cod|AtLocation|in sea
+roof|PartOf|house
+cello|HasProperty|played with a bow
+belt|UsedFor|restraining things
+snail|MadeOf|small animals
+hand|AtLocation|upper body
+pliers|AtLocation|in a toolbox
+sheep|AtLocation|on a farm 
+wrist|MadeOf|upper body parts
+cockroach|CapableOf|flying
+avocado|PartOf|a pear-shaped tropical fruit
+rabbit|AtLocation|at the supermarket deli
+jacket|HasProperty|a piece of clothing
+bike|HasA|circular component 
+violin|UsedFor|sound
+rabbit|IsA|teeth
+bar|PartOf|building
+sauce|IsA|colour red
+finger|AtLocation|below where a watch is
+brother|IsA|direct relation with you
+bayonet|IsA|weapon 
+alligator|CapableOf|live in water
+pony|HasA| mane (hair on it)
+tiger|IsA|teeth
+skirt|UsedFor|covering legs
+worm|IsA|plant
+elephant|HasA|4 legs
+avocado|HasA|single hard pit
+pear|HasA|seed/seeds/pit
+banana|HasA|yellow color
+pear|HasA|(usually) edible skin
+tray|HasProperty|part of a car
+zebra|HasA|tail
+bed|CapableOf|can you sit on it
+avocado|HasProperty|a green food
+fingers|UsedFor|waving
+chandelier|CapableOf|generate light
+chicken|HasA|red shell when cooked
+pencil|HasA|graphite center
+hose|CapableOf|be wrapped around something
+vulture|PartOf|wild life
+plug|HasA|a type of metal
+mink|UsedFor|swimming
+cranberry|AtLocation|be found on a bush
+piano|IsA|instrument
+strawberry|AtLocation|be found on a bush
+uncle|HasProperty|a family member
+deer|HasA|horn
+blender|CapableOf|hold water
+steak|UsedFor|dinner
+gown|HasProperty|worn by woman (usually)
+window|HasProperty|enclosed
+grenade|IsA|thrown item
+tap|UsedFor|water
+cougar|IsA|like a cat
+flea|HasA|walking
+avocado|HasProperty|round/oval
+ship|CapableOf|fly
+saxophone|CapableOf|usually be played  with mouth
+blender|AtLocation|on a countertop
+flea|IsA|plant
+goat|IsA|n animal
+horse|AtLocation|in africa
+crayon|IsA|cuting
+kettle|CapableOf|be plugged in
+woman|IsA|female (strictly)
+king|IsA|male
+duck|HasA|wings
+crayon|CapableOf|to paint
+tape|HasProperty|round shaped
+raspberry|HasProperty|sweet
+skirt|MadeOf|threads
+girl|IsA|female (strictly)
+necklace|UsedFor|lighting
+steak|HasProperty|meaty
+worker|IsA|male
+crocodile|IsA|amphibian
+pistol|IsA|firearm
+roof|AtLocation|outside of a home
+alligator|HasA| 4 limbs
+coat|IsA|hospital equipment
+piano|HasA|ivory keys
+flute|CapableOf|be held in hand
+mother|HasA|baby on it 
+tap|CapableOf|provide water
+piano|HasA|keyboard
+snail|IsA|crustecean
+sheep|AtLocation|jungle
+house|UsedFor|sleeping in
+aunt|HasProperty|a picture of a female
+celery|HasProperty|a green food
+pen|CapableOf|to paint
+raspberry|HasA|(usually) edible skin
+radio|CapableOf|make or play music
+tuba|IsA|wind instrument
+mixer|HasA|string or line
+supper|HasProperty|eaten for breakfast
+daughter|HasA|blood relation with you
+strainer|HasProperty|circular
+orange|HasProperty|a citrus fruit
+spoon|CapableOf|hold water
+sink|CapableOf|be plumbed in
+harmonica|CapableOf|usually be played  with mouth
+hand|HasProperty|upper body
+gun|IsA|weapon
+elbow|IsA|limb
+lamp|CapableOf|generate light
+eagle|HasProperty|a predator
+elk|HasA|hair/fur
+cello|MadeOf|strings
+mink|MadeOf|animals or plants
+frog|AtLocation|at the supermarket deli
+cigarette|HasProperty|makes light
+thigh|AtLocation|below waist
+elbow|AtLocation|below the waist
+rabbit|IsA|herbivore
+aunt|IsA|family member
+worker|IsA|profession
+church|IsA|public building (typically)
+hand|HasProperty|something humans have two of
+knees|HasProperty|lower body
+pony|UsedFor|a mode of transport
+shoulder|AtLocation|in your upper body
+cupboard|UsedFor|storage
+rocker|IsA|related to music 
+rabbit|HasA|fur
+cod|AtLocation|at sea
+pants|IsA|hospital equipment
+father|HasProperty|a family member
+goat|HasA|fur
+son|IsA|child
+sailboat|HasProperty|a type of watercraft
+horse|HasA| mane (hair on it)
+trombone|UsedFor|sound
+tiger|HasA|horn
+rattlesnake|AtLocation|nature
+plate|CapableOf|commonly be found at home
+fingers|HasProperty|plural (more than one of)
+ant|IsA|bug
+ceiling|PartOf|house
+beetle|HasA|walking
+window|AtLocation|in your apartment
+spear|IsA|weapon
+banana|UsedFor|smoothies
+mouth|PartOf|face
+wrist|PartOf|pair/no more than two
+blood|HasProperty|liquid
+pear|IsA|word beginning with p
+lips|PartOf|face
+dress|AtLocation|on your upper torso
+pencil|CapableOf|to paint
+tin|CapableOf|hold water
+raft|CapableOf|be used with paddles
+frog|HasProperty|four-legged
+crocodile|IsA|reptile
+hose|CapableOf|provide water
+cat|CapableOf|walk fast
+harp|MadeOf|strings
+hose|UsedFor|a typical plumbing job
+kidney|IsA|limb
+dishwasher|CapableOf|hold water
+turtle|IsA|reptile
+trousers|UsedFor|covering legs
+trousers|AtLocation|on lower body
+raccoon|IsA|mammal
+barn|HasProperty|beginning with a letter b
+arm|PartOf|human body
+girlfriend|IsA|female (strictly)
+finger|MadeOf|upper body parts
+tuba|CapableOf|usually be played  with mouth
+lantern|UsedFor|wearing
+ankle|PartOf|the lower body
+corn|HasProperty|yellow or orange
+dishwasher|HasProperty|big
+tent|HasA| 5 letters or less
+raccoon|MadeOf|green
+car|HasA|two rows of seats
+crayon|AtLocation|construction site
+blouse|IsA|hospital equipment
+kidney|AtLocation|on the inside
+thigh|PartOf|lower body
+microwave|IsA|appliance in the kitchen
+crayon|UsedFor|writing
+pistol|CapableOf|be launched/fired
+liquor|HasProperty|alcoholic
+helicopter|AtLocation|in the air
+church|IsA|religious place
+trousers|PartOf|pair
+sheep|HasA| mane (hair on it)
+faucet|UsedFor|water
+yacht|CapableOf|be used on snow
+thigh|AtLocation|below the waist 
+frog|CapableOf|jump
+butter|UsedFor|drinking
+glass|IsA|plant
+paintbrush|HasA|bushy tail
+skis|AtLocation|on a mountain
+nose|PartOf|makeup regimen
+grapefruit|UsedFor|smoothies
+ceiling|PartOf|building
+bagpipe|CapableOf|be held in hand
+caterpillar|HasProperty|an insect
+screwdriver|MadeOf|/mostly made of metal
+screwdriver|PartOf|drawing
+cabin|UsedFor|human living
+giraffe|HasA|hooves
+screwdriver|AtLocation|typically at a construction site
+flute|HasProperty|played with just breath
+prune|IsA|berry
+car|HasProperty|consuming fuel
+leg|IsA|organ
+birch|HasProperty|alive
+harpsichord|HasA|ivory keys
+roof|AtLocation|on top of a house
+hand|HasA|more than 1 finger
+finger|PartOf|hands(including wrist)
+camel|AtLocation|in hot climates 
+donkey|IsA|teeth
+shrimp|AtLocation|at sea
+roof|AtLocation|above your head
+pipe|CapableOf|be used in home
+comb|PartOf|drawing
+ant|HasProperty|an insect
+brow|PartOf|face
+beer|UsedFor|drinking
+liver|AtLocation|in the torso
+otter|HasA|long tail
+rifle|CapableOf|be launched/fired
+cucumber|IsA|vegetable
+skirt|PartOf|lower waistline
+cabin|IsA|permanent structure
+spoon|CapableOf|be held in your hand
+mixer|HasProperty|related with electricity
+prune|HasA|stone inside
+man|HasProperty|male
+spear|IsA|man made thing
+skirt|IsA|typically female clothing item
+cockroach|IsA|colorful 
+magazine|MadeOf|paper
+finger|IsA|body part
+sink|CapableOf|hold water
+ceiling|CapableOf|be used home
+butter|IsA|diary food
+cow|HasA|hooves
+falcon|PartOf|wild life
+bison|AtLocation|in water
+stereo|IsA|digital device
+bison|IsA|violent creature
+mixer|UsedFor|listening to music
+rattlesnake|IsA|colorful 
+arm|AtLocation|below where a watch is
+knee|HasProperty|lower body
+screws|CapableOf|commonly be found at home
+caribou|IsA|has horns
+fingers|HasProperty|related with hand
+banjo|CapableOf|easily carried around
+deer|HasA|antlers or tusks
+moth|CapableOf|fly
+cigarette|IsA|hospital equipment
+avocado|HasA|seed/seeds/pit
+saxophone|IsA|brass instrument
+girlfriend|HasProperty|exclusively female
+hare|CapableOf|eat palm nuts
+fridge|CapableOf|make things cold
+pliers|PartOf|drawing
+dress|CapableOf|be worn
+finger|AtLocation|upper body
+giraffe|UsedFor|broadcast
+neck|CapableOf|carrying objects
+saxophone|MadeOf|strings
+truck|IsA|powered vehicle
+steak|IsA|part of a pig
+scarf|HasProperty|worn on the neck
+toe|AtLocation|bottom half of body
+willow|HasProperty|alive
+frog|CapableOf|walk fast
+dishwasher|IsA|larger than a child
+thigh|AtLocation|on lower body
+son|IsA|male
+blouse|HasA|sleeves
+faucet|HasA|a type of metal
+elephant|IsA|household pet
+cow|IsA|teeth
+olive|PartOf|eating
+raspberry|CapableOf|be eaten in one bite
+fingers|PartOf|hands(including wrist)
+bathroom|IsA|part of a building
+window|PartOf|room
+ankle|AtLocation|bottom half of body
+lime|IsA|citrus fruit
+goat|UsedFor|a source of milk
+leg|IsA|part of the skeleton
+spoon|CapableOf|fit a puppy inside
+bison|HasA|horn
+grenade|IsA|weapon
+elbow|HasA|less than three joints
+elbow|IsA|specific joint
+blouse|HasProperty|something that can be worn
+rattlesnake|CapableOf|hunt other animals
+beetle|CapableOf|fly
+rattlesnake|CapableOf|walk fast
+cow|CapableOf|be domesticated
+roof|PartOf|building
+neck|AtLocation|below mouth
+fan|HasA|turning elements(knobs, wheels, etc.)
+cheetah|IsA|like a cat
+bridge|IsA|permanent structure
+sofa|CapableOf|be used to sleep
+toaster|AtLocation|on a countertop
+cello|UsedFor|sound
+princess|HasProperty|exclusively female
+jeans|HasProperty|worn below the waist
+toaster|IsA|electrical appliance
+potato|IsA|food
+floor|AtLocation|at ground level
+pear|PartOf|a red the color of
+plum|IsA|word beginning with p
+rabbit|CapableOf|be domesticated
+saxophone|UsedFor|blowing
+drill|PartOf|drawing
+duck|IsA|alive 
+raft|UsedFor|riding on water
+trombone|CapableOf|be blown into
+boy|HasProperty|steel
+bacon|HasProperty|a single item
+wrist|UsedFor|breaking down a door
+trout|IsA|fish
+bedroom|MadeOf|one or more rooms
+worker|HasProperty|male
+man|IsA|male
+horse|IsA|herbivore
+pony|HasA|hooves
+moth|CapableOf|flying
+otter|UsedFor|swimming
+lantern|IsA|source of light
+deck|PartOf|room
+giraffe|HasA|long neck
+crocodile|HasProperty|dangerous
+lobster|HasA|red shell when cooked
+cousin|HasA|blood relation with you
+fridge|HasProperty|using electricity
+elk|HasA|antlers or tusks
+pigeon|PartOf|wild life
+crocodile|AtLocation|jungle
+cigarette|UsedFor|wearing
+trumpet|UsedFor|blowing
+alligator|HasA|trunk
+tiger|HasA| mane (hair on it)
+eagle|IsA|bird of prey
+kettle|IsA|electric powered item
+carpet|CapableOf|be used to sleep
+bedroom|IsA|permanent structure
+zebra|AtLocation|in africa
+finger|HasA|less than three joints
+camel|UsedFor|carrying items at the store
+truck|UsedFor|land suitable one
+truck|UsedFor|single person transport
+mother|HasProperty|a female
+ankle|AtLocation|below the waist 
+frog|IsA|plant
+pear|HasA|edible skin
+skin|AtLocation|on your head
+walls|AtLocation|in your apartment
+finger|HasProperty|related with hand
+shoes|UsedFor|feet
+wasp|CapableOf|flying
+son|IsA|man
+butter|HasProperty|a liquid
+snail|CapableOf|walk fast
+floor|CapableOf|be shattered 
+fan|IsA|mostly black in colour
+ceiling|HasProperty|enclosed
+grenade|CapableOf|be held in a hand
+pepper|IsA|vegetable
+pipe|HasProperty|circular
+floor|AtLocation|inside of an apartment
+knees|AtLocation|below the waist 
+duck|CapableOf|eating
+shirt|HasProperty|a piece of clothing
+kettle|MadeOf|/mostly made of metal
+butterfly|HasA|walking
+pencil|PartOf|drawing
+clamp|HasProperty|round shaped
+cockroach|IsA|insect
+bowl|CapableOf|fly
+clock|IsA|hospital equipment
+trumpet|CapableOf|be blown into
+grapefruit|HasA|usually inedible skin
+wife|UsedFor|a married person
+lamp|HasProperty|electric powered
+fridge|UsedFor|storing food 
+arm|HasA|more than 1 finger
+foot|HasProperty|lower body
+prune|HasA|edible skin (usually)
+actress|IsA|job or profession
+raspberry|IsA|berry
+brush|AtLocation|construction site
+tractor|UsedFor|farming
+turtle|AtLocation|nature
+shotgun|CapableOf|blow things up
+girl|HasA|color
+boy|IsA|person
+elk|HasA|horn or antler
+shoulder|HasProperty|part of a pair, usually
+wheel|CapableOf|roll
+shoes|CapableOf|keep legs warm
+bedroom|CapableOf|contain items
+meal|HasA|vegetable(s)
+caterpillar|IsA|bug
+neck|IsA|part of the body
+clarinet|UsedFor|sound
+toe|HasProperty|below the waist 
+walls|PartOf|house
+peach|HasA|stone 
+neck|IsA|limb
+microwave|UsedFor|making food
+skis|CapableOf|be used in snow
+trousers|IsA|worn on the lower body
+hyena|IsA|type of cat
+moth|IsA|bug
+chandelier|AtLocation|on the ceiling
+tower|HasA|diagram on it
+grapefruit|HasProperty|round/oval
+squirrel|HasA|long tail
+goat|HasA| mane (hair on it)
+barrel|UsedFor|daily usage 
+muscle|IsA|limb
+elephant|HasA|legs
+razor|CapableOf|be used for hair
+donkey|UsedFor|a mode of transport
+stereo|CapableOf|produce sound (directly or cabled)
+toe|AtLocation|below your waist
+shoulder|IsA|upper body part
+saxophone|HasA|valves
+nurse|HasA|the color brown in it
+neck|HasProperty|upper body
+raspberry|IsA|bitter fruit
+girl|UsedFor|transportation
+bike|UsedFor|single person transport
+rifle|CapableOf|shoot stuff out
+ant|PartOf|water
+rabbit|IsA|animal with long ears
+camel|IsA|an animal
+typewriter|HasA|keyboard
+son|IsA|direct relation with you
+groundhog|AtLocation|underground
+foot|AtLocation|below waist
+drill|UsedFor|daily usage 
+dog|HasA|paws
+father|IsA|man
+bone|HasA|bones
+crab|HasA|claws
+bathroom|HasA|glass
+umbrella|IsA|white object
+bolts|AtLocation|kitchen
+flute|MadeOf|woodwind
+actress|HasProperty|exclusively female
+grenade|CapableOf|lifted by one hand
+orange|IsA|red  or orang
+turtle|IsA|amphibian
+hose|UsedFor|harm
+ship|IsA| mode of transportation 
+screwdriver|CapableOf|be used for drawing
+fridge|HasProperty|electrically powered
+butterfly|HasA|no legs
+cart|UsedFor|broadcast
+girlfriend|HasProperty|female
+elephant|AtLocation|in africa
+mole|MadeOf|green
+owl|HasProperty|a predator
+catfish|AtLocation|at sea
+boots|CapableOf|be tied
+kettle|CapableOf|change temperature of things
+room|AtLocation|inside of an apartment
+blouse|HasProperty|made to wear outdoors
+arm|HasA|foot attached 
+hawk|CapableOf|fly
+ant|AtLocation|nature
+foot|PartOf|lower body
+thigh|AtLocation|bottom half of body
+kettle|AtLocation|on a countertop
+orange|IsA|citrus fruit
+stereo|CapableOf|directly make sound(using speakers)
+lamp|HasProperty|makes light
+skirt|HasProperty|a piece of clothing
+spider|HasProperty|an insect
+jeep|HasProperty|consuming fuel
+razor|CapableOf|be used for drawing
+camel|AtLocation|at the supermarket deli
+porcupine|IsA|mammal
+pigeon|HasA|wings
+skirt|IsA|hospital equipment
+giraffe|HasA|spots or stripes
+caterpillar|HasA|legs, six or more
+tractor|HasA|an engine
+deer|HasA|hair/fur
+magazine|UsedFor|reading
+boy|HasA|the color brown in it
+bedroom|AtLocation|at your home
+jeans|IsA|worn on the lower body
+pipe|HasProperty|flexible
+wheel|AtLocation|kitchen
+dog|UsedFor|food products
+walls|PartOf|room
+hare|HasProperty|4 letters long
+banana|PartOf|a red the color of
+avocado|UsedFor|cooking
+pistol|UsedFor|shooting
+trumpet|IsA|instruments with buttons
+muscle|AtLocation|on your head
+potatoes|UsedFor|recipes 
+caterpillar|CapableOf|walk fast
+tape|UsedFor|a typical plumbing job
+boots|UsedFor|warming upper body
+kite|HasA|large wingspan
+skateboard|HasA|wheels
+knife|HasA|sharp edge
+tray|HasA|handle
+elbow|IsA|joint
+bison|MadeOf|a living thing
+radio|UsedFor|electronic uses
+raccoon|HasProperty|originated from north america
+pistol|IsA|hand-held weapon
+wheel|UsedFor|daily usage 
+bedroom|AtLocation|in the room you sleep
+boots|IsA|piece of clothing
+giraffe|UsedFor|carrying items at the store
+fridge|IsA|electrical appliance
+shrimp|HasA|shell
+crab|IsA|water animal
+faucet|IsA| kitchen appliance 
+cottage|HasA|own altar
+dress|HasProperty|a long clothing item
+necklace|IsA|accessory
+girlfriend|CapableOf|become pregnant 
+pencil|AtLocation|construction site
+grapefruit|IsA|bitter fruit
+leg|IsA|on the lower half 
+tower|AtLocation|on the outside of building
+lamp|CapableOf|give off light/glow
+sister|PartOf|close blood relative
+horse|AtLocation|typically europe
+trumpet|CapableOf|usually be played  with mouth
+camel|HasA|hooves
+lantern|IsA|hospital equipment
+microwave|AtLocation|on a countertop
+cod|HasA|red shell when cooked
+pen|IsA|cuting
+duck|MadeOf|red
+pear|HasA|yellow color
+man|IsA|person
+trombone|IsA|instrument
+wife|HasA|marital relationship with you
+eye|HasProperty|on a person's exterior
+father|HasProperty|a picture of a female
+goat|CapableOf|eating
+ladle|CapableOf|scoop things
+walls|PartOf|garage
+daughter|IsA|direct relation with you
+banjo|HasA|neck
+buffalo|HasA|horn or antler
+rattlesnake|HasProperty|dangerous
+camel|UsedFor|riding
+bed|HasProperty|placed horizontally (longest dimension)
+kite|IsA|bird of prey
+salad|CapableOf|be used as an appetizer
+trumpet|CapableOf|be played with mouth
+hose|UsedFor|dispensing water
+turtle|HasProperty|four-legged
+scarf|AtLocation|on neck
+tractor|HasA|wheels
+horse|HasProperty|fluffy
+meat|UsedFor|recipes 
+drill|CapableOf|to paint
+scissors|CapableOf|be used for drawing
+toaster|CapableOf|be plugged in
+cockroach|IsA|plant
+ankle|HasProperty|lower body
+deck|PartOf|house
+worm|IsA|colorful 
+eagle|IsA|alive 
+prune|HasA|single hard pit
+hare|MadeOf|green
+chandelier|UsedFor|light
+lantern|HasProperty|electric powered
+coconut|HasA|edible skin
+dishwasher|HasProperty|using electricity
+gown|HasProperty|a piece of clothing
+paintbrush|IsA|cuting
+alligator|HasProperty|dangerous
+flea|IsA|colorful 
+door|IsA|appliance in the kitchen
+screwdriver|IsA|cuting
+yacht|HasA|engine
+deer|PartOf|herd
+cheetah|IsA|predator 
+shirt|HasProperty|made to wear outdoors
+yacht|HasProperty|a type of watercraft
+spider|IsA|colorful 
+finger|HasA|more than one joint
+shotgun|CapableOf|lifted by one hand
+knee|AtLocation|below the waist 
+pants|PartOf|lower waistline
+scarf|UsedFor|wearing
+building|IsA|permanent structure
+hare|IsA|sad
+ship|UsedFor|carrying 10 plus people
+cow|AtLocation|at the supermarket deli
+leg|HasA|foot attached 
+thigh|HasProperty|lower body
+avocado|HasA|big seed
+harpsichord|UsedFor|sound
+plug|IsA|electric 
+jeep|HasA|wheels
+prune|PartOf|a red the color of
+boat|AtLocation|on water
+inn|IsA|public building (typically)
+liquor|IsA|liquid
+turtle|IsA|colorful 
+finger|HasProperty|more than one for people
+iguana|IsA|reptile
+lime|PartOf|eating
+window|PartOf|house
+pear|HasA|edible skin (usually)
+kidney|HasProperty|filled or made of fluid
+scissors|HasProperty|sharp
+grapefruit|AtLocation|on a tree or bush
+donkey|CapableOf|be domesticated
+beaver|CapableOf|climb trees
+tap|IsA| kitchen appliance 
+microwave|CapableOf|working
+piano|UsedFor|sound
+kettle|HasProperty|electrically powered
+avocado|HasA|one big hard seed
+mother|IsA|younger person
+trousers|HasProperty|covering the legs
+stereo|IsA|electronic device
+hose|HasA|a type of metal
+dress|AtLocation|over your knees
+cougar|HasA|thick body
+elephant|UsedFor|travel
+stereo|HasA|turning elements(knobs, wheels, etc.)
+lamb|IsA|food
+coconut|HasA|usually inedible skin
+toilet|CapableOf|can you sit on it
+turtle|HasA|walking
+hand|HasA|foot attached 
+raspberry|PartOf|a red the color of
+blender|IsA|appliance
+trombone|HasA|strings
+gun|CapableOf|blow things up
+cigarette|UsedFor|lighting
+elbow|HasA|bones
+necklace|AtLocation|on neck
+mink|CapableOf|walk on 4 legs
+cathedral|AtLocation|at christian belief country
+donkey|HasA| mane (hair on it)
+turtle|AtLocation|in a river 
+eggplant|UsedFor|meat replacement
+drill|CapableOf|be used in home
+fingers|IsA|plural
+iguana|HasA| 4 limbs
+leopard|IsA|type of big cat
+radio|UsedFor|music related entertainment
+pistol|CapableOf|fire bullets
+balloon|CapableOf|fly
+elbow|UsedFor|a fight
+leg|HasProperty|below the waist 
+raspberry|AtLocation|on a tree or bush
+flute|CapableOf|be blown into
+bison|HasA| mane (hair on it)
+lamb|MadeOf|red
+cabin|HasProperty|a place where people live
+beaver|HasA|hair/fur
+wasp|IsA|plant
+daughter|HasProperty|two syllables
+stick|CapableOf|be used for drawing
+hawk|IsA|sea bird
+lime|CapableOf|delicious
+elbow|UsedFor|waving
+leg|HasProperty|a large part
+pipe|UsedFor|daily usage 
+lamp|MadeOf|glass
+pony|HasProperty|smaller than a desk
+arm|HasProperty|related with hand
+chicken|HasProperty|red
+gun|HasProperty|made for violence
+guitar|CapableOf|be held in hand
+church|AtLocation|at christian belief country
+beaver|AtLocation|on tree
+wine|HasProperty|alcoholic
+spider|IsA|household pet
+gorilla|IsA|herbivore
+trumpet|CapableOf|be held in hand
+trousers|UsedFor|warming upper body
+banana|HasProperty|a yellow fruit
+mother|HasA|multiple people pictured
+lantern|HasProperty|makes light
+guitar|HasA|neck
+rabbit|HasProperty|furry
+elephant|IsA|violent creature
+cabin|HasA| 5 letters or less
+boy|HasProperty|male
+trousers|IsA|piece of clothing
+floor|UsedFor|tiling
+groundhog|CapableOf|climb trees
+dishwasher|HasProperty|electrically powered
+rattlesnake|AtLocation|underground
+trousers|HasProperty|usually blue
+trout|IsA|water animal
+ceiling|PartOf|garage
+beetle|IsA|insect
+daughter|PartOf|close blood relative
+tuba|HasA|3 buttons exactly
+rope|IsA|mostly black in colour
+hyena|MadeOf|a living thing
+aunt|HasA|blood relation with you
+foot|HasProperty|below the waist 
+pigeon|HasProperty|able to be domesticated
+rifle|HasProperty|longer than one foot
+tuna|HasA|red shell when cooked
+seagull|HasA|large wingspan
+blood|IsA|cancer related card
+eye|AtLocation|inside
+socks|PartOf|lower waistline
+forearm|PartOf|upper extremity(not including shoulders)
+accordion|CapableOf|be held in hand
+mother|HasA|blood relation with you
+arm|HasProperty|on a person's exterior
+moth|IsA|insect
+wasp|IsA|bug
+door|PartOf|the entrance to a room
+tank|IsA|vessel
+avocado|HasProperty|oval/round
+hare|HasA|hair/fur
+tiger|UsedFor|carrying items at the store
+eggplant|HasA|any green on it 
+mug|MadeOf|ceramic materials
+lamb|IsA|n animal
+princess|IsA|female (strictly)
+scissors|HasA|sharp cutting edge
+salmon|AtLocation|at sea
+flea|IsA|insect
+duck|HasProperty|red
+mink|HasA|hair/fur
+apartment|MadeOf|one or more rooms
+elephant|HasProperty|four-legged
+neck|HasProperty|on a person's exterior
+hose|IsA|mostly black in colour
+hand|PartOf|upper body
+son|IsA|family member
+cherry|HasA|skin you eat
+skirt|UsedFor|by mainly women
+ceiling|PartOf|room
+spoon|MadeOf|metal
+cannon|HasProperty|made for violence
+blood|HasProperty|filled or made of fluid
+bison|IsA|has horns
+donkey|UsedFor|food products
+camel|UsedFor|travel
+bed|MadeOf|wood
+guitar|IsA|instrument
+jeep|HasA|an engine
+pants|HasProperty|worn below the waist
+giraffe|HasA|hump
+ceiling|PartOf|a house
+frog|IsA|teeth
+raspberry|IsA|fruit
+hand|HasA|more than one joint
+skunk|HasA|long tail
+cougar|MadeOf|a living thing
+screws|UsedFor|harm
+carpet|CapableOf|be sat on
+ceiling|AtLocation|above your head
+bed|HasA|start with a b
+mug|HasA|handle
+mink|IsA|this is more responsive heeyyy
+strawberry|CapableOf|be eaten in one bite
+alligator|HasProperty|living in water
+lips|IsA|part of the body
+jeans|UsedFor|warming upper body
+mink|IsA|mammal
+wheel|MadeOf|wood
+ox|AtLocation|in hot climates 
+elbow|PartOf|upper body
+window|PartOf|garage
+broccoli|IsA|green vegetable
+tuna|IsA|fish
+plate|IsA|vessel
+microwave|IsA|electrical appliance
+daughter|HasA|a blood relation with you
+boy|IsA|noun
+cougar|CapableOf|hunt for prey
+snail|HasA|a shell
+plum|AtLocation|on a tree or bush
+skunk|CapableOf|burn
+rifle|HasA|finger trigger
+toaster|UsedFor|making food
+clamp|CapableOf|capable of make loud sounds
+apartment|IsA|place to live permanently
+fridge|PartOf|kitchen appliance
+kite|HasA|wings
+horse|UsedFor|riding
+elk|IsA|has horns
+cannon|CapableOf|be launched/fired
+brow|PartOf|makeup regimen
+neck|PartOf|body
+nurse|IsA|profession
+deck|AtLocation|outside a house
+rabbit|HasA|big ears
+fingers|PartOf|human body
+stork|HasProperty|usually mostly white colored
+hyena|IsA|type of big cat
+sofa|CapableOf|be sat on
+cabin|HasProperty|part of a plane
+cod|HasA|fins
+elephant|HasA|antlers or tusks
+coat|UsedFor|covering legs
+coconut|PartOf|eating
+flute|UsedFor|blowing
+saxophone|CapableOf|be blown into
+zebra|IsA|herbivore
+oven|CapableOf|be plugged in
+deer|IsA|teeth
+octopus|IsA|water animal
+rabbit|MadeOf|red
+horse|AtLocation|on a farm 
+pear|HasA|peel
+curtains|CapableOf|opening/closing
+mole|CapableOf|walk on 4 legs
+pistol|CapableOf|used in war
+wife|IsA|family member
+beetle|AtLocation|nature
+mouth|UsedFor|eating
+wrist|HasProperty|upper body
+toe|PartOf|the upper body
+man|IsA|noun
+inn|HasProperty|typically a rentable location
+mink|HasProperty|living in water
+bison|HasA|big horns/tusk
+beetle|IsA|bug
+walls|AtLocation|at ground level
+tongue|IsA|part of the body
+elk|PartOf|herd
+hyena|HasA|thick body
+actress|HasA|the color brown in it
+squid|AtLocation|at sea
+trousers|HasProperty|a piece of clothing
+lemon|IsA|citrus fruit
+plate|HasProperty|part of a car
+wrist|AtLocation|below where a watch is
+flute|CapableOf|be played with mouth
+pine|HasProperty|alive
+alligator|AtLocation|in a river 
+kidney|AtLocation|inside
+truck|HasA|wheels
+avocado|HasProperty|sweet
+stove|IsA|appliance in the kitchen
+paper|IsA|bottle
+trout|IsA|one syllable word
+leg|PartOf|lower body
+beans|UsedFor|meat replacement
+bowl|IsA| mode of transportation 
+rabbit|HasA|long ears
+elephant|IsA|an animal
+skunk|IsA|sad
+elephant|UsedFor|human transport
+pipe|CapableOf|contain water
+cupboard|AtLocation|on a countertop
+groundhog|AtLocation|north america (specifically)
+elephant|AtLocation|in hot climates 
+bolts|CapableOf|be used in home
+bedroom|UsedFor|keeping privacy 
+son|IsA|direct relation
+tank|UsedFor|firing artillery
+vulture|HasProperty|a predator
+liver|IsA|limb
+wasp|IsA|insect
+toe|AtLocation|below the waist 
+clamp|UsedFor|a typical plumbing job
+deer|HasA| mane (hair on it)
+cousin|IsA|man
+grenade|IsA|hand-held weapon
+bridge|AtLocation|across a river
+chisel|MadeOf|/mostly made of metal
+plum|IsA|physical fruit or veg
+wrist|PartOf|pair (comes in pairs)
+shoes|AtLocation|foot
+frog|CapableOf|be domesticated
+actress|IsA|noun
+neck|HasA|bones
+princess|IsA|royal title
+elbow|MadeOf|upper body parts
+coconut|HasProperty|sweet
+kettle|IsA|cylinder
+elk|IsA|mammal
+tomato|HasProperty|red
+trout|AtLocation|at sea
+eagle|HasProperty|able to be domesticated
+squid|HasA|legs
+frog|UsedFor|food products
+squirrel|IsA|mammal
+avocado|HasProperty|yellow
+cousin|HasProperty|a blood relative
+tap|UsedFor|a typical plumbing job
+chandelier|CapableOf|give off light/glow
+onions|IsA|n ingredient for sauce
+squirrel|IsA|rodent
+blender|UsedFor|making food
+zebra|HasA|hump
+squirrel|IsA|colorful 
+blood|IsA|organ
+clarinet|UsedFor|blowing
+toe|IsA|on the lower half 
+walls|AtLocation|inside of an apartment
+bison|HasA|horns 
+barrel|HasProperty|circular
+chicken|AtLocation|in water
+lantern|UsedFor|light
+bike|UsedFor|land suitable one
+apartment|HasProperty|typically a rentable location
+mother|HasProperty|exclusively female
+piano|MadeOf|strings
+ankle|HasA|bones
+wife|HasProperty|a picture of a female
+stereo|CapableOf|consume electricity
+sink|MadeOf|/mostly made of metal
+hand|HasProperty|part of a pair
+bed|AtLocation|at your home
+kettle|HasA|electrical parts
+nurse|HasA|an adult on it
+squirrel|IsA|herbivore
+deck|IsA|part of a building
+plum|HasProperty|sweet
+bike|HasA|handle
+dress|CapableOf|cover your full body
+cupboard|CapableOf|open/close
+tongue|PartOf|face
+vulture|CapableOf|fly
+jet|UsedFor|transportation
+canoe|UsedFor|water
+robe|HasA|male on it
+inn|HasProperty|made of concrete
+lobster|HasA|tail
+finger|HasA|thumb
+raccoon|HasA|long tail
+tomato|MadeOf|something edible
+catfish|HasA|fins
+trombone|HasA|tube
+tray|AtLocation|in the kitchen
+dress|HasA|sleeves
+tiger|IsA|type of big cat
+fridge|IsA|larger than a child
+arm|PartOf|pair/no more than two
+lamb|IsA|animal
+wife|IsA|direct relation
+fan|CapableOf|working
+faucet|UsedFor|a typical plumbing job
+lemon|HasProperty|a citrus fruit
+rock|CapableOf|working
+skirt|IsA|piece of clothing
+bean|HasProperty|smaller than your thumb
+turtle|HasA|a shell
+walls|PartOf|a house
+banana|HasA|peel
+cupboard|UsedFor|keeping privacy 
+lamb|CapableOf|eating
+doctor|AtLocation|in a hospital
+snail|IsA|mammal
+canoe|CapableOf|be used on snow
+faucet|UsedFor|dispensing water
+pigeon|IsA|alive 
+blouse|HasProperty|worn by woman (usually)
+mug|CapableOf|be held to drink
+rabbit|HasA|long ear
+goat|IsA|animal
+boots|PartOf|lower waistline
+cheese|CapableOf|delicious
+sandwich|HasProperty|eaten for breakfast
+toe|HasA|nail
+spade|IsA|tool
+butterfly|CapableOf|fly
+jeans|HasProperty|covering the legs
+coyote|CapableOf|walk on 4 legs
+truck|CapableOf|hold more than one person
+wrist|PartOf|upper extremity(not including shoulders)
+deer|IsA|mammal
+avocado|IsA|fruit
+yacht|AtLocation|in water
+chandelier|MadeOf|/contain glass
+mirror|UsedFor|lighting
+lantern|CapableOf|generate light
+finger|HasProperty|upper body
+paper|IsA|plant
+paper|IsA|fragile
+cherry|HasA|edible skin
+nurse|HasA|head
+jeep|UsedFor|farming
+toaster|UsedFor|cooking food
+squirrel|IsA|household pet
+chicken|MadeOf|something edible
+ankle|AtLocation|below the knee
+tank|HasA|an engine
+tomato|AtLocation|in water
+rabbit|IsA|meat or animal
+hawk|IsA|alive 
+radio|AtLocation|at an electronics store
+kettle|CapableOf|be held in your hand
+eagle|HasA|large wingspan
+fingers|AtLocation|upper body
+woman|HasA|friends on it
+necklace|UsedFor|wearing
+aunt|HasA|multiple people pictured
+wheel|HasA|wheels
+apartment|HasProperty|made of concrete
+skunk|MadeOf|green
+tiger|CapableOf|fly
+fridge|HasProperty|big
+screwdriver|CapableOf|to paint
+saxophone|HasA|reed to make it work
+car|UsedFor|land suitable one
+prune|HasA|(usually) edible skin
+ship|UsedFor|transportation in water
+horse|HasProperty|domesticable (usually)
+toe|IsA|part of the skeleton
+wheel|AtLocation|at home
+throat|AtLocation|below mouth
+fan|CapableOf|be turned on
+stove|IsA|electrical appliance
+fingers|HasA|more than 1 finger
+airplane|HasA|wings
+oven|UsedFor|heating items up
+giraffe|IsA|herbivore
+bungalow|HasProperty|for the rich
+tape|CapableOf|work without electricity
+mink|IsA|bottle
+camel|AtLocation|in africa
+leg|PartOf|body
+mother|UsedFor|a married person
+supper|UsedFor|dinner
+shrimp|HasA|legs/tentacles 
+peach|IsA|fruit
+plum|HasA|(usually) edible skin
+plug|AtLocation|at an electronics store
+finger|IsA|part of the body
+pants|HasProperty|covering the legs
+foot|AtLocation|on lower body
+duck|IsA|n animal
+hand|PartOf|body
+tap|AtLocation|kitchen
+leg|AtLocation|below the waist
+spatula|CapableOf|to paint
+otter|HasProperty|5 letters long
+prune|CapableOf|be eaten in one bite
+frog|AtLocation|nature
+crocodile|CapableOf|bite
+lime|HasProperty|a citrus fruit
+kettle|CapableOf|hold water
+tractor|HasProperty|consuming fuel
+boat|MadeOf|metal
+sister|HasA|multiple people pictured
+plum|IsA|bitter fruit
+boat|IsA|small vessel 
+floor|CapableOf|be used home
+cat|HasProperty|fluffy
+sled|CapableOf|be used on snow
+sandwich|UsedFor|dinner
+plum|UsedFor|smoothies
+peach|HasA|single hard pit
+chandelier|HasProperty|makes light
+raccoon|CapableOf|walk on 4 legs
+tongue|UsedFor|eating
+crab|AtLocation|at sea
+blender|IsA|electrical appliance
+grapefruit|HasA|yellow color
+bottle|CapableOf|be held to drink
+walls|HasProperty|touches ground
+nail|IsA|organ
+rocker|CapableOf|be use for transportation
+hawk|HasProperty|able to be domesticated
+rope|UsedFor|can your card used home
+tent|AtLocation|at your home
+sink|UsedFor|washing dishes
+mink|AtLocation|water usually
+milk|IsA|liquid
+bedroom|CapableOf|be used to sleep
+scissors|IsA|cuting
+pants|CapableOf|keep legs warm
+ankle|AtLocation|below waist
+mink|CapableOf|climb trees
+lantern|MadeOf|/contain glass
+boat|CapableOf|carry multiple people
+tiger|HasA|stripes
+actress|IsA|profession
+eggplant|IsA|purple vegetable
+clarinet|IsA|instrument
+coat|HasProperty|usually worn as outer layer
+hyena|AtLocation|in hot climates 
+chapel|UsedFor|a place of worship
+groundhog|HasProperty|originated from north america
+tongue|HasProperty|used for tasting
+robe|IsA|white object
+candle|UsedFor|lighting
+coat|MadeOf|threads
+door|CapableOf|opening/closing
+boat|UsedFor|carrying 10 plus people
+beans|IsA|vegetable
+bagpipe|UsedFor|sound
+flute|IsA|instrument
+curtains|UsedFor|sleep
+crayon|PartOf|drawing
+jacket|HasA|piece of clothing that opens 
+cat|IsA|common pet
+squirrel|CapableOf|walk fast
+fridge|CapableOf|working
+chicken|MadeOf|red
+shirt|HasA|sleeves
+raspberry|PartOf|group or bunch 
+ladle|MadeOf|steel mostly
+alligator|CapableOf|be found in the water
+rabbit|HasProperty|fluffy
+pen|UsedFor|containing livestock
+wife|HasA|baby on it 
+vulture|HasA|wings
+chapel|IsA|religious place
+girl|CapableOf|become pregnant 
+bolts|AtLocation|in a toolbox
+toaster|UsedFor|heating items up
+camel|HasA|horn
+tank|HasA|caterpillar treads
+nurse|HasProperty|a picture of a female
+blood|AtLocation|on the inside
+rocket|CapableOf|use electricity
+nurse|IsA|noun
+pine|IsA|christmas scent
+squid|IsA|mollusk
+avocado|PartOf|a red the color of
+house|HasProperty|a black and white picture
+scooter|CapableOf|roll
+faucet|CapableOf|provide water
+crocodile|HasProperty|carnivorous
+banana|HasProperty|yellow
+toilet|CapableOf|be plumbed in
+screws|UsedFor|shooting
+cat|UsedFor|food products
+fingers|HasA|more than one joint
+piano|HasA|strings
+ant|IsA|slow mover
+jacket|HasA|sleeves
+nose|IsA|part of the body
+tower|IsA|part of a building
+violin|MadeOf|strings
+deer|HasA|short/thick fur
+gown|HasProperty|a long clothing item
+sauce|MadeOf|cup
+scissors|MadeOf|/mostly made of metal
+house|IsA|permanent structure
+candle|CapableOf|be set alight with match
+mug|AtLocation|in the kitchen
+crab|HasA|red shell when cooked
+milk|UsedFor|drinking
+mixer|UsedFor|mixing audio inputs
+whisky|HasProperty|alcoholic
+worm|IsA|slow mover
+caterpillar|HasA|no legs
+door|MadeOf|wood typically
+coat|HasProperty|worn on the bottom half
+fridge|CapableOf|change temperature of things
+stereo|AtLocation|at an electronics store
+ant|IsA|plant
+rattlesnake|IsA|long animal
+wasp|HasProperty|an insect
+pipe|AtLocation|at home
+cannon|UsedFor|shooting
+boat|CapableOf|be used on snow
+car|HasProperty|a big heavy motor vehicle
+pants|MadeOf|threads
+mother|HasA|color
+drill|MadeOf|/mostly made of metal
+skunk|IsA|plant
+raccoon|AtLocation|on tree
+mole|IsA|mink
+tap|MadeOf|metal
+skunk|IsA|fragile
+elbow|HasProperty|part of a pair, usually
+raspberry|UsedFor|smoothies
+daughter|HasA|multiple people pictured
+hose|CapableOf|work without electricity
+alligator|CapableOf|walk on 4 legs
+truck|MadeOf|metal
+shoulder|MadeOf|upper body parts
+fingers|IsA|body part
+violin|HasA|neck
+king|AtLocation|in a royal family
+scarf|AtLocation|neck
+violin|HasA|keys
+pear|PartOf|a pear-shaped tropical fruit
+rope|HasA|string or line
+caterpillar|CapableOf|fly
+cupboard|UsedFor|storing objects or clothes
+bedroom|HasProperty|beginning with a letter b
+skunk|CapableOf|be held 
+ankle|HasProperty|on a person's exterior
+goat|HasProperty|smaller than a desk
+bed|UsedFor|keeping privacy 
+woman|HasProperty|a picture of a female
+aunt|HasProperty|female
+lemon|HasA|usually inedible skin
+accordion|UsedFor|sound
+rabbit|HasA|hair/fur
+fridge|IsA|electric powered item
+turtle|HasA|legs
+whisky|HasProperty|a liquid
+closet|UsedFor|storage
+caterpillar|IsA|insect
+toe|CapableOf|carrying objects
+jacket|HasProperty|made to wear outdoors
+alligator|IsA|predator
+vulture|IsA|alive 
+plate|CapableOf|hold water
+bacon|UsedFor|dinner
+forearm|HasProperty|something humans have two of
+rocker|CapableOf|be turned on
+drill|AtLocation|construction site
+supper|HasProperty|two syllables
+dog|CapableOf|be kept inside a bedroom
+onions|IsA|vegetable
+flute|HasA|reed to make it work
+gown|UsedFor|by mainly women
+dishwasher|IsA|electric powered item
+goat|HasProperty|red
+cockroach|CapableOf|walk fast
+rattlesnake|HasA|walking
+pencil|UsedFor|drawing or painting
+airplane|IsA| mode of transportation 
+tractor|CapableOf|hold more than one person
+pencil|IsA|cuting
+guitar|MadeOf|strings
+ceiling|CapableOf|have a chimney
+groundhog|IsA|mammal
+colander|UsedFor|washings things in
+eagle|CapableOf|fly
+camel|IsA|herbivore
+squid|IsA|water animal
+perch|IsA|fish
+hawk|IsA|bird of prey
+wrist|AtLocation|in your upper body
+aunt|IsA|sibling
+toe|HasProperty|on a person's exterior
+ankle|IsA|on the lower half 
+necklace|IsA|hospital equipment
+barn|MadeOf|one or more rooms
+blood|AtLocation|in the torso
+duck|CapableOf|fly
+raspberry|HasProperty|red
+avocado|PartOf|citrus tree bearing large round
+bison|HasA|hooves
+daughter|HasProperty|exclusively female
+dishwasher|UsedFor|washing dishes
+celery|HasProperty|something people usually eat raw
+ladle|UsedFor|transferring liquids
+window|UsedFor|supporting a building 
+bacon|HasProperty|eaten for breakfast
+banana|PartOf|citrus tree bearing large round
+arm|HasProperty|something humans have two of
+wife|IsA|female (strictly)
+pineapple|IsA|citrus fruit
+duck|HasProperty|able to be domesticated
+pelican|IsA|sea bird
+chicken|AtLocation|on a farm
+violin|CapableOf|be held in hand
+forearm|AtLocation|upper body
+pear|HasProperty|yellow
+razor|PartOf|drawing
+clock|CapableOf|display information (time/temperature)
+faucet|UsedFor|typically letting water flow through
+dress|HasProperty|a piece of clothing
+cow|IsA|household pet
+flute|UsedFor|sound
+elephant|IsA|teeth
+mixer|IsA| kitchen appliance 
+wasp|CapableOf|fly 
+broom|IsA|man made thing
+pony|AtLocation|typically europe
+bedroom|CapableOf|open/close
+jeans|CapableOf|keep 2 legs covered
+pelican|PartOf|wild life
+rabbit|HasProperty|red
+radio|UsedFor|listening to music
+bed|IsA|man made thing
+forearm|HasProperty|upper body
+rocker|CapableOf|working
+squirrel|HasA|hair/fur
+sailboat|HasA|motor
+worker|IsA|noun
+necklace|MadeOf|threads
+father|IsA|family member
+caribou|HasA|antler
+cousin|IsA|male
+wheel|HasProperty|round shaped
+metal|IsA|bottle
+pipe|MadeOf|wood
+crayon|UsedFor|writing/drawing
+bag|IsA|an accessory
+eye|IsA|cancer related card
+bolts|UsedFor|a typical plumbing job
+sailboat|CapableOf|be used on snow
+stick|PartOf|drawing
+rifle|HasA|trigger
+rope|UsedFor|daily usage 
+fridge|MadeOf|steel mostly
+fridge|CapableOf|be plugged in
+princess|HasProperty|female
+dress|IsA|typically female clothing item
+elbow|IsA|upper body part
+elephant|CapableOf|jump
+chapel|HasA|own altar
+hand|MadeOf|upper body parts
+cat|HasProperty|four-legged
+squirrel|CapableOf|be held 
+coconut|UsedFor|testy
+tray|MadeOf|/mostly made of metal
+muscle|AtLocation|in the torso
+skateboard|UsedFor|land suitable one
+airplane|AtLocation|in the air
+spider|CapableOf|walk fast
+kettle|CapableOf|fit a puppy inside
+chapel|IsA|permanent structure
+dress|MadeOf|threads
+car|CapableOf|carry multiple people
+hose|UsedFor|can your card used home
+orange|CapableOf|delicious
+squirrel|HasA|tail
+jeans|UsedFor|covering legs
+sofa|UsedFor|sleep
+jeans|AtLocation|on lower body
+ship|AtLocation|in water
+skunk|IsA|this is more responsive heeyyy
+screwdriver|AtLocation|in a toolbox
+woman|HasProperty|two syllables
+blender|IsA|electric powered item
+duck|AtLocation|at a beach
+cherry|PartOf|a red the color of
+blender|HasProperty|electrically powered
+walls|PartOf|another card 
+jacket|AtLocation|upper part of body
+finger|PartOf|the upper body
+clamp|HasA|a type of metal
+chicken|CapableOf|eating
+magazine|CapableOf|working
+oven|IsA|appliance in the kitchen
+tiger|IsA|carnivore 
+tiger|HasA|sharp teeth
+faucet|HasA|turning elements(knobs, wheels, etc.)
+skunk|CapableOf|climb trees
+fingers|AtLocation|below where a watch is
+room|HasProperty|enclosed
+cod|IsA|one syllable word
+squirrel|CapableOf|climb on tree
+socks|UsedFor|feet
+paper|CapableOf|burn
+church|IsA|religion buildings
+sheep|HasProperty|fluffy
+salad|HasProperty|eaten for breakfast
+catfish|HasA|name beginning with c
+finger|AtLocation|below mouth
+mixer|UsedFor|electronic uses
+tap|CapableOf|be turned on
+butterfly|CapableOf|fly 
+jet|IsA| mode of transportation 
+mole|IsA|mammal
+ox|MadeOf|a living thing
+banana|IsA|physical fruit or veg
+spear|IsA|weapon 
+toaster|IsA|appliance in the kitchen
+chicken|HasA|wings
+jacket|IsA|item of clothing
+arm|PartOf|body
+mink|MadeOf|green
+screwdriver|MadeOf|writing
+wrist|HasA|less than three joints
+cathedral|UsedFor|religious gathering
+cherry|UsedFor|testy
+goat|AtLocation|at the supermarket deli
+dress|IsA|hospital equipment
+beetle|IsA|slow mover
+violin|HasProperty|played with a bow
+barrel|CapableOf|contain water
+elk|HasA|antlers/tusks
+wine|UsedFor|drinking
+sister|IsA|direct relation
+fingers|MadeOf|upper body parts
+window|CapableOf|be used home
+oven|UsedFor|cooking food
+dishwasher|PartOf|kitchen appliance
+helicopter|CapableOf|fly
+chapel|IsA|religion buildings
+squirrel|HasProperty|four-legged
+tank|CapableOf|use electricity
+porcupine|CapableOf|walk on 4 legs
+cod|IsA|water animal
+giraffe|HasA|horn
+girlfriend|HasProperty|two syllables
+finger|HasA|nails
+guitar|CapableOf|easily carried around
+fingers|AtLocation|in your upper body
+crayon|MadeOf|writing
+butterfly|IsA|insect
+crocodile|CapableOf|be found in the water
+bed|CapableOf|be used to sleep
+house|HasA|roof
+worker|HasA|head
+bison|HasA|thick body
+father|IsA|direct relation
+paintbrush|UsedFor|brushing
+spoon|CapableOf|scoop things
+house|HasProperty|made of concrete
+foot|AtLocation|below the waist 
+catfish|IsA|name begging with c
+toe|IsA|organ
+faucet|CapableOf|control the flow of liquid
+dog|IsA|typical pet
+lantern|MadeOf|glass
+salad|UsedFor|dinner
+tuna|AtLocation|at sea
+cannon|HasA|wheels
+razor|HasA|sharp edge
+cat|AtLocation|nature
+skin|AtLocation|below the knee
+finger|IsA|(one of five) human senses
+shoulder|HasProperty|upper body
+bed|MadeOf|wood typically
+aunt|PartOf|your family
+arm|PartOf|pair (comes in pairs)
+ant|IsA|insect
+dress|HasProperty|worn by woman (usually)
+stereo|UsedFor|listening to music
+hose|HasProperty|flexible
+hare|HasA|long tail
+bison|HasA|fur
+jeans|HasProperty|a piece of clothing
+cow|UsedFor|a source of milk
+gown|AtLocation|over your knees
+ankle|CapableOf|help you walk
+caribou|HasA|antlers
+car|MadeOf|metal
+chisel|HasA|sharp cutting edge
+turtle|HasA| 4 limbs
+skirt|IsA|item of clothing
+boots|UsedFor|wearing on your feet
+curtains|CapableOf|open/close
+cat|HasA|walking
+bridge|HasA|own altar
+pants|IsA|item of clothing
+elbow|IsA|organ
+neck|AtLocation|in your upper body
+finger|PartOf|human body
+cathedral|UsedFor|religious gatherings
+vulture|IsA|bird of prey
+tower|CapableOf|be used home
+plug|AtLocation|kitchen
+gown|HasA|long sleeves
+uncle|IsA|direct relation
+pants|HasProperty|a piece of clothing
+father|IsA|parent of yours
+raccoon|CapableOf|climb trees
+boy|IsA|male
+ankle|CapableOf|carrying objects
+strawberry|IsA|red  or orang
+bike|MadeOf|metal
+skunk|HasA|hair/fur
+finger|PartOf|upper extremity(not including shoulders)
+floor|PartOf|room
+garlic|HasA|have a green stem
+wrist|PartOf|the upper body
+cart|HasA|horn
+barrel|HasProperty|flexible
+truck|CapableOf|carry multiple people
+clarinet|HasProperty|single-reed
+rabbit|PartOf|jumping
+trout|HasA|fins
+room|PartOf|another card 
+rabbit|MadeOf|something edible
+hand|HasProperty|related with hand
+grapefruit|HasProperty|a yellow fruit
+bone|AtLocation|in the torso
+arm|MadeOf|a whole body part
+comb|CapableOf|to paint
+butterfly|IsA|bug
+balloon|HasA|the ability to fly
+stereo|CapableOf|be turned on
+actress|HasProperty|two syllables
+grapefruit|HasA|seed/seeds/pit
+hand|PartOf|hands(including wrist)
+hand|UsedFor|waving
+fawn|CapableOf|walk on 4 legs
+king|IsA|royalty
+barrel|HasProperty|part of a car
+tuna|CapableOf|come in a tin
+hair|AtLocation|on you head
+cranberry|IsA|fruit
+eel|IsA|fish
+pipe|CapableOf|hold water
+wrist|PartOf|hands(including wrist)
+frog|IsA|household pet
+gun|CapableOf|shoot stuff out
+hare|IsA|animal with long ears
+plum|HasA|stone 
+moth|HasA|wings
+rifle|IsA|firearm
+worm|HasProperty|an insect
+pen|CapableOf|make holes 
+iguana|HasA|trunk
+mother|PartOf|your family
+caribou|UsedFor|travel
+hose|HasA|string or line
+wife|HasA|multiple people pictured
+prune|IsA|dried fruit
+mole|HasA|hair/fur
+salmon|HasA|red shell when cooked
+building|HasProperty|beginning with a letter b
+dress|UsedFor|by mainly women
+forearm|PartOf|pair (comes in pairs)
+razor|UsedFor|grooming
+groundhog|CapableOf|go underground
+grenade|HasProperty|made for violence
+gun|CapableOf|be launched/fired
+skateboard|CapableOf|roll
+elbow|PartOf|the upper body
+walls|PartOf|building
+beaver|CapableOf|be held 
+pencil|UsedFor|writing
+floor|PartOf|garage
+house|HasA|own altar
+hare|HasA|long ears
+duck|IsA|animal
+wasp|HasProperty|typically able to fly
+crayon|CapableOf|make holes 
+lantern|UsedFor|camping gear
+banjo|IsA|instrument
+yacht|MadeOf|metal
+trousers|HasProperty|worn below the waist
+drill|UsedFor|building
+chisel|MadeOf|leather
+brother|IsA|direct relation
+cupboard|CapableOf|contain items
+rabbit|IsA|this is more responsive heeyyy
+clarinet|CapableOf|be held in hand
+dishwasher|CapableOf|be plugged in
+tomato|CapableOf|eating
+pelican|HasProperty|able to be domesticated
+body|HasA|bones
+pistol|HasProperty|made for violence
+ankle|HasProperty|below the waist 
+cheetah|PartOf|the cat family
+tape|UsedFor|can your card used home
+eel|AtLocation|at sea
+paintbrush|UsedFor|drawing or painting
+skirt|IsA|worn on the lower body
+clamp|UsedFor|restraining things
+jeans|IsA|piece of clothing
+pot|MadeOf|ceramic materials
+elk|HasA|hooves
+knife|CapableOf|be used for drawing
+car|IsA|powered vehicle
+floor|HasProperty|touches ground
+turtle|CapableOf|walk fast
+bed|AtLocation|inside
+wheel|HasA|two rows of seats
+buggy|HasA|wheels
+tongue|IsA|(one of five) human senses
+walls|HasProperty|enclosed
+blender|IsA|appliance in the kitchen
+beaver|CapableOf|walk on 4 legs
+pliers|AtLocation|construction site
+ankle|AtLocation|below your waist
+gown|UsedFor|covering legs
+uncle|IsA|family member
+brush|HasA|bushy tail
+girlfriend|HasProperty|a picture of a female
+tray|IsA|appliance in the kitchen
+flute|HasA|strings
+dog|HasA|fur
+horse|UsedFor|a mode of transport
+kettle|HasA|power supply
+gun|IsA|hand-held weapon
+coconut|CapableOf|delicious
+pliers|CapableOf|to paint
+cockroach|HasA|walking
+raft|HasProperty|colored red
+gun|CapableOf|be used in home
+rope|UsedFor|a typical plumbing job
+typewriter|UsedFor|writing
+bison|UsedFor|travel
+candle|CapableOf|generate light
+crocodile|UsedFor|carrying items at the store
+tiger|HasA|4 legs
+hare|IsA|this is more responsive heeyyy
+blender|HasA|electrical parts
+bolts|UsedFor|daily usage 
+tractor|UsedFor|land suitable one
+bone|AtLocation|on the inside
+frog|IsA|colorful 
+rabbit|HasA| mane (hair on it)
+room|PartOf|a house
+butterfly|HasA|wings
+roof|AtLocation|on the outside of building
+saxophone|CapableOf|be held in hand
+falcon|HasProperty|able to be domesticated
+floor|AtLocation|in your apartment
+butterfly|IsA|plant
+cello|HasA|neck
+caribou|HasA|antlers/tusks
+candle|UsedFor|camping gear
+carpet|HasProperty|placed horizontally (longest dimension)
+skirt|HasProperty|worn below the waist
+barrel|UsedFor|harm
+olive|CapableOf|delicious
+kettle|HasProperty|consuming electricity
+squirrel|HasA|trunk
+rope|CapableOf|be used in home
+chandelier|UsedFor|wearing
+roof|IsA|part of a building
+mink|HasA|long tail
+drill|UsedFor|screwing
+raspberry|IsA|red  or orang
+elephant|CapableOf|kill a human
+goat|AtLocation|on a farm 
+prune|IsA|word beginning with p
+tuba|CapableOf|be held in hand
+forearm|MadeOf|upper body parts
+daughter|IsA|family member
+squirrel|IsA|this is more responsive heeyyy
+knife|PartOf|drawing
+perch|HasA|fins
+cherry|CapableOf|rhyme with ferry
+oven|IsA|electrical appliance
+cat|HasA|paws
+window|HasA|glass
+gorilla|IsA|predator 
+deck|PartOf|building
+scarf|IsA|accessory
+skirt|AtLocation|on lower body
+paintbrush|MadeOf|/mostly made of metal
+wheel|PartOf|bicycle
+wheel|HasA|a type of metal
+pen|UsedFor|writing
+tuna|IsA|water animal
+onions|HasProperty|needs peeling
+crab|HasA|tail
+razor|MadeOf|/mostly made of metal
+mackerel|CapableOf|come in a tin
+toe|AtLocation|below waist
+truck|UsedFor|farming
+pen|PartOf|drawing
+mink|CapableOf|burn
+canoe|UsedFor|riding on water
+liquor|IsA|alcohol
+supper|HasProperty|smaller than your thumb
+broccoli|HasProperty|green
+deer|HasA|antlers/tusks
+skis|UsedFor|single person transport
+pants|HasProperty|worn on the bottom half
+sled|UsedFor|riding on water
+bagpipe|CapableOf|usually be played  with mouth
+saxophone|IsA|instrument
+shoulder|PartOf|upper body
+hyena|IsA|like a cat
+clamp|MadeOf|metal/steel
+ship|UsedFor|transportation
+trombone|HasA|start with a t
+mixer|UsedFor|music related entertainment
+vulture|HasA|large wing span
+rattlesnake|IsA|plant
+celery|IsA|vegetable
+cat|HasProperty|furry
+comb|UsedFor|grooming
+camel|HasA|hump
+elephant|UsedFor|riding
+avocado|HasA|stone inside
+tomato|IsA|fruit
+crocodile|HasA|stripes
+bison|IsA|carnivore 
+cannon|CapableOf|shoot big metal ball
+shirt|IsA|item of clothing
+ox|HasA|thick body
+forearm|HasA|less than three joints
+hawk|HasA|large wing span
+cart|AtLocation|in africa
+avocado|HasA|edible skin
+gown|AtLocation|on your upper torso
+mouse|IsA|household pet
+dishwasher|IsA|appliance in the kitchen
+boat|HasProperty|a type of watercraft
+celery|IsA|green vegetable 
+camel|CapableOf|fly
+goat|MadeOf|red
+bed|PartOf|set of furniture
+bottle|MadeOf|metal
+otter|AtLocation|water usually
+pineapple|IsA|physical fruit or veg
+bone|IsA|cancer related card
+crab|HasA|big claws
+liver|AtLocation|inside
+cat|PartOf|water
+rifle|IsA|weapon
+canoe|CapableOf|carry multiple people
+girl|IsA|person
+cousin|IsA|profession
+guitar|UsedFor|sound
+bungalow|IsA|permanent structure
+stove|PartOf|kitchen appliance
+lamb|IsA|meat or animal
+garlic|IsA|purple vegetable
+wrist|PartOf|upper body
+coat|AtLocation|on your upper torso
+princess|CapableOf|become pregnant 
+woman|IsA|person
+stove|UsedFor|heating items up
+father|IsA|parentage relation
+knife|HasA|sharp cutting edge
+tin|IsA|bottle
+trombone|CapableOf|usually be played  with mouth
+father|IsA|male
+hose|IsA|vessel
+eye|HasA|bones
+pants|AtLocation|above the feet
+door|CapableOf|be opened and closed
+crayon|CapableOf|get smaller as it's used
+snail|HasProperty|an insect
+rocket|CapableOf|be launched/fired
+hut|HasProperty|a black and white picture
+coconut|HasA|skin you eat
+hare|CapableOf|be held 
+mole|AtLocation|underground
+boots|AtLocation|on lower body
+bedroom|HasA|start with a b
+neck|HasProperty|mostly of cylindrical shape
+neck|IsA|body part
+elephant|MadeOf|a living thing
+duck|HasProperty|domesticated
+steak|IsA|meat
+arm|AtLocation|in your upper body
+trumpet|IsA|instrument
+daughter|IsA|direct relation
+airplane|CapableOf|fly
+screws|MadeOf|wood
+peach|IsA|red  or orang
+gun|CapableOf|used in war
+raft|CapableOf|be used on snow
+room|PartOf|building
+glass|IsA|fragile
+knee|AtLocation|on lower body
+yacht|HasA|motor
+pants|HasA|two seperate pant legs
+knife|MadeOf|leather
+bridge|HasA| place for worship
+foot|AtLocation|below your waist
+neck|MadeOf|upper body parts
+wife|IsA|profession
+goat|HasProperty|domesticable (usually)
+gate|IsA|component of a home
+king|IsA|ruler of a kingdom
+wrist|IsA|joint
+bike|CapableOf|roll
+harp|CapableOf|be held in hand
+trout|HasA|red shell when cooked
+gun|HasA|finger trigger
+salad|HasA|green label
+paintbrush|UsedFor|writing/drawing
+clamp|HasA|turning elements(knobs, wheels, etc.)
+eagle|IsA|sea bird
+mole|CapableOf|be held 
+beetle|HasProperty|an insect
+cigarette|CapableOf|give off light/glow
+aunt|IsA|immediate relation with you
+scarf|IsA|hospital equipment
+paper|MadeOf|animals or plants
+cherry|IsA|fruit
+crocodile|CapableOf|fly
+shoulder|UsedFor|breaking down a door
+avocado|HasProperty|something people usually eat raw
+barrel|CapableOf|store or transport water
+octopus|AtLocation|at sea
+buffalo|HasA|antlers/tusks
+horse|HasA|tail
+father|HasA|blood relationship with you
+glass|CapableOf|hold water
+chandelier|UsedFor|lighting
+boat|IsA| mode of transportation 
+daughter|IsA|younger person
+shoulder|HasA|less than three joints
+elbow|AtLocation|upper body
+brush|IsA|cuting
+rifle|UsedFor|shooting
+screws|UsedFor|building
+blender|CapableOf|fit a puppy inside
+perch|IsA|one syllable word
+nurse|IsA|person
+worker|IsA|person
+mother|IsA|direct or immediate relation
+perch|HasA|red shell when cooked
+cranberry|IsA|berry
+arm|IsA|limb
+tower|HasProperty|typically vertical
+fawn|HasA|antlers/horns
+skateboard|CapableOf|be used in snow
+raccoon|HasA|hair/fur
+garlic|HasProperty|white
+scarf|IsA|item of clothing
+hand|PartOf|upper extremity(not including shoulders)
+tape|CapableOf|capable of make loud sounds
+cupboard|IsA|appliance in the kitchen
+ship|AtLocation|on water
+ant|CapableOf|walk fast
+drill|IsA|construction tool
+squirrel|AtLocation|on tree
+cherry|HasA|(usually) edible skin
+strawberry|AtLocation|on a tree or bush
+hose|CapableOf|commonly be found at home
+cat|HasProperty|smaller than a desk
+broccoli|HasProperty|a green food
+duck|CapableOf|be a household pet
+actress|HasProperty|a picture of a female
+rabbit|IsA|household pet
+camel|UsedFor|a mode of transport
+celery|HasProperty|green
+moth|HasA|walking
+blouse|IsA|white object
+woman|HasA|color
+grapefruit|PartOf|a red the color of
+plate|CapableOf|be used in home
+lamb|AtLocation|in water
+harmonica|CapableOf|be held in hand
+jeans|PartOf|lower waistline
+bacon|HasProperty|mainly meat
+ladle|CapableOf|hold water
+dress|PartOf|lower waistline
+tank|UsedFor|war
+wheel|MadeOf|metal/steel
+elbow|PartOf|upper extremity(not including shoulders)
+neck|IsA|part of the skeleton
+dog|HasProperty|carnivorous
+kettle|IsA|appliance
+bison|HasA|short/thick fur
+elephant|IsA|mammal
+spade|CapableOf|be used in the house
+elk|HasA|antlers
+rabbit|IsA|common pet
+pelican|AtLocation|at a beach
+clamp|MadeOf|steel mainly
+goat|HasProperty|used for milk for humans
+pistol|HasA|trigger
+hare|IsA|herbivore
+buzzard|HasProperty|a predator
+banana|IsA|long fruit
+raft|AtLocation|in water
+church|UsedFor|a place of worship
+gown|AtLocation|above the feet
+car|HasA|an engine
+skunk|IsA|bottle
+brush|UsedFor|brushing
+squirrel|IsA|carnivore
+rabbit|CapableOf|walk on 4 legs
+avocado|HasA|yellow color
+potato|MadeOf|something edible
+violin|HasA|strings
+stereo|CapableOf|make or play music
+microwave|UsedFor|heating items up
+cherry|PartOf|citrus tree bearing large round
+trumpet|HasA|tube
+worm|CapableOf|walk fast
+tray|AtLocation|at home
+bolts|UsedFor|building
+toe|PartOf|an appendage
+shrimp|IsA|water animal
+leg|UsedFor|a fight
+roof|AtLocation|above your head in general
+cat|CapableOf|be domesticated
+nail|HasProperty|on a person's exterior
+fridge|UsedFor|cooling food
+bison|HasProperty|fluffy
+mother|HasA|blood relationship with you
+eel|IsA|water animal
+eagle|CapableOf|attack others
+bed|IsA|component of a home
+knees|PartOf|the lower body
+grenade|HasA|trigger
+yacht|HasA|wheels
+pineapple|HasA|usually inedible skin
+candle|HasProperty|electric powered
+radio|CapableOf|produce sound (directly or cabled)
+grapefruit|HasProperty|oval/round
+horse|HasA|4 legs
+plate|UsedFor|daily usage 
+elk|HasA|antler
+cupboard|MadeOf|wood
+onions|HasProperty|yellow or orange
+rabbit|IsA|mammal
+clock|AtLocation|on a wall or ceiling
+gown|HasA|sleeves
+cod|IsA|fish
+falcon|HasA|large wing span
+bagpipe|MadeOf|strings
+caterpillar|IsA|plant
+clarinet|HasA|reed to make it work
+window|HasProperty|typically vertical
+toaster|PartOf|kitchen appliance
+wrist|IsA|specific joint
+tractor|CapableOf|carry multiple people
+blender|PartOf|kitchen appliance
+arm|IsA|organ
+pony|HasProperty|used in races
+scissors|PartOf|drawing
+sailboat|UsedFor|riding on water
+coyote|HasA|hair/fur
+rabbit|CapableOf|eat palm nuts
+girl|HasProperty|exclusively female
+muscle|AtLocation|inside
+cranberry|AtLocation|on a tree or bush
+onions|MadeOf|something edible
+pants|CapableOf|be worn
+squirrel|HasA|walking
+deer|HasA|hooves
+woman|HasProperty|female
+tower|HasProperty|enclosed
+pony|IsA|teeth
+dog|CapableOf|be domesticated
+sheep|UsedFor|a source of milk
+actress|IsA|occupation
+coconut|HasA|hard shell
+paintbrush|UsedFor|crafts
+shotgun|HasA|finger trigger
+socks|AtLocation|on your feet
+cottage|HasProperty|part of a plane
+kite|PartOf|wild life
+rabbit|IsA|n animal
+blouse|AtLocation|on your upper torso
+plastic|CapableOf|burn
+pliers|MadeOf|/mostly made of metal
+cello|CapableOf|easily carried around
+falcon|HasA|large wingspan
+daughter|PartOf|your family
+hose|AtLocation|kitchen
+bison|HasA|horn or antler
+rifle|CapableOf|fire bullets
+tank|CapableOf|used in war
+rope|UsedFor|restraining things
+raspberry|HasA|edible skin
+beetle|HasA|legs, six or more
+grapefruit|IsA|red  or orang
+pants|UsedFor|warming upper body
+chapel|IsA|public building (typically)
+ant|HasA|legs, six or more
+saxophone|CapableOf|be played with mouth
+parakeet|CapableOf|be a household pet
+lime|UsedFor|testy
+princess|IsA|profession
+horse|HasProperty|the name of a chestpiece
+crocodile|AtLocation|in a river 
+arm|HasProperty|mostly of cylindrical shape
+roof|HasProperty|typically vertical
+camel|MadeOf|a living thing
+car|HasA|engine
+eye|AtLocation|below the knee
+banana|PartOf|group or bunch 
+mixer|UsedFor|can your card used home
+radio|CapableOf|make sound
+princess|HasProperty|royalty
+kite|CapableOf|fly
+sink|AtLocation|on a countertop
+chisel|AtLocation|in a toolbox
+elbow|IsA|part of the skeleton
+lamp|UsedFor|providing light
+uncle|IsA|male
+elephant|HasA|antlers/tusks
+foot|AtLocation|below the knee
+spatula|MadeOf|leather
+spoon|UsedFor|transferring liquids
+boots|CapableOf|keep legs warm
+hare|CapableOf|walk on 4 legs
+worker|HasA|pay check
+faucet|CapableOf|be turned on
+balloon|AtLocation|in the air
+window|PartOf|another card 
+mixer|CapableOf|consume electricity
+hand|AtLocation|in your upper body
+wall|UsedFor|lighting
+crocodile|HasA|sharp teeth
+throat|IsA|part of the body
+barn|HasA|start with a b
+floor|PartOf|a house
+hyena|AtLocation|in asia or africa
+squirrel|CapableOf|jump
+daughter|IsA|child
+rock|UsedFor|entertainment
+cat|IsA|colorful 
+skirt|AtLocation|above the feet
+rock|CapableOf|make sound
+tent|HasProperty|part of a plane
+mixer|CapableOf|make sound
+clarinet|HasA|strings
+clarinet|CapableOf|be blown into
+king|IsA|direct relation with you
+microwave|CapableOf|be plugged in
+bungalow|MadeOf|one or more rooms
+soup|IsA|liquid
+trombone|CapableOf|be held in hand
+orange|AtLocation|on a tree or bush
+mouth|IsA|part of the body
+brush|MadeOf|writing
+beer|IsA|liquid
+screwdriver|AtLocation|construction site
+scooter|HasA|handle
+knees|HasProperty|below the waist 
+worker|HasProperty|a profession
+shoes|IsA|piece of clothing
+onions|IsA|food
+deck|HasA|diagram on it
+strainer|MadeOf|wood
+man|IsA|head
+banana|HasA|usually inedible skin
+shoulder|AtLocation|upper body
+clarinet|HasA|valves
+toe|AtLocation|below the knee
+coat|HasProperty|a piece of clothing
+butterfly|HasProperty|typically able to fly
+cupboard|MadeOf|wood typically
+strawberry|IsA|berry
+trombone|IsA|wind instrument
+rabbit|HasProperty|domesticable (usually)
+radio|CapableOf|directly make sound(using speakers)
+princess|PartOf|royalty
+girl|HasProperty|a female
+raccoon|HasProperty|known for a bushy tail
+tank|IsA|weapon
+flute|HasA|tube
+octopus|IsA|mollusk
+cherry|IsA|red  or orang
+screwdriver|UsedFor|driving screws
+inn|IsA|permanent structure
+gown|PartOf|lower waistline
+thigh|UsedFor|walking
+chocolate|UsedFor|recipes 
+mackerel|HasA|red shell when cooked
+gun|CapableOf|be held in a hand
+raft|HasProperty|a type of watercraft
+kettle|MadeOf|metal
+hand|PartOf|pair (comes in pairs)
+saucer|UsedFor|food
+bedroom|MadeOf|wood typically
+woman|CapableOf|become pregnant 
+scarf|CapableOf|be worn
+camel|IsA|teeth
+paintbrush|CapableOf|writing
+brother|IsA|male
+garlic|UsedFor|testy
+giraffe|AtLocation|in africa
+pliers|AtLocation|typically at a construction site
+alligator|IsA|reptile
+plate|AtLocation|at home
+rocket|UsedFor|harm
+fan|CapableOf|capable of make loud sounds
+mirror|MadeOf|glass
+rope|AtLocation|kitchen
+church|UsedFor|religious gatherings
+scooter|MadeOf|metal
+leg|AtLocation|on lower body
+ankle|IsA|joint
+beaver|IsA|herbivore
+sheep|HasProperty|domesticable (usually)
+hair|AtLocation|on your head
+wheel|CapableOf|be used in home
+butterfly|CapableOf|walk fast
+mixer|CapableOf|produce sound (directly or cabled)
+donkey|HasProperty|domesticable (usually)
+milk|MadeOf|cup
+radio|HasA|turning elements(knobs, wheels, etc.)
+sofa|HasProperty|placed horizontally (longest dimension)
+sheep|CapableOf|be domesticated
+trousers|CapableOf|keep legs warm
+falcon|CapableOf|attack others
+alligator|IsA|amphibian
+tap|UsedFor|can your card used home
+pen|UsedFor|writing/drawing
+boat|UsedFor|transportation
+donkey|HasProperty|fluffy
+cat|IsA|typical pet
+truck|HasA|engine
+trousers|PartOf|lower waistline
+worker|IsA|occupation
+cat|IsA|household pet
+cherry|HasProperty|sweet
+sugar|UsedFor|recipes 
+saucer|CapableOf|fly
+pliers|IsA|construction tool
+tomato|HasProperty|sweet
+tap|UsedFor|typically letting water flow through
+doctor|IsA|professional
+candle|MadeOf|/contain glass
+alligator|HasA|legs
+girl|HasProperty|a picture of a female
+razor|CapableOf|to paint
+boat|CapableOf|float 
+arm|PartOf|pair
+coat|HasA|long sleeves
+kettle|IsA|appliance in the kitchen
+flute|IsA|wind instrument
+raspberry|AtLocation|be found on a bush
+crocodile|HasA|tail
+ankle|UsedFor|walking
+door|CapableOf|open/close
+onions|AtLocation|in water
+pipe|IsA|vessel
+necklace|CapableOf|be worn
+grapefruit|HasA|peel
+garlic|UsedFor|cooking
+caribou|IsA|herbivore
+cloak|HasA|piece of clothing that opens 
+bathroom|HasProperty|enclosed
+potato|MadeOf|red
+horse|UsedFor|transportation
+nurse|AtLocation|in a hospital
+sister|PartOf|your family
+typewriter|UsedFor|typing on paper
+mother|PartOf|close blood relative
+skunk|AtLocation|on tree
+typewriter|PartOf|drawing
+wife|IsA|younger person
+spider|IsA|insect
+elephant|AtLocation|in asia or africa
+gate|AtLocation|at your home
+porcupine|HasA|obvious defense mechanism
+mink|HasProperty|4 letters long
+shotgun|IsA|weapon
+flea|IsA|bug
+brush|CapableOf|be used for hair
+squirrel|IsA|plant
+mixer|IsA|related to music 
+rattlesnake|HasProperty|poisonous
+trombone|IsA|brass instrument
+necklace|AtLocation|neck
+pencil|MadeOf|writing
+bridge|IsA|public building (typically)
+rifle|CapableOf|lifted by one hand
+lamp|UsedFor|wearing
+ceiling|CapableOf|be shattered 
+worker|HasProperty|royalty
+mixer|CapableOf|make or play music
+lemon|HasA|seeds
+skirt|CapableOf|be worn
+cougar|AtLocation|in hot climates 
+hose|CapableOf|contain water
+barrel|IsA|vessel
+camel|UsedFor|crossing deserts
+wine|IsA|liquid
+camel|AtLocation|jungle
+camel|HasProperty|domesticable (usually)
+cherry|HasA|stone inside
+elbow|CapableOf|carrying objects
+mole|HasProperty|4 letters long
+tower|PartOf|house
+falcon|CapableOf|fly
+sheep|HasA|hooves
+tap|CapableOf|work without electricity
+wheel|CapableOf|hold more than one person
+hare|IsA|mammal
+forearm|PartOf|the upper body
+wrist|HasProperty|something humans have two of
+apartment|UsedFor|human living
+pepper|HasA|seeds
+elephant|IsA|herbivore
+donkey|HasA|hooves
+elephant|HasA| 4 limbs
+pelican|HasA|wings
+jeep|CapableOf|carry multiple people
+perch|AtLocation|at sea
+bed|AtLocation|in the room you sleep
+squirrel|HasA| 4 limbs
+mixer|CapableOf|capable of make loud sounds
+clarinet|IsA|wind instrument
+elephant|HasA|thick body
+lobster|IsA|water animal
+saxophone|IsA|wind instrument
+pony|AtLocation|jungle
+cougar|IsA|type of big cat
+candle|IsA|hospital equipment
+bungalow|UsedFor|human living
+hawk|CapableOf|attack others
+chisel|CapableOf|to paint
+sauce|IsA|liquid
+skirt|UsedFor|warming upper body
+salad|HasProperty|smaller than your thumb
+ox|HasA|horns 
+perch|IsA|water animal
+catfish|IsA|fish
+sister|IsA|profession
+inn|HasA|roof
+cheese|PartOf|eating
+elk|HasA|antlers/horns
+ankle|IsA|organ
+mirror|UsedFor|wearing
+skateboard|UsedFor|single person transport
+beaver|IsA|mammal
+falcon|IsA|sea bird
+wood|IsA|bottle
+pelican|CapableOf|fly
+pony|UsedFor|riding
+actress|IsA|profession/title
+wheel|HasA|circular component 
+dress|HasProperty|worn on the bottom half
+jacket|HasProperty|usually worn as outer layer
+cart|UsedFor|carrying items at the store
+otter|HasA|webbed and clawed feet
+ankle|IsA|part of the skeleton
+mole|CapableOf|go underground
+shield|IsA|logo
+salad|HasProperty|two syllables
+avocado|HasA|stone 
+falcon|HasA|wings
+bag|AtLocation|on your upper torso
+prune|HasA|edible skin
+neck|AtLocation|upper body
+truck|HasA|more than two wheels
+snail|IsA|insect
+worker|HasProperty|a picture of a female
+arm|HasProperty|upper body
+elephant|HasA|horns 
+coyote|IsA|predator
+buggy|CapableOf|carry multiple people
+porcupine|CapableOf|climb trees
+skirt|CapableOf|keep legs warm
+catfish|IsA|water animal
+fawn|PartOf|herd
+raspberry|CapableOf|rhyme with ferry
+wheel|UsedFor|harm
+skis|UsedFor|snow
+wasp|HasA|wings
+leg|AtLocation|below the waist 
+toe|PartOf|upper body
+skirt|HasProperty|something that can be worn
+mink|IsA|mink
+eagle|HasA|wings
+beetle|HasA|wings
+lemon|PartOf|eating
+banjo|CapableOf|be held in hand
+caterpillar|HasA|walking
+cherry|HasA|single hard pit
+spatula|UsedFor|cooking
+yacht|CapableOf|hold more than fifty people
+roof|HasA|diagram on it
+knees|IsA|joint
+helicopter|HasA|the ability to fly
+spider|CapableOf|kill a human
+drill|CapableOf|be used for drawing
+mother|HasProperty|female
+goat|AtLocation|in water
+prune|PartOf|group or bunch 
+stereo|HasProperty|related with electricity
+prince|IsA|ruler of a kingdom
+shoes|PartOf|lower waistline
+son|IsA|parentage relation
+kettle|IsA|electrical appliance
+butter|IsA|block
+flea|CapableOf|walk fast
+leopard|CapableOf|climbing trees
+lemon|IsA|fruit
+pants|IsA|piece of clothing
+robe|HasA|piece of clothing that opens 
+hand|PartOf|human body
+zebra|HasA|horn
+fawn|HasA|hooves
+prince|IsA|direct relation
+kidney|IsA|cancer related card
+paintbrush|MadeOf|writing
+church|IsA|permanent structure
+yacht|HasA|an engine
+arm|PartOf|the upper body
+tent|IsA|4 letter word
+hose|CapableOf|transport liquids
+tuna|HasProperty|a large fish
+door|UsedFor|sleep
+aunt|IsA|younger person
+sandwich|MadeOf|bread
+arm|AtLocation|below the waist
+thigh|HasProperty|below the waist 
+room|IsA|part of a building
+wine|IsA|alcohol
+leg|AtLocation|on furniture
+daughter|HasProperty|a picture of a female
+rabbit|CapableOf|be held 
