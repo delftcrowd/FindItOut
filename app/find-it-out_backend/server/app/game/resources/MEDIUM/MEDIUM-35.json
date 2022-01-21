@@ -1,0 +1,265 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "basement",
+      "image_urls": [
+        "https://www.ussu.co.uk/events/PublishingImages/50762604_1050380401812311_3411702263645732864_n.png",
+        "https://www.albodeuren.nl/wp-content/uploads/2018/03/Basement_Modern.png",
+        "https://www.mybasementdoctor.com/wp-content/uploads/2019/11/bd-logo-1.png",
+        "https://www.finishedbasementsplus.com/wp-content/uploads/2019/09/FPB-Logo-1024x537.png",
+        "https://escaperoomthegame.com/images/nl-NL/basement-logo.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "the ground floor facade or interior in Renaissance architecture"
+      ]
+    },
+    {
+      "id": "funeral",
+      "image_urls": [
+        "https://www.uitvaartbloemen.com/contents/media/k_500801118-Volop-in-het-leven-ovaal.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Herinnering-Rouwboeket.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/rouwboeket-kleurrijk.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Oneindig-Gegroepeerd-300x300.png",
+        "https://www.fdanz.co.nz/assets/Nature_Kowhai-Whitewash-with-spray__ResizedImageWzgwMCw1MzNd.png"
+      ],
+      "definitions": [
+        "a ceremony at which a dead person is buried or cremated"
+      ]
+    },
+    {
+      "id": "mail",
+      "image_urls": [
+        "https://files.seniorweb.nl/uploadedimages/wwwseniorwebnl/thema/e-mail/opgemaakte-tekst-naar-mail-thumb.png",
+        "https://www.dotslines.nl/wp-content/uploads/2017/04/Mail-icoontje.png",
+        "https://www.windows-helpdesk.nl/wp-content/uploads/2018/08/Mail.png",
+        "https://i2.wp.com/www.appletips.nl/wp-content/uploads/2013/09/mail-logo-7-retina.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/High-contrast-emblem-mail.svg/1200px-High-contrast-emblem-mail.svg.png"
+      ],
+      "definitions": [
+        "the bags of letters and packages that are transported by the postal service",
+        "the system whereby messages are transmitted via the post office",
+        "a conveyance that transports the letters and packages that are conveyed by the postal system",
+        "any particular collection of letters or packages that is delivered",
+        "(Middle Ages) flexible armor made of interlinked metal rings"
+      ]
+    },
+    {
+      "id": "shed",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://leonard.nyc3.digitaloceanspaces.com/media/user_v1oz1Yz27j/2662/Customize%20yours%20Shed%20B-MBY1-1016-701-Metal.png",
+        "https://www.pinuphouses.com/wp-content/uploads/a-frame-shed-plans-1.png"
+      ],
+      "definitions": [
+        "an outbuilding with a single story; used for shelter or storage"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "trunk",
+      "image_urls": [
+        "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c650956/images/large/83280654_1.png",
+        "https://images.selency.com/8c0f5e70-9a9c-4637-896d-399043953445/wooden-travel-trunk_original.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/h/a/harrow_medium_trunk-old_saddle_black_copy.png",
+        "https://images.selency.com/1ac2d1fd-4c06-43db-9872-9c6bf586aeb0/old-mail-trunk-in-zinc-sheathed-95-x-55-x-50-travel-trunk-liner-1900-1920_original.png",
+        "https://cdn11.bigcommerce.com/s-6gssxq8qcf/products/12962/images/21427/Olive_Seward_Trunk_1__44698.1621449166.386.513.png"
+      ],
+      "definitions": [
+        "the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber",
+        "luggage consisting of a large strong case used when traveling or for storage",
+        "the body excluding the head and neck and limbs",
+        "compartment in an automobile that carries luggage or shopping or tools",
+        "a long flexible snout as of an elephant"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "attic",
+      "image_urls": [
+        "https://energycodeace.com/site/custom/public/reference-ace-2016/ImagesExt/image6738_15.png",
+        "https://hintzebelts.com/wp-content/uploads/2017/09/atticboardset.png",
+        "https://www.datocms-assets.com/38021/1617972282-attic-splash-570.png",
+        "https://d2zrc47ziwc8va.cloudfront.net/images/eas/Efficient-Attic-Solution.png",
+        "https://h7y7d6g6.rocketcdn.me/wp-content/uploads/2018/12/KORE-Loft-Insulated-Attic-Flooring-System-3D-Product.png"
+      ],
+      "definitions": [
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+        "informal terms for a human head",
+        "(architecture) a low wall at the top of the entablature; hides the roof"
+      ]
+    },
+    {
+      "id": "boxes",
+      "image_urls": [
+        "https://www.paardekooper.nl/static/uploads/pictures/normal/377320.png",
+        "https://www.paardekooper.nl/static/uploads/pictures/normal/378138.png",
+        "https://www.paardekooper.nl/static/uploads/pictures/normal/383264.png",
+        "https://thepackagingpeople.com.au/wp-content/uploads/2020/06/2020-TPP-PACK-BOX-SML-NK-PRINT-copy.png",
+        "https://static.cdn.packhelp.com/wp-content/uploads/2019/10/06151150/ecommerce-delivery-box-packhelp-kva.png"
+      ],
+      "definitions": [
+        "a (usually rectangular) container; may have a lid",
+        "private area in a theater or grandstand where a small group can watch the performance",
+        "the quantity contained in a box",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a rectangular drawing",
+        "evergreen shrubs or small trees",
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+        "the driver's seat on a coach",
+        "separate partitioned area in a public place for a few people",
+        "a blow with the hand (usually on the ear)"
+      ]
+    },
+    {
+      "id": "trash",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/ramotion/512/Trash.png",
+        "https://static.macupdate.com/products/8214/l/trash-it-logo.png",
+        "https://www.eastpikeland.org/vertical/Sites/%7B3F7567AD-BA35-41A6-9117-FD7892D5A0DA%7D/uploads/Trashcan.png",
+        "https://bubblebinz.com/wp-content/uploads/2020/05/empty-clean-trash.png",
+        "https://www.toter.com/sites/default/files/2021-05/can-5_1.png"
+      ],
+      "definitions": [
+        "worthless material that is to be disposed of",
+        "worthless people",
+        "nonsensical talk or writing",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant"
+      ]
+    },
+    {
+      "id": "cellar",
+      "image_urls": [
+        "https://www.cellar33.nl/wp-content/uploads/2019/11/product_placeholder-min.png",
+        "https://airsource.co.uk/static/cellar2/img/search-n-sort-mob%402x.png",
+        "https://images.vivino.com/thumbs/maI-HAyKRHGACeSFl4wTgQ_pb_x600.png",
+        "https://static.whiskybase.com/storage/whiskies/1/8/0369/312054-normal.png",
+        "https://images.vivino.com/thumbs/FCm5JhOvQK-abOyZszXa4Q_pl_375x500.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "an excavation where root vegetables are stored",
+        "storage space where wines are stored"
+      ]
+    },
+    {
+      "id": "warehouse",
+      "image_urls": [
+        "https://cdn0.it4profit.com/files/27/warehouse.png",
+        "https://www.epg.com/fileadmin/_processed_/f/8/csm_Warehouse_Management_System_LFS_4bb254a9c4.png",
+        "https://www.critical-environment.com/images/applications/Distribution-warehouse-695x461.png",
+        "https://static.wikia.nocookie.net/bigbusiness/images/e/e8/Warehouse.png",
+        "https://techhq.com/wp-content/uploads/2019/07/shutterstock_396462703-copy-3.png"
+      ],
+      "definitions": [
+        "a storehouse for goods and merchandise"
+      ]
+    },
+    {
+      "id": "loft",
+      "image_urls": [
+        "https://www.loftloft.nl/wp-content/uploads/2020/09/Logo-loft-png.png",
+        "https://vepa.nl/wp-content/uploads/2021/02/Loft_008_Prd_MeetSit_10043367_Transparent.png",
+        "https://woneninhout.nl/wp-content/uploads/Koda-Loft-3D-tekening-met-aanduidingen-ruimtes.png",
+        "https://woneninhout.nl/wp-content/uploads/KODA-Loft-Micro-3d-vrijstaand.png",
+        "https://vepa.nl/wp-content/uploads/2021/02/Loft_009_Prd_MeetSit_10036769_Transparent.png"
+      ],
+      "definitions": [
+        "floor consisting of a large unpartitioned space over a factory or warehouse or other commercial space",
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "(golf) the backward slant on the head of some golf clubs that is designed to drive the ball high in the air",
+        "a raised shelter in which pigeons are kept"
+      ]
+    },
+    {
+      "id": "container",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://images.ctfassets.net/gc5htdx4kcus/4OHleWuGTa6mdbSbicT5ur/d2424e4d0ac10b83ac4d47c86d01b5c5/22G1_20FT_Standaard_new_blue_Corner_shadow.png",
+        "https://www.unifeeder.com/hubfs/Container%20equipment%20on%20website%20-%2040ft%20HC-1.png"
+      ],
+      "definitions": [
+        "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+      ]
+    },
+    {
+      "id": "bag",
+      "image_urls": [
+        "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dw9a0deb54/images/full/10005112-C/2019/10005112-Canyon_Gym_Bag_full.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/becks_bum_bag_black_stromboli_leather_front_thumbnail_WEB-1000x1287-1_1024x1024.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/bobbi_bucket_bag_maxi_cognac_1_1024x1024.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1BD/1BD228/2BB0F0046/1BD228_2BB0_F0046_V_OJN_SLF.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/bucket_bag_black_classic_side_WEB_1024x1024.png"
+      ],
+      "definitions": [
+        "a flexible container with a single opening",
+        "the quantity of game taken in a particular period (usually by one person)",
+        "a place that the runner must touch before scoring",
+        "a container used for carrying money and small personal items or accessories (especially by women)",
+        "the quantity that a bag will hold",
+        "a portable rectangular container for carrying clothes",
+        "an ugly or ill-tempered woman",
+        "mammary gland of bovids (cows and sheep and goats)",
+        "an activity that you like or at which you are superior"
+      ]
+    },
+    {
+      "id": "box",
+      "image_urls": [
+        "https://www.mysteryboxkopen.nl/wp-content/uploads/2019/01/Mystery_Box_V01-e1548633735113.png",
+        "https://www.doggy-box.com/wp-content/themes/doggy-box/img/open-box.png",
+        "https://static.cdn.packhelp.com/wp-content/uploads/2021/05/05134118/Packhelp24945-1-1.png",
+        "https://kidspeakltd.com/wp-content/uploads/2016/04/folding-box.png",
+        "https://cdn.shopify.com/s/files/1/0300/7227/4989/files/box_logo_white_bg_300x300.png"
+      ],
+      "definitions": [
+        "a (usually rectangular) container; may have a lid",
+        "private area in a theater or grandstand where a small group can watch the performance",
+        "the quantity contained in a box",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a rectangular drawing",
+        "evergreen shrubs or small trees",
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+        "the driver's seat on a coach",
+        "separate partitioned area in a public place for a few people",
+        "a blow with the hand (usually on the ear)"
+      ]
+    }
+  ]
+}

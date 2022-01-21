@@ -1,0 +1,150 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "ground",
+      "image_urls": [
+        "https://lightlife.com/wp-content/uploads/2020/05/Img_OurFood_Ground_med_CA-1.png",
+        "https://www.uva.nl/binaries/_ht_1557240385793/cardmedium/content/gallery/faculteiten-en-diensten/fgw-met-restricties/disciplines/conservering/projecten/down-to-the-ground-logo.png",
+        "https://www.jennieo.com/wp-content/uploads/2019/10/image-product_lean-ground-turkey-roll-16oz-500x500-2.png",
+        "https://www.shakyground.nl/wp-content/uploads/2020/01/ShakyGround-logo-260x189-1.png",
+        "https://www.tyson.com/static/db3fdabc3b4fa366fe867bcfb905462e/03e29/tyson_ground_chicken_665x547.png"
+      ],
+      "definitions": [
+        "the solid part of the earth's surface",
+        "a rational motive for a belief or action",
+        "the loose soft material that makes up a large part of the land surface",
+        "a relation that provides the foundation for something",
+        "a position to be won or defended in battle (or as if in battle)",
+        "the part of a scene (or picture) that lies behind objects in the foreground",
+        "material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)",
+        "a relatively homogeneous percept extending back of the figure on which attention is focused",
+        "a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)",
+        "(art) the surface (as a wall or canvas) prepared to take the paint for a painting",
+        "the first or preliminary coat of paint or size applied to a surface"
+      ]
+    },
+    {
+      "id": "bathtub",
+      "image_urls": [
+        "https://www.romaniabathtubs.com/wp-content/uploads/2019/02/Modula3.png",
+        "https://www.thesocialitefamily.com/wp-content/uploads/2016/08/devon-devon-1-600x600.png",
+        "https://cdn.shopify.com/s/files/1/1746/8031/products/BA-DPD72-900A-OB_1024x1024.png",
+        "https://www.riluxa.com/m2f/media/catalog/product/cache/c7379007260ecad40e9db1dbcaab0a4e/l/o/lofty_160-freestanding_solid_surface_bathtub-bafs-gatr-loft160.png",
+        "https://prolucainteriors.com/wp-content/uploads/2021/03/newton-bathtub-01-boca-do-lobo.png"
+      ],
+      "definitions": [
+        "a relatively large open container that you fill with water and use to wash the body"
+      ]
+    },
+    {
+      "id": "bank",
+      "image_urls": [
+        "https://habufa-res.cloudinary.com/t_n/m/80c1632b4cc7017be0536518408bddbd.png",
+        "https://www.home67.nl/pub/media/catalog/product/cache/2b7d68530ed4c8eff0260aa6ec3f5663/r/s/rs1967_banksam_2.5_oker.png",
+        "https://www.harvink.nl/imgsrc/880/440//user/img/harvink-bank-forum1.png",
+        "https://kieveen.nl/wp-content/uploads/2020/08/Iris-bank.png",
+        "https://i2.wp.com/cornewonen.nl/wp-content/uploads/2020/06/Fermo-hoek.png"
+      ],
+      "definitions": [
+        "sloping land (especially the slope beside a body of water)",
+        "a financial institution that accepts deposits and channels the money into lending activities",
+        "a long ridge or pile",
+        "an arrangement of similar objects in a row or in tiers",
+        "a supply or stock held in reserve for future use (especially in emergencies)",
+        "the funds held by a gambling house or the dealer in some gambling games",
+        "a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force",
+        "a container (usually with a slot in the top) for keeping money at home",
+        "a building in which the business of banking transacted",
+        "a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2020/12/Romantic-garden.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2019/08/Hello-Garden-Waar-te-koop.png",
+        "https://cdn.shopify.com/s/files/1/1257/7487/products/edn-smallgarden-hero-basil-front-shopify_dba28422-4eeb-4039-821a-4d2551b531f5_2048x.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    },
+    {
+      "id": "dirt",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/Dirt_JE2_BE2.png",
+        "https://dirtgame.com/dirt5/static/media/logo_dirt5.bca7d7c9.png",
+        "https://static.wikia.nocookie.net/minecraft/images/2/2f/Dirt.png",
+        "https://dirtgame.com/dirt5/static/media/img_packshot_all.da9bd9f9.png",
+        "https://www.canyon.com/on/demandware.static/-/Sites-canyon-master/default/dwe4ed1fd7/images/full/full_2020_/2020/full_2020_stitched-360-pro_2367_cr-bk_P5.png"
+      ],
+      "definitions": [
+        "the part of the earth's surface consisting of humus and disintegrated rock",
+        "the state of being covered with unclean things",
+        "obscene terms for feces",
+        "disgraceful gossip about the private lives of other people"
+      ]
+    },
+    {
+      "id": "corner",
+      "image_urls": [
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/ORO1N1N1/logo_465x320.png",
+        "https://my.pocketmenu.nl/uploads/files/websites/the-corner-amsterdam/logo.png",
+        "https://static.takeaway.com/images/restaurants/nl/QO5N7PO/logo_465x320.png",
+        "https://static.takeaway.com/images/restaurants/nl/N7PQRRO/logo_465x320.png",
+        "https://www.woutmonseurs.nl/wp-content/uploads/2018/03/corner4.png"
+      ],
+      "definitions": [
+        "a place off to the side of an area",
+        "the point where two lines meet or intersect",
+        "an interior angle formed by two meeting walls",
+        "the intersection of two streets",
+        "the point where three areas or surfaces meet or intersect",
+        "a small concavity",
+        "a temporary monopoly on a kind of commercial trade",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a projecting part where two sides or edges meet",
+        "a remote area",
+        "(architecture) solid exterior angle of a building; especially one formed by a cornerstone"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "dog",
+      "image_urls": [
+        "https://cdn.codeblick.de/interquell-sb/1440x0/f/69110/1048x786/14c7621b83/129a5476-1-kopie-2.png",
+        "https://cdn.codeblick.de/interquell-sb/440x440/f/69110/480x480/c90b13149a/hd-vet-new-product-slider-packshots-sensible-11kg-300g.png",
+        "https://cdn.shopify.com/s/files/1/0128/0882/products/30lb_1024x1024.png",
+        "https://www.akcpetinsurance.com/res/akc/images/icons/home/home_dog.png",
+        "https://www.yarrah.com/en/wp-content/uploads/sites/10/2021/01/Banner-homepage-dry-food-products.png"
+      ],
+      "definitions": [
+        "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+        "a dull unattractive unpleasant girl or woman",
+        "informal term for a man",
+        "someone who is morally reprehensible",
+        "a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll",
+        "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward",
+        "metal supports for logs in a fireplace"
+      ]
+    },
+    {
+      "id": "outside",
+      "image_urls": [
+        "https://www.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png",
+        "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0648392b-f957-41de-99eb-16c1c98465ca_621x597.png",
+        "https://www.outsidebrand.co/wp-content/uploads/2020/09/Black-Logo.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/outside-dfa613493274c050ffd66b46aa56cd48ddf3a2ee.png",
+        "https://outsidehoutentuin.nl/wp-content/uploads/2020/09/Outside-beeldmerk.png"
+      ],
+      "definitions": [
+        "the region that is outside of something",
+        "the outer side or surface of something"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "dishwasher",
+      "image_urls": [
+        "https://assets.products-live.ao.com/Images/8738d376-ca9c-4df7-b51c-85badbdbe1c1/1280x1280/16609815_SMS6EDI02G_STP_def_0.png",
+        "https://storage.beko.co.uk/blomberg2018products/large/Blomberg_Dishwasher_LDF42240W_White_AngledFullyOpen.png",
+        "https://images.ctfassets.net/gtq5kcq8pjem/V7YqbiJJ568Ypi3iaQoCl/870669f515e86106963d5a55409b3d3d/Dishwasher-Nieuw-Image_1.png",
+        "https://assets.products-live.ao.com/Images/6deec93c-9ba2-4451-ae4e-a434876ba7ae/1280x1280/HV520E40UK_BK_hisense_dishwasher_01a.png",
+        "https://www.voltasbeko.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/7/6/7611009177_df14s3.png"
+      ],
+      "definitions": [
+        "a machine for washing dishes",
+        "someone who washes dishes"
+      ]
+    },
+    {
+      "id": "rug",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1740/0017/products/RugProductImage1_2677dce8-3ec2-4b95-8604-cbd8ea0ffe2c_600x.png",
+        "https://cdn.shopify.com/s/files/1/0260/4695/5594/products/RugProductImage1_2677dce8-3ec2-4b95-8604-cbd8ea0ffe2c_1600x.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/t/o/to_v.rug_lg_red_plain_1base.png",
+        "https://images.selency.com/306f4a30-cf03-438b-b4b9-a5f711b6ac7a/beautiful-rug-rbati_original.png",
+        "https://hkliving.nl/media/39199/ttk3063-lr_d_01.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)"
+      ]
+    },
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/2241/original/bruin-bed-king-1-brosa-design.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://global-uploads.webflow.com/5ee2074bd5264569f2a3a32f/5f58f409db9a88529bf05059_LY01_top_view_transparent_background.png",
+        "https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "shoes",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0107/9820/2938/files/clove-hospital-sneaker-wipeable_950x.png",
+        "https://res.cloudinary.com/atoms-shoes/image/upload/v1630354300/products/bitcoin/PDP_Bitcoin_Profile_1-1_f86vms.png",
+        "https://www.transparentpng.com/thumb/adidas-shoes/a4xO3G-adidas-shoes-adidas-shoe-kids-superstar-daddy-grade.png",
+        "https://www.brooksrunning.com/on/demandware.static/-/Sites/default/dw1fd4b4b2/cms-content/Project/ADT/Brooks-Running/Homepage/2021/August/S21-BRcom-MockNav-Card1-RunningShoes-V1-S.png",
+        "https://www.brooksrunning.com/dw/image/v2/BGPF_PRD/on/demandware.static/-/Sites-brooks-master-catalog/default/dwb4e92af8/original/120338/120338-084-a-ghost-13-womens-cushion-running-shoe.png"
+      ],
+      "definitions": [
+        "footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material",
+        "(card games) a case from which playing cards are dealt one at a time",
+        "U-shaped plate nailed to underside of horse's hoof",
+        "a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation"
+      ]
+    },
+    {
+      "id": "party",
+      "image_urls": [
+        "https://www.party-time.nl/wp-content/uploads/2019/10/party2.png",
+        "https://the-party.nl/wp-content/uploads/2020/12/tponlineannouncement-539x303.png",
+        "https://the-party.nl/wp-content/uploads/2020/08/Duh-Events-The-Party-Logo.png",
+        "https://www.party-time.nl/wp-content/uploads/revslider/homeslider/homeslider_doos_met_bubble-min.png",
+        "https://weekbladparty.nl/content/uploads/2020/03/032020-digitaallezen-hp.png"
+      ],
+      "definitions": [
+        "an organization to gain political power",
+        "a group of people gathered together for pleasure",
+        "a band of people associated temporarily in some activity",
+        "an occasion on which people can assemble for social interaction and entertainment",
+        "a person involved in legal proceedings"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "cup",
+      "image_urls": [
+        "https://www.beppy.com/wp-content/uploads/2020/12/2-Cup-Red-Orange-1-1.png",
+        "https://www.beppy.com/wp-content/uploads/2020/02/Beppy-Cup-2-stuks.png",
+        "https://cdn.shopify.com/s/files/1/0525/3555/8299/products/image_cc9e0135-a963-4b23-a0d2-c7cd2993003e_709x.png",
+        "https://www.moonloft.nl/wp-content/uploads/2020/11/Espresso-Cup-I-know-.png",
+        "https://www.paardekooper.nl/static/uploads/pictures/large/450104.png"
+      ],
+      "definitions": [
+        "a small open container usually used for drinking; usually has a handle",
+        "the quantity a cup will hold",
+        "any cup-shaped concavity",
+        "a United States liquid unit equal to 8 fluid ounces",
+        "cup-shaped plant organ",
+        "a punch served in a pitcher instead of a punch bowl",
+        "the hole (or metal container in the hole) on a golf green",
+        "a large metal vessel with two handles that is awarded as a trophy to the winner of a competition"
+      ]
+    },
+    {
+      "id": "box",
+      "image_urls": [
+        "https://www.mysteryboxkopen.nl/wp-content/uploads/2019/01/Mystery_Box_V01-e1548633735113.png",
+        "https://www.doggy-box.com/wp-content/themes/doggy-box/img/open-box.png",
+        "https://static.cdn.packhelp.com/wp-content/uploads/2021/05/05134118/Packhelp24945-1-1.png",
+        "https://kidspeakltd.com/wp-content/uploads/2016/04/folding-box.png",
+        "https://cdn.shopify.com/s/files/1/0300/7227/4989/files/box_logo_white_bg_300x300.png"
+      ],
+      "definitions": [
+        "a (usually rectangular) container; may have a lid",
+        "private area in a theater or grandstand where a small group can watch the performance",
+        "the quantity contained in a box",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a rectangular drawing",
+        "evergreen shrubs or small trees",
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+        "the driver's seat on a coach",
+        "separate partitioned area in a public place for a few people",
+        "a blow with the hand (usually on the ear)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "song",
+      "image_urls": [
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABa72ejYBgANMaZO7kagaatSun7ozpS7-M9JWaTkDxZxBGACdbnrT6TvGjS9gEyRTAn_zjvbU0xQiaccSWfy3DXRXYZML4__NatIn.png",
+        "https://images.squarespace-cdn.com/content/v1/5ff358148500a82fe9de2c53/1613768596441-4ANCB2YFZPIJ4LESVCWQ/SONG-neon.png",
+        "https://images-na.ssl-images-amazon.com/images/I/71UDTEgBvaL.png",
+        "https://songtrivia2.io/blog/content/images/2020/07/logo.47401f21.png",
+        "https://professionalmorondotcom.files.wordpress.com/2012/03/the-best-song-titles-that-havent-been-used.png"
+      ],
+      "definitions": [
+        "a short musical composition with words",
+        "a distinctive or characteristic sound",
+        "the act of singing",
+        "the characteristic sound produced by a bird",
+        "a very small sum",
+        "the imperial dynasty of China from 960 to 1279; noted for art and literature and philosophy"
+      ]
+    },
+    {
+      "id": "television",
+      "image_urls": [
+        "https://smart-cover.co.uk/wp-content/themes/Smart%20Cover/page-templates/images/tvcvr-right.png",
+        "https://ec.europa.eu/energy/sites/default/files/eepf_labels/assets/images/eepf_labels_tv_icon_big.png",
+        "https://images.selency.com/1858e1b1-30f3-4a73-8d3a-c424ec2f8fd0/continental-television-edifice-on-foot-tulip_original.png",
+        "https://www.bestelectronicsltd.com/wp-content/uploads/2017/11/Toshiba-40%E2%80%B3-Series-37L3750VE-Full-HD-LED-LCD-Television.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/CN/QD/AL/76732024/android-television-250x250.png"
+      ],
+      "definitions": [
+        "broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs",
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "id": "radio",
+      "image_urls": [
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw4c424d68/Tuner_Hero_Black-1605x1605px.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7b1d8da8/JBL_TUNER2_DAB_HERO_WHITE_003_x3.png",
+        "https://www.panasonic.com/content/dam/pim/be/nl/RX/RX-D55/RX-D552E/ast-1261642.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw73473d81/JBL_TUNERXL_DAB_HERO_BLACK_003_x2.png",
+        "https://koelemanelektro.nl/uploads/images/catalog/product/crop_small/albrecht-dr-490-wit.png"
+      ],
+      "definitions": [
+        "medium for communication",
+        "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+        "a communication system based on broadcasting electromagnetic waves"
+      ]
+    },
+    {
+      "id": "voice",
+      "image_urls": [
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ7fnFyEfV3dZddHAl-aZHd8OKTkY5Fi1QKCeRsgunEDg009XbRSugaRpzfywKkns-FTMzt8tO_C00IyyuakCozAeRbz-0jN5I9-.png",
+        "https://upload.wikimedia.org/wikipedia/en/4/44/The_Voice_NBC_logo_blackwhite.png",
+        "https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABbIkMmPLdrAxJTJogLGG-eixAWuOmagdFJw3XpcZkNbQaoI2Fy60GQ5XBgGEOyiwHxVYxJDnJpMnSvwVa_IAXp_0c74QXcwS9Nvb.png",
+        "https://upload.wikimedia.org/wikipedia/en/f/ff/The_Voice_UK.png",
+        "https://images.ctfassets.net/pqts2v0qq7kz/4HBenQqhKUOzBWe9kZcOU1/09afb7a84be0078bea7a56c70eebb32b/VUI-voice.png"
+      ],
+      "definitions": [
+        "the distinctive quality or pitch or condition of a person's speech",
+        "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract",
+        "a sound suggestive of a vocal utterance",
+        "expressing in coherent verbal form",
+        "a means or agency by which something is expressed or communicated",
+        "something suggestive of speech in being a medium of expression",
+        "(metonymy) a singer",
+        "an advocate who represents someone else's policy or purpose",
+        "the ability to speak",
+        "(linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes",
+        "the melody carried by a particular voice or instrument in polyphonic music"
+      ]
+    },
+    {
+      "id": "choir",
+      "image_urls": [
+        "https://www.concertgebouworkest.nl/media/cache/person_image_image_only/media/solisten/2018-2019/rotterdamsc_portretfoto_credits_jan_hordijk.png",
+        "https://www.concertgebouworkest.nl/media/cache/person_image_image_only/media/solisten/20160914-groot-omroepkoor-concertgebouw_hans-van-der-woerd.png",
+        "https://www.worldservants.nl/sites/default/files/styles/actieplatform_volledig/public/actie_mass_choir.png",
+        "https://www.concertgebouworkest.nl/media/cache/person_image_image_only/media/solisten/2017-2018/amsterdam-baroque-choir-nn.png",
+        "https://www.concertgebouworkest.nl/media/cache/person_image_image_only/media/solisten/nationaal-kinderkoor.png"
+      ],
+      "definitions": [
+        "a chorus that sings as part of a religious ceremony",
+        "a family of similar musical instrument playing together",
+        "the area occupied by singers; the part of the chancel between sanctuary and nave"
+      ]
+    },
+    {
+      "id": "telephone",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Black_telephone_icon_from_DejaVu_Sans.svg/2560px-Black_telephone_icon_from_DejaVu_Sans.svg.png",
+        "https://d1e00ek4ebabms.cloudfront.net/production/b18f700e-8b69-49c6-87e2-f9dae12578c5.png",
+        "https://blog.pitsco.com/hs-fs/hubfs/Blog%20Images/Telephone-Wireless-1366-0419.png",
+        "https://static-00.iconduck.com/assets.00/telephone-emoji-512x442-9q99uzi2.png",
+        "https://5.imimg.com/data5/QZ/XT/DO/SELLER-53553741/for-caller-id-landline-telephone-gf40-500x500.png"
+      ],
+      "definitions": [
+        "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+        "transmitting speech at a distance"
+      ]
+    },
+    {
+      "id": "mouth",
+      "image_urls": [
+        "https://stickershop.line-scdn.net/stickershop/v1/product/3201802/LINEStorePC/main.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/58_large.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/a37b771cee517ba7da048a08beff53c9fe26fe5c-2000x1400.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Laughing-Mouth.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/10c460690134d228495248088d2ab0ce22ce452f-2000x1400.png"
+      ],
+      "definitions": [
+        "the opening through which food is taken in and vocalizations emerge",
+        "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening",
+        "an opening that resembles a mouth (as of a cave or a gorge)",
+        "the point where a stream issues into a larger body of water",
+        "a person conceived as a consumer of food",
+        "a spokesperson (as a lawyer)",
+        "an impudent or insolent rejoinder",
+        "the opening of a jar or bottle"
+      ]
+    },
+    {
+      "id": "silence",
+      "image_urls": [
+        "https://www.e-milers.com/media/image/0e/9e/94/logo-silence.png",
+        "https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaQzf5nDA-niE3XpliPjrpJRLPbTeWvU3voX5noTbgqHckuBbc1V11b1YZfD8pY5JErvMNAZ3CH_4aBwzRgCo8-yJxnQezrrzG5o.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABf_Rr8o2lYr9l_1nur3cRQX5KmKmyF8zgD_7VRG52FijO30KHmszYDcjTUwtz71aQRwsWKosiggwtHXqjRJmsLUZXmCZfaychp7-R_cPPNLHfvsSSPmC4SLMxhTbaAm1-iOR6kBdeXyjZvN9bfFsQjSo1TcyvawVOmwRYGp-oYrnFw.png",
+        "https://www.silence.eco/wp-content/uploads/2020/05/s02-ls-empresas.png",
+        "https://www.silence.eco/wp-content/uploads/2020/03/s02-moto-amu.png"
+      ],
+      "definitions": [
+        "the state of being silent (as when no one is speaking)",
+        "the absence of sound",
+        "a refusal to speak when expected",
+        "the trait of keeping things secret"
+      ]
+    }
+  ]
+}

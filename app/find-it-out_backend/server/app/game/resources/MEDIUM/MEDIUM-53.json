@@ -1,0 +1,271 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "florida",
+      "image_urls": [
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-12/hotspots.png",
+        "https://www.bls.gov/regions/southeast/images/18771.png",
+        "https://floridasbdc.org/wp-content/uploads/2020/05/All-Region-Logos-12-1.png",
+        "https://www.isjl.org/uploads/2/4/2/2/24228391/florida-all-14_orig.png",
+        "https://authenticflorida.com/wp-content/uploads/2021/07/FloridaMapRegions_20210723.png"
+      ],
+      "definitions": [
+        "a state in southeastern United States between the Atlantic and the Gulf of Mexico; one of the Confederate states during the American Civil War"
+      ]
+    },
+    {
+      "id": "wallet",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/2464/2571/files/Wallet_622f42d2-ffdf-467e-addc-51bf57e67a33_1600x.png",
+        "https://media2.bulgari.com/f_auto,q_auto/production/dw85b9d7dc/images/images/487772.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/Tobis-Wallet-blac-inside_1024x1024.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/Geogie_s-Walletback_1024x1024.png",
+        "https://www.omegawatches.com/media/catalog/product/cache/a5c37fddc1a529a1a44fea55d527b9a116f3738da3a2cc38006fcc613c37c391/i/m/image-7070210007-v2.png"
+      ],
+      "definitions": [
+        "a pocket-size case for holding papers and paper money"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "key",
+      "image_urls": [
+        "https://www.replacementkeys.co.uk/images/products/XvBZk4unmaqoReHC6KdivQ-1.png",
+        "https://static.wikia.nocookie.net/harrypotter/images/2/2e/Skeleton_Key_WU.png",
+        "https://lirp.cdn-website.com/531f115f/dms3rep/multi/opt/keys-cutout2-500w.png",
+        "https://www.cisa.com/content/dam/cisa/Pagine/Prodotti/Cilindri%20e%20chiavi/Chiave%20Unica/master-key-structure.png",
+        "https://www.replacementkeys.co.uk/images/products/qyM7aC7DVWSOeJHmbFQZGw.png"
+      ],
+      "definitions": [
+        "metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated",
+        "something crucial for explaining",
+        "pitch of the voice",
+        "any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music",
+        "a kilogram of a narcotic drug",
+        "a winged often one-seed indehiscent fruit as of the ash or elm or maple",
+        "United States lawyer and poet who wrote a poem after witnessing the British attack on Baltimore during the War of 1812; the poem was later set to music and entitled `The Star-Spangled Banner' (1779-1843)",
+        "a coral reef off the southern coast of Florida",
+        "(basketball) a space (including the foul line) in front of the basket at each end of a basketball court; usually painted a different color from the rest of the court",
+        "a list of answers to a test",
+        "a list of words or phrases that explain symbols or abbreviations",
+        "a generic term for any device whose possession entitles the holder to a means of access",
+        "mechanical device used to wind another device that is driven by a spring (as a clock)",
+        "the central building block at the top of an arch or vault",
+        "a lever (as in a keyboard) that actuates a mechanism when depressed"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5df20135260107019ff99900/1578328159952-CLFJE7ZHZ9T8XWEC68GC/The+Church+of+England+logo+Version+1.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "casino",
+      "image_urls": [
+        "https://www.meccasino.nl/wp-content/uploads/2020/02/tafels-casino-avond.png",
+        "https://online-casino-nl.nl/wp-content/uploads/2020/08/clipart-casino-300x159.png",
+        "https://thejaggercasino.nl/wp-content/uploads/2017/03/Winschoten2-01.png",
+        "https://www.top10casino.nl/afbeelding/thumbnails/online-casino-games.png",
+        "https://www.onlinecasinolegends.nl/wp-content/uploads/2021/05/Casino-software.png"
+      ],
+      "definitions": [
+        "a public building for gambling and entertainment",
+        "a card game in which cards face up on the table are taken with eligible cards in the hand"
+      ]
+    },
+    {
+      "id": "bubblegum",
+      "image_urls": [
+        "https://energydrinkshop.nl/wp-content/uploads/2020/04/Bubble_Gum_Tub.png",
+        "https://static.wikia.nocookie.net/harrypotter/images/7/71/Bubblegum_Bertie_Bott%27s_Every_Flavour_Bean_PM.png",
+        "https://cdn.shopify.com/s/files/1/0068/4421/9507/products/bubblegumlifestyle1800_f3d64cec-dab1-4255-97d8-0f30ce051d8f_900x.png",
+        "https://cdn.metro-group.com/nl/nl_pim_351199001001_01.png",
+        "https://cdn.shopify.com/s/files/1/0029/9224/2733/products/BubblegumKingsIce60ml.png"
+      ],
+      "definitions": []
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png",
+        "https://www.mystreet.org/media/791008/footpaths-roundel.png",
+        "https://images.squarespace-cdn.com/content/v1/5620ddc4e4b04789570e5fca/1519660057648-G5ZZEN43K2NMO3YOA5PS/SCNL-logo.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/cjfv6a9on0zlh0hqmireerr8r-moto-tyres-pilot-street-persp.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    },
+    {
+      "id": "theater",
+      "image_urls": [
+        "https://d2zr9w65gdacs9.cloudfront.net/34120/tr-logo-aubergine-rgb1496167546logo1570193843logo.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/afas-theater-afbeelding%20algemeen2.png",
+        "https://zirkzee.nl/wp-content/uploads/2020/01/logo_pstheater.png",
+        "https://theaterbabelrotterdam.nl/wp-content/uploads/2018/04/2731B29E-098E-4F9E-96C9-86C045740438@lonnewennekendonk.nl_-300x206.png",
+        "https://www.theaterwalhalla.nl/wp-content/uploads/2018/03/wal.png"
+      ],
+      "definitions": [
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "the art of writing and producing plays",
+        "a region in which active military operations are in progress"
+      ]
+    },
+    {
+      "id": "money",
+      "image_urls": [
+        "https://acdn.tinkoff.ru/static/pages/files/f3f9e08c-8d2b-45db-86ee-3adf0aa6c5fd.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/717-money-bag.svg/2048px-717-money-bag.svg.png",
+        "https://static.wikia.nocookie.net/cswikia/images/7/7e/Csgo_prop_crash_stack.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/Money_Emoji_Icon_59b7293e-e703-4ba4-b3c3-a7b9401f89fb_large.png",
+        "https://cdn1.iconfinder.com/data/icons/web-design-29/60/vector__illustration__design__money-512.png"
+      ],
+      "definitions": [
+        "the most common medium of exchange; functions as legal tender",
+        "wealth reckoned in terms of money",
+        "the official currency issued by a government or national bank"
+      ]
+    },
+    {
+      "id": "purse",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/Jos-Purse-black-front_1024x1024.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/laura_purse_black_croco_front_WEB_1024x1024.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/coin-purse-hunterblack-back-1_1024x1024.png",
+        "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dwa5aefa74/images/DIS/30014HVV545_0.png",
+        "https://cdn3.iconfinder.com/data/icons/fashion-clothing-and-cosmetics-1/52/10-512.png"
+      ],
+      "definitions": [
+        "a container used for carrying money and small personal items or accessories (especially by women)",
+        "a sum of money spoken of as the contents of a money purse",
+        "a small bag for carrying money",
+        "a sum of money offered as a prize"
+      ]
+    },
+    {
+      "id": "pocket",
+      "image_urls": [
+        "https://www.afas.nl/portal-product/afas-pocket-afas-software/afas%20pocket%20app%20mob.png",
+        "https://klant.afas.nl/portal-themapagina/afaspocket/downloaden.png",
+        "https://teenage.engineering/_img/54a7557fc7530702005257b3_512.png",
+        "https://www.afas.nl/portal-product/afas-pocket-in-de-bouw-afas-software/afas%20pocket%20als%20bouwapp%20-%20mob.png",
+        "https://www.f-one.world/app/uploads/2020/03/Pocket-Foil-Carbon-110.png"
+      ],
+      "definitions": [
+        "a small pouch inside a garment for carrying small articles",
+        "an enclosed space",
+        "a supply of money",
+        "(bowling) the space between the headpin and the pins behind it on the right or left",
+        "a hollow concave shape made by removing something",
+        "a local region of low pressure or descending air that causes a plane to lose height suddenly",
+        "a small isolated group of people",
+        "(anatomy) saclike structure in any of various animals (as a marsupial or gopher or pelican)",
+        "an opening at the corner or on the side of a billiard table into which billiard balls are struck"
+      ]
+    },
+    {
+      "id": "change",
+      "image_urls": [
+        "https://www.jrschange.org/wp-content/themes/twentynineteen/img/pictos/logo-change.png",
+        "https://www.jrschange.org/wp-content/uploads/2020/09/Logo-CHANGE-900x900.png",
+        "https://www.ucos.be/wp-content/uploads/2017/07/LOGO_CHanGE_ENG_RGB-1030x651.png",
+        "https://api.cofraholding.com/media/1809/change-shape-new.png",
+        "https://images.squarespace-cdn.com/content/v1/5de66f379ab6b86728077525/1610531715574-WUHWXSYG06NN4R6HW43P/SPF+-+Theory+of+Change+2.0.png"
+      ],
+      "definitions": [
+        "an event that occurs when something passes from one state or phase to another",
+        "a relational difference between states; especially between states before and after some event",
+        "the action of changing something",
+        "the result of alteration or modification",
+        "the balance of money received when the amount you tender is greater than the amount due",
+        "a thing that is different",
+        "a different or fresh set of clothes",
+        "coins of small denomination regarded collectively",
+        "money received in return for its equivalent in a larger denomination or a different currency",
+        "a difference that is usually pleasant"
+      ]
+    },
+    {
+      "id": "action",
+      "image_urls": [
+        "https://www.bigshops.nl/images/winkels/logos/action.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/1200px-Film1_Action_SVG.svg.png",
+        "https://www.athletesinaction.nl/wp-content/uploads/2019/09/logo-AIA.png",
+        "https://images.squarespace-cdn.com/content/v1/6049e33a3512a120620cfe14/1623737006761-ZRXT79P8NPHWMJWDL0H4/static1.squarespace.png",
+        "https://blab-mktg-bcorporation-production.s3.amazonaws.com/styles/landscape__600x450/s3/teaser-cta/welcom%20graphic%20one%20person_0.png"
+      ],
+      "definitions": [
+        "something done (usually as opposed to something said)",
+        "the state of being active",
+        "a military engagement",
+        "a process existing in or produced by nature (rather than by the intent of human beings)",
+        "the series of events that form a plot",
+        "the trait of being active and energetic and forceful",
+        "the operating part that transmits power to a mechanism",
+        "a judicial proceeding brought by one party against another; one party prosecutes another for a wrong done or for protection of a right or for prevention of a wrong",
+        "an act by a government body or supranational organization",
+        "the most important or interesting work or activity in a specific area or field"
+      ]
+    },
+    {
+      "id": "jar",
+      "image_urls": [
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw953883ce/images/120527860/120527860_MCM_PACK_150516.png",
+        "https://www.bierglazen-fabriek.nl/wp-content/uploads/2018/03/drinking-jar-71-cl-set-van-12-12426.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw116bec09/images/120527771/120527771_MCM_PACK_150532.png",
+        "https://www.candlewarmers.com/cache/PRODUCTIMAGE4018MAR.png",
+        "https://www.oasisfloral.co.uk/media/catalog/product/cache/73fdfc624587e8942c64b15b96a5e275/4/5/45-03255_group_new_hailey_clear_and_green.png"
+      ],
+      "definitions": [
+        "a vessel (usually cylindrical) with a wide mouth and without handles",
+        "the quantity contained in a jar",
+        "a sudden jarring impact"
+      ]
+    }
+  ]
+}

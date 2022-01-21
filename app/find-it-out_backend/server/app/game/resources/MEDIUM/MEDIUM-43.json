@@ -1,0 +1,245 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "wilderness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/wilderness-a2c574200cd8ac2d3628c06b9e7c7f436681a98e.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQBHx96_Eps-PJq2a9Ej6LjiBuy_ySxuOy6IZW0h0O6QATmcMSNYkLEdI2e0Uk6k-mzRxP3qT4adKGzvH0Ks4KvquoNzzzq4c6H_N6mw8HLwFr3wMPVo-7qWRaz4WRxJLByRFLzC0O20h6DfQuXv6KOUvwgUgH75_4egMVR0dJYx-Q.png",
+        "https://www.mypigeonforge.com/wp-content/uploads/2018/01/Wilderness-Wildlife-Week-horizontal-logo.jpg15.png",
+        "https://www.spellenhuis.nl/media/catalog/product/cache/1/image/420x420/9df78eab33525d08d6e5fb8d27136e95/2/g/2gpkg5peeybgt5qm2rd267d6dmd7rhtm.png",
+        "https://wpresort.com/wp-content/uploads/2020/03/Wilderness-Presidential-Resort-Emblem-png8-500.png"
+      ],
+      "definitions": [
+        "(politics) a state of disfavor",
+        "a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War",
+        "a wild and uninhabited area left in its natural condition",
+        "a bewildering profusion"
+      ]
+    },
+    {
+      "id": "country",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Country_calling_codes_map.svg/1200px-Country_calling_codes_map.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GINI_index_World_Bank_up_to_2018.svg/500px-GINI_index_World_Bank_up_to_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/World_map_blank_shorelines_semiwikimapia.svg/720px-World_map_blank_shorelines_semiwikimapia.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg/500px-Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Landlocked_countries.svg/1200px-Landlocked_countries.svg.png"
+      ],
+      "definitions": [
+        "a politically organized body of people under a single government",
+        "the territory occupied by a nation",
+        "the people who live in a nation or country",
+        "an area outside of cities and towns",
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ]
+    },
+    {
+      "id": "river",
+      "image_urls": [
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfYG-2JJ4qmETgedI9xVH_RRlenov2GTkvXiweQVdKfeRTXqrRxrJZ4tCN_8RMtWJsI9RAqkmPmWNAvFGgu4X_4aLpQ_UDWYspUfOt_PwXeD6DOryFsOEhTI6Vvw0Su9WX7HSONSfCn9e9tJmcpxosfk9Qy4lkHJOdcR4aXDzatC_Q.png",
+        "https://www.nps.gov/miss/images/watershed.png",
+        "https://united-rivers.eu/wp-content/uploads/2020/07/united-rivers-32.png",
+        "https://cpw.state.co.us/PublishingImages/LandWater/Riverwatch/River-Watch-logo.png",
+        "https://ohioriverfdn.org/wp-content/uploads/OhioRiverWatershed.png"
+      ],
+      "definitions": [
+        "a large natural stream of water (larger than a creek)"
+      ]
+    },
+    {
+      "id": "wisconsin",
+      "image_urls": [
+        "https://www.irp.wisc.edu/wp/wp-content/uploads/2019/06/Wisconsin-Poverty-Rates-County-Map-2017.png",
+        "https://www.startinwi.com/images/default-source/default-album/wisconsin-region-map289dc5fe91c786c09bff9ff0000c69864.png",
+        "https://www.dhs.wisconsin.gov/sites/default/files/map-15.png",
+        "https://wbba.s3.amazonaws.com/2018/09/13/map.png",
+        "https://www.travelwisconsin.com/uploads/medialibrary/b6/b69c1740-3e24-4260-940e-979a63cb58e8-chasegoldenv3_mobile-text-1-.png"
+      ],
+      "definitions": [
+        "a tributary of the Mississippi River in Wisconsin",
+        "a midwestern state in north central United States"
+      ]
+    },
+    {
+      "id": "bay",
+      "image_urls": [
+        "https://www.dirckiii.nl/media/catalog/product/cache/f516fa60c0b54a3af2243bdb6b325b01/7/c/7c4ebbe317acab81bdf58e8bc3f81284e7b67c8a_8710871009874_png.png",
+        "https://static.ah.nl/static/gall/img_154820_Gall_520.png",
+        "https://www.dirckiii.nl/media/catalog/product/cache/f516fa60c0b54a3af2243bdb6b325b01/2/4/241d5d79a7bbd90a763cd8a9a82bf0b8510b1ed7_8710871009829_png.png",
+        "https://www.dirckiii.nl/media/catalog/product/cache/f516fa60c0b54a3af2243bdb6b325b01/a/e/ae8d6bee34c7d043d081dceeb592ef1c15596ebd_8710871015646_png.png",
+        "https://www.antilliaanse-toko.nl/media/catalog/product/cache/1ca3c8b1c6458f0eb1a5e1747c261955/b/a/bay_leave_whoel.png"
+      ],
+      "definitions": [
+        "an indentation of a shoreline larger than a cove but smaller than a gulf",
+        "the sound of a hound on the scent",
+        "small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking; also used by ancient Greeks to crown victors",
+        "a compartment on a ship between decks; often used as a hospital",
+        "a compartment in an aircraft used for some specific purpose",
+        "a small recess opening off a larger room",
+        "a horse of a moderate reddish-brown color"
+      ]
+    },
+    {
+      "id": "boat",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/miscreated/images/6/6e/Fishing_boat_2048.png",
+        "https://smartlinerboat.com/index_htm_files/238524@2x.png",
+        "https://zsilt.nl/wp-content/uploads/2021/05/bootje-blauw-rgb.png",
+        "https://www.boatrental-giethoorn.eu/wp-content/uploads/2020/06/cropped-Boot-4-p-met-kussens-e1592467011913-1.png",
+        "https://tanaruz.boats/assets/images/better-for-planet.png"
+      ],
+      "definitions": [
+        "a small vessel for travel on water",
+        "a dish (often boat-shaped) for serving gravy or sauce"
+      ]
+    },
+    {
+      "id": "valley",
+      "image_urls": [
+        "https://www.horecava.nl/wp-content/uploads/2020/06/product-1394668_35540.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Formation-Of-A-V-Shaped-Valley-4-V-Shaped-Valley---Geography-Land-Water-Rivers-KS3.png",
+        "https://www.fictionvalley.nl/images/logo.png",
+        "https://www.veluwe-valley.nl/images/logo-2017.png",
+        "https://logisticsvalleyhelpt.nl/wp-content/uploads/2020/03/cropped-LV_Logo_CMYK_Rivierenland-1.png"
+      ],
+      "definitions": [
+        "a long depression in the surface of the land that usually contains a river"
+      ]
+    },
+    {
+      "id": "fish",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/seaofthieves_gamepedia/images/e/e3/Fish_Islehopper_Stone.png",
+        "https://www.fws.gov/fisheries/freshwater-fish-of-america/images/originals/east_cold/American_shad_DuaneRavenArt.fw.png",
+        "https://static.wikia.nocookie.net/fortnite/images/a/a6/Pink_Shield_Fish_-_Shield_Fish_-_Fortnite.png",
+        "https://static.takeaway.com/images/restaurants/nl/OPQ5RR5N/logo_465x320.png",
+        "https://static.wikia.nocookie.net/seaofthieves_gamepedia/images/f/fb/Fish.png"
+      ],
+      "definitions": [
+        "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+        "the flesh of fish used as food",
+        "(astrology) a person who is born while the sun is in Pisces",
+        "the twelfth sign of the zodiac; the sun is in this sign from about February 19 to March 20"
+      ]
+    },
+    {
+      "id": "sea",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/58c03b872e69cfc931230b4d/1568984986484-DH59U58UFQ8GR6IH0SRT/john-jason-mpVZVCClgac-unsplash.png",
+        "https://sea-eu.org/wp-content/themes/theme_seaeu_uca/images/logo/logo_seaeu4.png",
+        "https://sea-watch.org/wp-content/uploads/2017/05/sea-watch_logo_1024.png",
+        "https://www.koppertcress.com/media/cache/generic/rc/WftAKqME//uploads/media/5db97406659e8/special-wb-seafennel-1805-rgb-16-9.png",
+        "https://wesea.es/wp-content/uploads/2020/01/tuni2-scaled-min3-1030x546.png"
+      ],
+      "definitions": [
+        "a division of an ocean or a large body of salt water partially enclosed by land",
+        "anything apparently limitless in quantity or volume",
+        "turbulent water with swells of considerable size"
+      ]
+    },
+    {
+      "id": "pond",
+      "image_urls": [
+        "https://splashsupplyco.com/wp-content/uploads/2018/08/Ecosystem-Cutout.png",
+        "https://www.velda.nl/app/uploads/2020/03/97c10ec707d0734063a423eb07fedc87.png",
+        "https://www.wildlifetrusts.org/sites/default/files/styles/scaled_default/public/2018-07/STEP3.png",
+        "https://www.lenntech.com/images/Brine%20treatment/Brine-Evaporation-Ponds-1.png",
+        "https://static.wikia.nocookie.net/2007scape/images/0/0e/Pond_built.png"
+      ],
+      "definitions": [
+        "a small lake"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://www.cityhotel.nl/wp-content/uploads/2019/02/City-Hotel-logo.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    },
+    {
+      "id": "waterfall",
+      "image_urls": [
+        "https://www.alevelgeography.com/wp-content/uploads/2018/04/Formation-Of-A-Waterfall.png",
+        "https://pics.clipartpng.com/Waterfall_PNG_Clip_Art-2711.png",
+        "https://pics.clipartpng.com/Waterfall_PNG_Clip_Art-1385.png",
+        "https://drawinghowtos.com/wp-content/uploads/2020/02/waterfall-07.png",
+        "https://www.smartsheet.com/sites/default/files/styles/1300px/public/waterfall%402x.png"
+      ],
+      "definitions": [
+        "a steep descent of the water of a river"
+      ]
+    },
+    {
+      "id": "bridge",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Golden-Gate-Bridge.svg/700px-Golden-Gate-Bridge.svg.png",
+        "https://www.midasoft.com/hubfs/2019-MIDAS-RENEWAL/conventional_bridge.png",
+        "https://www.bridge-economy.nl/wp-content/uploads//2016/10/bridge-logo.png",
+        "https://bridges2000.com/wp-content/uploads/2021/06/BRIDGES2000-Oplossingen-Bruggen-brug.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Golden-Gate-Bridge.svg/1000px-Golden-Gate-Bridge.svg.png"
+      ],
+      "definitions": [
+        "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+        "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+        "something resembling a bridge in form or function",
+        "the hard ridge that forms the upper part of the nose",
+        "any of various card games based on whist for four players",
+        "a wooden support that holds the strings up",
+        "a denture anchored to teeth on either side of missing teeth",
+        "the link between two lenses; rests on the nose",
+        "an upper deck where a ship is steered and the captain stands"
+      ]
+    },
+    {
+      "id": "continent",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Continents_vide_couleurs.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Australia-New_Guinea_%28orthographic_projection%29.svg/1200px-Australia-New_Guinea_%28orthographic_projection%29.svg.png",
+        "https://online.seterra.com/images/system/eurasia_continents.png",
+        "https://static.wikia.nocookie.net/earthmc2820/images/2/20/Asian.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Island_nations.svg/330px-Island_nations.svg.png"
+      ],
+      "definitions": [
+        "one of the large landmasses of the earth",
+        "the European mainland"
+      ]
+    },
+    {
+      "id": "aquarium",
+      "image_urls": [
+        "https://www.dibozoo.nl//Files/10/161000/161494/ProductPhotos/Source/645849022.png",
+        "https://www.jumper.nl/wp-content/uploads/2018/09/aquarium-capri1-e1536747744645.png",
+        "https://www.juwel-aquarium.de/out/pictures/generated/imagine/master/category/icon/srcms/aqualines/alinesheroslider_juwel_aquarium_trigon_sbx_line_flyout_front-xs@2x.png",
+        "https://colombo.nl/wp-content/uploads/2018/06/freshwater-img1.png",
+        "https://www.juwel-aquarium.de/out/pictures/generated/imagine/master/category/icon/productlist/pl_juwel_aquarium_rio_line_flyout_front_181120-l.png"
+      ],
+      "definitions": [
+        "a tank or pool or bowl filled with water for keeping live fish and underwater animals"
+      ]
+    }
+  ]
+}

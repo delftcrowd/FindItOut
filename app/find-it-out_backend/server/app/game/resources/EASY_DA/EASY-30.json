@@ -1,0 +1,131 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "rock",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/prowrestling/images/a/ad/Wwe_the_rock_png_by_double_a1698_day9ylt-pre_%281%29.png",
+        "https://cdn.sera.de/fileadmin/user_upload/articlepictures/16723-04001942523769a001bqx0101.png",
+        "https://edizioninpe.it/wp-content/uploads/2021/01/Mock-Up-3D-La-grande-storia-del-rock-e-del-metal-%E2%80%93-omnibus-edition.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABRG7ojED6WBlaaQgN03u4yr9XvJOoy_2u5ZOCtShgMyWJBVteB0BkyNK2FwjSg0C5qINg2ODnntS6urMgz-6yNSD07HahQh8xYne.png",
+        "https://cdn.sera.de/fileadmin/user_upload/articlepictures/16724-04001942523752a001bqx0101.png"
+      ],
+      "definitions": [
+        "a lump or mass of hard consolidated mineral matter",
+        "material consisting of the aggregate of minerals like those making up the Earth's crust",
+        "United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)",
+        "(figurative) someone who is strong and stable and dependable; ; --Gospel According to Matthew",
+        "hard bright-colored stick candy (typically flavored with peppermint)",
+        "a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western",
+        "pitching dangerously to one side"
+      ]
+    },
+    {
+      "id": "oven",
+      "image_urls": [
+        "https://media3.bosch-home.com/Product_Shots/1600x900/MCSA02401843_HBJ558YS0T_BuiltInOven_Bosch_STP_EVO_def.png",
+        "https://www.steel-cucine.com/content/uploads/steel/2015/10/Genesi_60x90-sabbia.png",
+        "https://www.electrolux.com.sg/globalassets/appliances/oven/eot38mxc/eot38mxc--frontview-700x700.png",
+        "https://media.croma.com/image/upload/v1605166678/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/8937882648606.png",
+        "https://www.unox.com/media/upBoxImages/55/1619082896.png"
+      ],
+      "definitions": [
+        "kitchen appliance used for baking or roasting"
+      ]
+    },
+    {
+      "id": "microwave",
+      "image_urls": [
+        "https://www.electrolux.com.my/globalassets/appliances/mwo/my/ems3087x/ems3087x-front-700x700.png",
+        "https://www.beko.com/content/dam/brunei-bn-aem/brunei-bn-aemProductCatalog/product-images/8850413200-MGC20100S/8850413200-LO1-20190827-145124.png",
+        "https://www.ifbappliances.com/media/catalog/product/cache/a96f5e352a9941ad6b2c6bd82f558c4a/3/0/30frc2_30l_rotisserie_convection_microwave_fv_4.png",
+        "https://www.ipib.it/utenti/ipib_it/cache/_pics/0/0/5442_a7ffc3f6c4d9efbe32e6d52e77907ec3_t.png",
+        "https://www.beko.com/content/dam/brunei-bn-aem/brunei-bn-aemProductCatalog/product-images/8850433200-MGC20100W/8850433200-LO3-20190826-141559.png"
+      ],
+      "definitions": [
+        "a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data",
+        "kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food"
+      ]
+    },
+    {
+      "id": "fridge",
+      "image_urls": [
+        "https://www.winningappliances.com.au/public/images/product/srf719dls/external/719L-Samsung-4-Door-Fridge-SRF719DLS-Hero-Image-standard.png",
+        "https://cdn11.bigcommerce.com/s-npke0f4fvr/images/stencil/1280x1280/products/4591/15946/WQE6060SB_Westinghouse_French_Door_Fridge__30906.1594105873.png",
+        "https://assets.products-live.ao.com/Images/41374523-f2f7-438e-a9a3-4363ad829bfc/1280x1280/rs50n3513sl_si_samsung_aff_03.png",
+        "https://masons.co.za/wp-content/uploads/2018/11/hisense-fridge-H630TI-WD.png",
+        "https://www.beko.com/content/dam/nigeria-ng-aem/nigeria-ng-aemProductCatalog/product-images/8141310020-BAC530-UK/BAC-530.png"
+      ],
+      "definitions": [
+        "a refrigerator in which the coolant is pumped around by an electric motor"
+      ]
+    },
+    {
+      "id": "rocker",
+      "image_urls": [
+        "https://d6ce0no7ktiq.cloudfront.net/images/preview/2019/04/09/design-39972/template-sticker-600x600.png",
+        "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/17695.png",
+        "https://cdn.shopify.com/s/files/1/0030/4044/4451/products/packsrocker45frontnew_800x.png",
+        "https://cdn4.acolore.com/disegni/colorare/rocker-ragazza.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/1406638/LINEStorePC/main.png"
+      ],
+      "definitions": [
+        "an attendant who rocks a child in a cradle",
+        "a performer or composer or fan of rock music",
+        "a teenager or young adult in the 1960s who wore leather jackets and rode motorcycles",
+        "a chair mounted on rockers",
+        "a trough that can be rocked back and forth; used by gold miners to shake auriferous earth in water in order to separate the gold",
+        "an ice skate with a curved blade",
+        "a curved support that permits the supported object to rock to and fro"
+      ]
+    },
+    {
+      "id": "fan",
+      "image_urls": [
+        "https://thermaltake.azureedge.net/pub/media/wysiwyg/key3/img/TOUGHFAN12/pic2.png",
+        "https://www.kenstar.in/uploads/image/file/568/Klassy-Brown_01.png",
+        "https://www.standardelectricals.com/Standard/media/content/dam/standard/Fans/Ceiling-Fans/cover.png",
+        "https://www.dimplex.co.uk/sites/default/files/styles/product_full/public/product-images/front-0.png",
+        "https://i01.appmifile.com/webfile/globalimg/huyunan/eco/Smart-Standing-Fan-1C.png"
+      ],
+      "definitions": [
+        "a device for creating a current of air by movement of a surface or surfaces",
+        "an enthusiastic devotee of sports",
+        "an ardent follower and admirer"
+      ]
+    },
+    {
+      "id": "radio",
+      "image_urls": [
+        "https://ecg-electro.eu/wp-content/uploads/2020/10/cdr_999_dab_1a-300x223.png",
+        "https://www.panasonic.com/content/dam/pim/my/en/RX/RX-D50/RX-D500GS/ast-1261588.png",
+        "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw44e3b120/JBL_TunerFM_Hero_Black-1605x1605px.png",
+        "https://www.radioevangelosora.it/wp-content/uploads/2020/11/radio.png",
+        "https://www.panasonic.com/content/dam/pim/it/it/RF/RF-240/RF-2400DEJ/RF-2400DEJ-Product_ImageGlobal-1_it_it.png"
+      ],
+      "definitions": [
+        "medium for communication",
+        "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+        "a communication system based on broadcasting electromagnetic waves"
+      ]
+    },
+    {
+      "id": "magazine",
+      "image_urls": [
+        "https://www.graphistudio.com/wp-content/uploads/2019/05/magazin_3-1.png",
+        "https://www.industriafelix.it/wp-content/uploads/2020/01/ifm1111.png",
+        "https://thepop.com/wp-content/uploads/2020/04/unnamed.png",
+        "https://www.graphistudio.com/wp-content/uploads/2019/03/tre_magazine_rilegatura.png",
+        "https://www.businessfocusmagazine.com/app/uploads/sites/2/2019/09/BFM.png"
+      ],
+      "definitions": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+        "product consisting of a paperback periodic publication as a physical object",
+        "a business firm that publishes magazines",
+        "a light-tight supply chamber holding the film and supplying it for exposure as required",
+        "a storehouse (as a compartment on a warship) where weapons and ammunition are stored",
+        "a metal frame or container holding cartridges; can be inserted into an automatic gun"
+      ]
+    }
+  ]
+}

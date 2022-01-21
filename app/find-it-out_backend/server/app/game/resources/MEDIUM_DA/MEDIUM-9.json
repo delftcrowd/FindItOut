@@ -1,0 +1,240 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "mole",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/raw/upload/u/ux/mole-wiki_ver_1.png",
+        "https://images-na.ssl-images-amazon.com/images/I/51IY%2B4mlJ%2BL.png",
+        "https://static.wikia.nocookie.net/fallout/images/b/ba/Mole_rat_fo4.png",
+        "https://www.etownexterminator.com/assets/uploads/2018/10/Moles1.png",
+        "https://deadcertpestcontrolcornwall.com/wp-content/uploads/2020/09/Mole-Icon-Realistic.png"
+      ],
+      "definitions": [
+        "the molecular weight of a substance expressed in grams; the basic unit of amount of substance adopted under the Systeme International d'Unites",
+        "a spy who works against enemy espionage",
+        "spicy sauce often containing chocolate",
+        "a small congenital pigmented spot on the skin",
+        "a protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away",
+        "small velvety-furred burrowing mammal having small eyes and fossorial forefeet"
+      ]
+    },
+    {
+      "id": "alligator",
+      "image_urls": [
+        "https://i.pinimg.com/originals/62/6c/e4/626ce4837a965ef293f54b1f42c71ca3.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/6254/alligator-clipart-xl.png",
+        "https://images.getbento.com/accounts/13fc099e80f2d8da1f43f3d517dbdd71/media/images/64730gra-alligator.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15436/alligator-clipart-xl.png",
+        "https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/04/1200px-Lacoste_logo.svg.png"
+      ],
+      "definitions": [
+        "leather made from alligator's hide",
+        "either of two amphibious reptiles related to crocodiles but with shorter broader snouts"
+      ]
+    },
+    {
+      "id": "raccoon",
+      "image_urls": [
+        "https://www.jppestservices.com/sites/default/files/services/isolated/JP-Pest-Services_700x550_Raccoon_final.png",
+        "https://static.wixstatic.com/media/24fe3c_ed1d59597c1a4ef09ffbd998b15001e4~mv2.png",
+        "https://i.pinimg.com/originals/ef/ed/59/efed59fa0a9db54075f9831becb579ed.png",
+        "https://i.1.creatium.io/32/e1/91/5de3ea75db4184fd88605377b77ad15648/%D0%B5%D0%BD%D0%BE%D1%82%202.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Raccoon.png"
+      ],
+      "definitions": [
+        "the fur of the North American racoon",
+        "an omnivorous nocturnal mammal native to North America and Central America"
+      ]
+    },
+    {
+      "id": "beaver",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/beaver.png",
+        "https://www.varna-pasa.si/wp-content/uploads/2018/08/species-crop-img-bober-1.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Beaver-2.png",
+        "https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/11/04100341/Beaver-with-logs-1.png",
+        "https://static.wikia.nocookie.net/totaldramaisland/images/f/f1/Woolly_Beaver.png"
+      ],
+      "definitions": [
+        "the soft brown fur of the beaver",
+        "a native or resident of Oregon",
+        "a full beard",
+        "a man's hat with a tall crown; usually covered with silk or with beaver fur",
+        "a movable piece of armor on a medieval helmet used to protect the lower face",
+        "a hat made with the fur of a beaver (or similar material)",
+        "large semiaquatic rodent with webbed hind feet and a broad flat tail; construct complex dams and underwater lodges"
+      ]
+    },
+    {
+      "id": "rattlesnake",
+      "image_urls": [
+        "https://www.mdwfp.com/media/253761/canebrake-rattlesnake-crotalus-horridus-4x.png",
+        "https://www.mdwfp.com/media/253771/pigmy-rattlesnake-sistrurus-miliarius-4x.png",
+        "https://static.wikia.nocookie.net/rimworld-bestiary/images/9/93/Rattlesnake_east.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/10092/rattlesnake-clipart-xl.png",
+        "https://i.pinimg.com/originals/d7/89/99/d7899997f00b720fdb9d79cf137207fe.png"
+      ],
+      "definitions": [
+        "pit viper with horny segments at the end of the tail that rattle when shaken"
+      ]
+    },
+    {
+      "id": "elk",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/elk.png",
+        "https://aws.boone-crockett.org/s3fs-public/thumbnails/image/wr-aent-austad.png",
+        "https://static.wikia.nocookie.net/farcry/images/0/0a/Far_cry_primal_tall_elk.png",
+        "https://thebeerway.it/storage/beers_images/elk-61cento-american-amber-lager-61c0002f20.png",
+        "https://static.wikia.nocookie.net/reddeadredemption/images/7/7b/Uatapi.png"
+      ],
+      "definitions": [
+        "large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America",
+        "large North American deer with large much-branched antlers in the male",
+        "common deer of temperate Europe and Asia"
+      ]
+    },
+    {
+      "id": "deer",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/intothelongdark/images/2/27/Deer.png",
+        "https://cdn11.bigcommerce.com/s-6z4q4u6n3d/product_images/uploaded_images/buck-4653644-640.png",
+        "https://static.wikia.nocookie.net/intothelongdark/images/2/27/Deer.png",
+        "https://www.davesmithdecoys.com/wp-content/uploads/2018/07/dsd-decoyline-primary-posturingbuck-800x800.png",
+        "https://aws.boone-crockett.org/s3fs-public/thumbnails/image/wr-wdnt-modeptcons.png"
+      ],
+      "definitions": [
+        "distinguished from Bovidae by the male's having solid deciduous antlers"
+      ]
+    },
+    {
+      "id": "mink",
+      "image_urls": [
+        "https://thenorfolkminkproject.org.uk/wp-content/uploads/2015/06/Mink-sighting-mink.png",
+        "https://drncvpyikhjv3.cloudfront.net/sites/244/2019/05/30204910/mink.png",
+        "https://cdn10.bigcommerce.com/s-dsqbh7cd/products/1851/images/1192/ALL_MINK__96900.1495052150.1280.1280.png",
+        "https://cdn.shopify.com/s/files/1/0049/7686/9425/products/R-W-20U-21034-CS17-001_V3_1200x.png",
+        "https://cdn.shopify.com/s/files/1/0263/8725/1260/products/R-W-20U-22004-MI00-003_V3_27a63df2-a215-40ef-976f-bed8df86d77d-422899_1200x.png"
+      ],
+      "definitions": [
+        "the expensive fur of a mink",
+        "fur coat made from the soft lustrous fur of minks",
+        "slender-bodied semiaquatic mammal having partially webbed feet; valued for its fur"
+      ]
+    },
+    {
+      "id": "fawn",
+      "image_urls": [
+        "https://www.beccoblustickers.com/images/stories/virtuemart/product/cerbiatto5.png",
+        "https://www.color-name.com/wp-content/uploads/fawn-baby-deer.png",
+        "https://static.wikia.nocookie.net/overlook-bay-roblox/images/f/fd/Fawn.png",
+        "https://www.beccoblustickers.com/images/stories/virtuemart/product/cerbiattina6.png",
+        "https://openrangedecor.com/wp-content/uploads/2018/10/Fawn.png"
+      ],
+      "definitions": [
+        "a color or pigment varying around a light grey-brown color",
+        "a young deer"
+      ]
+    },
+    {
+      "id": "groundhog",
+      "image_urls": [
+        "https://i.pinimg.com/originals/86/eb/c1/86ebc1f141796e616c2c570f571115cd.png",
+        "https://calendar.wincalendar.net/img/holiday/groundhog-day.png",
+        "https://i.pinimg.com/originals/a6/49/ac/a649ac7406a3b009036c5615d0a85c4c.png",
+        "https://images-na.ssl-images-amazon.com/images/I/71P5RjPxQ7L.png",
+        "https://www.meteorologiaenred.com/wp-content/uploads/2016/02/dia_de_la_marmota.png"
+      ],
+      "definitions": [
+        "reddish brown North American marmot"
+      ]
+    },
+    {
+      "id": "hare",
+      "image_urls": [
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/hare_edit.png",
+        "https://i2.wp.com/irelandbeo.com/wp-content/uploads/2020/09/Hare.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/9185/hare-clipart-md.png",
+        "https://www.wildnephinnationalpark.ie/wp-content/uploads/2020/04/Hare_Badge-e1586678665212.png",
+        "https://4vector.com/i/free-vector-hare_099067_Hare.png"
+      ],
+      "definitions": [
+        "swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes",
+        "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+      ]
+    },
+    {
+      "id": "skunk",
+      "image_urls": [
+        "https://img.sensiseeds.com/it/semi-di-canapa/sensi-seeds/sensi-skunk-xl.png",
+        "https://img.sensiseeds.com/it/semi-femminizzati/sensi-seeds/skunk-1-femminilizzata-xl.png",
+        "https://img.sensiseeds.com/it/semi-femminizzati/sensi-seeds/skunk-1-automatic-photo.png",
+        "https://seedsline.com/wp-content/uploads/2017/06/skunk-1-femminilizzata-xl.png",
+        "https://img.sensiseeds.com/it/semi-di-canapa/sensi-seeds/super-skunk-xl.png"
+      ],
+      "definitions": [
+        "a person who is deemed to be despicable or contemptible",
+        "a defeat in a game where one side fails to score",
+        "street names for marijuana",
+        "American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae"
+      ]
+    },
+    {
+      "id": "rabbit",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/rabbit-emoji.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/coniglio.png",
+        "https://vethelpdirect.com/wordpress/wp-content/uploads/2018/02/rabbit.png",
+        "https://3wqjvwh65v-flywheel.netdna-ssl.com/wp-content/uploads/2018/05/morphocode-rabbit-logo-02.png",
+        "https://static.wikia.nocookie.net/intothelongdark/images/f/fd/Rabbit.png"
+      ],
+      "definitions": [
+        "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food",
+        "the fur of a rabbit",
+        "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+      ]
+    },
+    {
+      "id": "coyote",
+      "image_urls": [
+        "https://www.mycoyote.net/CMS/uploads/IT/images/pages/homepage/it_mini.png",
+        "https://breed-assets.wisdompanel.com/dog/coyote/Coyote_Color.png",
+        "https://wildlifehelp.org/sites/default/files/images/steps/coyote_howling_transparent_bg.png",
+        "https://www.compagniadeicaraibi.com/public/afc8d3790c5b4e71b224a96209f6ae26.png",
+        "https://www.mycoyote.net/CMS/uploads/IT/images/pages/homepage/NAVPLUS_IT_int.png"
+      ],
+      "definitions": [
+        "small wolf native to western North America",
+        "someone who smuggles illegal immigrants into the United States (usually across the Mexican border)",
+        "a forest fire fighter who is sent to battle remote and severe forest fires (often for days at a time)"
+      ]
+    },
+    {
+      "id": "porcupine",
+      "image_urls": [
+        "https://www.hellabrunn.de/fileadmin/_processed_/csm_Freisteller_Weisseschwanz-Stachelschwein_fa9180d17b.png",
+        "https://static.wikia.nocookie.net/wowwiki/images/1/1c/Porcupine.png",
+        "https://2e.aonprd.com/Images/Monsters/PorcupineGiant.png",
+        "https://www.outdoorrevival.com/wp-content/uploads/2017/01/porcupine-7.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/63261/porcupine-clipart-md.png"
+      ],
+      "definitions": [
+        "relatively large rodents with sharp erectile bristles mingled with the fur"
+      ]
+    },
+    {
+      "id": "squirrel",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Grey-Squirrel---Animal-Science-Secondary.png",
+        "https://it.buccellati.com/sites/default/files/styles/product_big/public/img/product/scoiattolo_0.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Red-Squirrel--Animal-Scene-Nature-Scotland-Twinkl-Newsroom-KS2.png",
+        "https://s3.envato.com/files/299233243/Cute%20Squirrel%20With%20Almonds%20SET/cute-squirrel-with-almonds%20transparent%20png.png",
+        "https://static.wikia.nocookie.net/hayday/images/3/3e/Squirrel_Idle.png"
+      ],
+      "definitions": [
+        "a kind of arboreal rodent having a long bushy tail",
+        "the fur of a squirrel"
+      ]
+    }
+  ]
+}

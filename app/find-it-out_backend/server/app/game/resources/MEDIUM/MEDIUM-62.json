@@ -1,0 +1,259 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "money",
+      "image_urls": [
+        "https://acdn.tinkoff.ru/static/pages/files/f3f9e08c-8d2b-45db-86ee-3adf0aa6c5fd.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/717-money-bag.svg/2048px-717-money-bag.svg.png",
+        "https://static.wikia.nocookie.net/cswikia/images/7/7e/Csgo_prop_crash_stack.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/Money_Emoji_Icon_59b7293e-e703-4ba4-b3c3-a7b9401f89fb_large.png",
+        "https://cdn1.iconfinder.com/data/icons/web-design-29/60/vector__illustration__design__money-512.png"
+      ],
+      "definitions": [
+        "the most common medium of exchange; functions as legal tender",
+        "wealth reckoned in terms of money",
+        "the official currency issued by a government or national bank"
+      ]
+    },
+    {
+      "id": "shock",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Shock-cell2.svg/500px-Shock-cell2.svg.png",
+        "https://i1.wp.com/emcrit.org/wp-content/uploads/2015/08/shock.png",
+        "https://syndroom.info/wp-content/uploads/2014/02/hart-cardiogene-shock.png",
+        "https://cdn.zodiac.nl/media/zodiac-generated/3e76695d/4cdb/4696/9b96/ff5f784a2601/standard-rgba.png",
+        "https://edwardsprod.blob.core.windows.net/media/Default/therapies/typesofshockmatters_3-m.png"
+      ],
+      "definitions": [
+        "the feeling of distress and disbelief that you have when something bad happens accidentally",
+        "the violent interaction of individuals or groups entering into combat",
+        "a reflex response to the passage of electric current through the body",
+        "(pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor",
+        "an instance of agitation of the earth's crust",
+        "an unpleasant or disappointing surprise",
+        "a pile of sheaves of grain set on end in a field to dry; stalks of Indian corn set up in a field",
+        "a bushy thick mass (especially hair)",
+        "a sudden jarring impact",
+        "a mechanical damper; absorbs energy of sudden impulses"
+      ]
+    },
+    {
+      "id": "nightmares",
+      "image_urls": [
+        "https://cdn11.bigcommerce.com/s-3potucr700/product_images/uploaded_images/10-reasons-for-nightmares-min.png",
+        "https://cdn.akamai.steamstatic.com/apps/csgo/images/dreams/hyperheader.png",
+        "https://www.behavioralsleep.org/images/Nightmare.png",
+        "https://static.wikia.nocookie.net/minecraftfanon/images/7/72/PurpleSpecter.png",
+        "https://www.kidsskills.org/WP-fin/wp-content/uploads/carscoming.png"
+      ],
+      "definitions": [
+        "a situation resembling a terrifying dream",
+        "a terrifying or deeply upsetting dream"
+      ]
+    },
+    {
+      "id": "crying",
+      "image_urls": [
+        "https://biophysicalsociety.files.wordpress.com/2015/12/800px-face_eyes_caricature_comic_cry_how.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/Crying_Emoji_Icon_2_large.png",
+        "https://www.pimprint.nl/images/thumbnails/280/200/detailed/2/Loudly_Crying_Face_Emoji@2x.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/36066/child-little-girl-crying-clipart-xl.png",
+        "https://cdn.icon-icons.com/icons2/1648/PNG/512/10058cryingface_110005.png"
+      ],
+      "definitions": [
+        "a loud utterance; often in protest or opposition",
+        "a loud utterance of emotion (especially when inarticulate)",
+        "a slogan used to rally support for a cause",
+        "a fit of weeping",
+        "the characteristic utterance of an animal"
+      ]
+    },
+    {
+      "id": "nostalgia",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/nostalgia-944c926381f08ba02d7ec775f1f0b1a40ff1a4db.png",
+        "https://www.silvercrossbaby.com/media/gq3bk3dv/dresser-and-cot-bed.png",
+        "https://www.coenecoop.com/content/images/thumbs/0039734_darenberg-nostalgia-rare-tawny-0375-liter.png",
+        "https://images.squarespace-cdn.com/content/v1/54a5758ce4b037e9babf9989/1467252512712-I2764TVAXQ94MPR6Q3Y3/Waveofnostagia_logo.png",
+        "https://anagrambooks.com/sites/default/files/styles/slide/public/product-images/nostalgia.png"
+      ],
+      "definitions": [
+        "longing for something past"
+      ]
+    },
+    {
+      "id": "remembering",
+      "image_urls": [
+        "https://cdn3.iconfinder.com/data/icons/education-business-part-2/513/53-512.png",
+        "https://www.de-web-psycholoog.nl/wp-content/uploads/2014/10/experiencing-vs-remembering.png",
+        "https://www.forumresearch.nl/wp-content/uploads/2020/03/Experiencing-self-vs-remembering-self.png",
+        "https://rememberingyou.co.za/wp-content/uploads/2018/08/Remembering-you-2.png",
+        "https://www.pinclipart.com/picdir/big/110-1100773_remembering-in-corporate-learning-remembering-and-forgetting-clipart.png"
+      ],
+      "definitions": [
+        "the cognitive processes whereby past experience is remembered"
+      ]
+    },
+    {
+      "id": "inspiration",
+      "image_urls": [
+        "https://www.macmillaninspiration.com/inspired/files/2012/07/banner.png",
+        "https://www.projectinspiration.nl/wp-content/uploads/2020/04/cropped-Project-Inspiration-Beadmingsapparaat-TU-Delft-Logo.png",
+        "https://www.ja.nl/wp-content/uploads/2020/09/Inspiration-logo-300x300.png",
+        "https://addinspiration.com/wp-content/uploads/502C1BEA-071F-4341-ADA5-72FEEA2AC6A1.png",
+        "https://microassistivetech.com/image/cache/catalog/Inspiration-500x500.png"
+      ],
+      "definitions": [
+        "arousal of the mind to special unusual activity or creativity",
+        "a product of your creative thinking and work",
+        "a sudden intuition as part of solving a problem",
+        "(theology) a special influence of a divinity on the minds of human beings",
+        "arousing to a particular emotion or action",
+        "the act of inhaling; the drawing in of air (or other gases) as in breathing"
+      ]
+    },
+    {
+      "id": "instruction",
+      "image_urls": [
+        "https://d338t8kmirgyke.cloudfront.net/icons/icon_pngs/000/008/572/original/instruction.png",
+        "https://static.thenounproject.com/png/2366960-200.png",
+        "https://www.moedu-sail.org/wp-content/uploads/2014/09/direct-instruction-June-2016-232x300.png",
+        "https://s3.amazonaws.com/iconbros/icons/icon_pngs/000/008/522/original/instruction.png",
+        "https://3.files.edl.io/e90e/18/06/04/224424-cd3e717f-23c0-4c75-a326-26bd83a03cca.png"
+      ],
+      "definitions": [
+        "a message describing how something is to be done",
+        "the activities of educating or instructing; activities that impart knowledge or skill",
+        "the profession of a teacher",
+        "(computer science) a line of code written as part of a computer program"
+      ]
+    },
+    {
+      "id": "pain",
+      "image_urls": [
+        "https://www.colorado.edu/today/sites/default/files/styles/slider/public/article-image/brain-3168269_1280.png",
+        "https://static.wikia.nocookie.net/naruto-ultimate-ninja-storm/images/5/54/Pain.png",
+        "https://static.wikia.nocookie.net/all-worlds-alliance/images/1/16/Naruto_six_paths_pain.png",
+        "https://www.cdc.gov/acute-pain/images/toothe-medium.png",
+        "https://www.porsolt.com/wp-content/uploads/2021/02/pain2-768x576.png"
+      ],
+      "definitions": [
+        "a symptom of some physical hurt or disorder",
+        "emotional distress; a fundamental feeling that people try to avoid",
+        "a somatic sensation of acute discomfort",
+        "a bothersome annoying person",
+        "something or someone that causes trouble; a source of unhappiness"
+      ]
+    },
+    {
+      "id": "problems",
+      "image_urls": [
+        "https://cdn3.iconfinder.com/data/icons/abstract-1/512/problems-512.png",
+        "https://lifemathmoney.com/wp-content/uploads/2020/08/Solve-Personal-Life-Problems.png",
+        "https://www.manageengine.com/products/service-desk/itil/images/5-whys-of-problem-management.png",
+        "https://directus.thegovlab.com/uploads/solving-public-problems/originals/c3aecb3b-bbc9-4f48-9299-9e5b365adda0.png",
+        "https://website-assets-fs.freshworks.com/attachments/cjr1n0fuz028dhug05dpmbkub-working-enviroment-92dd5426.one-half.png"
+      ],
+      "definitions": [
+        "a state of difficulty that needs to be resolved",
+        "a question raised for consideration or solution",
+        "a source of difficulty"
+      ]
+    },
+    {
+      "id": "controversy",
+      "image_urls": [
+        "https://www.living-democracy.com/wp-content/uploads/2019/03/controversial-internal-01.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/controversy-3c5dacee8fd5f97be62e1eb6061c0b43b66cf464.png",
+        "https://www.living-democracy.com/wp-content/uploads/2017/06/Controversial-issues-cover-06.png",
+        "https://benjamins.com/covers/3d_web/cvs.6.hb.png",
+        "https://grammartop.com/wp-content/uploads/2020/10/controversial-42a04bc8b31ea95a2b15ed6c8e4d292a44293b9c.png"
+      ],
+      "definitions": [
+        "a contentious speech act; a dispute where there is strong disagreement"
+      ]
+    },
+    {
+      "id": "sorrow",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/sorrow-25d69b11e71ac91ec48d16d1286372b3cc0b6a6e.png",
+        "https://dictionaryoffemalefeelings.com/wp-content/uploads/2020/04/Sorrow.png",
+        "https://grammartop.com/wp-content/uploads/2021/03/sorrow-2981c02a71a63b98af9dffa86dc1841826634f47.png",
+        "https://cdn.shopify.com/s/files/1/0015/2602/products/ColinStetson-Sorrowgroup_1.png",
+        "https://static.thenounproject.com/png/412944-200.png"
+      ],
+      "definitions": [
+        "an emotion of great sadness associated with loss or bereavement",
+        "sadness associated with some wrong done or some disappointment",
+        "something that causes great unhappiness",
+        "the state of being sad"
+      ]
+    },
+    {
+      "id": "depression",
+      "image_urls": [
+        "https://noahhelps.org/wp-content/uploads/2020/05/Depression.png",
+        "https://images.indianexpress.com/2020/10/mental-health-3285625_1280.png",
+        "https://www.mindtherapy.ie/wp-content/uploads/2020/11/Cycle-of-Depression-1024x576-1.png",
+        "https://hudsonalpha.org/wp-content/uploads/2019/05/ED-Depression-graphic.png",
+        "https://thehelpnet.imgix.net/2021/01/depression.png"
+      ],
+      "definitions": [
+        "a mental state characterized by a pessimistic sense of inadequacy and a despondent lack of activity",
+        "a long-term economic state characterized by unemployment and low prices and low levels of trade and investment",
+        "a sunken or depressed geological formation",
+        "sad feelings of gloom and inadequacy",
+        "a period during the 1930s when there was a worldwide economic depression and mass unemployment",
+        "an air mass of lower pressure; often brings precipitation",
+        "a state of depression and anhedonia so severe as to require clinical intervention",
+        "a concavity in a surface produced by pressing",
+        "angular distance below the horizon (especially of a celestial object)",
+        "pushing down"
+      ]
+    },
+    {
+      "id": "embarrassment",
+      "image_urls": [
+        "https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/145526/area14mp/image-20161111-25090-1ch75h6.png",
+        "https://images.squarespace-cdn.com/content/v1/609bea5774a4802fdcf0686f/1623692371490-S4OSAJ19ABD74FWD5FGD/ffc5f-image-asset.png",
+        "https://cdn4.iconfinder.com/data/icons/mood-smiles/80/mood-16-512.png",
+        "https://static.thenounproject.com/png/1476121-200.png",
+        "https://cdn-icons-png.flaticon.com/512/260/260223.png"
+      ],
+      "definitions": [
+        "the shame you feel when your inadequacy or guilt is made public",
+        "the state of being embarrassed (usually by some financial inadequacy)",
+        "some event that causes someone to be embarrassed",
+        "extreme excess"
+      ]
+    },
+    {
+      "id": "knowledge",
+      "image_urls": [
+        "https://turbulentflux.com/wp-content/uploads/2020/09/20200831_Data_Information_Knowledge.png",
+        "https://heranet.info/assets/uploads/2018/02/knowledge-translation-exchange.png",
+        "https://nathanworks.com/wp-content/uploads/2010/11/brain_KnowledgeTypes.png",
+        "https://www.knowledgesolution.nl/wp-content/uploads/2021/06/KS-Flex-Logo-1024x473.png",
+        "https://knowledgeagency.com/wp-content/uploads/2019/01/cropped-KVC-Triangle-FNL_RGB_07-1.png"
+      ],
+      "definitions": [
+        "the psychological result of perception and learning and reasoning"
+      ]
+    },
+    {
+      "id": "trauma",
+      "image_urls": [
+        "https://www.ggzingeest.nl/app/uploads/fly-images/382/TraumaInGeest-670x0-c.png",
+        "https://empowerrehab.com/wp-content/uploads/shutterstock_101982913-cropped-inverted.png",
+        "https://www.psyq.nl/documents/1302791/1305889/illustratie+Trauma+200px.png",
+        "https://i2.wp.com/suuslichaamstherapie.com/wp-content/uploads/2020/02/brain-148131_640.png",
+        "https://theretreatyork.org.uk/wp-content/uploads/2020/04/stress-woman.png"
+      ],
+      "definitions": [
+        "any physical damage to the body caused by violence or accident or fracture etc.",
+        "an emotional wound or shock often having long-lasting effects"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "frog",
+      "image_urls": [
+        "https://www.steiff.com/img/600/744/resize/catalog/product/n/a/national-geographic-froggy-frosch-056536.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Frog-02.png",
+        "https://static.wikia.nocookie.net/chrono/images/e/e6/Frog.png",
+        "https://frog.tips/images/FROG.png",
+        "https://cdn.shopify.com/s/files/1/1241/7562/products/FGH_55T_500_ICAST_750x.png"
+      ],
+      "definitions": [
+        "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+        "a person of French descent",
+        "a decorative loop of braid or cord"
+      ]
+    },
+    {
+      "id": "elephant",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/elephant-6.png",
+        "https://www.biovoices.eu/image_temp/516X516_516X516_04bc7008d41b0ab6f5b0ecec8635c3ae.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/8/81/African-Elephant-PNG-File-1-.png",
+        "https://naturalhistory.si.edu/sites/default/files/media/image/nmnh-cutout-template-henry-copy.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Elephants-near-Mount-Kilimanjaro--Scene-Animal-Landscape-Kenya-Africa-Newsroom-KS2.png"
+      ],
+      "definitions": [
+        "five-toed pachyderm",
+        "the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+      ]
+    },
+    {
+      "id": "squirrel",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Grey-Squirrel---Animal-Science-Secondary.png",
+        "https://it.buccellati.com/sites/default/files/styles/product_big/public/img/product/scoiattolo_0.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Red-Squirrel--Animal-Scene-Nature-Scotland-Twinkl-Newsroom-KS2.png",
+        "https://s3.envato.com/files/299233243/Cute%20Squirrel%20With%20Almonds%20SET/cute-squirrel-with-almonds%20transparent%20png.png",
+        "https://static.wikia.nocookie.net/hayday/images/3/3e/Squirrel_Idle.png"
+      ],
+      "definitions": [
+        "a kind of arboreal rodent having a long bushy tail",
+        "the fur of a squirrel"
+      ]
+    },
+    {
+      "id": "mouse",
+      "image_urls": [
+        "https://thermaltake.azureedge.net/pub/media/wysiwyg/key3/img/L20rgbmouse/aa.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/mice/m190-wireless-mouse/m190-wireless-mouse-blue-gallery-01.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/mice/m171/gallery/m171-gallery-red-1.png",
+        "https://resource.logitechg.com/w_1000,c_limit,q_auto,f_auto,dpr_auto/d_transparent.gif/content/dam/gaming/en/products/pro-gaming-mouse/pro-wired-mouse-rgb-hero-new.png",
+        "https://resource.logitechg.com/content/dam/gaming/en/products/g502-lightspeed-gaming-mouse/g502-lightspeed-hero.png"
+      ],
+      "definitions": [
+        "any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails",
+        "a swollen bruise caused by a blow to the eye",
+        "person who is quiet or timid",
+        "a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad"
+      ]
+    },
+    {
+      "id": "cow",
+      "image_urls": [
+        "https://static.wixstatic.com/media/2cd43b_1a0dc766603340b5a4c62ea0cbf3c113~mv2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cow_cartoon_04.svg/1200px-Cow_cartoon_04.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/5c05e24636099be8c82c8a7e/1543889753172-1ZQVZ34JKH40CB2FWJM1/World+Cow+Chad+image.png",
+        "https://www.algatan.it/upload/pagine/115/paragrafi/d_4_Silhouette-Mucca-AlgaGit_2020-10-07_09-49-53.png",
+        "https://static.wikia.nocookie.net/zelda/images/0/0c/Cow_Artwork_%28Ocarina_of_Time%29.png"
+      ],
+      "definitions": [
+        "female of domestic cattle:",
+        "mature female of mammals of which the male is called `bull'",
+        "a large unpleasant woman"
+      ]
+    },
+    {
+      "id": "spider",
+      "image_urls": [
+        "https://1zootree.weebly.com/uploads/2/4/2/5/24255946/spider-group-logo_1.png",
+        "https://i.pinimg.com/originals/bf/67/6d/bf676daa4a60c396664e0f3346d50ff0.png",
+        "https://static.wikia.nocookie.net/villains/images/2/2e/Spider_%28Bug_Fables%29.png",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Spirospiderlarge.png",
+        "https://images.theconversation.com/files/56867/original/737wj3gq-1408504108.png"
+      ],
+      "definitions": [
+        "predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey",
+        "a computer program that prowls the internet looking for publicly accessible resources that can be added to a database; the database can then be searched with a search engine",
+        "a skillet made of cast iron"
+      ]
+    },
+    {
+      "id": "cat",
+      "image_urls": [
+        "https://m.media-amazon.com/images/I/71+mDoHG4mL.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/8025109/LINEStorePC/main.png",
+        "https://jngnposwzs-flywheel.netdna-ssl.com/wp-content/uploads/2019/05/Transparent-OrangeWhiteCat-764x1024.png",
+        "https://images.ctfassets.net/sa0sroutfts9/4cRiXpLgY2MRYphXDhb1F4/6f819bd33447a72218ba667a5867b35b/GO-SOLUTIONS-Recipe-Image-Cat-Skin_Coat-Care-Salmon.png",
+        "https://breed-assets.wisdompanel.com/cat/indian-street-cat/Indian_Street.png"
+      ],
+      "definitions": [
+        "feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats",
+        "an informal term for a youth or man",
+        "a spiteful woman gossip",
+        "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant",
+        "a whip with nine knotted cords",
+        "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work",
+        "any of several large cats typically able to roar and living in the wild",
+        "a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis"
+      ]
+    },
+    {
+      "id": "rabbit",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/rabbit-emoji.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/coniglio.png",
+        "https://vethelpdirect.com/wordpress/wp-content/uploads/2018/02/rabbit.png",
+        "https://3wqjvwh65v-flywheel.netdna-ssl.com/wp-content/uploads/2018/05/morphocode-rabbit-logo-02.png",
+        "https://static.wikia.nocookie.net/intothelongdark/images/f/fd/Rabbit.png"
+      ],
+      "definitions": [
+        "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food",
+        "the fur of a rabbit",
+        "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+      ]
+    }
+  ]
+}

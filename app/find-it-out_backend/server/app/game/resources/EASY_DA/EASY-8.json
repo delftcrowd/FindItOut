@@ -1,0 +1,113 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "mirror",
+      "image_urls": [
+        "https://www.aliseo.de/wp-content/uploads/2020/06/020843_Kosmetikspiegel_MY-1024x1024-1-1024x1024.png",
+        "https://essentialhome.eu/images/products/product-page/accessories/shirley-mirror/shirley-mirror-1.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/LG10-R-Pearl-Rectangular-Mirror-e1557598277120.png",
+        "https://cdn.shopify.com/s/files/1/0174/2162/products/DYKE_AND_DEAN_ESSEM_Tillbakablick_mirror_WALL_OAK.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/r/e/rex_mirror_wall_lamp_1base.png"
+      ],
+      "definitions": [
+        "polished surface that forms images by reflecting light",
+        "a faithful depiction or reflection"
+      ]
+    },
+    {
+      "id": "necklace",
+      "image_urls": [
+        "https://media2.bulgari.com/f_auto,q_auto/production/dwd8a09b8d/images/images/459608.png",
+        "https://www.danielwellington.com/product-images/dw00400166_elan_unit-ZPwNMg9v.png",
+        "https://www.danielwellington.com/product-images/dw00400159_elan_neck-3uCKddIa.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1JC/1JC826/2DSPF0009/1JC826_2DSP_F0009_SLD.png",
+        "https://www.dodo.it/r/assets/DCC0006_KNOT0_000AG/4x3/DCC0006_KNOT0_000AG_010_Dodo_nodo-necklace-silver.png"
+      ],
+      "definitions": [
+        "jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)"
+      ]
+    },
+    {
+      "id": "cigarette",
+      "image_urls": [
+        "https://assets.wprock.fr/emoji/joypixels/512/1f6ac.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Cigarette.png",
+        "https://img.icons8.com/emoji/452/cigarette.png",
+        "https://www.hse.ie/images_upload/portal/eng/about/who/tobaccocontrol/kf/Whats-in-a-cigarette.png",
+        "https://shamlan.co/wp-content/uploads/2019/10/1800x-header-Blue-1.png"
+      ],
+      "definitions": [
+        "finely ground tobacco wrapped in paper; for smoking"
+      ]
+    },
+    {
+      "id": "lantern",
+      "image_urls": [
+        "https://contardi-italia.com/wp-content/uploads/2020/07/MUSE-LANTERN-OUTDOOR.png",
+        "https://i.pinimg.com/originals/77/13/46/7713462641481ab70106906c7832e002.png",
+        "https://bylassen.com/wp-content/uploads/2021/06/25002_pack_1.png",
+        "https://images.rosendahl.dk/products/434/354/1/4343541/v/4343541/XXLarge/dwl-hurricane-lantern-clear-h33-1-design-with-light-1500x1500.png",
+        "https://www.sbam-design.it/wp-content/uploads/2020/11/MoriMori-LedLanternSpeaker-urbansports-3.png"
+      ],
+      "definitions": [
+        "light in a transparent protective case"
+      ]
+    },
+    {
+      "id": "candle",
+      "image_urls": [
+        "https://www.franciskurkdjian.com/dw/image/v2/BDWF_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwbc20f98e/Packshots-07-2021/COLLECTION%20BR540/BR540%20BOUGIE%20280G/baccarat-rouge-540-bougie-parfumee-280-g-2022226_1-maison-francis-kurkdjian.png",
+        "https://images.squarespace-cdn.com/content/v1/56de2ca44d088eec19559052/1604400265256-V399YIVJANZXOIO0M3BC/HC-300g-Australia-2020-SHOP.png",
+        "https://drvranjes.com/media/catalog/product/cache/9555815117c2a923632c3eebe7523156/c/a/candle-new-perla-ginger-lime_1.png",
+        "https://www.franciskurkdjian.com/dw/image/v2/BDWF_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwb92998d1/Packshots-07-2021/BOUGIES%20MDLM/view-of-the-park-bougie-parfumee-280-g-2028526_1-maison-francis-kurkdjian.png",
+        "https://d3jk0p4mhmtvkv.cloudfront.net/production/imager/images/Products/Bougie/23788/HOME_BOUGIE_BRUNE_COSTES_4c994b0202aa954f24e352ca36c88518.png"
+      ],
+      "definitions": [
+        "stick of wax with a wick in the middle",
+        "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+      ]
+    },
+    {
+      "id": "scarf",
+      "image_urls": [
+        "https://www.barts.eu/img/1080/1920/resize/4/9/4921_vincent-scarf_19_1.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1FS/1FS009/2D3EF0MFW/1FS009_2D3E_F0MFW_MDB.png",
+        "https://www.prada.com/content/dam/pradanux_products/U/USC/USC177/076F0480/USC177_076_F0480_S_172_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/U/UMS/UMS379/1XSQF0089/UMS379_1XSQ_F0089_S_202_MDF.png",
+        "https://www.america-today.com/on/demandware.static/-/Sites-at-master-catalog/default/dw75d68191/images/product/scarf-afleck-men-grey-1552002013-200-f.png"
+      ],
+      "definitions": [
+        "a garment worn around the head or neck or shoulders for warmth or decoration",
+        "a joint made by notching the ends of two pieces of timber or metal so that they will lock together end-to-end"
+      ]
+    },
+    {
+      "id": "lamp",
+      "image_urls": [
+        "https://res-2.cloudinary.com/m2-circa-lighting/image/upload/c_limit,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/s/p/sp3022habnp_10.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/l/a/lampada_da_tavolo_vintage_in_vetro_e_ottone_anni_70.png",
+        "https://www.spaziomatteotti5.it/wp-content/uploads/2020/04/21310-tip-table-lamp-black-1503648760-21970864.png",
+        "https://cdn.shopify.com/s/files/1/2283/1973/products/01c_qeeboo--piero_fasanotto_michele_branca--rabbit_small_lamp_with_rechargeable_led--design_stefano_giovannoni--white_1024x1024.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/o/d/odeon_floor_lamp_base.png"
+      ],
+      "definitions": [
+        "an artificial source of visible illumination",
+        "a piece of furniture holding one or more electric light bulbs"
+      ]
+    },
+    {
+      "id": "chandelier",
+      "image_urls": [
+        "https://www.lampadaribesanza.com/media/catalog/product/cache/2/image/490x595/9df78eab33525d08d6e5fb8d27136e95/g/i/giocondanero.png",
+        "https://cdn.ciatdesign.com/pub/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/l/e/lee_broom_-_chamber_chandelier_5_piece.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/l/a/lampadario_antico_a_24_luci_epoca_napoleone_iii_francese_in_bronzo_e_cristallo_1.png",
+        "https://www.leporcellane.it/media/prodotti/5605-5.png",
+        "https://res-4.cloudinary.com/m2-circa-lighting/image/upload/c_limit,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/3/1/3180706en848_3.png"
+      ],
+      "definitions": [
+        "branched lighting fixture; often ornate; hangs from the ceiling"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "cafe",
+      "image_urls": [
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/0QR73711/logo_465x320.png",
+        "https://www.baristacafe.nl/wp-content/uploads/2019/01/BC_Logo_wit_retina.png",
+        "https://www.grandcafedesteeg.nl/themes/grandcafedesteeg/assets/images/pand-zomer.png",
+        "https://www.dolce-gusto.nl/media/catalog/product/cache/d22af66f75f51f60e100631e2c10a99a/c/a/cafe-au-lait-intenso.png",
+        "https://cafesoof.nl/wp-content/uploads/2017/11/logo_soof_landing.png"
+      ],
+      "definitions": [
+        "a small restaurant where drinks and snacks are sold"
+      ]
+    },
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "university",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Erasmus_University_Rotterdam_Stacked_logo_%28Colour%29.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leiden_University_seal.svg/1200px-Leiden_University_seal.svg.png",
+        "https://webster.nl/_resources/images/webster-leiden-logo.png",
+        "https://www.ru.nl/publish/pages/732676/best-traditional-university-rgb-1.png",
+        "https://features.york.ac.uk/who-we-are/assets/vvJikmK4Yz/uoy-logo-stacked-shield-pms432-800x369.png"
+      ],
+      "definitions": [
+        "the body of faculty and students at a university",
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+      ]
+    },
+    {
+      "id": "unemployment",
+      "image_urls": [
+        "https://ec.europa.eu/esf/transnationality/sites/esf/files/ltu-ks-700x655.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/EU_Unemployment.svg/220px-EU_Unemployment.svg.png",
+        "https://www.pwc.com/m1/en/publications/images-new/react/rethinking-unemployment-react-framework.png",
+        "https://stat.gov.pl/files/gfx/portalinformacyjny/en/defaultaktualnosci/3291/1/66/1/registered_unemployed_persons_by_region.png",
+        "https://www.bloomberg.com/graphics/2020-uk-unemployment-benefits-covid-19/img/claimant-count-historical-mobile.png"
+      ],
+      "definitions": [
+        "the state of being unemployed or not having a job"
+      ]
+    },
+    {
+      "id": "universe",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2016%2F06%2FObservable_universe_logarithmic_illustration.png",
+        "https://images.theconversation.com/files/301116/original/file-20191111-194633-1hal3qv.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/universe-27e98be8dcee446934a63f2e0ab8bba493692257.png"
+      ],
+      "definitions": [
+        "everything that exists anywhere",
+        "(statistics) the entire aggregation of items from which samples can be drawn",
+        "everything stated or assumed in a given discussion"
+      ]
+    },
+    {
+      "id": "humans",
+      "image_urls": [
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABWabpyETgXW6cr4YLpKwA2DwuHAtMY5CwtFJrI-hUtR3Y7u1y42PmGSrkM3retW2PR4Tx5NzY4d-8iqLEakdXTMfvIH36g-m7BmY.png",
+        "https://static.wikia.nocookie.net/forgottenrealms/images/9/98/Human-5e.png",
+        "https://static.thenounproject.com/png/193734-200.png",
+        "https://static.wikia.nocookie.net/halo/images/3/39/Humans.png",
+        "https://humansintheloop.org/wp-content/uploads/2021/01/logo-color-HITL.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "idaho",
+      "image_urls": [
+        "https://idfg.idaho.gov/sites/default/files/styles/adaptive/public/ibt-regional-map.png",
+        "https://visitidaho.org/content/uploads/2021/04/Idaho-Rivers-Map-Whitewater-2-512x742.png",
+        "https://idahodems.org/wp-content/uploads/2021/08/Idaho-Map-with-Counties-01.png",
+        "https://www.bls.gov/regions/west/images/18807.png",
+        "https://isc.idaho.gov/files/Idaho-Districts.png"
+      ],
+      "definitions": [
+        "a state in the Rocky Mountains"
+      ]
+    },
+    {
+      "id": "movies",
+      "image_urls": [
+        "https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1703375629.png",
+        "https://www.dressedbytiffanystrent.be/pub/media/Movies/Movies-logo-v1-01.png",
+        "https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1508501659.png",
+        "https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1532315359.png",
+        "https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1469463107.png"
+      ],
+      "definitions": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+      ]
+    }
+  ]
+}

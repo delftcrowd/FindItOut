@@ -1,0 +1,128 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "car",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "entertainment",
+      "image_urls": [
+        "https://www.wwentertainment.nl/img/wwentertainment-logo.png",
+        "https://viaportrotterdam.com/wp-content/uploads/2020/03/Via-Entertainment-logo.png",
+        "https://www.entertainmentholding.nl/wp-content/uploads/2019/10/entertainment-holding-logo-1024-witruimte.png",
+        "https://www.stipentertainment.nl/Portals/_default/Skins/Customer/img/stip-entertainment-logo.png",
+        "https://diamond-entertainment.nl/wp-content/uploads/2019/07/logo.png"
+      ],
+      "definitions": [
+        "an activity that is diverting and that holds the attention"
+      ]
+    },
+    {
+      "id": "stupid",
+      "image_urls": [
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABS2eHetQFzOSIldRFlzxWlz2VWyOdT_W1AD_a2ODg1_llGpNUPwe7wdG-psMJXjBHaXL4l_i8CxeQAA2LJ5NcP-OLkbDKVcGFWwO.png",
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUy7-Bsgu2wiRrOuJGM6B1iAz8wm673elI3XMv3ZmDqY7qq2e-xWDEzSZqxYjTcIq1pCoEJhDftPssdyB4J2MqVoEKb0x1F5mbPP.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABY34ROb9o8rA5plCGkLA_Krw4mbDdKqWxHpkJAQ6ardtzIDU4dRqzFiL-h_il5TYbJSStXNrSGDzR60oa3QKUphROW_y6F7K940s.png",
+        "https://cdn.shopify.com/s/files/1/2040/0605/products/DynamicImageHandler_bbcfed04-12f6-4c2d-8b22-d527783991ab_large.png",
+        "https://cdn-icons-png.flaticon.com/512/1094/1094567.png"
+      ],
+      "definitions": [
+        "a person who is not very bright"
+      ]
+    },
+    {
+      "id": "love",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drawn_love_hearts.svg/2483px-Drawn_love_hearts.svg.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYV3o_Kib_F31h3_w2REKaFZMvq9slAJvaJI6ViLTTR4mhFw1lnak905WqWRmAMMn64KjZcLgtFmf-1H0Ad3mGmkqgQA0TcsEsrV5tuayNDKiRTgKkmwORxIgB8kHalUw37aFGVgTV7--B16qoOemC638qSDRK_2Hfoqjf0EgqFh7Q.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABS5OxQ7P8eoMWbP4aco53d0y8-KlorggWcurTiQ0PyzK8k8RX0D-zRwHNboDO8V0ulA7ZIXX0cXHvw1to20Xduoon6kJMDf02DYE.png",
+        "https://lovepostnl.nl/wp-content/uploads/2020/07/Logo_LovePostNL_Website.png"
+      ],
+      "definitions": [
+        "a strong positive emotion of regard and affection",
+        "any object of warm affection or devotion",
+        "a beloved person; used as terms of endearment",
+        "a deep feeling of sexual desire and attraction",
+        "a score of zero in tennis or squash",
+        "sexual activities (often including sexual intercourse) between two people"
+      ]
+    },
+    {
+      "id": "discomfort",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/discomfort-1a1f2c0bea8eb8a2c216ad1d6330cdc466a35564.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/for-discomfort-087bcf0e6323b33fc88fa3e30521211f78446981.png",
+        "https://grammartop.com/wp-content/uploads/2021/03/discomfort-3bc534cbf3f429c4d77bea5018adf8607e10540f.png",
+        "https://images.squarespace-cdn.com/content/v1/5bf36089c3c16a420c23cee5/1581318238402-IDM41DAEKCMVX4323HY1/IMG_0191.png",
+        "https://images.squarespace-cdn.com/content/v1/5bf36089c3c16a420c23cee5/1581318105045-JMYRKY0AXB17LJ98PN7M/IMG_0190.png"
+      ],
+      "definitions": [
+        "the state of being tense and feeling pain",
+        "an uncomfortable feeling of mental painfulness or distress"
+      ]
+    },
+    {
+      "id": "fun",
+      "image_urls": [
+        "https://www.funexperts.nl/user/themes/funexperts/images/logo_nl.png",
+        "https://funcollectibles.com/wp-content/uploads/2020/06/Logo-Nieuw-C00.png",
+        "https://fun-thrills.nl/wp-content/uploads/2020/08/Alle-logos-1.png",
+        "https://freefun.com.au/assets/free-fun-logo-f311a713c434489bad3d0afa6e36b307a6b37ff742c47ee2d4222f5ae5850120.png",
+        "https://www.fitenfunplaza.nl/images/popup/logo-fit-en-fun-plaza.png"
+      ],
+      "definitions": [
+        "activities that are enjoyable or amusing",
+        "verbal wit or mockery (often at another's expense but not to be taken seriously)",
+        "violent and excited activity",
+        "a disposition to find (or make) causes for amusement"
+      ]
+    },
+    {
+      "id": "happiness",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/6054658e1836cc4e4e13b0a5/1616144265312-OFWOC1EPGMWL9WKM9LJC/Your+Happiness+logo+900.png",
+        "https://media.creativemornings.com/uploads/theme/image/4/2013-01-happiness.png",
+        "https://www.stickerop.nl/files/cache/3bde99a62576ae7f5604cd86981cd582-f4872/0020230-muursticker-tekst-Happiness-01.png",
+        "https://www.zomerenkeuning.nl/wp-content/uploads/2020/07/het-dorpje-happiness.png",
+        "https://www.babymassagehappiness.nl/wp-content/uploads/2020/07/happiness-logo-1.png"
+      ],
+      "definitions": [
+        "state of well-being characterized by emotions ranging from contentment to intense joy",
+        "emotions experienced when in a state of well-being"
+      ]
+    },
+    {
+      "id": "inspiration",
+      "image_urls": [
+        "https://www.macmillaninspiration.com/inspired/files/2012/07/banner.png",
+        "https://www.projectinspiration.nl/wp-content/uploads/2020/04/cropped-Project-Inspiration-Beadmingsapparaat-TU-Delft-Logo.png",
+        "https://www.ja.nl/wp-content/uploads/2020/09/Inspiration-logo-300x300.png",
+        "https://addinspiration.com/wp-content/uploads/502C1BEA-071F-4341-ADA5-72FEEA2AC6A1.png",
+        "https://microassistivetech.com/image/cache/catalog/Inspiration-500x500.png"
+      ],
+      "definitions": [
+        "arousal of the mind to special unusual activity or creativity",
+        "a product of your creative thinking and work",
+        "a sudden intuition as part of solving a problem",
+        "(theology) a special influence of a divinity on the minds of human beings",
+        "arousing to a particular emotion or action",
+        "the act of inhaling; the drawing in of air (or other gases) as in breathing"
+      ]
+    }
+  ]
+}

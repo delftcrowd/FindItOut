@@ -1,0 +1,251 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "wife",
+      "image_urls": [
+        "https://www.deccanherald.com/sites/dh/files/article_images/2020/02/23/argument-3312463-1582450544.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/wife-a13f8ff4afb19ec3708bb21542afa7e1a468cdd3.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/1329819/LINEStorePC/main.png",
+        "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdflGwP8nWH1MmPdt3ZyJ7Hsk6lvAmnoN7IJN27Oeh5WfNjskEywGIED2oatMKLsE-YZNUG2SOv3CiEVm2RiMLhbM-KvXevjEhUE.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/1160679/LINEStorePC/main.png"
+      ],
+      "definitions": [
+        "a married woman; a man's partner in marriage"
+      ]
+    },
+    {
+      "id": "actress",
+      "image_urls": [
+        "https://media.vanityfair.com/photos/60b67662d51237128c21f0da/master/w_2560%2Cc_limit/next-mare-of-easttown-art-lede.png",
+        "https://i.pinimg.com/originals/1a/75/32/1a7532f01088e84f0bfef48aa4357777.png",
+        "https://i0.wp.com/anysoll.com/wp-content/uploads/2021/07/image-removebg-preview-3-4.png",
+        "https://www.nicepng.com/png/full/248-2485800_bollywood-png-transparent-bollywood-actress-png.png",
+        "https://img.icons8.com/bubbles/452/actress.png"
+      ],
+      "definitions": [
+        "a female actor"
+      ]
+    },
+    {
+      "id": "cousin",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/CousinTree.svg/1200px-CousinTree.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/5e0a61f33fa0c45c9bfeff94/1588543037861-RCZPA5HP2S715ZI9DCMA/cousin_logotype_red.png",
+        "https://images.squarespace-cdn.com/content/v1/55d49893e4b0caee6f77186f/1581626748945-N4Z90E0WYS8D0R1QV14U/Removeds.png",
+        "https://www.myfamilydnatest.com/wp-content/uploads/2018/11/Understanding-degrees-of-cousins-in-your-DNA-Matches-on-Ancestry.png",
+        "https://cdn.nba.com/headshots/nba/latest/1040x760/202326.png"
+      ],
+      "definitions": [
+        "the child of your aunt or uncle"
+      ]
+    },
+    {
+      "id": "nurse",
+      "image_urls": [
+        "https://i.pinimg.com/originals/68/ca/71/68ca71d059c7cf79bfb56860275c957c.png",
+        "https://image.flaticon.com/icons/png/512/119/119044.png",
+        "https://nurseassistinternational.com/wp-content/uploads/2020/12/1603690002bnr-img.png",
+        "https://image.flaticon.com/icons/png/512/3105/3105867.png",
+        "https://www.cgfns.org/wp-content/uploads/2019/05/registered-nurse-credentials-evaluation.png"
+      ],
+      "definitions": [
+        "one skilled in caring for young children or the sick (usually under the supervision of a physician)",
+        "a woman who is the custodian of children"
+      ]
+    },
+    {
+      "id": "doctor",
+      "image_urls": [
+        "https://www.diagnosticavaldera.it/wp-content/uploads/2015/12/doctor-writing.png",
+        "https://photos.healthgrades.com/homeimages/find-a-doctor.png",
+        "https://www.doctorcare.ca/wp-content/uploads/2021/05/header-homepage-cropped.png",
+        "https://www.yellowdotdoctor.co.za/wp-content/uploads/2020/06/doctor.png",
+        "https://oh-doctor.com/wordpress/wp-content/themes/extention-child/asset/images/il-doctor-m.png"
+      ],
+      "definitions": [
+        "a licensed medical practitioner",
+        "(Roman Catholic Church) a title conferred on 33 saints who distinguished themselves through the orthodoxy of their theological teaching",
+        "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+        "a person who holds Ph.D. degree (or the equivalent) from an academic institution"
+      ]
+    },
+    {
+      "id": "princess",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b7/Disney_Princess_logo_2015.png",
+        "https://static.wikia.nocookie.net/disney/images/5/56/Tiana.13.png",
+        "https://overthemoonevents.ie/wp-content/uploads/2021/02/84744d_cf74ee3fb2bc4c99b4cbacb648f44f87_mv2.png",
+        "https://static.wikia.nocookie.net/disney/images/1/12/Disney_Princess_2014_Logo.png",
+        "https://www.disneyprincessstories.com/images/logo_en.png"
+      ],
+      "definitions": [
+        "a female member of a royal family other than the queen (especially the daughter of a sovereign)"
+      ]
+    },
+    {
+      "id": "girlfriend",
+      "image_urls": [
+        "https://cdn2.iconfinder.com/data/icons/sweet-and-love-filled-outline/128/love_couple_man_woman_romantic_boyfriend_girlfriend-512.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Boyfriend-and-Girlfriend.png",
+        "https://static.wikia.nocookie.net/gametoons-among-us/images/0/01/GirlfriendOldRender1.png",
+        "https://static.wikia.nocookie.net/fridaynightfunkin/images/8/86/Gorlfriend.png",
+        "https://cdn4.iconfinder.com/data/icons/sweet-and-love-flat/128/love_couple_man_woman_romantic_boyfriend_girlfriend-512.png"
+      ],
+      "definitions": [
+        "any female friend",
+        "a girl or young woman with whom a man is romantically involved"
+      ]
+    },
+    {
+      "id": "worker",
+      "image_urls": [
+        "https://www.soposting-worker.com/assets/images/new-home/SPW_vector_three_worker.png",
+        "https://www.gardenpiurobot.it/wp-content/uploads/2020/03/worker.png",
+        "https://img.icons8.com/emoji/452/man-construction-worker.png",
+        "https://image.flaticon.com/icons/png/512/206/206854.png",
+        "https://img.icons8.com/color/452/worker-male--v1.png"
+      ],
+      "definitions": [
+        "a person who works at a specific occupation",
+        "a member of the working class (not necessarily employed)",
+        "sterile member of a colony of social insects that forages for food and cares for the larvae",
+        "a person who acts and gets things done"
+      ]
+    },
+    {
+      "id": "man",
+      "image_urls": [
+        "https://www.van.man/van/media/contentmedia/images/business_website_germany_2/models/kastenwagen/MAN_Kastenwagen_Freisteller.png",
+        "https://www.van.man/van/media/contentmedia/images/business_website_germany_2/models/einzelkabine/MAN_Einzelkabine_Freisteller.png",
+        "https://www.van.man/van/media/contentmedia/images/business_website_germany_2/models/reisemobil/WOHNWAGENAUFBAU_MODELKAROUSSEL.freisteller.png",
+        "https://www.tonissi.com/wp-content/uploads/2017/06/man-logo-tonissi-web.png",
+        "https://man.com.au/wp-content/uploads/2016/05/TGX.png"
+      ],
+      "definitions": [
+        "an adult person who is male (as opposed to a woman)",
+        "someone who serves in the armed forces; a member of a military force",
+        "the generic use of the word to refer to any human being",
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+        "a male subordinate",
+        "an adult male person who has a manly character (virile and courageous competent)",
+        "a manservant who acts as a personal attendant to his employer",
+        "a male person who plays a significant role (husband or lover or boyfriend) in the life of a particular woman",
+        "one of the British Isles in the Irish Sea",
+        "game equipment consisting of an object used in playing certain board games",
+        "all of the living human inhabitants of the earth"
+      ]
+    },
+    {
+      "id": "girl",
+      "image_urls": [
+        "https://img1.picmix.com/output/stamp/normal/8/5/0/0/1100058_6a564.png",
+        "https://cdn.mulaccosmetics.com/media/catalog/product/cache/5d081834386d47dee054461241bd1e68/g/i/girl-boss-chiusa.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Girl-Waving.png",
+        "https://www.zarabaza.it/wp-content/uploads/2020/10/GIRL-UP_LOGO.png",
+        "https://www.istitutocapialbi.edu.it/zanzara/images/girl_power.png"
+      ],
+      "definitions": [
+        "a young female",
+        "a youthful female person",
+        "a female human offspring",
+        "a girl or young woman with whom a man is romantically involved",
+        "a friendly informal reference to a grown woman"
+      ]
+    },
+    {
+      "id": "woman",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Woman-power_emblem.svg/648px-Woman-power_emblem.svg.png",
+        "https://img.icons8.com/ios/452/standing-woman.png",
+        "https://swe.org/wp-content/uploads/2021/05/swe-featured-image-one-shorter.png",
+        "https://static.timesofisrael.com/www/uploads/2021/02/Sue_Avatar-_Withe_BG_2-400x400.png",
+        "https://media.glamour.com/photos/5f7c907f39bccccf903fc6ac/1:1/w_2250,h_2250,c_limit/GL-WOTY-Timeline-2011.png"
+      ],
+      "definitions": [
+        "an adult female person (as opposed to a man)",
+        "a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man",
+        "a human female employed to do housework",
+        "women as a class"
+      ]
+    },
+    {
+      "id": "father",
+      "image_urls": [
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABRskFRlsewpX8JIv3Q-rx0cWueryr2Guymz0npK7RshtLVyuluaUmhCxc5VrmKarHRm9PbqKw6JivK3TdnetvLej90viCTmVV4S2.png",
+        "https://cdn.shopify.com/s/files/1/2068/3659/files/FatherTimeBread_FelixBust.png",
+        "https://www.nadadventist.org/sites/default/files/inline-images/PPPA%20Fathers-3d.png",
+        "https://calendar.wincalendar.net/img/holiday/fathers-day.png",
+        "https://wicbreastfeeding.fns.usda.gov/sites/default/files/2018-02/CM_171117usda_15966_w1b_NM.png"
+      ],
+      "definitions": [
+        "a male parent (also used as a term of address to your father)",
+        "the founder of a family",
+        "`Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military",
+        "(Christianity) any of about 70 theologians in the period from the 2nd to the 7th century whose writing established and confirmed official church doctrine; in the Roman Catholic Church some were later declared saints and became Doctor of the Church; the best known Latin Church Fathers are Ambrose, Augustine, Gregory the Great, and Jerome; those who wrote in Greek include Athanasius, Basil, Gregory Nazianzen, and John Chrysostom",
+        "a person who holds an important or distinguished position in some organization",
+        "God when considered as the first person in the Trinity",
+        "a person who founds or establishes some institution",
+        "the head of an organized crime family"
+      ]
+    },
+    {
+      "id": "aunt",
+      "image_urls": [
+        "https://cdn3.iconfinder.com/data/icons/family-member-flat-happy-family-day/512/Aunt-512.png",
+        "https://americanfoodshop.it/wp-content/uploads/2018/02/aunt-jemima.png",
+        "https://auntbessies.co.uk/themes/aunt-bessie/img/Logo.png",
+        "https://lessonpix.com/drawings/11078/380x380/Aunt.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Aunt-Spiker-and-Aunt-Sponge--James-and-the-Giant-Peach-Characters-KS2.png"
+      ],
+      "definitions": [
+        "the sister of your father or mother; the wife of your uncle"
+      ]
+    },
+    {
+      "id": "boy",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/boy-emoji.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/1200860/LINEStorePC/main.png",
+        "https://www.nicepng.com/png/full/909-9099586_cute-neko-kawaii-anime-boy-animeboy-kawaiiboy-nekoboy.png",
+        "https://www.calmashop.it/wp-content/uploads/2020/04/t-shirt-crop-boy-london-dietro.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/39696/boy-2-clipart-md.png"
+      ],
+      "definitions": [
+        "a youthful male person",
+        "a friendly informal reference to a grown man",
+        "a male human offspring"
+      ]
+    },
+    {
+      "id": "daughter",
+      "image_urls": [
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/34288/mother-daughter-clipart-xl.png",
+        "https://cdn2.iconfinder.com/data/icons/family-28/49/87-512.png",
+        "https://cdn4.iconfinder.com/data/icons/fatherhood-child-rearing/50/45-512.png",
+        "https://image.flaticon.com/icons/png/512/2829/2829841.png",
+        "https://i2.wp.com/www.thegamegal.com/wp-content/uploads/2018/10/mother-daughter.png"
+      ],
+      "definitions": [
+        "a female human offspring"
+      ]
+    },
+    {
+      "id": "mother",
+      "image_urls": [
+        "https://brama-group.com/wp-content/uploads/2016/09/mother-logo-black.png",
+        "https://static.wikia.nocookie.net/villains/images/e/ed/Mother_HSG.png",
+        "https://calendar.wincalendar.net/img/holiday/mothers-day.png",
+        "https://images.squarespace-cdn.com/content/v1/5c52ec4c4eddecf7be93aa0f/1588878012576-SHMA68TYL0EUBOUKRZ6C/mother+11.png",
+        "https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABaSjQbG_GyLhl2m5_eT7NrfgUvtFIZ1qGxSCbsU90CwP1ihjcRgkG7iBh7V0rnWs1TT9Be8t34FZlcevasepSBjVa6mMbL9TKjNunPxRqQOvuwEFILxyHetx5sHRly_KCzbrQU50CvvCklFij7Xish9GcwF1gFi5T6AdOfwY8CdZgg.png"
+      ],
+      "definitions": [
+        "a woman who has given birth to a child (also used as a term of address to your mother)",
+        "a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar",
+        "a term of address for an elderly woman",
+        "a term of address for a mother superior",
+        "a condition that is the inspiration for an activity or situation"
+      ]
+    }
+  ]
+}

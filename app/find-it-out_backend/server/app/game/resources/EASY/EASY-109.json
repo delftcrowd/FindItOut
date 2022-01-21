@@ -1,0 +1,147 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "notes",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/I/61936RmysdL.png",
+        "https://images-na.ssl-images-amazon.com/images/I/81PD+sgbKjL.png",
+        "https://www.noodleman.co.uk/images/cache/internal-notes/Notes.500.png",
+        "https://cdn.axcultures.com/wp-content/uploads/2018/07/note-taking.png",
+        "https://amanote.com/assets/images/mockups/macbook-1.0.9.png"
+      ],
+      "definitions": [
+        "a brief written record",
+        "a short personal letter",
+        "a notation representing the pitch and duration of a musical sound",
+        "a tone of voice that shows what the speaker is feeling",
+        "a characteristic emotional quality",
+        "a piece of paper money (especially one issued by a central bank)",
+        "a comment or instruction (usually added)",
+        "high status importance owing to marked superiority",
+        "a promise to pay a specified amount on demand or at a certain time"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://www.houseofbeta.nl/app/uploads/2020/09/HoB-logo-cmyk-staand.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "college",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://collegelife.co/nl/wp-content/uploads/sites/14/2019/06/artboard-27-copy0.5x-400x270.png",
+        "https://www.wolfert.nl/college/wp-content/uploads/sites/2/2017/11/wolfert_college_compact_RGB_268x150px.png"
+      ],
+      "definitions": [
+        "the body of faculty and students of a college",
+        "an institution of higher education created to educate and grant degrees; often a part of a university",
+        "a complex of buildings in which an institution of higher education is housed"
+      ]
+    },
+    {
+      "id": "meeting",
+      "image_urls": [
+        "https://agilescrumgroup.nl/wp-content/uploads/sprint-planning-meeting-e1608804051883.png",
+        "https://blogs.fireflies.ai/content/images/2021/07/feat-min-1.png",
+        "https://agilescrumgroup.nl/wp-content/uploads/daily-scrum-standup-meeting.png",
+        "https://meetingroom.io/wp-content/uploads/2019/05/Company-Meetings.png",
+        "https://www.zohowebstatic.com/sites/default/files/meeting/home/zm-mobile-banner.png"
+      ],
+      "definitions": [
+        "a formally arranged gathering",
+        "a small informal social gathering",
+        "a casual or unexpected convergence",
+        "the social act of assembling for some common purpose",
+        "the act of joining together as one",
+        "a place where things merge or flow together (especially rivers)"
+      ]
+    },
+    {
+      "id": "inside",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://playdead.com/css/img/INSIDE_game_logo.png",
+        "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABWtlF-0phIv7aUvUitdGG1GNWth2kljkoEg_b59FhACE9Tq2fw-Udw87F92S2v4dSGUDZc-BR_EgzVpvahtEiC8wRo9wFiA3yRK9.png"
+      ],
+      "definitions": [
+        "the region that is inside of something",
+        "the inner or enclosed surface of something"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://duluthlibrary.org/media/11866/homeimage2.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "notebook",
+      "image_urls": [
+        "https://octaevo.com/storage/uploads/4a02d3ac-6c2e-461e-9395-a6605297c12b/notebook-planner-grey-octaevo.png",
+        "https://creativeuseoftechnology.com/wp-content/uploads/2020/10/leren-notitieboekje-cognac-hervulbaar-gravering.png",
+        "https://www.a-journal.nl/wp-content/uploads/2019/05/lila-notebook-voorkant-website.png",
+        "https://470833-1477561-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Family-foto-2-schaduw.png",
+        "https://cdn.shopify.com/s/files/1/0641/8323/products/Denik-Custom-Hardcover-Layflat-Notebook-Spine-Angle_1024x1024.png"
+      ],
+      "definitions": [
+        "a book with blank pages for recording notes or memoranda",
+        "a small compact portable computer"
+      ]
+    }
+  ]
+}

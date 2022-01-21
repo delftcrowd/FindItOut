@@ -1,0 +1,132 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "barrel",
+      "image_urls": [
+        "https://www.dressityourself.co.uk/wp-content/uploads/2020/05/Oak-Whiskey-Barrel-Hire-1.png",
+        "https://static.wikia.nocookie.net/atelierseries/images/4/47/A11_item_076.png",
+        "https://cdn.shopify.com/s/files/1/2709/4168/products/Barrel-BAR12OWG-DarkOakWood-NoLogo_2x.png",
+        "https://urbanbarrelcompany.com/wp-content/uploads/2021/06/ub-gator-slider.png",
+        "https://static.wikia.nocookie.net/animalcrossing/images/3/34/NH-DIY-Furniture-Barrel.png"
+      ],
+      "definitions": [
+        "a tube through which a bullet travels when a gun is fired",
+        "a cylindrical container that holds liquids",
+        "a bulging cylindrical shape; hollow with flat ends",
+        "the quantity that a barrel (of any size) will hold",
+        "any of various units of capacity"
+      ]
+    },
+    {
+      "id": "gun",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Thompson_nobg-1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/DD_Liberator.png",
+        "https://static.wikia.nocookie.net/objectmayhem/images/5/5a/Gun_OM.png",
+        "https://static.wikia.nocookie.net/objectmayhem/images/1/17/GunOMII_Ep_3.png",
+        "https://images.squarespace-cdn.com/content/v1/5b9ba2a875f9ee690c13cad0/1538084538238-4A6GW267MCUMCWO7RLKE/gun_3.png"
+      ],
+      "definitions": [
+        "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)",
+        "large but transportable armament",
+        "a person who shoots a gun (as regards their ability)",
+        "a professional killer who uses a gun",
+        "a hand-operated pump that resembles a pistol; forces grease into parts of a machine",
+        "a pedal that controls the throttle valve",
+        "the discharge of a firearm as signal or as a salute in military ceremonies"
+      ]
+    },
+    {
+      "id": "cannon",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cannon-diagram2.svg/800px-Cannon-diagram2.svg.png",
+        "https://www.cannon.com/wp-content/uploads/cannon_logo_medium.png",
+        "https://atlas.wiki.fextralife.com/file/Atlas/cannon_weapons_structures_atlas_mmo_wiki_guide-min.png",
+        "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/a/a6/Cannon.png",
+        "https://cdn0.iconfinder.com/data/icons/crime-and-protection-icons/110/Cannon-512.png"
+      ],
+      "definitions": [
+        "a large artillery gun that is usually on wheels",
+        "heavy gun fired from a tank",
+        "(Middle Ages) a cylindrical piece of armor plate to protect the arm",
+        "heavy automatic gun fired from an airplane",
+        "lower part of the leg extending from the hock to the fetlock in hoofed mammals",
+        "a shot in billiards in which the cue ball contacts one object ball and then the other"
+      ]
+    },
+    {
+      "id": "rocket",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/rocket-emji.png",
+        "https://www.arianespace.com/wp-content/uploads/2015/08/ariane5-small-2020.png",
+        "https://www.arianespace.com/wp-content/uploads/2015/08/soyouz-small-2020.png",
+        "https://www.rexlondon.com/sites/dotcom.pleasetest.co.uk/files/styles/product_main/public/space-age-rocket-pen-28560_2.png",
+        "https://assets.website-files.com/5c6ad5bdf7ece0f19a6c6596/5c6ad5bdf7ece05aa96c65e6_hero-04.png"
+      ],
+      "definitions": [
+        "any vehicle self-propelled by a rocket engine",
+        "a jet engine containing its own propellant and driven by reaction propulsion",
+        "erect European annual often grown as a salad crop to be harvested when young and tender",
+        "propels bright light high in the sky, or used to propel a lifesaving line or harpoon",
+        "sends a firework display high into the sky"
+      ]
+    },
+    {
+      "id": "rifle",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Winchester_92_short_rifle_transparent.png",
+        "https://cdn3.volusion.com/kcks2.jk6t3/v/vspfiles/photos/01SIGNATURE-2.png",
+        "https://static.wikia.nocookie.net/fallout/images/3/32/Survivalist%27s_rifle_blown_up.png",
+        "https://intl.stoegerairguns.com/wp-content/uploads/2021/01/slide-01_airrifles.png",
+        "https://www.berettadefensetechnologies.com/sites/default/files/content/products/trg-m10-bolt-action-sniper-rifle-folding-rear-stock-green.png"
+      ],
+      "definitions": [
+        "a shoulder firearm with a long barrel and a rifled bore"
+      ]
+    },
+    {
+      "id": "shotgun",
+      "image_urls": [
+        "https://www.berettadefensetechnologies.com/sites/default/files/styles/product_large_horizontal/public/content/products/m3-dual-action-shotgun-telescoping-stock.png",
+        "https://static.wikia.nocookie.net/badorkbee-games/images/4/44/CombatShotgun.png",
+        "https://images-eu.ssl-images-amazon.com/images/I/71pQcDYy-ZL.png",
+        "https://images-eu.ssl-images-amazon.com/images/I/51ouvhs5uGL.png",
+        "https://eaacorp.com/wp-content/uploads/2020/01/1000x625x72-mc312-red-left-right-2.png"
+      ],
+      "definitions": [
+        "firearm that is a double-barreled smoothbore shoulder weapon for firing shot at short ranges"
+      ]
+    },
+    {
+      "id": "tank",
+      "image_urls": [
+        "https://eu-wotp.wgcdn.co/dcont/fb/image/tmb/m18_hellcat_tanopedia_icon_cut_300x.png",
+        "https://thedailybounce.net/wp-content/uploads/2020/08/GB106_Cobra.png",
+        "https://static.wikia.nocookie.net/ultra/images/9/98/Dinosaur_Tank%282%29.png",
+        "https://cdn.actionbooker.io/media/sites/16/2019/08/06160016/tank-ireland.png",
+        "https://eu-wotp.wgcdn.co/static/5.92.1_29ca43/wotp_static/img/core/frontend/scss/common/blocks/about-technic/img/overlap/germany.png"
+      ],
+      "definitions": [
+        "an enclosed armored military vehicle; has a cannon and moves on caterpillar treads",
+        "a large (usually metallic) vessel for holding gases or liquids",
+        "as much as a tank will hold",
+        "a freight car that transports liquids or gases in bulk",
+        "a cell for violent prisoners"
+      ]
+    },
+    {
+      "id": "grenade",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/miscreated/images/9/98/GrenadePickup_2048.png",
+        "https://cdn.shopify.com/s/files/1/0481/4159/8875/products/UK-Shaker-Green.png",
+        "https://static.wikia.nocookie.net/play-rust/images/5/52/F1_Grenade_icon.png",
+        "https://cdn.shopify.com/s/files/1/0293/3928/7612/products/NEW-UK_Thermo-Detonator-100-Capsules.png",
+        "https://img.icons8.com/ios/452/grenade.png"
+      ],
+      "definitions": [
+        "a small explosive bomb thrown by hand or fired from a missile"
+      ]
+    }
+  ]
+}

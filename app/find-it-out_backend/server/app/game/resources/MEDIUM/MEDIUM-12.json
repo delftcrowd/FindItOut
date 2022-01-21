@@ -1,0 +1,262 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "cheese",
+      "image_urls": [
+        "https://www.natec-network.com/images/NatecNetwork/applications/processed-cheese/NatecNetwork_ProcessedCheese-01.png",
+        "https://www.treurkaas.nl/wp-content/uploads/2020/03/Beppie-Mild-1_381x242_acf_cropped.png",
+        "https://www.nzmp.com/content/dam/nzmp/global/images/product-shots/product-page-master/product-images-grey-background/swiss-nzmp-cheese-selector.png",
+        "https://i0.wp.com/www.queserialaantigua.com/wp-content/uploads/2019/04/la_antigua-cremoso.png",
+        "https://www.puckarabia.com/globalassets/new-products-pictures/packshots/resized/01-triangle-chees-en.png"
+      ],
+      "definitions": [
+        "a solid food prepared from the pressed curd of milk",
+        "erect or decumbent Old World perennial with axillary clusters of rosy-purple flowers; introduced in United States"
+      ]
+    },
+    {
+      "id": "pizza",
+      "image_urls": [
+        "https://prd-upload-images.newyorkpizza.nl/Products/Original/Margherita-7253.png",
+        "https://prd-upload-images.newyorkpizza.nl/Products/Original/Salami-7257.png",
+        "https://prd-upload-images.newyorkpizza.nl/Products/Original/_Prosciutto_e_Funghi_Pizza-914.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/Q117O5O/logo_465x320.png",
+        "https://d23o500odzh64r.cloudfront.net/media/wysiwyg/pdp/Protein_Pizza/Description_Bubble_funghi.png"
+      ],
+      "definitions": [
+        "Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese"
+      ]
+    },
+    {
+      "id": "bread",
+      "image_urls": [
+        "https://www.foodspring.nl/media/wysiwyg/pdp/highlightmodule/170324-FS-OP-ProteinBread-Gluten-1-380px.png",
+        "https://www.breadsmith.com/wp-content/uploads/2015/09/Power-Bread.png",
+        "https://www.bensbakery.ca/sites/default/files/BC_501359_BEN_HolsumFresh_Wheat_570g_0720_straight.png",
+        "https://uploads-ssl.webflow.com/5f45d9112907997b48ce00ff/5fbb7ba7ff41deef3c8ecd38_Toasted%20Grain%20Sourdough_crop%2Bcompress.png",
+        "https://cdn.shopify.com/s/files/1/0249/9670/8405/products/SeededBread_NOPackaging_Badge_2048x2048.png"
+      ],
+      "definitions": [
+        "food made from dough of flour or meal and usually raised with yeast or baking powder and then baked",
+        "informal terms for money"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "pantry",
+      "image_urls": [
+        "https://www.thepantry.nl/wordpress/wp-content/uploads/Restaurant-The-Pantry-Amsterdam-logo-400X150.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594809742327-8QUZ2V0P4WFNZ4DHKSDY/maison_haven_organizers_style_sheet_PANTRY-ZONES.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594891146867-RI1QTHHZR9747T6GKY3H/maison-haven-style-sheet-pantry-main+copy.png",
+        "https://i2.wp.com/www.thedesignconfidential.com/wp-content/uploads/final_20.png",
+        "https://www.mwtoolboxqld.com.au/wp-content/uploads/2021/08/MW-Canopy-Pantry-Main.png"
+      ],
+      "definitions": [
+        "a small storeroom for storing foods or wines"
+      ]
+    },
+    {
+      "id": "plate",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1224/7992/products/Dinner_Plate_CUTOUT.png",
+        "https://www.rijksmuseumshop.nl/media/image/d7/3e/86/12861_f.png",
+        "https://www.rijksmuseumshop.nl/media/image/cf/99/43/12961_f.png",
+        "https://anna-nina.imgix.net/spree/products/17102/huge/Popolo_Large_Navy_Striped_Plate.png",
+        "https://rookplankje.nl/wp-content/uploads/2018/04/The-Bastard-Cast-Iron-Cooking-Plate-Holder_2.png"
+      ],
+      "definitions": [
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "a sheet of metal or wood or glass or plastic",
+        "a full-page illustration (usually on slick paper)",
+        "dish on which food is served or from which food is eaten",
+        "the quantity contained in a plate",
+        "a rigid layer of the Earth's crust that is believed to drift slowly",
+        "the thin under portion of the forequarter",
+        "a main course served on a plate",
+        "any flat platelike body structure or part",
+        "the positively charged electrode in a vacuum tube",
+        "a flat sheet of metal or glass on which a photographic image can be recorded",
+        "structural member consisting of a horizontal beam that provides bearing and anchorage",
+        "a shallow receptacle for collection in church",
+        "a metal sheathing of uniform thickness (such as the shield attached to an artillery piece to protect the gunners)",
+        "a dental appliance that artificially replaces missing teeth"
+      ]
+    },
+    {
+      "id": "market",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/56e1627f8a65e25092e7dfae/1471463891105-TM5D0G79NKQNDD7GLJXR/image-asset.png",
+        "https://www.grandviewresearch.com/static/img/research/us-virtual-reality-market-size.png",
+        "https://cdn.shopify.com/s/files/1/0375/7149/3947/files/smartmarket-stempel1_60df79f3-8597-4628-85c0-0475683b5431_300x300.png",
+        "https://newzoo.com/wp-content/uploads/2017/04/esports-market-report-chart.png",
+        "https://gourmetmarket.nl/wp-content/uploads/2020/12/LogotilburgGM.png"
+      ],
+      "definitions": [
+        "the world of commercial activity where goods and services are bought and sold",
+        "the customers for a particular product or service",
+        "a marketplace where groceries are sold",
+        "the securities markets in the aggregate",
+        "an area in a town where a public mercantile establishment is set up"
+      ]
+    },
+    {
+      "id": "onions",
+      "image_urls": [
+        "https://www.toponions.com/l/en/library/download/urn:uuid:47b63dcd-dcc5-466a-bcab-c214b0f45c8b/gele-uien--thumb.png",
+        "https://www.holland-onions.org/img/page_onze-kwaliteit.png",
+        "https://www.levarht.com/wp-content/uploads/2018/05/58-Onions-800x585.png",
+        "https://www.toponions.com/l/en/library/download/urn:uuid:02812934-1ae1-4e9a-b14f-c794c4ede699/zoete-uien--thumb.png",
+        "https://jonika.nl/wp-content/uploads/2018/02/roodgeel-kopie.png"
+      ],
+      "definitions": [
+        "the bulb of an onion plant",
+        "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+        "an aromatic flavorful vegetable"
+      ]
+    },
+    {
+      "id": "condiments",
+      "image_urls": [
+        "https://www.monini.com/content/wp-content/uploads/2018/04/MENU_CONDIMENTS.png",
+        "https://www.zepbrook.co.uk/m/0/11221122.png",
+        "https://www.canadianpackaging.com/wp-content/uploads/2017/07/Frenchs-condiments.png",
+        "https://i.pinimg.com/originals/72/90/ef/7290efe69a6e587c25cd9fc2517d835c.png",
+        "https://www.sonoco.com/sites/default/files/styles/launchpad_primary/public/launchpad/DipandDressings.png"
+      ],
+      "definitions": [
+        "a preparation (a sauce or relish or spice) to enhance flavor or enjoyment"
+      ]
+    },
+    {
+      "id": "bar",
+      "image_urls": [
+        "https://www.cornelisrotterdam.nl/wp-content/uploads/2019/10/logo-cornelis-kitchen-bar-web-4.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw39b2c12a/JBL_Bar_2.0_All-In-One_Front_1605x1605.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/video-conferencing/rally-bar/gallery/graphite-1-v2.png",
+        "https://www.barbotanique.nl/images/logo-barbotanique-2020.png",
+        "https://www.bardoamsterdam.nl/wp-content/uploads/2019/06/Logo-Bar-Do%CC%81.png"
+      ],
+      "definitions": [
+        "a room or establishment where alcoholic drinks are served over a counter",
+        "a counter where you can obtain food or drink",
+        "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+        "musical notation for a repeating pattern of musical beats",
+        "an obstruction (usually metal) placed at the top of a goal",
+        "the act of preventing",
+        "(meteorology) a unit of pressure equal to a million dynes per square centimeter",
+        "a submerged (or partly submerged) ridge in a river or along a shore",
+        "the body of individuals qualified to practice law in a particular jurisdiction",
+        "a narrow marking of a different color or texture from the background",
+        "a block of solid substance (such as soap or wax)",
+        "a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War",
+        "a horizontal rod that serves as a support for gymnasts as they perform exercises",
+        "a heating element in an electric fire",
+        "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried"
+      ]
+    },
+    {
+      "id": "burger",
+      "image_urls": [
+        "https://restoranto.com/wp-content/uploads/2018/08/Ontwerp-zonder-titel-82-1-1200x600.png",
+        "https://www.burgerbar.nl/wp-content/uploads/BURGERBAR_campagne-website_BURGER_01.png",
+        "https://bjornburgers.nl/images/holger-burger.png",
+        "https://bjornburgers.nl/images/bjorn-burger.png",
+        "https://static.takeaway.com/images/chains/nl/burgerking/products/product-crazycheesebbq-nl-2108-1-500px.png"
+      ],
+      "definitions": [
+        "United States jurist appointed chief justice of the United States Supreme Court by Richard Nixon (1907-1995)",
+        "a sandwich consisting of a fried cake of minced beef served on a bun, often with other ingredients"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "cup",
+      "image_urls": [
+        "https://www.beppy.com/wp-content/uploads/2020/12/2-Cup-Red-Orange-1-1.png",
+        "https://www.beppy.com/wp-content/uploads/2020/02/Beppy-Cup-2-stuks.png",
+        "https://cdn.shopify.com/s/files/1/0525/3555/8299/products/image_cc9e0135-a963-4b23-a0d2-c7cd2993003e_709x.png",
+        "https://www.moonloft.nl/wp-content/uploads/2020/11/Espresso-Cup-I-know-.png",
+        "https://www.paardekooper.nl/static/uploads/pictures/large/450104.png"
+      ],
+      "definitions": [
+        "a small open container usually used for drinking; usually has a handle",
+        "the quantity a cup will hold",
+        "any cup-shaped concavity",
+        "a United States liquid unit equal to 8 fluid ounces",
+        "cup-shaped plant organ",
+        "a punch served in a pitcher instead of a punch bowl",
+        "the hole (or metal container in the hole) on a golf green",
+        "a large metal vessel with two handles that is awarded as a trophy to the winner of a competition"
+      ]
+    },
+    {
+      "id": "container",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://images.ctfassets.net/gc5htdx4kcus/4OHleWuGTa6mdbSbicT5ur/d2424e4d0ac10b83ac4d47c86d01b5c5/22G1_20FT_Standaard_new_blue_Corner_shadow.png",
+        "https://www.unifeeder.com/hubfs/Container%20equipment%20on%20website%20-%2040ft%20HC-1.png"
+      ],
+      "definitions": [
+        "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+      ]
+    },
+    {
+      "id": "kitchens",
+      "image_urls": [
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://galleryofkitchens.com/wp-content/uploads/2020/10/Group-161-1.png",
+        "https://lirp.cdn-website.com/4e085ffe/dms3rep/multi/opt/Ideal%2BKitchens%2BReviews-372w.png",
+        "https://www.howardkitchens.co.uk/wp-content/uploads/2021/01/howard-kitchens-process.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    }
+  ]
+}

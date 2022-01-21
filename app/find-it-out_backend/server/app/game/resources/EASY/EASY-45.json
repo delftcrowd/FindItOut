@@ -1,0 +1,127 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "car",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://www.robertthomashomes.com/wp-content/uploads/2020/04/At-Home-Kitchen-1.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Love/Love%20Dining/image-thumb__29114__width_1200/Love-Dining-Natural-Wood-beige-no-background.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Nut/Nut%20Dining/image-thumb__30199__width_1200/Nut-Dining-Chair-Red-Brown-grey-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__width_1200/monster-chair-indigo-denim-with-arms.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "porch",
+      "image_urls": [
+        "https://i.pinimg.com/originals/8f/cc/98/8fcc983ef3dbc51f6193218d2d4806ae.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/06/full-2.png",
+        "https://www.pinuphouses.com/wp-content/uploads/cabin-with-screened-porch-plans.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/05/wall-mounted-2.png",
+        "https://images.squarespace-cdn.com/content/v1/537d02bae4b03c36028df3c0/1474580906337-Z2J6H0MP2JNODOG26GQT/3D+FRONT+OF+LARGE+OAK+PORCH+WITH+JOWL+POSTS.png"
+      ],
+      "definitions": [
+        "a structure attached to the exterior of a building often forming a covered entrance"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://i1.wp.com/designeddecor.com/wp-content/uploads/2018/06/Big-Impact-Bedroom-Changes-6-Simple.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png",
+        "https://www.072-pc.nl/wp-content/uploads/2020/06/Microsoft-Office-365-072-PC.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    },
+    {
+      "id": "automobile",
+      "image_urls": [
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/A/u/Automobile.png",
+        "https://emojigraph.org/media/openmoji/automobile_1f697.png",
+        "https://www.utf8icons.com/character_image/128663-automobile.png",
+        "https://caviar.global/_images/27722/1619336713.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/59388/retro-automobile-clipart-xl.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine"
+      ]
+    },
+    {
+      "id": "trunk",
+      "image_urls": [
+        "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c650956/images/large/83280654_1.png",
+        "https://images.selency.com/8c0f5e70-9a9c-4637-896d-399043953445/wooden-travel-trunk_original.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/h/a/harrow_medium_trunk-old_saddle_black_copy.png",
+        "https://images.selency.com/1ac2d1fd-4c06-43db-9872-9c6bf586aeb0/old-mail-trunk-in-zinc-sheathed-95-x-55-x-50-travel-trunk-liner-1900-1920_original.png",
+        "https://cdn11.bigcommerce.com/s-6gssxq8qcf/products/12962/images/21427/Olive_Seward_Trunk_1__44698.1621449166.386.513.png"
+      ],
+      "definitions": [
+        "the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber",
+        "luggage consisting of a large strong case used when traveling or for storage",
+        "the body excluding the head and neck and limbs",
+        "compartment in an automobile that carries luggage or shopping or tools",
+        "a long flexible snout as of an elephant"
+      ]
+    }
+  ]
+}

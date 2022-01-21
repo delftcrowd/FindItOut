@@ -1,0 +1,134 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://cdn.shopify.com/s/files/1/0531/5962/4900/products/Arccoffeetable_Ash_01_exposed_800x.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Container/Container%20Bodhi/image-thumb__3401__height_500/Container-Table_Bodhi-212-final.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "university",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Erasmus_University_Rotterdam_Stacked_logo_%28Colour%29.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leiden_University_seal.svg/1200px-Leiden_University_seal.svg.png",
+        "https://webster.nl/_resources/images/webster-leiden-logo.png",
+        "https://www.ru.nl/publish/pages/732676/best-traditional-university-rgb-1.png",
+        "https://features.york.ac.uk/who-we-are/assets/vvJikmK4Yz/uoy-logo-stacked-shield-pms432-800x369.png"
+      ],
+      "definitions": [
+        "the body of faculty and students at a university",
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+      ]
+    },
+    {
+      "id": "papers",
+      "image_urls": [
+        "https://www.cife.eu/CIFE/Ressources/image/Research/PP1d.png",
+        "https://www.smurfitkappa.com/products-and-services/-/m/images/products-images-740x-740/paper-and-board/printing-and-writing-papers/bond_from_paper.png",
+        "https://www.dutchtobacconist.nl/wp-content/uploads/2015/05/Mascotte-long-Festival-edition.png",
+        "https://i.pinimg.com/originals/92/6d/03/926d03433bfc70461c7747bdfc0ec4c4.png",
+        "https://advantagelearn.com/wp-content/uploads/2018/04/previous-question-paper-20180905.png"
+      ],
+      "definitions": [
+        "a material made of cellulose pulp derived mainly from wood or rags or certain grasses",
+        "an essay (especially one written as an assignment)",
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a medium for written communication",
+        "a scholarly article describing the results of observations or stating hypotheses",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher"
+      ]
+    },
+    {
+      "id": "toilet",
+      "image_urls": [
+        "https://www.vanwalraven.com/media/products/616151.png",
+        "https://images.zeald.com/ic/englefieldnz/3857879627/Milano_QC%20QR_Flat%20button_1000x1000.png",
+        "https://images.zeald.com/ic/kohlerau/1516415331/IMG_TLT_ST_Parliamant%20BTW_1000x1000.png",
+        "https://spatoilet.com/site-spatoilet/storage/files/2663/spatoilet-vrijstaand.350x0-is.png",
+        "https://frissebips.nl/wp-content/uploads/2019/10/TOTO_Washlet_TCF801CG_Frissebips.png"
+      ],
+      "definitions": [
+        "a room or building equipped with one or more toilets",
+        "a plumbing fixture for defecation and urination",
+        "misfortune resulting in lost effort or money",
+        "the act of dressing and preparing yourself"
+      ]
+    },
+    {
+      "id": "meeting",
+      "image_urls": [
+        "https://agilescrumgroup.nl/wp-content/uploads/sprint-planning-meeting-e1608804051883.png",
+        "https://blogs.fireflies.ai/content/images/2021/07/feat-min-1.png",
+        "https://agilescrumgroup.nl/wp-content/uploads/daily-scrum-standup-meeting.png",
+        "https://meetingroom.io/wp-content/uploads/2019/05/Company-Meetings.png",
+        "https://www.zohowebstatic.com/sites/default/files/meeting/home/zm-mobile-banner.png"
+      ],
+      "definitions": [
+        "a formally arranged gathering",
+        "a small informal social gathering",
+        "a casual or unexpected convergence",
+        "the social act of assembling for some common purpose",
+        "the act of joining together as one",
+        "a place where things merge or flow together (especially rivers)"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://de-garage.com/wp-content/uploads/2020/03/logo_degaragewebsite.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "drawer",
+      "image_urls": [
+        "https://www.godrejinterio.com/imagestore/B2C/56101516SD00018/56101516SD00018_01_500x500.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/1408/original/svc/maison-chest-of-drawers-3-brosa.png",
+        "https://www.directaviation.aero/IManager/Media/127991/1999111/EN/reg/aluflite-atlas-superlight-drawer.png",
+        "https://images.selency.com/c695ccb0-19fd-47ff-90c2-de53f4a890bc/english-drawer-dresser_original.png",
+        "https://www.decorist.com/static/cache-thumbnail/5c/7d/5c7dd419ec5b8427ecdbe7f28096d4c3.png"
+      ],
+      "definitions": [
+        "a boxlike container in a piece of furniture; made so as to slide in and out",
+        "the person who writes a check or draft instructing the drawee to pay someone else",
+        "an artist skilled at drawing"
+      ]
+    }
+  ]
+}

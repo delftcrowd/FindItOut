@@ -1,0 +1,250 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "pizza",
+      "image_urls": [
+        "https://prd-upload-images.newyorkpizza.nl/Products/Original/Margherita-7253.png",
+        "https://prd-upload-images.newyorkpizza.nl/Products/Original/Salami-7257.png",
+        "https://prd-upload-images.newyorkpizza.nl/Products/Original/_Prosciutto_e_Funghi_Pizza-914.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/Q117O5O/logo_465x320.png",
+        "https://d23o500odzh64r.cloudfront.net/media/wysiwyg/pdp/Protein_Pizza/Description_Bubble_funghi.png"
+      ],
+      "definitions": [
+        "Italian open pie made of thin bread dough spread with a spiced mixture of e.g. tomato sauce and cheese"
+      ]
+    },
+    {
+      "id": "food",
+      "image_urls": [
+        "https://images.ctfassets.net/grb5fvwhwnyo/1sJpRsfp1RJI3AASMiOS1h/4421f71ab2cbdf50d1c960ebfcd02a39/P2.3_Page-SEO-Data.png",
+        "https://www.asiaexpressfood.nl/images/header/2019/Anuga_banner_2021_-_Bovenlaag.png",
+        "https://futurefoodgroup.nl/en/wp-content/uploads/sites/5/2020/09/LR_Vega_worst@0.33x-450x480.png",
+        "https://amlifestylemedicine.com/wp-content/uploads/2019/01/canada.png",
+        "https://www.33goodfood.nl/wp-content/uploads/2020/04/burger-33goodfood.png"
+      ],
+      "definitions": [
+        "any substance that can be metabolized by an animal to give energy and build tissue",
+        "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+        "anything that provides mental stimulus for thinking"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "sink",
+      "image_urls": [
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/2/PR11899BI11133_11128001_PREMIUM_1C_SZ1.png",
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/PR11617BI20811_10125004_BE_34_37_1B_SZ1.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpr02254_tif.png",
+        "https://crownappliances.com.pk/wp-content/uploads/2021/01/CR-6045-min-1.png",
+        "https://www.dometic.com/externalassets/dometic-va8000-series-sink_37458.png"
+      ],
+      "definitions": [
+        "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe",
+        "(technology) a process that acts to absorb or remove energy or a substance from a system",
+        "a depression in the ground communicating with a subterranean passage (especially in limestone) and formed by solution or by collapse of a cavern roof",
+        "a covered cistern; waste water and sewage flow into it"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "silverware",
+      "image_urls": [
+        "https://res-1.cloudinary.com/christofle/s--0_14RGzr--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/m/a/marly_f_7_1.png",
+        "https://estatesilver.com/wp-content/uploads/2020/03/IMG_3928_clipped_rev_1.png",
+        "https://images.selency.com/182e012e-63d6-4752-a4ea-282539a947bc/old-silverware-boil-bourdelle-36-silver-metal-covers-12-and-84_original.png",
+        "https://res-4.cloudinary.com/christofle/s--GGhJUpsX--/c_limit,dpr_2.0,f_auto,h_265,q_auto,w_265/media/catalog/product/m/a/malmaison_4_couverts.png",
+        "https://images.selency.com/dd12f038-55f1-4abd-ba5f-9cd3c9e0a514/silverware-boil-bourdelle-5-silver-metal-service-covers-3-and-4_original.png"
+      ],
+      "definitions": [
+        "tableware made of silver or silver plate or pewter or stainless steel"
+      ]
+    },
+    {
+      "id": "stomach",
+      "image_urls": [
+        "https://anatomytool.org/sites/default/files/Ana_Digestivus_inside%20of%20stomach%20and%20duodenum.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/stomach-1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stomach_blood_supply.svg/600px-Stomach_blood_supply.svg.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/092967_A.png",
+        "https://s3-us-west-2.amazonaws.com/svg.mindthegraph.com/realistic/stomach/900x772/stomach-04.png"
+      ],
+      "definitions": [
+        "an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion",
+        "the region of the body of a vertebrate between the thorax and the pelvis",
+        "an inclination or liking for things involving conflict or difficulty or unpleasantness",
+        "an appetite for food"
+      ]
+    },
+    {
+      "id": "oven",
+      "image_urls": [
+        "https://media3.bosch-home.com/Product_Shots/1600x900/MCSA01975329_HBA534BS0_FullSizeOven_Bosch_STP_EOX5_def.png",
+        "https://www.beko.com/content/dam/netherlands-nl-aem/netherlands-nl-aemProductCatalog/technology/tech_CookMaster_Cooking/BI-Oven-CookMaster-Primary.png",
+        "https://www.pelgrim.nl/wp-content/uploads/2020/07/OVP436RVS.png",
+        "https://www.pelgrim.nl/wp-content/uploads/2020/07/OVP436RVS_IMG2.png",
+        "https://www.mayer.sg/pub/media/catalog/product/cache/458cdfb900b7b48b9fd1e65800102bb9/m/o/mo32r-open-.png"
+      ],
+      "definitions": [
+        "kitchen appliance used for baking or roasting"
+      ]
+    },
+    {
+      "id": "glass",
+      "image_urls": [
+        "https://www.rijksmuseumshop.nl/media/image/62/b3/91/12118_f.png",
+        "https://anna-nina.imgix.net/spree/products/14506/huge/Wine_Glass_Cobalt_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/14497/huge/Bubble_Water_Glass_Sea_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/14505/huge/Wine_Glass_Sea_Blue_edited.png",
+        "https://catalog.depa.eu/static/uploads/pictures/large/DEPA_150331.png"
+      ],
+      "definitions": [
+        "a brittle transparent solid with irregular atomic structure",
+        "a container made of glass for holding liquids while drinking",
+        "the quantity a glass will hold",
+        "a small refracting telescope",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant",
+        "a mirror; usually a ladies' dressing mirror",
+        "glassware collectively"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "field",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Relativistic_gravity_field_%28physics%29.svg/350px-Relativistic_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Electric_Field_Lines.svg/1200px-Electric_Field_Lines.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/51b8af35e4b06011310c1770/1467997527131-S7A5ILMMPDJVJ7VMHNL8/Logo+FF_DEF-01.png",
+        "https://www.nikon.nl/imported/images/web/EU/products/software/nx_field/images/nikon_software_nx_field__Get_Original_.png",
+        "https://i2.wp.com/analystanswers.com/wp-content/uploads/2021/04/combo-1.png"
+      ],
+      "definitions": [
+        "a piece of land cleared of trees and usually enclosed",
+        "a region where a battle is being (or has been) fought",
+        "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+        "a branch of knowledge",
+        "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it",
+        "a particular kind of commercial enterprise",
+        "a particular environment or walk of life",
+        "a piece of land prepared for playing a game",
+        "extensive tract of level open land",
+        "(mathematics) a set of elements such that addition and multiplication are commutative and associative and multiplication is distributive over addition and there are two elements 0 and 1",
+        "a region in which active military operations are in progress",
+        "all of the horses in a particular horse race",
+        "all the competitors in a particular contest or sporting event",
+        "a geographic region (land or sea) under which something valuable is found",
+        "(computer science) a set of one or more adjacent characters comprising a unit of information",
+        "the area that is visible (as through an optical instrument)",
+        "a place where planes take off and land"
+      ]
+    }
+  ]
+}

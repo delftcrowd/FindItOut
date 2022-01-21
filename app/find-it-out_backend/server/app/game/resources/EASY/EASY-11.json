@@ -1,0 +1,131 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "church",
+      "image_urls": [
+        "https://www.cityrotterdam.com/wp-content/uploads/2015/10/pelgrimsvaderkerk.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "homes",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.baerz.com/thumb/m/images/logo-top.png",
+        "https://www.kanvihomes.com/hs-fs/hubfs/edmonton-home-builder-kanvi-homes-building-infill-homes-in-mature-communties-1.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "love",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drawn_love_hearts.svg/2483px-Drawn_love_hearts.svg.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYV3o_Kib_F31h3_w2REKaFZMvq9slAJvaJI6ViLTTR4mhFw1lnak905WqWRmAMMn64KjZcLgtFmf-1H0Ad3mGmkqgQA0TcsEsrV5tuayNDKiRTgKkmwORxIgB8kHalUw37aFGVgTV7--B16qoOemC638qSDRK_2Hfoqjf0EgqFh7Q.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABS5OxQ7P8eoMWbP4aco53d0y8-KlorggWcurTiQ0PyzK8k8RX0D-zRwHNboDO8V0ulA7ZIXX0cXHvw1to20Xduoon6kJMDf02DYE.png",
+        "https://lovepostnl.nl/wp-content/uploads/2020/07/Logo_LovePostNL_Website.png"
+      ],
+      "definitions": [
+        "a strong positive emotion of regard and affection",
+        "any object of warm affection or devotion",
+        "a beloved person; used as terms of endearment",
+        "a deep feeling of sexual desire and attraction",
+        "a score of zero in tennis or squash",
+        "sexual activities (often including sexual intercourse) between two people"
+      ]
+    },
+    {
+      "id": "jail",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/2070/PNG/512/jail_icon_126169.png",
+        "https://cdn-icons-png.flaticon.com/512/1685/1685853.png",
+        "https://assets.website-files.com/6005e7e461f4ba3355a5d5b1/600b00c9c739b6d9140f308d_Icon%20Jail%20260.png",
+        "https://static.thenounproject.com/png/55081-200.png",
+        "https://www.nicepng.com/png/full/4-42502_jail-transparent-png-jail-png.png"
+      ],
+      "definitions": [
+        "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)"
+      ]
+    },
+    {
+      "id": "human",
+      "image_urls": [
+        "https://itis.swiss/assets/images/Virtual-Population/_resampled/ResizedImageWzYwMCwzNzdd/vip-overview-final-s2.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201_Elements_of_the_Human_Body.02.svg/300px-201_Elements_of_the_Human_Body.02.svg.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://huson.nl/new/wp-content/uploads/2019/10/logo-huson-300x300.png",
+        "https://restaurant-yolo.com/wp-content/uploads/2020/06/YOLO-logo-transparent.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/03/Logo_allure_DEF.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "workplace",
+      "image_urls": [
+        "https://techcrunch.com/wp-content/uploads/2016/10/04_workplace_homepage_desktop.png",
+        "https://g-workplace.com/application/files/2116/0215/7685/illustration-2020at2x.png",
+        "https://www.servicenow.nl/content/dam/servicenow-assets/public/en-us/images/background/safe-workplace-medium-marquee.png",
+        "https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-workplacebyfacebook.png",
+        "https://venturebeat.com/wp-content/uploads/2016/12/07_Workplace_Group_Desktop-1-e1481072961504.png"
+      ],
+      "definitions": [
+        "a place where work is done"
+      ]
+    }
+  ]
+}

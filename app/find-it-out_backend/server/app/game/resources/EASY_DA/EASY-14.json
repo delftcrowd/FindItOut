@@ -1,0 +1,120 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "potatoes",
+      "image_urls": [
+        "https://www.vip.coop/images/content/472645_39079_3_N_515_500_0_5374965/potatoes.png",
+        "https://static.wikia.nocookie.net/miscreated/images/0/0f/PotatoesRotten_2048.png",
+        "https://www.bcgourmet.it/images/patate3.png",
+        "https://www.hzpc.com/uploads/overview-transparent-896/dc78aee8-3f50-5ba8-b8d3-6cf74852aa2b/3175818931/Colomba%20%282%29.png",
+        "https://www.hzpc.com/uploads/overview-transparent-896/e3e6d564-9cc9-505f-b6c4-95fc3c75dabf/3175818934/Taurus.png"
+      ],
+      "definitions": [
+        "an edible tuber native to South America; a staple food of Ireland",
+        "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+      ]
+    },
+    {
+      "id": "sugar",
+      "image_urls": [
+        "https://sc04.alicdn.com/kf/UTB82I0TupPJXKJkSahV760yzFXaP.png",
+        "https://5.imimg.com/data5/ED/YV/JX/SELLER-9292402/sugar-s-30-super-s-30-250x250.png",
+        "https://www.tmgimpianti.com/wp-content/uploads/2020/06/SUGAR-BAG.png",
+        "https://www.madhursugar.com/assets/images/madhur-sugar-blue-pack.png",
+        "https://assets.website-files.com/5db1a94b0cf70d833a4a34e9/5f32967f56ed5a376f75ea9d_arengasugar-small.png"
+      ],
+      "definitions": [
+        "a white crystalline carbohydrate used as a sweetener and preservative",
+        "an essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain",
+        "informal terms for money"
+      ]
+    },
+    {
+      "id": "sauce",
+      "image_urls": [
+        "https://www.divita.it/images/prodotti/sughi-condimenti/sughi-pomodoro-formaggio-sauce.png",
+        "https://www.raos.com/wp-content/uploads/2020/10/Raos_Sauce_Marinara_24oz_ProductShot_600x600.png",
+        "https://mutti-parma.com/app/uploads/sites/30/2020/10/premiumpizza-3d-napoli-us.png",
+        "https://cdn.shopify.com/s/files/1/0551/5345/9385/products/Untitleddesign_1024x1024.png",
+        "https://mutti-parma.com/app/uploads/sites/23/2019/09/genuine-basil.png"
+      ],
+      "definitions": [
+        "flavorful relish or dressing or topping served as an accompaniment to food"
+      ]
+    },
+    {
+      "id": "chocolate",
+      "image_urls": [
+        "https://www.loacker.com/mediaObject/importedCategories/WebCategory-1834265_int-en_icon/original/WebCategory-1834265_int-en_icon.png",
+        "https://www.loacker.com/mediaObject/importedProducts/ProdWeb-1860128_int-en_packaged/resolutions/res-c400x300/ProdWeb-1860128_int-en_packaged.png",
+        "https://www.loacker.com/mediaObject/importedProducts/ProdWeb-1860124_int-en_packaged/resolutions/res-c400x300/ProdWeb-1860124_int-en_packaged.png",
+        "https://www.valor.es/wp-content/uploads/2021/03/tableta.png",
+        "https://www.loacker.com/mediaObject/importedProducts/ProdWeb-1860092_int-en_packaged/original/ProdWeb-1860092_int-en_packaged.png"
+      ],
+      "definitions": [
+        "a beverage made from cocoa powder and milk and sugar; usually drunk hot",
+        "a food made from roasted ground cacao beans",
+        "a medium brown to dark-brown color"
+      ]
+    },
+    {
+      "id": "milk",
+      "image_urls": [
+        "https://ww2.kqed.org/app/uploads/sites/38/2016/03/milk-435295-1180x787.png",
+        "https://www.arborea1956.com/wp-content/uploads/2020/01/skimmed-milk.png",
+        "https://www.arborea1956.com/wp-content/uploads/2021/07/semi-skimmed-milk_3-1-thegem-blog-masonry.png",
+        "https://drinkmilk.co.uk/wp-content/uploads/2020/05/milk_2pint.png",
+        "https://www.my-milk.it/cms/files/crop/crop_103676-crop489612-crop202425-latte-scremato-copia.png"
+      ],
+      "definitions": [
+        "a white nutritious liquid secreted by mammals and used as food by human beings",
+        "produced by mammary glands of female mammals for feeding their young",
+        "a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River",
+        "any of several nutritive milklike liquids"
+      ]
+    },
+    {
+      "id": "salad",
+      "image_urls": [
+        "https://www.enjoysalad.it/wp-content/uploads/2019/01/cesare_b.png",
+        "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/_cover_isolated_insalata_pollo_grigliato.png",
+        "https://www.edojapan.com/wp-content/themes/edojapan/images/pages/salads/chicken-salad-ranch-lg.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Satisfying_Salad.png",
+        "https://www.noodles.com/wp-content/uploads/2018/03/Med-Salad-OH-1050x700.png"
+      ],
+      "definitions": [
+        "food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens"
+      ]
+    },
+    {
+      "id": "meat",
+      "image_urls": [
+        "https://www.aicr.org/wp-content/uploads/2020/01/rec-5-fg.png",
+        "https://static.horiba.com/fileadmin/Horiba/Water_Quality/03_Application/pH_measurement_of_meat_01.png",
+        "https://www.lafattoriadipietro.com/wp-content/uploads/2019/12/meat-slider-image-center-shadow.png",
+        "https://static.wikia.nocookie.net/miscreated/images/8/84/WolfMeatSteakRaw_2048.png",
+        "https://podravkaiovariations.azureedge.net/26b25338-4989-11ea-8859-3296b6e23648/v/80b05402-a425-11e9-8ef8-428d8064809a/800x800-80b05916-a425-11e9-a734-428d8064809a.png"
+      ],
+      "definitions": [
+        "the flesh of animals (including fishes and birds and snails) used as food",
+        "the inner and usually edible part of a seed or grain or nut or fruit stone",
+        "the choicest or most essential or most vital part of some idea or experience"
+      ]
+    },
+    {
+      "id": "butter",
+      "image_urls": [
+        "https://bergbauernmilch.de/_Resources/Persistent/f/2/d/1/f2d15bac1fbd5e10473f04f4f6c7488b2a7dc138/26590.png",
+        "https://www.heritagefoods.in/blog/wp-content/uploads/2021/02/our-goodness-butter.png",
+        "https://www.corman.pro/uploads/cache/400x400/uploads/recip/product/419/duo-carton-bloc-laiterie.png",
+        "https://www.elle-et-vire.com/uploads/cache/400x400/uploads/recip/product/148/5fd7818b6a426_sans-titre-1.png",
+        "https://prodcdn2.kerrygoldusa.com/wp-content/uploads/2017/09/Kerrygold-Salted-Butter-Block-Front.png"
+      ],
+      "definitions": [
+        "an edible emulsion of fat globules made by churning milk or cream; for cooking and table use",
+        "a fighter who strikes the opponent with his head"
+      ]
+    }
+  ]
+}

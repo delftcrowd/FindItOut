@@ -1,0 +1,127 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "student",
+      "image_urls": [
+        "https://www.internationalstudent.com/images/home/img-just-getting-started-m2.png",
+        "https://doe-meer-met-studiedata.nl/wp-content/uploads/2020/11/Student-strl.png",
+        "https://www.studentenleefstijl.nl/wp-content/uploads/2020/07/logo-RGB-trans.png",
+        "https://www.ben.nl/sites/default/files/styles/2000xn/public/2020-07/Banner%20Student_0.png",
+        "https://www.thehagueuniversity.com/images/default-source/over-de-hogeschool/nieuws/student-radar-logo.png"
+      ],
+      "definitions": [
+        "a learner who is enrolled in an educational institution",
+        "a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "university",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Erasmus_University_Rotterdam_Stacked_logo_%28Colour%29.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leiden_University_seal.svg/1200px-Leiden_University_seal.svg.png",
+        "https://webster.nl/_resources/images/webster-leiden-logo.png",
+        "https://www.ru.nl/publish/pages/732676/best-traditional-university-rgb-1.png",
+        "https://features.york.ac.uk/who-we-are/assets/vvJikmK4Yz/uoy-logo-stacked-shield-pms432-800x369.png"
+      ],
+      "definitions": [
+        "the body of faculty and students at a university",
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+      ]
+    },
+    {
+      "id": "classroom",
+      "image_urls": [
+        "https://www.clanbeat.com/wp-content/uploads/2021/04/Google-Classroom.png",
+        "https://www.woodridge68.org/cms/lib/IL01904677/Centricity/Domain/360/classroom.png",
+        "https://www.fujitsu.com/hk/imagesgig5/Icon_classroom_tcm137-3749856_tcm137-2750236-32.png",
+        "https://3.files.edl.io/dd2e/20/12/03/213020-0b484f5a-fc96-499c-bc55-537acedcfac2.png",
+        "https://www.speexx.com/wp-content/uploads/webinar-vr.png"
+      ],
+      "definitions": [
+        "a room in a school where lessons take place"
+      ]
+    },
+    {
+      "id": "demonstration",
+      "image_urls": [
+        "https://tvsd.colvee.org/pluginfile.php/21849/mod_book/chapter/11271/practical%20demonstration.png",
+        "https://cdn2.iconfinder.com/data/icons/university-tuition-and-college-1/140/Icons-01-512.png",
+        "https://cdn.dataworks-ed.com/wordpress-content/uploads/20200127152945/LessonDemonstration_02.png",
+        "https://cdn4.iconfinder.com/data/icons/miscellaneous-6-1/128/demo_exhibition_demonstration-512.png",
+        "https://static.thenounproject.com/png/1923465-200.png"
+      ],
+      "definitions": [
+        "a show or display; the act of presenting something to sight or view",
+        "a show of military force or preparedness",
+        "a public display of group feelings (usually of a political nature)",
+        "proof by a process of argument or a series of proposition proving an asserted conclusion",
+        "a visual presentation showing how something works"
+      ]
+    },
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.hureninduin.nl/wp-content/uploads/2020/06/Selector.png",
+        "https://apartmentswestsanantonio.com/wp-content/uploads/2020/06/One-Bedroom-Apartment-Braun-Frio.png",
+        "https://www.hurenindespartaan.nl/wp-content/uploads/2020/10/Hurenindespartaan_Hoehetwerkt4.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "computer",
+      "image_urls": [
+        "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1200px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gnome-computer.svg/1200px-Gnome-computer.svg.png",
+        "https://www.072-pc.nl/wp-content/uploads/2015/11/computer-apkn.png",
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://files.seniorweb.nl/uploadedimages/wwwseniorwebnl/thema/onderhoud/pc_opruimen/ccleaner%20computer.png"
+      ],
+      "definitions": [
+        "a machine for performing calculations automatically",
+        "an expert at calculation (or at operating calculating machines)"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://duluthlibrary.org/media/11866/homeimage2.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    }
+  ]
+}

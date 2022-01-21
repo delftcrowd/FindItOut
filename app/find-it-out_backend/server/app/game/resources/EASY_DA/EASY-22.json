@@ -1,0 +1,133 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "tape",
+      "image_urls": [
+        "https://www.riwega.com/wp-content/uploads/2019/06/Tape-Rapid-new.png",
+        "https://shop.cdn.epictv.com/550522_0000_NOCOLOR_TAPEROLL-SPLIT.png",
+        "https://www.aerofeel.com/comceptr/uploads/sites/2/2014/10/nastro.png",
+        "https://www.adspackaging.com/wp-content/uploads/2018/07/security.png",
+        "https://cyklop.it/wp-content/uploads/PP-tape-standard.png"
+      ],
+      "definitions": [
+        "a long thin piece of cloth or paper as used for binding or fastening",
+        "a recording made on magnetic tape",
+        "the finishing line for a foot race",
+        "measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths",
+        "memory device consisting of a long thin plastic strip coated with iron oxide; used to record audio or video signals or to store computer information"
+      ]
+    },
+    {
+      "id": "rope",
+      "image_urls": [
+        "https://www.fitnessproject.it/wp-content/uploads/2019/05/POWER-ROPE.png",
+        "https://cdn.shopify.com/s/files/1/1493/2618/products/2851720083_media-02.png",
+        "https://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/1567/45897/17c36fd68bb2feb97e96964729e2a198a4be1a9f__58662.1614881359.386.513.png",
+        "https://www.waldhausen.com/media/catalog/product/cache/3/image/1400x1600/9df78eab33525d08d6e5fb8d27136e95/50463/Shop/Artikel/5046364_47.png",
+        "https://www.liftingequipmentstore.com/userfiles/productimages/singlelegsofteyes23122019085519_lrg.png"
+      ],
+      "definitions": [
+        "a strong line",
+        "street names for flunitrazepan"
+      ]
+    },
+    {
+      "id": "tap",
+      "image_urls": [
+        "https://doulton.com/media/catalog/product/cache/f0b4cddadcfcb061749e48ddcdfaed54/i/n/ina1_3.png",
+        "https://www.flytap.com/-/media/Flytap/fly-tap/content-images/Frota/A330-900neov2.png",
+        "https://www.barazzasrl.it/wp-content/uploads/2014/09/1RUBMFYL_img-267x300.png",
+        "https://www.ideearredo.com/img/cms/rubinetto-cucina/Cosa-sono-i-rubinetti-cucina-a-molla.png",
+        "https://media.croma.com/image/upload/f_auto,q_auto,d_Croma%20Assets:no-product-image.jpg,h_260,w_260/v1605338829/Croma%20Assets/Small%20Appliances/Geysers/Images/8995617374238.png"
+      ],
+      "definitions": [
+        "the sound made by a gentle blow",
+        "a gentle blow",
+        "a faucet for drawing water from a pipe or cask",
+        "a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)",
+        "a tool for cutting female (internal) screw threads",
+        "a plug for a bunghole in a cask",
+        "the act of tapping a telephone or telegraph line to get information",
+        "a light touch or stroke"
+      ]
+    },
+    {
+      "id": "plug",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Buttplug.png",
+        "https://www.shellyitalia.com/wp-content/uploads/2019/09/plug_s_dimentions.png",
+        "https://cdn.shopify.com/s/files/1/1439/1668/products/USP-Plug_Front_Angle_953f632c-6b5a-4c78-8c98-8181cf2afc0c_grande.png",
+        "https://www.salcavi.com/upload/prodotti/20200629154747_spina-australiana-bipolare-r10.png",
+        "https://en.traconelectric.com/static/images/items/G07/TICS-012G_watermark_portal_800x800.png"
+      ],
+      "definitions": [
+        "blockage consisting of an object designed to fill a hole tightly",
+        "a wad of something chewable as tobacco",
+        "blatant or sensational promotion",
+        "electrical device that fits into the cylinder head of an internal-combustion engine and ignites the gas by means of an electric spark",
+        "an electrical device with two or three pins that is inserted in a socket to make an electrical connection",
+        "an upright hydrant for drawing water to use in fighting a fire",
+        "an old or over-worked horse"
+      ]
+    },
+    {
+      "id": "stereo",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0508/6527/5040/products/PM6007_4_580x.png",
+        "https://www.apollohifi.com.au/pub/media/catalog/product/cache/fb8d2bc8542e58bc48d901967a0b8cf1/d/e/denon-d-m41dab_bl-speakers_bl.png",
+        "https://cdn.shopify.com/s/files/1/0508/6747/0494/products/Elo-X-Stero_2x_bd544d32-6fe1-4b8a-adbc-f7a2b9f3221d_1100x.png",
+        "https://www.logitech.com/content/dam/products/logitech/speakers/z150-compact-stereo-speakers/z150-clear-stereo-sound-speakers29.png",
+        "https://5.imimg.com/data5/OU/GY/NY/SELLER-1018285/bg-display-500x500.png"
+      ],
+      "definitions": [
+        "reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound",
+        "two photographs taken from slightly different angles that appear three-dimensional when viewed together"
+      ]
+    },
+    {
+      "id": "mixer",
+      "image_urls": [
+        "https://m.media-amazon.com/images/S/aplus-media/vc/e03e95f1-ab25-48f0-bad5-3ac461c4f5b5.__CR0,0,300,300_PT0_SX300_V1___.png",
+        "https://ss-pics.s3.eu-west-1.amazonaws.com/files/1839288/large-M32R-LIVE_P0C7S_Right_XL.png",
+        "https://lezioni.strumenti-musicali.info/wp-content/uploads/2016/12/testgat1.png",
+        "https://www.pioneerdj.com/-/media/pioneerdj/images/products/mixer/djm-s11/djm-s11_prm_frontangle_200828_pc.png",
+        "https://m.media-amazon.com/images/S/aplus-media/vc/913a28f3-7585-4ab0-963a-f4d1f363a4b1.__CR0,0,300,300_PT0_SX300_V1___.png"
+      ],
+      "definitions": [
+        "a party of people assembled to promote sociability and communal activity",
+        "club soda or fruit juice used to mix with alcohol",
+        "electronic equipment that mixes two or more input signals to give a single output signal",
+        "a kitchen utensil that is used for mixing foods"
+      ]
+    },
+    {
+      "id": "faucet",
+      "image_urls": [
+        "https://www.americanstandard.ca/-/media/sites/asus/images/products/kitchen-faucets/colony-soft-2-handle-high-arc-bar-sink-faucet/colony-soft-handle-high-arc-bar-sink-faucet-002.png",
+        "https://media.brizo.com/elvis/ConfiguredOnWhite/md/61065LF-PCLHP_HLB177-PCWD_CONFIG.png",
+        "https://shop.zepter.com/getattachment/3bdbd8bd-a326-4b81-b32c-bc8cb2e0e711/zepter-faucets.png",
+        "https://www.americanstandard.ca/-/media/sites/asus/images/products/kitchen-faucets/reliant-1-handle-pull-out-kitchen-faucet/reliant-1-hangle-pull-out-kitchen-faucet.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpu70803_tif.png"
+      ],
+      "definitions": [
+        "a regulator for controlling the flow of a liquid from a reservoir"
+      ]
+    },
+    {
+      "id": "hose",
+      "image_urls": [
+        "https://airpress.net/media/catalog/product/cache/2cf6a9e66210d431c6369e61c1eb52eb/4/3/4304211_2d_0001b.png",
+        "https://www.tooled-up.com/artwork/prodzoom/GH15R-12.V2_DFC0314936.png",
+        "https://www.manuli-hydraulics.com/wp-content/uploads/2019/07/SafeMaster-1080x605.png",
+        "https://www.flexbimec.com/wp-content/uploads/2019/10/287XX.png",
+        "https://www.aquahung.com/proimages/ps/IMG20190504104846_b.png"
+      ],
+      "definitions": [
+        "socks and stockings and tights collectively (the British include underwear)",
+        "man's close-fitting garment of the 16th and 17th centuries covering the legs and reaching up to the waist; worn with a doublet",
+        "a flexible pipe for conveying a liquid or gas"
+      ]
+    }
+  ]
+}

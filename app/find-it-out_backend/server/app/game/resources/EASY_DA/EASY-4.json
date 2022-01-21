@@ -1,0 +1,129 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "jacket",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/5/58A/58A094/08PF0002/58A094_08P_F0002_SLF.png",
+        "https://smhttp-ssl-65481.nexcesscdn.net/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/s/p/spidi_premium_leather_3.png",
+        "https://smhttp-ssl-65481.nexcesscdn.net/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/s/p/spidi_allroad_black.png",
+        "https://cdn.boards-and-more.com/system/product_picture_gallery_pictures/files/5eda/092c/37bb/0900/d700/0139/original/47900-5483_ION---Windbreaker-Jacket-Shelter_787-ocean-blue_back.png",
+        "https://www.rohnisch.com/on/demandware.static/-/Sites-rohnisch-catalog/default/dwacbcb97f/Hi-res/110306_T187_P2.png"
+      ],
+      "definitions": [
+        "a short coat",
+        "an outer wrapping or casing",
+        "(dentistry) dental appliance consisting of an artificial crown for a broken or decayed tooth",
+        "the outer skin of a potato",
+        "the tough metal shell casing for certain kinds of ammunition"
+      ]
+    },
+    {
+      "id": "dress",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/P/P3D/P3D35/1ZCJF0964/P3D35_1ZCJ_F0964_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/2/23X/23X634/1YFLF0002/23X634_1YFL_F0002_S_202_MDR.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P3D/P3D13H/1WHIF0002/P3D13H_1WHI_F0002_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/3/335/33556/1T4WF0009/33556_1T4W_F0009_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P3F/P3F25/1UCXF0009/P3F25_1UCX_F0009_S_211_SLF.png"
+      ],
+      "definitions": [
+        "a one-piece garment for a woman; has skirt and bodice",
+        "clothing of a distinctive style or for a particular occasion",
+        "clothing in general"
+      ]
+    },
+    {
+      "id": "boots",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/1/1W2/1W272M/3LBMF0046/1W272M_3LBM_F0046_F_045_SLR.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1T2/1T255M/3L09F0002/1T255M_3L09_F0002_F_B055_SLR.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1T2/1T255M/3L09F0009/1T255M_3L09_F0009_F_B055_SLR.png",
+        "https://dfr4rssi07fv7.cloudfront.net/htx/images/category/buty.png",
+        "https://www.church-footwear.com/content/dam/churchs_products/E/ETC/ETC203/9AGXF0AAB/ETC203_9AGX_F0AAB_F_000000_SLS.png"
+      ],
+      "definitions": [
+        "footwear that covers the whole foot and lower leg",
+        "compartment in an automobile that carries luggage or shopping or tools",
+        "the swift release of a store of affective force",
+        "protective casing for something that resembles a leg",
+        "an instrument of torture that is used to heat or crush the foot and leg",
+        "a form of foot torture in which the feet are encased in iron and slowly crushed",
+        "the act of delivering a blow with the foot"
+      ]
+    },
+    {
+      "id": "shoes",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0204/0483/0283/products/TD1MTHU_SHOE_ANGLE_GLOBAL_MENS_TREE_DASHERS_THUNDER_900x900.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1E7/1E708L/B4LF0009/1E708L_B4L_F0009_F_B055_SLR.png",
+        "https://www.prada.com/content/dam/pradanux_products/2/2EE/2EE346/P39F0002/2EE346_P39_F0002_SLR.png",
+        "https://www.church-footwear.com/content/dam/churchs_products/E/EDB/EDB003/9VEF0ABM/EDB003_9VE_F0ABM_F_000000_SLS.png",
+        "https://www.trickers.com/media/catalog/product/cache/a9dfa53173f2a6e000fb6ed6b0b6cdf9/b/o/bourton_navy_side_result.png"
+      ],
+      "definitions": [
+        "footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material",
+        "(card games) a case from which playing cards are dealt one at a time",
+        "U-shaped plate nailed to underside of horse's hoof",
+        "a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation"
+      ]
+    },
+    {
+      "id": "pants",
+      "image_urls": [
+        "https://images.ctfassets.net/od02wyo8cgm5/LXOyRhqeL8pZwtDiuHtpa/ba1b0474d390613782de2d0743415f72/running_pants-fw16-navy-w-d.png",
+        "https://images.ctfassets.net/od02wyo8cgm5/7yuxL1LSqnW4hQdL00nRRG/3e6fe2ec30edbd722a16568deba1a9a6/running_pants-ss20-black-m-g1.png",
+        "https://dfr4rssi07fv7.cloudfront.net/htx/images/category/clothing/urban_tactical_pants_clothing.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9912.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9598.png"
+      ],
+      "definitions": [
+        "the noise made by a short puff of steam (as from an engine)",
+        "(usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately",
+        "a short labored intake of breath with the mouth open"
+      ]
+    },
+    {
+      "id": "trousers",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/S/SPH/SPH109/1WQ8F0002/SPH109_1WQ8_F0002_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/U/UPA/UPA841/D39F0002/UPA841_D39_F0002_S_131_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/S/SPE/SPE12/1GQSF0002/SPE12_1GQS_F0002_S_172_SLF.png",
+        "https://keelaoutdoors.com/wp-content/uploads/2020/06/hw.png",
+        "https://www.prada.com/content/dam/pradanux_products/2/22H/22H745/I18F0002/22H745_I18_F0002_S_182_SLF.png"
+      ],
+      "definitions": [
+        "a garment (or part of a garment) designed for or relating to trousers"
+      ]
+    },
+    {
+      "id": "jeans",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/G/GEP/GEP178/1P8QF0008/GEP178_1P8Q_F0008_S_192_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/G/GEP/GEP178/1W41F0008/GEP178_1W41_F0008_S_202_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/G/GFP/GFP470/1ZACF0008/GFP470_1ZAC_F0008_S_212_MDF.png",
+        "https://image.uniqlo.com/UQ/ST3/eu/imagesother/2020/pdp/jeans/pc-pdp-numberblock-w-jeans-433248-1217.png",
+        "https://fenzy.it/media/uploads/public/product/11097-hatiya_jeans_net.png"
+      ],
+      "definitions": [
+        "a coarse durable twill-weave cotton fabric"
+      ]
+    },
+    {
+      "id": "skirt",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/P/P10/P103T/1ZBQF0964/P103T_1ZBQ_F0964_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P11/P110TR/1ZCNF0518/P110TR_1ZCN_F0518_S_212_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/131/131094/1YUEF0T21/131094_1YUE_F0T21_S_211_SLF.png",
+        "https://ae01.alicdn.com/kf/H199039964b084025bf0204f6984f0d68K/M-4XL-New-Summer-Preppy-Style-Purple-Plaid-Pleated-Skirt-Knee-length-Skirts-Female-High-Waist.png",
+        "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dw05253cc4/images/DIS/60746COT001T38_0.png"
+      ],
+      "definitions": [
+        "cloth covering that forms the part of a garment below the waist",
+        "a garment hanging from the waist; worn mainly by girls and women",
+        "(Fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar",
+        "informal terms for a (young) woman"
+      ]
+    }
+  ]
+}

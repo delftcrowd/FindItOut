@@ -1,0 +1,258 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "security",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTMgjqstXnbMNKtUHoMGIkzJv9ZjSNLtocRnpK2d9AQzEglcP-hGK9Gin-OS4IHCRIhWpI3ll3ENrkvkyiGYrCE6TSACIT2wdYns.png",
+        "https://securityacademy.opleidingsportaal.nl/Portals/190/Security-Academy_logo_Medium.png",
+        "https://www.expansion.nl/app/uploads/2020/05/ball-3.png",
+        "https://www.ek.co/sites/default/files/styles/illustration_teaser/public/2021-04/enterprise-security.png",
+        "https://www.eset.com/fileadmin/_processed_/1/8/csm_EIS-Consumentenbond_098cff20b4.png"
+      ],
+      "definitions": [
+        "the state of being free from danger or injury",
+        "defense against financial failure; financial independence",
+        "freedom from anxiety or fear",
+        "a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends",
+        "property that your creditor can claim in case you default on your obligation",
+        "a department responsible for the security of the institution's property and workers",
+        "a guarantee that an obligation will be met",
+        "an electrical device that sets off an alarm when someone tries to break in",
+        "measures taken as a precaution against theft or espionage or sabotage etc."
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__height_500/monster-chair-indigo-denim-with-arms.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/22d363011ebadd9cd0091033a93e7422/g/i/give_me_more_chair_orange_-1.png",
+        "https://www.ezup.com/media/catalog/product/cache/29c1a1faac4b2574dce43a966865c016/4/5/45view.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "airport",
+      "image_urls": [
+        "https://s28477.pcdn.co/wp-content/uploads/2017/07/Schiphol_logo.svg_-1024x380.png",
+        "https://www.inform-software.com/fileadmin/user_upload/inform-world/INFORMWELT-Airport.png",
+        "https://naco.nl/smart-aviation/images/passenger.png",
+        "https://www.swarco.com/sites/default/files/public/airport800.png",
+        "https://uploads-ssl.webflow.com/5bc87d66e1f40410cb03fe2f/603805bfb4ce0884ec3deaae_forum%20icon.png"
+      ],
+      "definitions": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5df20135260107019ff99900/1578328159952-CLFJE7ZHZ9T8XWEC68GC/The+Church+of+England+logo+Version+1.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "concert",
+      "image_urls": [
+        "https://weekendvanderomantischemuziek.nl/usr-uploads/images/2021/maanlicht-concert-logo-wit.png",
+        "https://eurovisioninconcert.nl/wordpress/wp-content/uploads/2021/02/logo_EIC_2022-wit2.png",
+        "https://cdn.mycreativeshop.com/images/templates/2966/music-concert-tri-fold-brochure-template-3361-trans-thumb.png",
+        "https://www.gervos.com/wp-content/uploads/CD-Ger-Vos-Live-in-Concert-2019.png",
+        "https://images.squarespace-cdn.com/content/v1/5f86ae7f6296dc3fbb849a80/1603114389845-HX2AT4I0DZLC56IQMZ2D/logo33.png"
+      ],
+      "definitions": [
+        "a performance of music by players or singers not involving theatrical staging"
+      ]
+    },
+    {
+      "id": "classroom",
+      "image_urls": [
+        "https://www.clanbeat.com/wp-content/uploads/2021/04/Google-Classroom.png",
+        "https://www.woodridge68.org/cms/lib/IL01904677/Centricity/Domain/360/classroom.png",
+        "https://www.wvr.ac.uk/wp-content/uploads/2020/03/Google-Classroom-Icon-300x204.png",
+        "https://www.fujitsu.com/hk/imagesgig5/Icon_classroom_tcm137-3749856_tcm137-2750236-32.png",
+        "https://3.files.edl.io/dd2e/20/12/03/213020-0b484f5a-fc96-499c-bc55-537acedcfac2.png"
+      ],
+      "definitions": [
+        "a room in a school where lessons take place"
+      ]
+    },
+    {
+      "id": "poet",
+      "image_urls": [
+        "https://raw.github.com/jsantell/poet/gh-pages/img/poet.png",
+        "https://www.drupal.org/files/project-images/poet-token_0.png",
+        "https://www.stibosystems.com/hubfs/Poet_Logo_4c_30_0_100_17_2-01.png",
+        "https://cdn-icons-png.flaticon.com/512/94/94080.png",
+        "https://images.squarespace-cdn.com/content/v1/5744549237013bd051565721/1496414643379-S9CC9ZZ9N3G2FGGYHF70/GeorgethePoet_Logo_2014.png"
+      ],
+      "definitions": [
+        "a writer of poems (the term is usually reserved for writers of good poetry)"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "home",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go-home-2.svg/1200px-Go-home-2.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Home-icon.svg/2048px-Home-icon.svg.png",
+        "https://s3-eu-west-1.amazonaws.com/zkn/files/df172fd7066470da8c916409ba3f75c4.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABajVV54Z0yXvIDzrA3hPAm6UAxTjm9xPYG0NfkeRky2wjDbVDEmX-vKnRx00rWSvsAGCrsXy2UxenzhVYnVNGx3Bzs7FsErHOOq7.png",
+        "https://www.somfy.nl/common/img/library///700x350/15-smart-home.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "glasses",
+      "image_urls": [
+        "https://images.ray-ban.com/is/image/RayBan/8053672195736__002.png",
+        "https://cdn.lindberg.com/media/ikipt0tj/9739_50-23_407-135-u16-k259-gc89-u16.png",
+        "https://uploads-ssl.webflow.com/5ac150ab7e9bbe927474fbde/5fbc670d20fa9e9d59254d76_Copy%20of%20Glass_3Q_Smith_R4.png",
+        "https://www.ultimatereadingglasses.com/content/images/thumbs/0000251_clear-reading-glasses.png",
+        "https://www.sightandsound.co.uk/wp-content/uploads/2020/11/Glass_Front_Ti_R4.png"
+      ],
+      "definitions": [
+        "a brittle transparent solid with irregular atomic structure",
+        "a container made of glass for holding liquids while drinking",
+        "the quantity a glass will hold",
+        "a small refracting telescope",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant",
+        "a mirror; usually a ladies' dressing mirror",
+        "glassware collectively"
+      ]
+    },
+    {
+      "id": "college",
+      "image_urls": [
+        "https://collegelife.co/nl/wp-content/uploads/sites/14/2019/06/artboard-27-copy0.5x-400x270.png",
+        "https://www.wolfert.nl/college/wp-content/uploads/sites/2/2017/11/wolfert_college_compact_RGB_268x150px.png",
+        "https://www.intercollege.nl/assets/new-logo.png",
+        "https://infinitycollege.nl/wp-content/uploads/2021/06/Infinity-College_Boxlogo_Blauw_RGB.png",
+        "https://www.grenslandcollege.nl/wp-content/uploads/2021/02/grensland-logo-x2.png"
+      ],
+      "definitions": [
+        "the body of faculty and students of a college",
+        "an institution of higher education created to educate and grant degrees; often a part of a university",
+        "a complex of buildings in which an institution of higher education is housed"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.thegardenstore.nl/wp-content/uploads/2021/01/The-Garden-Store-Tuin-Interieur-Plantstyling-projects-frame.png",
+        "https://elho.xcdn.nl/RM200,200,C_OQ70/light-garden-leaf-green-1731900236000c1png/light_garden_leaf_green_1731900236000.c1.png",
+        "https://www.decoaction.nl/pub/media/catalog/product/cache/700x700/wandbord-englisch-flower-garden.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    },
+    {
+      "id": "university",
+      "image_urls": [
+        "https://webster.nl/_resources/images/webster-leiden-logo.png",
+        "https://www.ru.nl/publish/pages/732676/best-traditional-university-rgb-1.png",
+        "https://webster.nl/_resources/images/webster-leiden-logo-white.png",
+        "https://features.york.ac.uk/who-we-are/assets/vvJikmK4Yz/uoy-logo-stacked-shield-pms432-800x369.png",
+        "https://www.isunet.edu/wp-content/uploads/2019/10/LOGO_ISU_Darkblue.png"
+      ],
+      "definitions": [
+        "the body of faculty and students at a university",
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://www.microsinternetdiensten.nl/resources/uploads/2017/06/Office365.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    }
+  ]
+}

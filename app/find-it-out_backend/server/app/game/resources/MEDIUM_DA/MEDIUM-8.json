@@ -1,0 +1,242 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "orange",
+      "image_urls": [
+        "https://5.imimg.com/data5/EE/ER/MY-27568370/fresh-orange-500x500.png",
+        "https://www.boeschbodenspies.com/wp-content/uploads/2017/08/orange.png",
+        "https://blog.redooc.com/wp-content/uploads/2016/07/orange-logo-vector-400x400.png",
+        "https://www.orange-id.it/wp-content/uploads/2019/07/orange_artdirection_250.png",
+        "https://www.orangeadv.it/wp-content/uploads/2019/02/Orange_ADV_Logo_white_top.png"
+      ],
+      "definitions": [
+        "round yellow to orange fruit of any of several citrus trees",
+        "orange color or pigment; any of a range of colors between red and yellow",
+        "any citrus tree bearing oranges",
+        "any pigment producing the orange color",
+        "a river in South Africa that flows generally westward to the Atlantic Ocean"
+      ]
+    },
+    {
+      "id": "lemon",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/lemon.png",
+        "https://res.cloudinary.com/hksqkdlah/image/upload/38662_sil-regularlemon-03.png",
+        "https://www.lemonsnack.it/assets/images/shapes/contact-shape-3.png",
+        "https://bec-natura.com/wp-content/uploads/2020/04/Limone.png",
+        "https://images.ctfassets.net/eizimaksw7co/1qoD6SrT1mGrKKZ03zAqpk/d9a5c1ac9b0865588d00a9d6d130a63f/Organics_Lemon.png"
+      ],
+      "definitions": [
+        "yellow oval fruit with juicy acidic flesh",
+        "a strong yellow color",
+        "a small evergreen tree that originated in Asia but is widely cultivated for its fruit",
+        "a distinctive tart flavor characteristic of lemons",
+        "an artifact (especially an automobile) that is defective or unsatisfactory"
+      ]
+    },
+    {
+      "id": "grapefruit",
+      "image_urls": [
+        "https://www.natureandmore.com/sites/www.natureandmore.com/files/styles/zijbalk/public/product/thumb/grapefruit_kopieeren.png",
+        "https://www.mammarancia.com/wp-content/uploads/2021/01/pompelmo_mammarancia.png",
+        "https://www.wintersweetz.com/wp-content/uploads/2017/02/grapefruit-300x243.png",
+        "https://fbi.org.il/wp-content/uploads/2019/05/grapefruit.png",
+        "https://www.delmonte.com/sites/default/files/_%20Overview-images-RedGrapefruitNSA64oz-SunFresh.png"
+      ],
+      "definitions": [
+        "citrus tree bearing large round edible fruit having a thick yellow rind and juicy somewhat acid pulp",
+        "large yellow fruit with somewhat acid juicy pulp; usual serving consists of a half"
+      ]
+    },
+    {
+      "id": "cherry",
+      "image_urls": [
+        "https://www.santorsola.com/2020/wp-content/uploads/2020/06/ciliegia-big.png",
+        "https://www.boeschbodenspies.com/wp-content/uploads/2017/08/cherry.png",
+        "https://static.wixstatic.com/media/2cd43b_4dfa25c96f064793ad2ac3e5a7b453fb~mv2.png",
+        "https://cdn.shopify.com/s/files/1/2283/1973/products/04-qeeboo-cherry-lamp-by-nika-zupanc--red_1024x1024.png",
+        "https://wac-cdn.atlassian.com/dam/jcr:dff99252-7ef3-446e-88c3-7a5938d05274/git%20cherry%20pick%20illo.png"
+      ],
+      "definitions": [
+        "wood of any of various cherry trees especially the black cherry",
+        "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood",
+        "a red fruit with a single hard stone",
+        "a red the color of ripe cherries"
+      ]
+    },
+    {
+      "id": "coconut",
+      "image_urls": [
+        "https://discoveredn-18cc7.kxcdn.com/wp-content/uploads/2021/04/kokosnoot_vrij.png",
+        "https://www.isolabio.com/wp-content/uploads/2019/10/bevande_cocco_supreme_en-2-600x600.png",
+        "https://sc04.alicdn.com/kf/U9a9deae3728040208c9097ad0af1ac1cR.png",
+        "https://www.isolabio.com/wp-content/uploads/2019/06/2-creme_cucina-600x600_cocco_reb-600x600.png",
+        "https://www.tonasia.com.vn/uploads/images/products/fresh-coconut-1.png"
+      ],
+      "definitions": [
+        "the edible white meat of a coconut; often shredded for use in e.g. cakes and curries",
+        "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk",
+        "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+      ]
+    },
+    {
+      "id": "peach",
+      "image_urls": [
+        "https://www.chb.gr/siteAssets/markets/Peach.png",
+        "https://www.smashbros.com/wiiu-3ds/sp/images/character/peach/main.png",
+        "https://www.alfakher50g.com/wp-content/uploads/2020/09/white-peach.png",
+        "https://images.squarespace-cdn.com/content/v1/55359ac0e4b0a48fd270d2fa/1430713106461-Z25N4VFBWENKYYB29QW2/image-asset.png",
+        "https://www.coopsole.it/wp-content/uploads/2019/07/cascata-pesca-mobile.png"
+      ],
+      "definitions": [
+        "cultivated in temperate regions",
+        "a very attractive or seductive looking woman",
+        "downy juicy fruit with sweet yellowish or whitish flesh",
+        "a shade of pink tinged with yellow"
+      ]
+    },
+    {
+      "id": "raspberry",
+      "image_urls": [
+        "https://berrypeople.co.uk/wp-content/uploads/2020/05/raspberry@3x.png",
+        "https://billsberryfarm.com/wp-content/uploads/2020/08/raspberry.png",
+        "https://www.unipi.technology/upload/Case%20studies/Smarthome%20s%20RPi/rpi4.png",
+        "https://berryworld.imgix.net/consumerAssets/Raspberry-Custom.png",
+        "https://www.okdo.com/it/wp-content/uploads/sites/3/2020/10/RPI-400-KIT-TRANSPARENT.png"
+      ],
+      "definitions": [
+        "woody brambles bearing usually red but sometimes black or yellow fruits that separate from the receptacle when ripe and are rounder and smaller than blackberries",
+        "red or black edible aggregate berries usually smaller than the related blackberries",
+        "a cry or noise made to express displeasure or contempt"
+      ]
+    },
+    {
+      "id": "pineapple",
+      "image_urls": [
+        "https://www.frunet.net/wp-content/uploads/2021/01/pina.png",
+        "https://www.dictionary.com/e/wp-content/uploads/2018/11/pineapple-emoji.png",
+        "https://www.organichaive.com.ng/wp-content/uploads/2017/01/unnamed-5-350x350.png",
+        "https://sicarfarms.com/wp-content/uploads/2021/01/Pineapple.png",
+        "https://www.howmuchisin.com/produce_converters_app/vegetables_large/pineapple.png"
+      ],
+      "definitions": [
+        "a tropical American plant bearing a large fleshy edible fruit with a terminal tuft of stiff leaves; widely cultivated in the tropics",
+        "large sweet fleshy tropical fruit with a terminal tuft of stiff leaves; widely cultivated"
+      ]
+    },
+    {
+      "id": "pear",
+      "image_urls": [
+        "https://www.gisymbol.com/wp-content/uploads/2017/08/Australian-Pears-600x600.png",
+        "https://static.wikia.nocookie.net/dayz_gamepedia/images/b/b0/Pear.png",
+        "https://bio-trading.it/wp-content/uploads/2018/08/pera-2.png",
+        "https://www.isolabio.com/wp-content/uploads/2019/04/succo_pera_200ml_it-600x600.png",
+        "https://qbfruit.com/wp-content/uploads/2018/04/bg_pera.png"
+      ],
+      "definitions": [
+        "sweet juicy gritty-textured fruit available in many varieties",
+        "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+      ]
+    },
+    {
+      "id": "strawberry",
+      "image_urls": [
+        "https://billsberryfarm.com/wp-content/uploads/2020/08/strawberry-2.png",
+        "https://www.santorsola.com/2020/wp-content/uploads/2020/06/fragola-big.png",
+        "https://discoveredn-18cc7.kxcdn.com/wp-content/uploads/2021/03/aardbeien_vrij.png",
+        "https://berryworld.imgix.net/consumerAssets/Strawberry-transparent1.png",
+        "https://11ryx819gl9ywywd82x4jd31-wpengine.netdna-ssl.com/frontend/assets/images/flavors/strawberry/hero/hero-element-secondary-1.png"
+      ],
+      "definitions": [
+        "sweet fleshy red fruit",
+        "any of various low perennial herbs with many runners and bearing white flowers followed by edible fruits having many small achenes scattered on the surface of an enlarged red pulpy berry",
+        "a soft red birthmark"
+      ]
+    },
+    {
+      "id": "avocado",
+      "image_urls": [
+        "https://www.siciliaavocado.it/public/componenti/407/f1/AvocadoSfondobianco12bacon.png",
+        "https://i0.wp.com/ilverzeratt1919.it/wp-content/uploads/2020/03/AVOCADO-IL-VERZERATT-1919.png",
+        "https://www.siciliaavocado.it/public/componenti/49/f1/vendita-avocado-sicilia.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/avocat_196052669-e1477390960453.png",
+        "https://static1.buchi.com/sites/default/files/styles/content_large/public/application-note-images/avocado-937459_1280.png"
+      ],
+      "definitions": [
+        "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed",
+        "tropical American tree bearing large pulpy green fruits"
+      ]
+    },
+    {
+      "id": "plum",
+      "image_urls": [
+        "https://www.unacoa.it/wp-content/uploads/2020/02/unacoa-susine-450x450-1.png",
+        "https://cdn.shopify.com/s/files/1/1488/2350/products/All_Red.png",
+        "https://qbfruit.com/wp-content/uploads/2018/04/bg_prugna.png",
+        "https://pics.clipartpng.com/Plum_PNG_Clip_Art-3115.png",
+        "https://www.lifefood.eu/media/catalog/product/cache/5/image/265x/9df78eab33525d08d6e5fb8d27136e95/en/Blog/2019/11-November/Plums/alexandra-kikot-mjP6MQz834E-unsplash-2-400-400.png"
+      ],
+      "definitions": [
+        "any of several trees producing edible oval fruit having a smooth skin and a single hard stone",
+        "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit",
+        "a highly desirable position or assignment"
+      ]
+    },
+    {
+      "id": "garlic",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/ail_327236627-e1477391225750.png",
+        "https://antogar.com/wp-content/uploads/2021/01/Antogar-morado-Garlic.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/8/YY/VI/HT/6237564/indian-fresh-garlic-500x500.png",
+        "https://antogar.com/wp-content/uploads/2021/01/Antogar-spring-blanco.png",
+        "https://cdn.shopify.com/s/files/1/0553/8765/2286/products/InfusedGarlicOil250ml_front_950px_300x.png"
+      ],
+      "definitions": [
+        "bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves",
+        "aromatic bulb used as seasoning"
+      ]
+    },
+    {
+      "id": "banana",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bananas.svg/2560px-Bananas.svg.png",
+        "https://delmonteeurope.com/media/europe/products/fresh-market/fruits/delmonte-banana.png",
+        "https://blog.giallozafferano.it/ricettagourmet/wp-content/uploads/2016/11/Quante-calorie-ha-una-banana-e1478856212493.png",
+        "https://mundobanana.com.ec/wp-content/uploads/2021/05/Banano-450x545.png",
+        "https://netbanana.it/wp-content/uploads/2021/06/banana-singola-netb.png"
+      ],
+      "definitions": [
+        "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits",
+        "elongated crescent-shaped yellow fruit with soft sweet flesh"
+      ]
+    },
+    {
+      "id": "cranberry",
+      "image_urls": [
+        "https://www.jamiesonitalia.com/wp-content/uploads/2016/06/2163IT_Cranberry_Complex_250cc_BTL_IT-copia.png",
+        "https://farmacialoreto.it/image/cache/data/Cranberry-Puro-Extratto-40-Proantocianidine-60-Compresse-550x669.png",
+        "https://cdn.shopify.com/s/files/1/0830/1819/products/PureCranberry32BottleN13_1024x1024@2x.png",
+        "https://ricola-cdn-ep.azureedge.net/cmsstorage/ricola/media/content/ch/products/cranberry/cranberry_box_50_oz.png",
+        "https://www.naturevia.cz/wp-content/uploads/2019/11/MEGA_brus_AKUT.png"
+      ],
+      "definitions": [
+        "any of numerous shrubs of genus Vaccinium bearing cranberries",
+        "very tart red berry used for sauce or juice"
+      ]
+    },
+    {
+      "id": "prune",
+      "image_urls": [
+        "https://www.boeschbodenspies.com/wp-content/uploads/2017/08/prune.png",
+        "https://www.californiaprunes.net/wp-content/uploads/2019/10/bowl.png",
+        "https://www.bordeaux.com/wp-content/uploads/2018/02/Prune-sechee-1-1.png",
+        "https://www.brandsworld.com.my/content/dam/brands/malaysia/product-details/innershine/prune-essence/brands-innershine-prune-essence-product-img-@2x-newbottle.fw.png",
+        "https://www.gerber.com/media/catalog/product/1/s/1st20foods20prune_f1hnulwskstzf4ks.png"
+      ],
+      "definitions": [
+        "dried plum"
+      ]
+    }
+  ]
+}

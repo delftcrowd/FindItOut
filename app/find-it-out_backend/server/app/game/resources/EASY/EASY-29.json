@@ -1,0 +1,127 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "rain",
+      "image_urls": [
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABe3RV46VAcS-RHlOLaMoe7-7apLzJ-zYSCOg-eUf1Tf77rd7q7PzqeBC_onWOpYOPW5ciFe2obNI-qY_hnl2kZiePpVwSXOBZ2QI7UhlehysCee4c1MIIXU_9P7Iom_s4PfcCxdVSWC9F6H8-CTQgcuPZi1mC9RePx1j04046ZSwfQ.png",
+        "https://cdn.werkenmetmerken.nl/img/Rain-X_Anti_Fog-t-333x222.png",
+        "https://static.wikia.nocookie.net/mkwikia/images/8/8f/MK11RainRender.png",
+        "https://cdn.fastly.picmonkey.com/content4/previews/main/picmoji/rain_cloud_384.png",
+        "https://cdn.shopify.com/s/files/1/0280/7513/0978/files/rain_kiss_logo_black_f2d2534d-bc0a-4c88-84f1-eb021f88f080_665x.png"
+      ],
+      "definitions": [
+        "water falling in drops from vapor condensed in the atmosphere",
+        "drops of fresh water that fall as precipitation from clouds",
+        "anything happening rapidly or in quick successive"
+      ]
+    },
+    {
+      "id": "weather",
+      "image_urls": [
+        "https://j.theweathernetwork.com/wx_icons/v1/4.png",
+        "https://www.weatherimpact.com/wp-content/uploads/2019/07/Logo-Weather-Impact.png",
+        "https://www.rainviewer.com/images/rainviewer2/rainviewer-for-iphone@2x.png",
+        "https://j.theweathernetwork.com/wx_icons/v1/28.png",
+        "https://images-na.ssl-images-amazon.com/images/I/41hzbXlmykL.png"
+      ],
+      "definitions": [
+        "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation"
+      ]
+    },
+    {
+      "id": "snow",
+      "image_urls": [
+        "https://centimo.nl/wp-content/uploads/2021/03/whiteflock.png",
+        "https://www.sherpa.si/images/parallax-ground-reduced.png",
+        "https://cdn1.umg3.net/485-cdn/img/snowflake.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c9/Snow_%28layers_2%29_JE3_BE2.png",
+        "https://energydrinkshop.nl/wp-content/uploads/2019/07/Snow_Cone.png"
+      ],
+      "definitions": [
+        "precipitation falling from clouds in the form of ice crystals",
+        "a layer of snowflakes (white crystals of frozen water) covering the ground",
+        "English writer of novels about moral dilemmas in academe (1905-1980)",
+        "street names for cocaine"
+      ]
+    },
+    {
+      "id": "air",
+      "image_urls": [
+        "https://static.nike.com/a/images/t_default/1c49f562-cd98-4e5b-919b-4da2022b1bb3/air-max-270-essential-shoes-Q4xT71.png",
+        "https://ec.europa.eu/environment/air/cleaner_air/img/intro/bird1.png",
+        "https://static.nike.com/a/images/t_default/358b5ffe-0704-4c5a-89fd-0fa5b2b1f99b/air-max-plus-iii-shoe-KFPSRr.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Air_%28shown%29_JE2.png",
+        "https://tabou-boards.com/wp-content/uploads/sites/4/2020/09/2021t-marketing-graphics-AIRRIDE-PLUS-TEAM-B.png"
+      ],
+      "definitions": [
+        "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
+        "the region above the ground",
+        "a distinctive but intangible quality surrounding a person or thing",
+        "a slight wind (usually refreshing)",
+        "the mass of air surrounding the Earth",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "a succession of notes forming a distinctive sequence",
+        "medium for radio and television broadcasting",
+        "travel via aircraft"
+      ]
+    },
+    {
+      "id": "disneyland",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://static.wikia.nocookie.net/disney/images/a/ad/Disneyland.png",
+        "https://d118pfm5xh6r9q.cloudfront.net/images/d/disneylandparis_9.png",
+        "https://disneydrive.be/wp-content/uploads/2018/03/Disneyland_Paris_logo.svg-1-1024x289.png"
+      ],
+      "definitions": [
+        "an amusement park in Anaheim created in 1955 by Walt Disney"
+      ]
+    },
+    {
+      "id": "forest",
+      "image_urls": [
+        "https://outdoor-forest.nl/wp-content/uploads/2019/12/outdoor-forest-logo-dark-xs.png",
+        "https://forforest.net/wp-content/uploads/2020/10/Logo-Men%C3%BC_Sticky-header-01.png",
+        "https://endnightgames.com/sites/default/files/images/games/forest-logo.png",
+        "https://www.forestsoftheworld.org/files/International.forestsoftheworld.org/Goals%20and%20strategies/2021-03-16%20FoW%20ToC%20illustrated.png",
+        "https://static.eos.com/wp-content/uploads/2021/06/intro-forestry.png"
+      ],
+      "definitions": [
+        "the trees and other plants in a large densely wooded area",
+        "land that is covered with trees and shrubs"
+      ]
+    },
+    {
+      "id": "seattle",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/King_County_Washington_Incorporated_and_Unincorporated_areas_Seattle_Highlighted.svg/250px-King_County_Washington_Incorporated_and_Unincorporated_areas_Seattle_Highlighted.svg.png",
+        "https://marvel-b1-cdn.bc0a.com/f00000000160678/files.klgates.com/images/office/110828_image.png",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Seattle_Kraken_official_logo.svg/1200px-Seattle_Kraken_official_logo.svg.png",
+        "https://a.espncdn.com/i/teamlogos/wnba/500/sea.png",
+        "https://static.wixstatic.com/media/348059_0601ef3427a84ff7b6482a430e3c65d3~mv2.png"
+      ],
+      "definitions": [
+        "a major port of entry and the largest city in Washington; located in west central Washington on the protected waters of Puget Sound with the snow-capped peaks of the Cascade Range and Mount Rainier visible to the south and east; an aerospace and computer center; site of the University of Washington"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    }
+  ]
+}

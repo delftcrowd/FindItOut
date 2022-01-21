@@ -1,0 +1,251 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "state",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Map_of_USA_States_with_names_white.svg/1200px-Map_of_USA_States_with_names_white.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Map_of_USA_States_with_names_white.svg/330px-Map_of_USA_States_with_names_white.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/US_States_by_Total_Area.svg/1200px-US_States_by_Total_Area.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Map_of_US_state_cannabis_laws.svg/1200px-Map_of_US_state_cannabis_laws.svg.png",
+        "https://www.worldatlas.com/r/w1200/upload/ba/68/e7/state-us-map2019-2.png"
+      ],
+      "definitions": [
+        "the territory occupied by one of the constituent administrative districts of a nation",
+        "the way something is with respect to its main attributes",
+        "the group of people comprising the government of a sovereign state",
+        "a politically organized body of people under a single government",
+        "(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)",
+        "a state of depression or agitation",
+        "the territory occupied by a nation",
+        "the federal department in the United States that sets and maintains foreign policies"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "shoe",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0204/0483/0283/products/TD1MTHU_SHOE_ANGLE_GLOBAL_MENS_TREE_DASHERS_THUNDER_900x900.png",
+        "https://i02.appmifile.com/363_operator_in/13/10/2020/c7bde508f128d7b1fd10a224d18a5333.png",
+        "https://static.nike.com/a/images/t_default/333cb4b5-88fa-4454-b15d-86d2a39b6504/mc-trainer-training-shoe-R8VN5P.png",
+        "https://static.nike.com/a/images/t_default/95175882-844c-4b92-92f8-c0799f05dd8e/react-hyperset-indoor-court-shoe-1jfnlj.png",
+        "https://cdn.allbirds.com/image/upload/f_auto,q_auto,w_1110/cms/4MK61x9OZ6SI41CTsU16Bn/bb28d0237bfaf7165e20731338d4e0ec/TD1MKIL080_SHOE_LEFT_GLOBAL_MENS_TREE_DASHER_KILIMANJARO_WHITE.png"
+      ],
+      "definitions": [
+        "footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material",
+        "(card games) a case from which playing cards are dealt one at a time",
+        "U-shaped plate nailed to underside of horse's hoof",
+        "a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation"
+      ]
+    },
+    {
+      "id": "hospital",
+      "image_urls": [
+        "https://images.trafficsupply.nl/imgfill/800/800/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://images.trafficsupply.nl/imgsrc/504/640/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://ramboll.com/-/media/files/ramboll-fonden/h/hospital-icons3.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXadDGDIpUtxr0qClFU1a8_vMbEd0a-SEDnnm4-grD1cDYkKIl9oajcZYVcnaJ3e1zG4MefT_BXAai2yhtwOtK0nO3Pv9axEw0Wj.png",
+        "https://photos.healthgrades.com/homeimages/find-a-hospital.png"
+      ],
+      "definitions": [
+        "a health facility where patients receive treatment",
+        "a medical institution where sick or injured people are given medical or surgical care"
+      ]
+    },
+    {
+      "id": "valley",
+      "image_urls": [
+        "https://www.horecava.nl/wp-content/uploads/2020/06/product-1394668_35540.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Formation-Of-A-V-Shaped-Valley-4-V-Shaped-Valley---Geography-Land-Water-Rivers-KS3.png",
+        "https://www.fictionvalley.nl/images/logo.png",
+        "https://www.veluwe-valley.nl/images/logo-2017.png",
+        "https://logisticsvalleyhelpt.nl/wp-content/uploads/2020/03/cropped-LV_Logo_CMYK_Rivierenland-1.png"
+      ],
+      "definitions": [
+        "a long depression in the surface of the land that usually contains a river"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "backpack",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/John-Backpack-Midi-Black-Back_1024x1024.png",
+        "https://www.nixon.com/on/demandware.static/-/Sites-masterCatalog_Nixon/default/dwa17349ad/products/C3025-000-view1.png",
+        "https://image01.oneplus.net/ebp/202012/22/1-m00-1e-ac-rb8bwl_hxzaaqkeraaratr4jfa8896.png",
+        "https://static.nike.com/a/images/t_default/bf773f53-e74f-4248-89cc-1f4d0992acae/sb-rpm-skate-backpack-nmcTDs.png",
+        "https://www.barts.eu/img/240/427/resize/3/7/3779_mountain-backpack_13_1.png"
+      ],
+      "definitions": [
+        "a bag carried by a strap on your back or shoulder"
+      ]
+    },
+    {
+      "id": "michigan",
+      "image_urls": [
+        "https://www.michigannature.org/images/img_library/crp/96-6-8-issue.png",
+        "https://www.bls.gov/regions/midwest/images/18782.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/hotspots.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/risk_levels.png",
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566497203534-IP8F83WR5AWBNVFFG2VF/Michigan.png"
+      ],
+      "definitions": [
+        "a midwestern state in north central United States in the Great Lakes region",
+        "the 3rd largest of the Great Lakes; the largest freshwater lake entirely within the United States borders",
+        "a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://www.cityhotel.nl/wp-content/uploads/2019/02/City-Hotel-logo.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png",
+        "https://www.mystreet.org/media/791008/footpaths-roundel.png",
+        "https://images.squarespace-cdn.com/content/v1/5620ddc4e4b04789570e5fca/1519660057648-G5ZZEN43K2NMO3YOA5PS/SCNL-logo.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/cjfv6a9on0zlh0hqmireerr8r-moto-tyres-pilot-street-persp.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    },
+    {
+      "id": "bar",
+      "image_urls": [
+        "https://www.cornelisrotterdam.nl/wp-content/uploads/2019/10/logo-cornelis-kitchen-bar-web-4.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw39b2c12a/JBL_Bar_2.0_All-In-One_Front_1605x1605.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/video-conferencing/rally-bar/gallery/graphite-1-v2.png",
+        "https://www.barbotanique.nl/images/logo-barbotanique-2020.png",
+        "https://www.bardoamsterdam.nl/wp-content/uploads/2019/06/Logo-Bar-Do%CC%81.png"
+      ],
+      "definitions": [
+        "a room or establishment where alcoholic drinks are served over a counter",
+        "a counter where you can obtain food or drink",
+        "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+        "musical notation for a repeating pattern of musical beats",
+        "an obstruction (usually metal) placed at the top of a goal",
+        "the act of preventing",
+        "(meteorology) a unit of pressure equal to a million dynes per square centimeter",
+        "a submerged (or partly submerged) ridge in a river or along a shore",
+        "the body of individuals qualified to practice law in a particular jurisdiction",
+        "a narrow marking of a different color or texture from the background",
+        "a block of solid substance (such as soap or wax)",
+        "a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War",
+        "a horizontal rod that serves as a support for gymnasts as they perform exercises",
+        "a heating element in an electric fire",
+        "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried"
+      ]
+    },
+    {
+      "id": "minnesota",
+      "image_urls": [
+        "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+        "https://www.minnesotanonprofits.org/images/default-source/regional-chapters/west-central-2.png",
+        "https://mn.gov/mnit/assets/icon-minnesota_tcm38-337724.png",
+        "https://www.health.state.mn.us/communities/practice/resources/chsadmin/images/iii_8_map.png",
+        "https://www.greaterminnesota.net/wp-content/uploads/2015/12/map02.png"
+      ],
+      "definitions": [
+        "a midwestern state"
+      ]
+    },
+    {
+      "id": "nebraska",
+      "image_urls": [
+        "https://d1x0hz245gw9tv.cloudfront.net/wp-content/uploads/2018/08/04142826/region_map.png",
+        "https://snr.unl.edu/data/images/geographygis/bedrock-bg.png",
+        "https://content.schoolinsites.com/api/documents/eb35c2b16a1144679b3f7f2c6d1081c7.png",
+        "https://www.kios.org/sites/kios/files/202012/400px-Nebraska_Presidential_Election_Results_2020.svg_.png",
+        "https://www.powerhomeschool.org/wp-content/uploads/2020/07/asset-63x-300x148.png"
+      ],
+      "definitions": [
+        "a midwestern state on the Great Plains"
+      ]
+    },
+    {
+      "id": "blanket",
+      "image_urls": [
+        "https://1567162731.rsc.cdn77.org/content/images/thumbs/000/0003558_little-dutch-cot-summer-blanket-pure-rust-rust-2.png",
+        "https://1567162731.rsc.cdn77.org/content/images/thumbs/000/0005441_little-dutch-cot-blanket-pure-indian-red-red-1.png",
+        "https://vantageapparel.com/Images/ProductImages/Low/0640_Grey_front.png",
+        "https://www.bugaboo.com/dw/image/v2/BDLP_PRD/on/demandware.static/-/Sites-bugaboo-master/default/dwc89914bf/images/80153GS01/80153GS01_Bugaboo-Soft-Wool-Blanket-LIGHT-GREY-MELANGE_8.png",
+        "https://cdn.shopify.com/s/files/1/2683/4934/products/blue_weighted_blanket_f6e0dd3f-2605-4499-8506-866823acbd03_800x.png"
+      ],
+      "definitions": [
+        "bedding that keeps a person warm in bed",
+        "anything that covers",
+        "a layer of lead surrounding the highly reactive core of a nuclear reactor"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://bankinter.moneytown.es/images/city_home.png",
+        "https://www.town.nl/parkned.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    },
+    {
+      "id": "suburb",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/suburb-ba90450c9612e75f0dc7788df899432040022217.png",
+        "https://cdn-icons-png.flaticon.com/512/102/102430.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Inner.melbourne.suburbs.svg/400px-Inner.melbourne.suburbs.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/5a9a33c44eddec7cd7ebcf29/1579010873171-93UCHMORQD65NBZ17BNZ/14+perspTS_TI%2BIN_Proc.png",
+        "https://cdn2.iconfinder.com/data/icons/building-41/100/House_2-512.png"
+      ],
+      "definitions": [
+        "a residential district located on the outskirts of a city"
+      ]
+    }
+  ]
+}

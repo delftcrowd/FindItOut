@@ -1,0 +1,129 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "anger",
+      "image_urls": [
+        "https://static.tvtropes.org/pmwiki/pub/images/inside_out_anger_fullbody.png",
+        "https://static.wikia.nocookie.net/insideout/images/d/d6/ANGER_Fullbody_Render.png",
+        "https://static.wikia.nocookie.net/disney-infinity/images/3/3f/Anger.png",
+        "https://images.ctfassets.net/v3n26e09qg2r/3R736sggdiOugoMGwAgqeq/d2ed52cc62c87e3cd836f2530079b50d/hs_character_stressed_1__1_.png",
+        "https://cdn4.iconfinder.com/data/icons/yellow-emoji-set/100/yellow-21-512.png"
+      ],
+      "definitions": [
+        "a strong emotion; a feeling that is oriented toward some real or supposed grievance",
+        "the state of being angry",
+        "belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)"
+      ]
+    },
+    {
+      "id": "panic",
+      "image_urls": [
+        "https://www.panic.com/images/big-logo.png",
+        "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6e19b63041f1a892b78735b94ce2e875b0e35dcec23974de54b0eb800f307087._RI_V_TTW_.png",
+        "https://www.qbsgroup.com/wp-content/uploads/2017/11/panic-button-featured-2_300x312-1.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/41f392601a62a50f1b2bc113152b08b224ac9691-2001x1400.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/panic-59670663aab85fc4e6a115999813f3dabe7af7ae.png"
+      ],
+      "definitions": [
+        "an overwhelming feeling of fear and anxiety",
+        "sudden mass fear and anxiety over anticipated events"
+      ]
+    },
+    {
+      "id": "working",
+      "image_urls": [
+        "https://cms.qz.com/wp-content/uploads/2017/09/obsessions_parents_combined.png",
+        "https://weareworking.com/wp-content/uploads/2020/04/WAW_Logo.png",
+        "https://screenshotmonitor.com/blog/wp-content/uploads/2016/06/employee-b.png",
+        "https://workingyetpoor.eu/wp-content/uploads/2020/06/working-yet-poor-home.png",
+        "https://calamari.io/blog/user/pages/01.blog/15.is-working-overtime-worth-it-pros-and-cons/working%20overtimes.png"
+      ],
+      "definitions": [
+        "a mine or quarry that is being or has been worked"
+      ]
+    },
+    {
+      "id": "satisfaction",
+      "image_urls": [
+        "https://aircall.io/wp-content/uploads/2016/10/how-to-measure-customer-satisfaction-2-870x435.png",
+        "https://satisfactioncoffee.nl/wp-content/uploads/2020/02/Satistaction-cofee-den-haag-logo-wit.png",
+        "https://www.click2buy.com/wp-content/uploads/2021/06/satisfaction.png",
+        "https://resource.gsx.com/5-star-reviews-icon.png",
+        "https://cdn0.iconfinder.com/data/icons/customer-satisfaction-2/64/satisfaction-satisfied-emotion-customer-happy-512.png"
+      ],
+      "definitions": [
+        "the contentment one feels when one has fulfilled a desire, need, or expectation",
+        "state of being gratified or satisfied",
+        "compensation for a wrong",
+        "(law) the payment of a debt or fulfillment of an obligation",
+        "act of fulfilling a desire or need or appetite"
+      ]
+    },
+    {
+      "id": "teaching",
+      "image_urls": [
+        "https://api.teach.org/sites/default/files/2020-06/BAT_Get%20a%20job.png",
+        "https://blog.edmentum.com/sites/blog.edmentum.com/files/images/AC009-1521%20First%20Year%20Survival%20Guide%20to%20Teaching-01.png",
+        "https://elt.oup.com/feature/global/using-digital-in-teaching/images/digital-banner.png",
+        "https://blog.esparklearning.com/hubfs/ADistrictsGuidetoEffectiveCoTeaching_CoTeaching.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/5-children-sitting-at-a-table.png"
+      ],
+      "definitions": [
+        "the profession of a teacher",
+        "a doctrine that is taught",
+        "the activities of educating or instructing; activities that impart knowledge or skill"
+      ]
+    },
+    {
+      "id": "confusion",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/1476/1476223.png",
+        "https://cdn.icon-icons.com/icons2/2418/PNG/512/confusion_confused_bewildered_intricate_ambivalent_disorganized_icon_146773.png",
+        "https://mathanxiety.com/wp-content/uploads/2021/01/confused-01.png",
+        "https://cdn-icons-png.flaticon.com/512/2622/2622292.png",
+        "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-114/25/Confused_Mind-512.png"
+      ],
+      "definitions": [
+        "disorder resulting from a failure to behave predictably",
+        "a mental state characterized by a lack of clear and orderly thought and behavior",
+        "a feeling of embarrassment that leaves you confused",
+        "an act causing a disorderly combination of elements with identities lost and distinctions blended",
+        "a mistake that results from taking one thing to be another"
+      ]
+    },
+    {
+      "id": "excitement",
+      "image_urls": [
+        "https://usercontent.one/wp/www.excitement.be/wp-content/uploads/2021/02/EXCITEMENT-LOGO-01-450x250.png",
+        "https://theworldatoz.files.wordpress.com/2018/03/excitement-meter.png",
+        "https://cdn1.iconfinder.com/data/icons/micellaneous-211-mix/168/exciting_wow_cheerful_excitement_expression_funny_happy_emoji_provocative_flashy_fervor-512.png",
+        "https://cdn1.iconfinder.com/data/icons/parents-day/49/46-512.png",
+        "https://amiteshdashome.files.wordpress.com/2019/01/pt5oexl8c.png"
+      ],
+      "definitions": [
+        "the feeling of lively and cheerful joy",
+        "the state of being emotionally aroused and worked up",
+        "something that agitates and arouses",
+        "disturbance usually in protest"
+      ]
+    },
+    {
+      "id": "stress",
+      "image_urls": [
+        "https://www.izz.nl/sites/default/files/styles/dynamic_content_image/public/mainimage/IZZ_De%20Zorg_01_21_p1819_stress.png",
+        "https://www.ggzingeest.nl/app/uploads/fly-images/736/StressInGeest-670x0-c.png",
+        "https://www.yourbrainbalance.com/wp-content/uploads/elementor/thumbs/Stress-afbeelding-1-oun1y8w75x61w3f1mo9j5d4glgwtthertezr3q3svw.png",
+        "https://www.mijnkwartier.nl/img/sidebar-img-1.png",
+        "https://www.yourbrainbalance.com/wp-content/uploads/2020/08/IV-STRESS.png"
+      ],
+      "definitions": [
+        "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)",
+        "(psychology) a state of mental or emotional strain or suspense",
+        "special emphasis attached to something",
+        "difficulty that causes worry or emotional tension; ; - R.J.Samuelson",
+        "(physics) force that produces strain on a physical body"
+      ]
+    }
+  ]
+}

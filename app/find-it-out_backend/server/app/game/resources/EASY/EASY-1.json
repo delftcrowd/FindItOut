@@ -1,0 +1,131 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "death",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/The_death.svg/1200px-The_death.svg.png",
+        "https://static.wikia.nocookie.net/darksiders/images/4/4a/Death_Render.png",
+        "https://static.wikia.nocookie.net/2007scape/images/c/c3/Death.png",
+        "https://acourseindying.com/wp-content/uploads/2020/12/20-1024x1024.png",
+        "https://discworld.com/management/wp-content/uploads/2019/10/discworld-death-death-of-rats-1-e1585580903664-400x400.png"
+      ],
+      "definitions": [
+        "the event of dying or departure from life",
+        "the permanent end of all life functions in an organism or part of an organism",
+        "the absence of life or state of being dead",
+        "the time when something ends",
+        "the time at which life ends; continuing until dead",
+        "the personification of death",
+        "a final state",
+        "the act of killing"
+      ]
+    },
+    {
+      "id": "vaccines",
+      "image_urls": [
+        "https://www.cdc.gov/coronavirus/2019-ncov/images/vaccines/HCW_vaccine_page_transp-300x236-1.png",
+        "https://img2.storyblok.com/filters:quality(70)/f/81332/650x530/a94328d1fa/policy-recommendations-vaccine-illustration.png",
+        "https://www.cdc.gov/coronavirus/2019-ncov/images/vaccines/323388-Y_mRNA-graphics-medium_cropped.png",
+        "https://graphics.reuters.com/HEALTH-CORONAVIRUS/VACCINE-TRACKER/xegpbqnlovq/img/vaccine-tracker-top.png",
+        "https://www.sfusd.edu/sites/default/files/styles/max_590/public/noun_vaccine_3498684.png"
+      ],
+      "definitions": [
+        "immunogen consisting of a suspension of weakened or dead pathogenic cells injected in order to stimulate the production of antibodies"
+      ]
+    },
+    {
+      "id": "sweat",
+      "image_urls": [
+        "https://canterbury.nl/wp-content/uploads/E55OC02_922_C.png",
+        "https://soccerstore.azureedge.net/0-0-65726.png",
+        "https://cdn.shopify.com/s/files/1/1564/6971/t/1/assets/sweat-logo-pink-1688x328.png",
+        "https://www.america-today.com/on/demandware.static/-/Sites-at-master-catalog/default/dwccf3f204/images/product/sweat-shorts-men-grey-1142002310-225-f.png",
+        "https://www.gong-galaxy.com/wp-content/uploads/2021/09/VISSLA-SWEAT-SHIRTS-GO-FAST-ECO-CREW-GONGWEAR-01-1500-324x324.png"
+      ],
+      "definitions": [
+        "salty fluid secreted by sweat glands",
+        "agitation resulting from active worry",
+        "condensation of moisture on a cold surface",
+        "use of physical or mental energy; hard work"
+      ]
+    },
+    {
+      "id": "nightmares",
+      "image_urls": [
+        "https://cdn11.bigcommerce.com/s-3potucr700/product_images/uploaded_images/10-reasons-for-nightmares-min.png",
+        "https://cdn.akamai.steamstatic.com/apps/csgo/images/dreams/hyperheader.png",
+        "https://www.behavioralsleep.org/images/Nightmare.png",
+        "https://static.wikia.nocookie.net/minecraftfanon/images/7/72/PurpleSpecter.png",
+        "https://www.kidsskills.org/WP-fin/wp-content/uploads/carscoming.png"
+      ],
+      "definitions": [
+        "a situation resembling a terrifying dream",
+        "a terrifying or deeply upsetting dream"
+      ]
+    },
+    {
+      "id": "erections",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Clitoris_Anatomy.svg/220px-Clitoris_Anatomy.svg.png",
+        "https://www.erectioncoach.com/images/erect-kaizen-man-done.png",
+        "https://cdn.shopify.com/s/files/1/0289/9994/2243/files/How-to-get-Rock-Hard-Not-Alone_1_1.png",
+        "https://www.implantica.com/files/media/2018/06/inflatable_penis_implant-672x544.png",
+        "https://cdn.shopify.com/s/files/1/0289/9994/2243/files/diet-for-erectile-dysfunction_1.png"
+      ],
+      "definitions": [
+        "an erect penis",
+        "a structure that has been erected",
+        "the act of building or putting up"
+      ]
+    },
+    {
+      "id": "sleeping",
+      "image_urls": [
+        "https://startsleeping.org/wp-content/uploads/2020/11/StartSleeping_Index_v0.96.png",
+        "https://www.healthhub.sg/sites/assets/Assets/Programs/goodsleep/2019/images/acc-b.png",
+        "https://www.sleepscotland.org/new/wp-content/uploads/2019/10/06113-Sleep-Scotland-Quote-Box-Image-V2-What-makes-us-sleep.png",
+        "https://www.nectarsleep.com/wp-content/uploads/2019/04/Is-6-Hours-of-Sleep-Enough.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/10368.png"
+      ],
+      "definitions": [
+        "the state of being asleep",
+        "quiet and inactive restfulness",
+        "the suspension of consciousness and decrease in metabolic rate"
+      ]
+    },
+    {
+      "id": "dreams",
+      "image_urls": [
+        "https://i0.wp.com/dreamsshop.nl/2020/wp-content/uploads/2019/09/Dreams-Logo-Los-zwart.png",
+        "https://assets.indreams.me/images/logos/Dreams_Short-Logo_black.png",
+        "https://www.rsm.nl/fileadmin/_processed_/6/7/csm_389d66182d5c6d5e03001d1e379c8871-5bfb0c80-77cb-11e5-a785-5da3b36e32b6_7430cc5e33.png",
+        "https://i.imgur.com/XMD20po.png",
+        "https://i0.wp.com/kabbalahexperience.com/wp-content/uploads/2019/05/dreams-beginner.png"
+      ],
+      "definitions": [
+        "a series of mental images and emotions occurring during sleep",
+        "imaginative thoughts indulged in while awake",
+        "a cherished desire",
+        "a fantastic but vain hope (from fantasies induced by the opium pipe)",
+        "a state of mind characterized by abstraction and release from reality",
+        "someone or something wonderful"
+      ]
+    },
+    {
+      "id": "desires",
+      "image_urls": [
+        "https://indiansages.files.wordpress.com/2018/10/desires.png",
+        "https://cdn.shopify.com/s/files/1/0247/0739/9714/files/Desires_Om-Brandet_2_3ed3ab00-0ac6-473d-b9cc-c11d911b85fd.png",
+        "https://cdn.shopify.com/s/files/1/0247/0739/9714/files/Desires_Om-Brandet_1_d0c401a5-2f93-4364-966e-44352effd72b.png",
+        "https://main-roku.s3.amazonaws.com/wp-content/uploads/2017/02/19172832/thoughts_desires_tempations.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/38782/woman-desire-clipart-xl.png"
+      ],
+      "definitions": [
+        "the feeling that accompanies an unsatisfied state",
+        "an inclination to want things",
+        "something that is desired"
+      ]
+    }
+  ]
+}

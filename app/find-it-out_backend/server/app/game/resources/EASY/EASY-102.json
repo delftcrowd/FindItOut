@@ -1,0 +1,128 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://cdn.shopify.com/s/files/1/0531/5962/4900/products/Arccoffeetable_Ash_01_exposed_800x.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Container/Container%20Bodhi/image-thumb__3401__height_500/Container-Table_Bodhi-212-final.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://i1.wp.com/designeddecor.com/wp-content/uploads/2018/06/Big-Impact-Bedroom-Changes-6-Simple.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "vase",
+      "image_urls": [
+        "https://anna-nina.imgix.net/spree/products/14507/huge/Small_Vase_Sea_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/15619/huge/Flower_Vase_Blush_Pink_more_pink.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Delft%20Blue/image-thumb__3996__height_500/Delft-Blue-group.png",
+        "https://images.selency.com/280d37c6-897f-4690-963f-9a9ebcd19fd5/beautiful-japanese-vase_original.png",
+        "https://anna-nina.imgix.net/spree/products/14508/huge/Small_Vase_Cobalt_Blue_edited.png"
+      ],
+      "definitions": [
+        "an open jar of glass or porcelain used as an ornament or to hold flowers"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "bank",
+      "image_urls": [
+        "https://habufa-res.cloudinary.com/t_n/m/80c1632b4cc7017be0536518408bddbd.png",
+        "https://www.home67.nl/pub/media/catalog/product/cache/2b7d68530ed4c8eff0260aa6ec3f5663/r/s/rs1967_banksam_2.5_oker.png",
+        "https://www.harvink.nl/imgsrc/880/440//user/img/harvink-bank-forum1.png",
+        "https://kieveen.nl/wp-content/uploads/2020/08/Iris-bank.png",
+        "https://i2.wp.com/cornewonen.nl/wp-content/uploads/2020/06/Fermo-hoek.png"
+      ],
+      "definitions": [
+        "sloping land (especially the slope beside a body of water)",
+        "a financial institution that accepts deposits and channels the money into lending activities",
+        "a long ridge or pile",
+        "an arrangement of similar objects in a row or in tiers",
+        "a supply or stock held in reserve for future use (especially in emergencies)",
+        "the funds held by a gambling house or the dealer in some gambling games",
+        "a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force",
+        "a container (usually with a slot in the top) for keeping money at home",
+        "a building in which the business of banking transacted",
+        "a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)"
+      ]
+    },
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "windowsill",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/nuuline-fill-interior-home-decoration/150/home_decoration_interior-09-512.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/02/Windowsill-breeze-Scentsy-waxbar.png",
+        "https://www.comhan.com/sites/default/files/styles/type_smal/public/waterslagen_35sl_15deg_waterslag_35sl_190mm_w-image1.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/10/Scentsy-vloeibaar-wasmiddel-windowsill-breeze.png",
+        "https://www.seekpng.com/png/full/763-7631869_how-to-design-a-windowsill-flower-box-window.png"
+      ],
+      "definitions": [
+        "the sill of a window; the horizontal member at the bottom of the window frame"
+      ]
+    }
+  ]
+}

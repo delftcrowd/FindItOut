@@ -1,0 +1,124 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "london",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/London-boroughs.svg/489px-London-boroughs.svg.png",
+        "https://www.londonessenceco.com/media/ysldhhbt/42401_londonessence_categorythumbnails_600x600_tonic.png",
+        "https://www.wijck.com/upload/producten/1024x1024/londen-stad-zwart152328299219.png",
+        "https://www.londontoolkit.com/src/images/logo.png",
+        "https://marvel-b1-cdn.bc0a.com/f00000000160678/files.klgates.com/images/office/107908_image.png"
+      ],
+      "definitions": [
+        "the capital and largest city of England; located on the Thames in southeastern England; financial and industrial and cultural center",
+        "United States writer of novels based on experiences in the Klondike gold rush (1876-1916)"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://www.town.nl/parkned.png",
+        "https://www.tokofthetown.com/wp-content/uploads/2019/06/TOK-OF-THE-TOWN_Tekengebied-1.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    },
+    {
+      "id": "flat",
+      "image_urls": [
+        "https://www.popwebdesign.net/images/web-design/wiki/flat-design-header.png",
+        "https://wiki.tfes.org/skins/common/images/wiki.png",
+        "https://www.weclines.com/wp-content/uploads/2015/09/Container_5.png",
+        "https://experimentele-flats.nl/static/images_index/index_960.png",
+        "https://bestrating.nl/media/catalog/product/cache/61b56e6c2a600624bc25d6b7e870a97c/1/_/1_2.png"
+      ],
+      "definitions": [
+        "a level tract of land",
+        "a shallow box in which seedlings are started",
+        "a musical notation indicating one half step lower than the note named",
+        "freight car without permanent sides or roof",
+        "a deflated pneumatic tire",
+        "scenery consisting of a wooden frame covered with painted canvas; part of a stage setting",
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "motel",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Motel_One_logo.svg/1200px-Motel_One_logo.svg.png",
+        "https://www.postvillepinesmotel.com/wp-content/uploads/2020/01/header-logo.png",
+        "https://static.wikia.nocookie.net/simpsonstappedout/images/a/ae/Cartoon_Motel.png",
+        "https://cdn-icons-png.flaticon.com/512/831/831460.png",
+        "https://static.wikia.nocookie.net/simpsonstappedout/images/5/54/Sleep-Eazy_Motel.png"
+      ],
+      "definitions": [
+        "a motor hotel"
+      ]
+    },
+    {
+      "id": "shoes",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0107/9820/2938/files/clove-hospital-sneaker-wipeable_950x.png",
+        "https://static.nike.com/a/images/t_default/79acdf14-51bf-409a-9c4f-b30f05113307/superrep-cycle-indoor-cycling-shoes-K7pGMl.png",
+        "https://cdn.shopify.com/s/files/1/0204/0483/0283/products/TD1MTHU_SHOE_ANGLE_GLOBAL_MENS_TREE_DASHERS_THUNDER_900x900.png",
+        "https://www.transparentpng.com/thumb/adidas-shoes/a4xO3G-adidas-shoes-adidas-shoe-kids-superstar-daddy-grade.png",
+        "https://res.cloudinary.com/atoms-shoes/image/upload/v1630354300/products/bitcoin/PDP_Bitcoin_Profile_1-1_f86vms.png"
+      ],
+      "definitions": [
+        "footwear shaped to fit the foot (below the ankle) with a flexible upper of leather or plastic and a sole and heel of heavier material",
+        "(card games) a case from which playing cards are dealt one at a time",
+        "U-shaped plate nailed to underside of horse's hoof",
+        "a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation"
+      ]
+    },
+    {
+      "id": "hotel",
+      "image_urls": [
+        "https://media.hrs.com/media/image/01/99/b7/hotel-dummy.png",
+        "https://www.thejames.nl/images/logo-the-james-gold.png",
+        "https://www.wijck.com/upload/producten/1024x1024/hotel-new-york-lijst15009154163.png",
+        "https://www.hotelfreeland.com/images/logo-hotel-freeland-full-white.png",
+        "https://www.thebudgethotel.nl/wp-content/uploads/2021/04/the-budget-hotel-diap-def.png"
+      ],
+      "definitions": [
+        "a building where travelers can pay for lodging and meals and other services"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/nPT3vS4AklWXg39tTeiah/a110333e41cfb94c85f8de782a45ccf0/retailrepositioning-e6ed62bb181d46b19c0e770fcdd73be8-800-800.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "farm",
+      "image_urls": [
+        "https://www.peoplesfarm.nl/img/custom/logo@2x.png",
+        "https://e-farm.com/media/image/09/55/a6/e-farm_logo_RGB_web.png",
+        "https://farmsoil.xyz/images/farm.png",
+        "https://www.northseafarmers.org/public/infographic-and-logos/image-thumb__1697__news-item_auto_f3bfcd6f1971ea6dfc0bef64e3322b8a/Graphic-seaweed-farm-in-wind-park.png",
+        "https://voormijndier.nl/media/catalog/product/cache/d072b27be797d16006e9907ad518b616/8/7/8714857101545_1.png"
+      ],
+      "definitions": [
+        "workplace consisting of farm buildings and cultivated land as a unit"
+      ]
+    }
+  ]
+}

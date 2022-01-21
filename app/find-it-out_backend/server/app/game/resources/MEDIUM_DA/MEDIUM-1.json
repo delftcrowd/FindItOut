@@ -1,0 +1,270 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "rocker",
+      "image_urls": [
+        "https://d6ce0no7ktiq.cloudfront.net/images/preview/2019/04/09/design-39972/template-sticker-600x600.png",
+        "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/17695.png",
+        "https://cdn.shopify.com/s/files/1/0030/4044/4451/products/packsrocker45frontnew_800x.png",
+        "https://cdn4.acolore.com/disegni/colorare/rocker-ragazza.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/1406638/LINEStorePC/main.png"
+      ],
+      "definitions": [
+        "an attendant who rocks a child in a cradle",
+        "a performer or composer or fan of rock music",
+        "a teenager or young adult in the 1960s who wore leather jackets and rode motorcycles",
+        "a chair mounted on rockers",
+        "a trough that can be rocked back and forth; used by gold miners to shake auriferous earth in water in order to separate the gold",
+        "an ice skate with a curved blade",
+        "a curved support that permits the supported object to rock to and fro"
+      ]
+    },
+    {
+      "id": "tape",
+      "image_urls": [
+        "https://www.riwega.com/wp-content/uploads/2019/06/Tape-Rapid-new.png",
+        "https://shop.cdn.epictv.com/550522_0000_NOCOLOR_TAPEROLL-SPLIT.png",
+        "https://www.aerofeel.com/comceptr/uploads/sites/2/2014/10/nastro.png",
+        "https://www.adspackaging.com/wp-content/uploads/2018/07/security.png",
+        "https://cyklop.it/wp-content/uploads/PP-tape-standard.png"
+      ],
+      "definitions": [
+        "a long thin piece of cloth or paper as used for binding or fastening",
+        "a recording made on magnetic tape",
+        "the finishing line for a foot race",
+        "measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths",
+        "memory device consisting of a long thin plastic strip coated with iron oxide; used to record audio or video signals or to store computer information"
+      ]
+    },
+    {
+      "id": "radio",
+      "image_urls": [
+        "https://ecg-electro.eu/wp-content/uploads/2020/10/cdr_999_dab_1a-300x223.png",
+        "https://www.panasonic.com/content/dam/pim/my/en/RX/RX-D50/RX-D500GS/ast-1261588.png",
+        "https://id.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw44e3b120/JBL_TunerFM_Hero_Black-1605x1605px.png",
+        "https://www.radioevangelosora.it/wp-content/uploads/2020/11/radio.png",
+        "https://www.panasonic.com/content/dam/pim/it/it/RF/RF-240/RF-2400DEJ/RF-2400DEJ-Product_ImageGlobal-1_it_it.png"
+      ],
+      "definitions": [
+        "medium for communication",
+        "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+        "a communication system based on broadcasting electromagnetic waves"
+      ]
+    },
+    {
+      "id": "hose",
+      "image_urls": [
+        "https://airpress.net/media/catalog/product/cache/2cf6a9e66210d431c6369e61c1eb52eb/4/3/4304211_2d_0001b.png",
+        "https://www.tooled-up.com/artwork/prodzoom/GH15R-12.V2_DFC0314936.png",
+        "https://www.manuli-hydraulics.com/wp-content/uploads/2019/07/SafeMaster-1080x605.png",
+        "https://www.flexbimec.com/wp-content/uploads/2019/10/287XX.png",
+        "https://www.aquahung.com/proimages/ps/IMG20190504104846_b.png"
+      ],
+      "definitions": [
+        "socks and stockings and tights collectively (the British include underwear)",
+        "man's close-fitting garment of the 16th and 17th centuries covering the legs and reaching up to the waist; worn with a doublet",
+        "a flexible pipe for conveying a liquid or gas"
+      ]
+    },
+    {
+      "id": "clamp",
+      "image_urls": [
+        "https://pimdatacdn.bahco.com/media/sub1009/16a85bd19ae6d53f.png",
+        "https://www.fittingservice.it/wp-content/uploads/2018/05/FS_601K.png",
+        "https://www.tama.com/common/product_artist_file/file/pen_MC66_00_01.png",
+        "https://pimdatacdn.bahco.com/media/sub314/1732dc2b7a6a0f3f.png",
+        "https://www.humboldtmfg.com/product-images/lrg/H-8002.png"
+      ],
+      "definitions": [
+        "a device (generally used by carpenters) that holds things firmly together"
+      ]
+    },
+    {
+      "id": "wheel",
+      "image_urls": [
+        "https://snipstock.com/assets/cdn/png/ad18655608d4e3208c5f7d2eef9a1826.png",
+        "https://lightweight.info/fileadmin/_processed_/0/d/csm_Rundkurs_Flyout_f930801a79.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1010px-Plutchik-wheel.svg.png",
+        "https://evolutionbike.it/pub/media/catalog/product/cache/9a7f5d11d3fdb309eee2409db95d8c49/_/f/_f_w_fw_orw-set_1_1_35.png",
+        "https://momo.com/wp-content/uploads/2019/03/MOMO-Legend-Wheels-Thumbnail-1-750x750.png"
+      ],
+      "definitions": [
+        "a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)",
+        "a handwheel that is used for steering",
+        "forces that provide energy and direction",
+        "a circular helm to control the rudder of a vessel",
+        "game equipment consisting of a wheel with slots that is used for gambling; the wheel rotates horizontally and players bet on which slot the roulette ball will stop in",
+        "an instrument of torture that stretches or disjoints or mutilates victims",
+        "a wheeled vehicle that has two wheels and is moved by foot pedals"
+      ]
+    },
+    {
+      "id": "fan",
+      "image_urls": [
+        "https://thermaltake.azureedge.net/pub/media/wysiwyg/key3/img/TOUGHFAN12/pic2.png",
+        "https://www.kenstar.in/uploads/image/file/568/Klassy-Brown_01.png",
+        "https://www.dimplex.co.uk/sites/default/files/styles/product_full/public/product-images/front-0.png",
+        "https://www.standardelectricals.com/Standard/media/content/dam/standard/Fans/Ceiling-Fans/cover.png",
+        "https://i01.appmifile.com/webfile/globalimg/huyunan/eco/Smart-Standing-Fan-1C.png"
+      ],
+      "definitions": [
+        "a device for creating a current of air by movement of a surface or surfaces",
+        "an enthusiastic devotee of sports",
+        "an ardent follower and admirer"
+      ]
+    },
+    {
+      "id": "bolts",
+      "image_urls": [
+        "https://i.accu.co.uk/360/_APC/SEBF-A2-BL/0_14.png",
+        "https://i.accu.co.uk/360/_APC/SEBF-A2/0_14.png",
+        "https://www.climbingtechnology.com/wp-content/uploads/2015/07/Anchor-Bolt-12-4A106-110.png",
+        "https://www.paigntontools.co.uk/image/cache/catalog/categories/Nuts-Bolts-Washers/Carriage-Bolts/Carriage%20Bolt%20A2%20Stainless-1440x1440.png",
+        "https://www.tfc.eu.com/wp-content/uploads/2017/11/Hex-Head-Bolt_Transparent.png"
+      ],
+      "definitions": [
+        "a discharge of lightning accompanied by thunder",
+        "a sliding bar in a breech-loading firearm that ejects an empty cartridge and replaces it and closes the breech",
+        "the part of a lock that is engaged or withdrawn with a key",
+        "the act of moving with great haste",
+        "a roll of cloth or wallpaper of a definite length",
+        "a screw that screws into a nut to form a fastener",
+        "a sudden abandonment (as from a political party)"
+      ]
+    },
+    {
+      "id": "rock",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/prowrestling/images/a/ad/Wwe_the_rock_png_by_double_a1698_day9ylt-pre_%281%29.png",
+        "https://cdn.sera.de/fileadmin/user_upload/articlepictures/16723-04001942523769a001bqx0101.png",
+        "https://edizioninpe.it/wp-content/uploads/2021/01/Mock-Up-3D-La-grande-storia-del-rock-e-del-metal-%E2%80%93-omnibus-edition.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABRG7ojED6WBlaaQgN03u4yr9XvJOoy_2u5ZOCtShgMyWJBVteB0BkyNK2FwjSg0C5qINg2ODnntS6urMgz-6yNSD07HahQh8xYne.png",
+        "https://cdn.sera.de/fileadmin/user_upload/articlepictures/16724-04001942523752a001bqx0101.png"
+      ],
+      "definitions": [
+        "a lump or mass of hard consolidated mineral matter",
+        "material consisting of the aggregate of minerals like those making up the Earth's crust",
+        "United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)",
+        "(figurative) someone who is strong and stable and dependable; ; --Gospel According to Matthew",
+        "hard bright-colored stick candy (typically flavored with peppermint)",
+        "a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western",
+        "pitching dangerously to one side"
+      ]
+    },
+    {
+      "id": "magazine",
+      "image_urls": [
+        "https://www.graphistudio.com/wp-content/uploads/2019/05/magazin_3-1.png",
+        "https://www.industriafelix.it/wp-content/uploads/2020/01/ifm1111.png",
+        "https://thepop.com/wp-content/uploads/2020/04/unnamed.png",
+        "https://www.graphistudio.com/wp-content/uploads/2019/03/tre_magazine_rilegatura.png",
+        "https://www.businessfocusmagazine.com/app/uploads/sites/2/2019/09/BFM.png"
+      ],
+      "definitions": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+        "product consisting of a paperback periodic publication as a physical object",
+        "a business firm that publishes magazines",
+        "a light-tight supply chamber holding the film and supplying it for exposure as required",
+        "a storehouse (as a compartment on a warship) where weapons and ammunition are stored",
+        "a metal frame or container holding cartridges; can be inserted into an automatic gun"
+      ]
+    },
+    {
+      "id": "plug",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fe/Buttplug.png",
+        "https://www.shellyitalia.com/wp-content/uploads/2019/09/plug_s_dimentions.png",
+        "https://cdn.shopify.com/s/files/1/1439/1668/products/USP-Plug_Front_Angle_953f632c-6b5a-4c78-8c98-8181cf2afc0c_grande.png",
+        "https://www.salcavi.com/upload/prodotti/20200629154747_spina-australiana-bipolare-r10.png",
+        "https://www.salcavi.com/upload/prodotti/20200706160430_spina-americana-bipolare-non-polarizzata-r21.png"
+      ],
+      "definitions": [
+        "blockage consisting of an object designed to fill a hole tightly",
+        "a wad of something chewable as tobacco",
+        "blatant or sensational promotion",
+        "electrical device that fits into the cylinder head of an internal-combustion engine and ignites the gas by means of an electric spark",
+        "an electrical device with two or three pins that is inserted in a socket to make an electrical connection",
+        "an upright hydrant for drawing water to use in fighting a fire",
+        "an old or over-worked horse"
+      ]
+    },
+    {
+      "id": "mixer",
+      "image_urls": [
+        "https://m.media-amazon.com/images/S/aplus-media/vc/e03e95f1-ab25-48f0-bad5-3ac461c4f5b5.__CR0,0,300,300_PT0_SX300_V1___.png",
+        "https://ss-pics.s3.eu-west-1.amazonaws.com/files/1839288/large-M32R-LIVE_P0C7S_Right_XL.png",
+        "https://lezioni.strumenti-musicali.info/wp-content/uploads/2016/12/testgat1.png",
+        "https://www.pioneerdj.com/-/media/pioneerdj/images/products/mixer/djm-s11/djm-s11_prm_frontangle_200828_pc.png",
+        "https://m.media-amazon.com/images/S/aplus-media/vc/913a28f3-7585-4ab0-963a-f4d1f363a4b1.__CR0,0,300,300_PT0_SX300_V1___.png"
+      ],
+      "definitions": [
+        "a party of people assembled to promote sociability and communal activity",
+        "club soda or fruit juice used to mix with alcohol",
+        "electronic equipment that mixes two or more input signals to give a single output signal",
+        "a kitchen utensil that is used for mixing foods"
+      ]
+    },
+    {
+      "id": "tap",
+      "image_urls": [
+        "https://doulton.com/media/catalog/product/cache/f0b4cddadcfcb061749e48ddcdfaed54/i/n/ina1_3.png",
+        "https://www.flytap.com/-/media/Flytap/fly-tap/content-images/Frota/A330-900neov2.png",
+        "https://www.barazzasrl.it/wp-content/uploads/2014/09/1RUBMFYL_img-267x300.png",
+        "https://www.ideearredo.com/img/cms/rubinetto-cucina/Cosa-sono-i-rubinetti-cucina-a-molla.png",
+        "https://media.croma.com/image/upload/f_auto,q_auto,d_Croma%20Assets:no-product-image.jpg,h_260,w_260/v1605338829/Croma%20Assets/Small%20Appliances/Geysers/Images/8995617374238.png"
+      ],
+      "definitions": [
+        "the sound made by a gentle blow",
+        "a gentle blow",
+        "a faucet for drawing water from a pipe or cask",
+        "a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)",
+        "a tool for cutting female (internal) screw threads",
+        "a plug for a bunghole in a cask",
+        "the act of tapping a telephone or telegraph line to get information",
+        "a light touch or stroke"
+      ]
+    },
+    {
+      "id": "stereo",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0508/6527/5040/products/PM6007_4_580x.png",
+        "https://www.apollohifi.com.au/pub/media/catalog/product/cache/fb8d2bc8542e58bc48d901967a0b8cf1/d/e/denon-d-m41dab_bl-speakers_bl.png",
+        "https://cdn.shopify.com/s/files/1/0508/6747/0494/products/Elo-X-Stero_2x_bd544d32-6fe1-4b8a-adbc-f7a2b9f3221d_1100x.png",
+        "https://www.logitech.com/content/dam/products/logitech/speakers/z150-compact-stereo-speakers/z150-clear-stereo-sound-speakers29.png",
+        "https://5.imimg.com/data5/OU/GY/NY/SELLER-1018285/bg-display-500x500.png"
+      ],
+      "definitions": [
+        "reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound",
+        "two photographs taken from slightly different angles that appear three-dimensional when viewed together"
+      ]
+    },
+    {
+      "id": "faucet",
+      "image_urls": [
+        "https://www.americanstandard.ca/-/media/sites/asus/images/products/kitchen-faucets/colony-soft-2-handle-high-arc-bar-sink-faucet/colony-soft-handle-high-arc-bar-sink-faucet-002.png",
+        "https://media.brizo.com/elvis/ConfiguredOnWhite/md/61065LF-PCLHP_HLB177-PCWD_CONFIG.png",
+        "https://shop.zepter.com/getattachment/3bdbd8bd-a326-4b81-b32c-bc8cb2e0e711/zepter-faucets.png",
+        "https://www.americanstandard.ca/-/media/sites/asus/images/products/kitchen-faucets/reliant-1-handle-pull-out-kitchen-faucet/reliant-1-hangle-pull-out-kitchen-faucet.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpu70803_tif.png"
+      ],
+      "definitions": [
+        "a regulator for controlling the flow of a liquid from a reservoir"
+      ]
+    },
+    {
+      "id": "rope",
+      "image_urls": [
+        "https://www.fitnessproject.it/wp-content/uploads/2019/05/POWER-ROPE.png",
+        "https://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/1567/45897/17c36fd68bb2feb97e96964729e2a198a4be1a9f__58662.1614881359.386.513.png",
+        "https://www.waldhausen.com/media/catalog/product/cache/3/image/1400x1600/9df78eab33525d08d6e5fb8d27136e95/50463/Shop/Artikel/5046364_47.png",
+        "https://www.liftingequipmentstore.com/userfiles/productimages/singlelegsofteyes23122019085519_lrg.png",
+        "https://pimdatacdn.bahco.com/media/sub177/1759d44de37c673f.png"
+      ],
+      "definitions": [
+        "a strong line",
+        "street names for flunitrazepan"
+      ]
+    }
+  ]
+}

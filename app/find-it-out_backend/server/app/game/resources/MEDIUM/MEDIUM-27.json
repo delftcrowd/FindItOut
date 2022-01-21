@@ -1,0 +1,252 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "beer",
+      "image_urls": [
+        "https://www.heineken.com/media-us/01pfxdqq/heineken-original-bottle.png",
+        "https://vacuvin.com/wp-content/uploads/2020/11/ActiveCooler_Beer.png",
+        "https://www.uniteddutchbreweries.com/wp-content/uploads/2019/01/BREDA_BEER-header.png",
+        "https://jtdtcwvg.tinifycdn.com/media/catalog/product/cache/e929677f5657086b99ca00f6ab1bdef2/g/e/germancasesept21-700.png",
+        "https://beerwisdom.eu/wp-content/uploads/2018/07/beer-1.png"
+      ],
+      "definitions": [
+        "a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops"
+      ]
+    },
+    {
+      "id": "groceries",
+      "image_urls": [
+        "https://izooqadmin.izooq.com/public/uploads/1624679603.png",
+        "https://www.groceriesinaboxbonaire.com/wp-content/uploads/2016/11/dinner-logo-final-1.png",
+        "https://www.zasket.in/img/groceries.png",
+        "https://cdn1.iconfinder.com/data/icons/family-68/512/grocery-shopping-bag-store-groceries-512.png",
+        "https://kumbadirect.com/wp-content/uploads/2021/07/KUMBADIRECT.CO-GROCERIES-HAMPERS-450x450.png"
+      ],
+      "definitions": [
+        "a marketplace where groceries are sold",
+        "(usually plural) consumer goods sold by a grocer"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "trunk",
+      "image_urls": [
+        "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c650956/images/large/83280654_1.png",
+        "https://images.selency.com/8c0f5e70-9a9c-4637-896d-399043953445/wooden-travel-trunk_original.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/h/a/harrow_medium_trunk-old_saddle_black_copy.png",
+        "https://images.selency.com/1ac2d1fd-4c06-43db-9872-9c6bf586aeb0/old-mail-trunk-in-zinc-sheathed-95-x-55-x-50-travel-trunk-liner-1900-1920_original.png",
+        "https://cdn11.bigcommerce.com/s-6gssxq8qcf/products/12962/images/21427/Olive_Seward_Trunk_1__44698.1621449166.386.513.png"
+      ],
+      "definitions": [
+        "the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber",
+        "luggage consisting of a large strong case used when traveling or for storage",
+        "the body excluding the head and neck and limbs",
+        "compartment in an automobile that carries luggage or shopping or tools",
+        "a long flexible snout as of an elephant"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "bottle",
+      "image_urls": [
+        "https://www.rohnisch.com/on/demandware.static/-/Sites-rohnisch-catalog/default/dw84580a23/Hi-res/110513_S126_P1.png",
+        "https://www.casall.com/storage/64D592134AAC067F381F0FDAF5D9F5681B9F3FD084EA33F132E3F34A202265AF/f3d5b444d72b49628bf8fd8b80e59ca7/png/media/f140d539edb4460c832415d2ee687d92/1-64040807.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/043001_A.png",
+        "https://bottleup.com/wp-content/uploads/2021/01/Bottle-pink-418x1600.png",
+        "https://cdn11.bigcommerce.com/s-ddskwahltf/images/stencil/1000x1000/products/121/535/SS-CY0001-001_Water_Bottle__35927.1591898350.png"
+      ],
+      "definitions": [
+        "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped",
+        "the quantity contained in a bottle",
+        "a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children"
+      ]
+    },
+    {
+      "id": "pantry",
+      "image_urls": [
+        "https://www.thepantry.nl/wordpress/wp-content/uploads/Restaurant-The-Pantry-Amsterdam-logo-400X150.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594809742327-8QUZ2V0P4WFNZ4DHKSDY/maison_haven_organizers_style_sheet_PANTRY-ZONES.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594891146867-RI1QTHHZR9747T6GKY3H/maison-haven-style-sheet-pantry-main+copy.png",
+        "https://i2.wp.com/www.thedesignconfidential.com/wp-content/uploads/final_20.png",
+        "https://www.mwtoolboxqld.com.au/wp-content/uploads/2021/08/MW-Canopy-Pantry-Main.png"
+      ],
+      "definitions": [
+        "a small storeroom for storing foods or wines"
+      ]
+    },
+    {
+      "id": "casino",
+      "image_urls": [
+        "https://www.meccasino.nl/wp-content/uploads/2020/02/tafels-casino-avond.png",
+        "https://online-casino-nl.nl/wp-content/uploads/2020/08/clipart-casino-300x159.png",
+        "https://thejaggercasino.nl/wp-content/uploads/2017/03/Winschoten2-01.png",
+        "https://www.top10casino.nl/afbeelding/thumbnails/online-casino-games.png",
+        "https://www.onlinecasinolegends.nl/wp-content/uploads/2021/05/Casino-software.png"
+      ],
+      "definitions": [
+        "a public building for gambling and entertainment",
+        "a card game in which cards face up on the table are taken with eligible cards in the hand"
+      ]
+    },
+    {
+      "id": "pot",
+      "image_urls": [
+        "https://elho.xcdn.nl/RM1100,1100,C_OQ70/tomato-pot-33-cm-living-black-8711904331634p1png/tomato_pot_33_cm_living_black_8711904331634.p1.png",
+        "https://elho.xcdn.nl/RB400,400,C_OQ70/green-basics-growpot-40cm-mild-terrap1png/green_basics_growpot_40cm_mild_terra.p1.png",
+        "https://www.mepal.com/nl/351/0/0/1/ffffff00/d211cb1d/e5ab303a5a8ff2600535ad0b2c02672c9314b50f28542ee5df6e753ee6ec2a42/kies-de-pot-die-bij-je-past.png",
+        "https://www.amsterdamflowers.nl/pub/media/catalog/product/cache/d7c861e5118db161566914bb2814317a/g/r/groene-plan-inclusief-pot.png",
+        "https://www.kookwinkel.nl/media/catalog/product/cache/0996428dee9fed3db5de728090eadc5d/c/r/crock-pot_cr052_slowcooker_4_7_liter_2_.png"
+      ],
+      "definitions": [
+        "metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid",
+        "a plumbing fixture for defecation and urination",
+        "the quantity contained in a pot",
+        "a container in which plants are cultivated",
+        "(often followed by `of') a large number or amount or extent",
+        "the cumulative amount involved in a game (such as poker)",
+        "slang for a paunch",
+        "a resistor with three terminals, the third being an adjustable center terminal; used to adjust voltages in radios and TV sets",
+        "street names for marijuana"
+      ]
+    },
+    {
+      "id": "can",
+      "image_urls": [
+        "https://www.heineken.com/media-us/x3qfbvty/heineken-original-can.png",
+        "https://www.heineken.com/media-eu/cl0dnqcz/heineken-original-can-500ml.png",
+        "https://webshop.maas.nl/media/catalog/product/cache/1/image/500x/9df78eab33525d08d6e5fb8d27136e95/1/0/1000348_p1.png",
+        "https://morebeer-web-8-pavinthewaysoftw.netdna-ssl.com/product_image/morebeer/500x500/33504.png",
+        "https://www.vmi-group.com/vmi-data/uploads/2017/08/VMI-Can-50x50cm-1-e1503557774814.png"
+      ],
+      "definitions": [
+        "airtight sealed metal container for food or drink or paint etc.",
+        "the quantity contained in a can",
+        "a buoy with a round bottom and conical top",
+        "the fleshy part of the human body that you sit on",
+        "a plumbing fixture for defecation and urination",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "bar",
+      "image_urls": [
+        "https://www.cornelisrotterdam.nl/wp-content/uploads/2019/10/logo-cornelis-kitchen-bar-web-4.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw39b2c12a/JBL_Bar_2.0_All-In-One_Front_1605x1605.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/video-conferencing/rally-bar/gallery/graphite-1-v2.png",
+        "https://www.barbotanique.nl/images/logo-barbotanique-2020.png",
+        "https://www.bardoamsterdam.nl/wp-content/uploads/2019/06/Logo-Bar-Do%CC%81.png"
+      ],
+      "definitions": [
+        "a room or establishment where alcoholic drinks are served over a counter",
+        "a counter where you can obtain food or drink",
+        "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+        "musical notation for a repeating pattern of musical beats",
+        "an obstruction (usually metal) placed at the top of a goal",
+        "the act of preventing",
+        "(meteorology) a unit of pressure equal to a million dynes per square centimeter",
+        "a submerged (or partly submerged) ridge in a river or along a shore",
+        "the body of individuals qualified to practice law in a particular jurisdiction",
+        "a narrow marking of a different color or texture from the background",
+        "a block of solid substance (such as soap or wax)",
+        "a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War",
+        "a horizontal rod that serves as a support for gymnasts as they perform exercises",
+        "a heating element in an electric fire",
+        "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    },
+    {
+      "id": "container",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://images.ctfassets.net/gc5htdx4kcus/4OHleWuGTa6mdbSbicT5ur/d2424e4d0ac10b83ac4d47c86d01b5c5/22G1_20FT_Standaard_new_blue_Corner_shadow.png",
+        "https://www.unifeeder.com/hubfs/Container%20equipment%20on%20website%20-%2040ft%20HC-1.png"
+      ],
+      "definitions": [
+        "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+      ]
+    },
+    {
+      "id": "kitchens",
+      "image_urls": [
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://galleryofkitchens.com/wp-content/uploads/2020/10/Group-161-1.png",
+        "https://lirp.cdn-website.com/4e085ffe/dms3rep/multi/opt/Ideal%2BKitchens%2BReviews-372w.png",
+        "https://www.howardkitchens.co.uk/wp-content/uploads/2021/01/howard-kitchens-process.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    }
+  ]
+}

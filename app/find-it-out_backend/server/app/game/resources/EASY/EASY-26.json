@@ -1,0 +1,139 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "painting",
+      "image_urls": [
+        "https://www.artbybettina.com/wp-content/uploads/2020/05/Original-Painting-The-ocean-in-the-forest-20200515-020557.png",
+        "https://cdn.shopify.com/s/files/1/0409/5226/6904/products/12_161e4792-20a3-487e-b2cd-c19ff3f4e155_600x600.png",
+        "https://i.pinimg.com/originals/b8/db/9f/b8db9fcbc78062f20cf644e80916eb82.png",
+        "https://d1e00ek4ebabms.cloudfront.net/production/d65475c6-8d16-4fa8-b6a5-de8170e6a1d9.png",
+        "https://www.oilpixel.com/ast/uploads/2021/08/child-painting-home-slider.png"
+      ],
+      "definitions": [
+        "graphic art consisting of an artistic composition made by applying paints to a surface",
+        "creating a picture with paints",
+        "the act of applying paint to a surface",
+        "the occupation of a house painter"
+      ]
+    },
+    {
+      "id": "minnesota",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/National-atlas-minnesota.svg/220px-National-atlas-minnesota.svg.png",
+        "https://a.espncdn.com/i/teamlogos/nfl/500/min.png",
+        "https://www.minnesotanonprofits.org/images/default-source/regional-chapters/west-central-2.png",
+        "https://mn.gov/mnit/assets/icon-minnesota_tcm38-337724.png",
+        "https://www.greaterminnesota.net/wp-content/uploads/2015/12/map02.png"
+      ],
+      "definitions": [
+        "a midwestern state"
+      ]
+    },
+    {
+      "id": "washington",
+      "image_urls": [
+        "https://www.experiencewa.com/sites/all/themes/experiencewa_omega/images/maps/map_mobile.png",
+        "https://assets-global.website-files.com/6070f12f4cba9bd0eef4fe43/60a73763f3cff4131a583388_Washington-state-congressional-district-map-2.png",
+        "https://b.fssta.com/uploads/application/nba/headshots/3243.png",
+        "https://www.seattleymca.org/sites/default/files/styles/media_full/public/2020-06/2020_washington_y_map_image_update_42328.png",
+        "https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.png"
+      ],
+      "definitions": [
+        "the capital of the United States in the District of Columbia and a tourist mecca; George Washington commissioned Charles L'Enfant to lay out the city in 1791",
+        "a state in northwestern United States on the Pacific",
+        "the federal government of the United States",
+        "1st President of the United States; commander-in-chief of the Continental Army during the American Revolution (1732-1799)",
+        "United States educator who was born a slave but became educated and founded a college at Tuskegee in Alabama (1856-1915)"
+      ]
+    },
+    {
+      "id": "farmyard",
+      "image_urls": [
+        "https://cdn4.iconfinder.com/data/icons/farm-illustrations/50/8-512.png",
+        "https://trinketsbyteresa.com.au/wp-content/uploads/2020/07/Farmyard2.png",
+        "https://cdn4.iconfinder.com/data/icons/farm-illustrations/50/23-512.png",
+        "https://trinketsbyteresa.com.au/wp-content/uploads/2020/07/Farmyard4.png",
+        "https://cdn.shopify.com/s/files/1/1113/8066/products/Farmyard_800x.png"
+      ],
+      "definitions": [
+        "an area adjacent to farm buildings"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "grape",
+      "image_urls": [
+        "https://fruitmasters.com/wp-content/uploads/2020/04/2020_Packshot_Druiven_500x500px-300x300.png",
+        "https://www.natureandmore.com/sites/www.natureandmore.com/files/styles/zijbalk/public/product/thumb/druiven_kopieeren.png",
+        "https://www.van-amerongen.com/image/catalog/Fruit%20storage/fruit/druiven.png",
+        "https://pbs.twimg.com/profile_images/1438067929594142724/fRsuAlcV_400x400.png",
+        "https://www.antilliaanse-toko.nl/media/catalog/product/cache/1ca3c8b1c6458f0eb1a5e1747c261955/f/a/fanta_grape.png"
+      ],
+      "definitions": [
+        "any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters",
+        "any of numerous woody vines of genus Vitis bearing clusters of edible berries",
+        "a cluster of small projectiles fired together from a cannon to produce a hail of shot"
+      ]
+    },
+    {
+      "id": "field",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Relativistic_gravity_field_%28physics%29.svg/350px-Relativistic_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Newtonian_gravity_field_%28physics%29.svg/170px-Newtonian_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Electric_Field_Lines.svg/1200px-Electric_Field_Lines.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/51b8af35e4b06011310c1770/1467997527131-S7A5ILMMPDJVJ7VMHNL8/Logo+FF_DEF-01.png",
+        "https://i2.wp.com/analystanswers.com/wp-content/uploads/2021/04/combo-1.png"
+      ],
+      "definitions": [
+        "a piece of land cleared of trees and usually enclosed",
+        "a region where a battle is being (or has been) fought",
+        "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+        "a branch of knowledge",
+        "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it",
+        "a particular kind of commercial enterprise",
+        "a particular environment or walk of life",
+        "a piece of land prepared for playing a game",
+        "extensive tract of level open land",
+        "(mathematics) a set of elements such that addition and multiplication are commutative and associative and multiplication is distributive over addition and there are two elements 0 and 1",
+        "a region in which active military operations are in progress",
+        "all of the horses in a particular horse race",
+        "all the competitors in a particular contest or sporting event",
+        "a geographic region (land or sea) under which something valuable is found",
+        "(computer science) a set of one or more adjacent characters comprising a unit of information",
+        "the area that is visible (as through an optical instrument)",
+        "a place where planes take off and land"
+      ]
+    },
+    {
+      "id": "horse",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Animals/Horse%20Lamp/image-thumb__14097__height_500/horse-lamp_1.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/77/Chestnut_Horse.png",
+        "https://purehorse.nl/nieuw/wp-content/uploads/2019/09/arabian-2186313_960_720.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/93/Creamy_Horse.png",
+        "https://www.heltieanimal.com/app/uploads/2020/06/HELTIE-horse-digestion-300x625.png"
+      ],
+      "definitions": [
+        "solid-hoofed herbivorous quadruped domesticated since prehistoric times",
+        "a padded gymnastic apparatus on legs",
+        "troops trained to fight on horseback",
+        "a framework for holding wood that is being sawed",
+        "a chessman shaped to resemble the head of a horse; can move two squares horizontally and one vertically (or vice versa)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "car",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "magazine",
+      "image_urls": [
+        "https://www.editoo.nl/wp-content/uploads/2021/05/magazinemaken.png",
+        "https://www.chipfotomagazine.nl/app/uploads/sites/5/2018/06/chip-foto-magazine-1024x888.png",
+        "https://www.magezino.nl/wp-content/uploads/2020/08/magazine-maken.png",
+        "https://www.izz.nl/sites/default/files/styles/dynamic_content_image/public/mainimage/De_zorg_4_magazines.png",
+        "https://www.chapeaumagazine.com/wp-content/uploads/2020/04/magazineadverteren.png"
+      ],
+      "definitions": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+        "product consisting of a paperback periodic publication as a physical object",
+        "a business firm that publishes magazines",
+        "a light-tight supply chamber holding the film and supplying it for exposure as required",
+        "a storehouse (as a compartment on a warship) where weapons and ammunition are stored",
+        "a metal frame or container holding cartridges; can be inserted into an automatic gun"
+      ]
+    },
+    {
+      "id": "television",
+      "image_urls": [
+        "https://smart-cover.co.uk/wp-content/themes/Smart%20Cover/page-templates/images/tvcvr-right.png",
+        "https://ec.europa.eu/energy/sites/default/files/eepf_labels/assets/images/eepf_labels_tv_icon_big.png",
+        "https://images.selency.com/1858e1b1-30f3-4a73-8d3a-c424ec2f8fd0/continental-television-edifice-on-foot-tulip_original.png",
+        "https://www.bestelectronicsltd.com/wp-content/uploads/2017/11/Toshiba-40%E2%80%B3-Series-37L3750VE-Full-HD-LED-LCD-Television.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/CN/QD/AL/76732024/android-television-250x250.png"
+      ],
+      "definitions": [
+        "broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs",
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "id": "internet",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/0636adf0e6404bb38bb8b3293a418411/d5b717b1b43e4cd482c3b160b9751c64.png",
+        "https://www.glasvezelinternetaanbieding.nl/wp-content/uploads/2018/04/glasvezel-internet-rotterdam.png",
+        "https://www.tele2.nl/Tele2/media/images/Tele2/thuis/internet-tv-bellen/shop/internet-abonnement-1.png",
+        "https://internetvergelijken.org/wp-content/uploads/2019/04/internetentvicon-2.png",
+        "https://www.delta.nl/media/2612/laptop-alleen-internet-wifi.png"
+      ],
+      "definitions": [
+        "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange"
+      ]
+    },
+    {
+      "id": "newspaper",
+      "image_urls": [
+        "https://www.la-streetfood.com/604/0/0/1/ffffff00/a9bb3cf9/35ea27e4ce63bcfaba82217a87415406e1c63698baf20f4b7df88daea19811aa/newspaper-new-york-1952-30x30.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Daily-Citizen-Newspaper--Object-Global-Citizenship-Life-KS2.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/NewspaperDesign_gestalten_book_editorial_journalism_inside03_2000x.png",
+        "https://www.neh.gov/sites/default/files/styles/medium/public/2018-06/WisconsinDNP.png",
+        "https://cdn-assets.timesofmalta.com/epapers/newspapers-2x.png"
+      ],
+      "definitions": [
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher",
+        "cheap paper made from wood pulp and used for printing newspapers"
+      ]
+    },
+    {
+      "id": "book",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/1200px-Open_book_nae_02.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png",
+        "https://www.printsimpleindia.com/wp-content/uploads/2020/09/book_guide_hero_books.png",
+        "https://cdn.shopify.com/s/files/1/0039/7282/5134/products/Racism_1_860x860.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Book_A_Drunkard%27s_Tale.png"
+      ],
+      "definitions": [
+        "a written work or composition that has been published (printed on pages bound together)",
+        "physical objects consisting of a number of pages bound together",
+        "a compilation of the known facts regarding something or someone",
+        "a written version of a play or other dramatic composition; used in preparing for a performance",
+        "a record in which commercial accounts are recorded",
+        "a collection of playing cards satisfying the rules of a card game",
+        "a collection of rules or prescribed standards on the basis of which decisions are made",
+        "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+        "the sacred writings of the Christian religions",
+        "a major division of a long written composition",
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "id": "radio",
+      "image_urls": [
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw4c424d68/Tuner_Hero_Black-1605x1605px.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7b1d8da8/JBL_TUNER2_DAB_HERO_WHITE_003_x3.png",
+        "https://www.panasonic.com/content/dam/pim/be/nl/RX/RX-D55/RX-D552E/ast-1261642.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw73473d81/JBL_TUNERXL_DAB_HERO_BLACK_003_x2.png",
+        "https://koelemanelektro.nl/uploads/images/catalog/product/crop_small/albrecht-dr-490-wit.png"
+      ],
+      "definitions": [
+        "medium for communication",
+        "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+        "a communication system based on broadcasting electromagnetic waves"
+      ]
+    },
+    {
+      "id": "information",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Circle-information.svg/1200px-Circle-information.svg.png",
+        "https://piwik.pro/wp-content/uploads/2020/10/2020-10-21_What-Is-PII-non-PII-and-personal-data_blog.png",
+        "https://www.exin.com/sites/default/files/2018-11/EXIN_Badge_ModuleProfessional_InformationSM_ISO.png",
+        "https://d2k0ddhflgrk1i.cloudfront.net/EWI/Over%20de%20faculteit/Afdelingen/Software%20Technology/Web%20Information%20Systems/img/WisCircle_450.png",
+        "https://eternalsunshineoftheismind.files.wordpress.com/2013/02/information1.png"
+      ],
+      "definitions": [
+        "a message received and understood",
+        "knowledge acquired through study or experience or instruction",
+        "formal accusation of a crime",
+        "a collection of facts from which conclusions may be drawn",
+        "(communication theory) a numerical measure of the uncertainty of an outcome"
+      ]
+    }
+  ]
+}

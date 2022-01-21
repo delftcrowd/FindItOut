@@ -1,0 +1,135 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "sky",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sky_International_-_Logo_2018.svg/220px-Sky_International_-_Logo_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",
+        "https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blte734987060db60e6/5ef9f4ec89ea556d5881819f/Sky_Master_Brand_Logo_SMALL_RGB.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sky_Q_-_Logo_2020.svg/1200px-Sky_Q_-_Logo_2020.svg.png"
+      ],
+      "definitions": [
+        "the atmosphere and outer space as viewed from the earth"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "people",
+      "image_urls": [
+        "https://www.people-payment.nl/wp-content/uploads/2019/05/people-paymentfavicon-512x512px.png",
+        "https://acadal.com/wp-content/uploads/2019/12/poeple-led-growth.png",
+        "https://epeople.nl/wp-content/uploads/2016/08/slide-epeople.png",
+        "https://www.mendonpeople.nl/userfiles/mendonpeople.nl/images/Logo-Mendon%20People%20PNG.png",
+        "https://media.prdn.nl/mix/images/old/people-planet-profit_V3_Tekengebied%201.png"
+      ],
+      "definitions": [
+        "(plural) any group of human beings (men or women or children) collectively",
+        "the body of citizens of a state or country",
+        "members of a family line",
+        "the common people generally"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c2d1217b40b9d0b0efaa79a/1560189605756-BH618E93G02XZ5TEGK61/Parket-FloorGuys.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://thefloorstorenm.com/wp-content/uploads/2018/05/tile.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://www.tonone.com/media/89/55/0d/1604916935/bolt%20floor%20long%202%20arm%20lw.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.cupapizarras.com/wp-content/uploads/2019/09/roof-parts.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://sunstruction.nl/png/systems/roof-hooks.png",
+        "https://www.mg-bouw.com/wp-content/uploads/2020/05/Meuwissen-AlkReflex-Roof-1.7-Wand-dak-buitenzijde-20210727.png",
+        "https://www.metalsales.us.com/wp-content/uploads/2020/08/pic2a-1024x720.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "carpet",
+      "image_urls": [
+        "https://www.fatboy.com/assets/image/000/000/124/fatboy-non-flying-carpets-paprika.png",
+        "https://www.fatboy.com/assets/image/000/000/118/fatboy-non-flying-carpets-dont-step.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/a98cbf61f86a5b05151eb960eb59bb35/i/t/it_s_a_wild_world_panther_baby_carpet_200x300_-1.png",
+        "https://images.selency.com/f7dc7262-5df5-437a-8155-0e5544bbbb34/oriental-carpet-240x340-cm-sky-blue_original.png",
+        "https://images.selency.com/6d84a671-d436-4e87-864e-f79ce798df82/small-colorful-old-carpet-150-x-70-cm_original.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)",
+        "a natural object that resembles or suggests a carpet"
+      ]
+    },
+    {
+      "id": "wall",
+      "image_urls": [
+        "https://www.hofbogen.nl/wp-content/uploads/2017/10/pink-wall.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Cobblestone_Wall_JE2_BE2.png",
+        "https://www.wall-stack.com/wp-content/uploads/2019/03/WallStack-Modular-Partition-Wall-System-principle-02.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/Deepslate_Tile_Wall_JE2.png",
+        "https://www.weverducre.com/pim/BOX%20WALL%20OUTDOOR%202.0/image-thumb__951978__lightbox/Box-2.0-740148A_.png"
+      ],
+      "definitions": [
+        "an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure",
+        "anything that suggests a wall in structure or function or effect",
+        "(anatomy) a layer (a lining or membrane) that encloses a structure",
+        "a difficult or awkward situation",
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+        "a layer of material that encloses space",
+        "a masonry fence (as around an estate or garden)",
+        "an embankment built around a space for defensive purposes"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "image_urls": [
+        "https://www.innr.com/wp-content/uploads/cache/RCL-110-Round-Ceiling-Lamp-3D-shadow-owiejg0m73nwumlqwnqtacfga165mkg7tt4pqkl62o.png",
+        "https://cdn.shopify.com/s/files/1/1955/8109/products/rusttile2_530x@2x.png",
+        "https://in-lite.com/media/catalog/product/cache/459e1860863622a8290e217fbf029ff6/s/c/scope_ceiling-1_1.png",
+        "https://www.tonone.com/media/47/55/97/1604919773/bolt%20ceiling%202%20arm%20sidefit%20sb.png",
+        "https://www.cabasse.com/wp-content/uploads/2020/05/Alcyone-in-ceiling-3-4-roundF-600x450.png"
+      ],
+      "definitions": [
+        "the overhead upper surface of a covered space",
+        "(meteorology) altitude of the lowest layer of clouds",
+        "an upper limit on what is allowed",
+        "maximum altitude at which a plane can fly (under specified conditions)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "cousin",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/CousinTree.svg/1200px-CousinTree.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/5e0a61f33fa0c45c9bfeff94/1588543037861-RCZPA5HP2S715ZI9DCMA/cousin_logotype_red.png",
+        "https://images.squarespace-cdn.com/content/v1/55d49893e4b0caee6f77186f/1581626748945-N4Z90E0WYS8D0R1QV14U/Removeds.png",
+        "https://www.myfamilydnatest.com/wp-content/uploads/2018/11/Understanding-degrees-of-cousins-in-your-DNA-Matches-on-Ancestry.png",
+        "https://cdn.nba.com/headshots/nba/latest/1040x760/202326.png"
+      ],
+      "definitions": [
+        "the child of your aunt or uncle"
+      ]
+    },
+    {
+      "id": "brother",
+      "image_urls": [
+        "https://i2.wp.com/compumania.it/wp-content/uploads/2019/01/Brother_trasp.png",
+        "https://www.messoanuovo.it/wp-content/uploads/2020/12/logo-brother-1-300x300.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVCQe83XF6QQcdSSFQgSVcnBTgDRKwcy5NpJNcr8W0BgLDkwvVeZQALBomxXmwu5bCgdyts_U-7MZLaEqHQ0l6qIQtkEecn7UTy6.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXTppOrJWChHQvvhFS745_PVads8g9NYKv_mAXaNZPuVm3oxi8mAT81SkXSJs7ZP3pGK2U9dc9rd40uAIRuD4RbWvOHLGhYvdSTE.png",
+        "https://crdms.images.consumerreports.org/f_auto,w_600/prod/products/cr/models/402022-all-in-one-black-and-white-laser-printers-brother-mfc-l2690dw-10016592.png"
+      ],
+      "definitions": [
+        "a male with the same parents as someone else",
+        "a male person who is a fellow member (of a fraternity or religion or other group)",
+        "a close friend who accompanies his buddies in their activities",
+        "used as a term of address for those male persons engaged in the same movement",
+        "(Roman Catholic Church) a title given to a monk and used as form of address"
+      ]
+    },
+    {
+      "id": "uncle",
+      "image_urls": [
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeSPFUgWJih9ZA99yxS_u5ZrG4jVWudCV584-rj_WXvy3oMYc1_AQS1FkVO1M65epyybkXysoUnn1p6ChiZHeWG5zgkUM-tMiLCe.png",
+        "https://cdn.shopify.com/s/files/1/0076/3029/1041/files/Logo_AmericanUncle.png",
+        "https://static.wikia.nocookie.net/uncle-grandpa/images/1/17/UncleGrandpa.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Uncle_Grandpa_logotype.svg/1200px-Uncle_Grandpa_logotype.svg.png",
+        "https://image.flaticon.com/icons/png/512/2641/2641039.png"
+      ],
+      "definitions": [
+        "the brother of your father or mother; the husband of your aunt",
+        "a source of help and advice and encouragement"
+      ]
+    },
+    {
+      "id": "prince",
+      "image_urls": [
+        "https://www.prince.com/assets/images/intro/logo.png",
+        "https://cdn.shopify.com/s/files/1/0253/6393/9390/files/png1500_290x.png",
+        "https://static1.squarespace.com/static/56e9b38c2b8dde820241b62d/t/5c07faf72b6a28994e11fcac/1544026875600/prince_logo.png",
+        "https://www.officialprincemusic.com/images/prince_logo.png",
+        "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/a/af/LSB_Prince_2021_Split_2.png"
+      ],
+      "definitions": [
+        "a male member of a royal family other than the sovereign (especially the son of a sovereign)"
+      ]
+    },
+    {
+      "id": "son",
+      "image_urls": [
+        "https://www.footyrenders.com/render/son-heung-min-12.png",
+        "https://www.solofut.it/wp/wp-content/uploads/2019/05/Heung-Min-Son-95-tots-2019-05-17.png",
+        "https://eaassets-a.akamaihd.net/fifa/u/f/fm20/prod/s/static/players/players_20/p200104_TOTY.png",
+        "https://resources.premierleague.com/premierleague/photos/players/250x250/p85971.png",
+        "https://1vs1-7f65.kxcdn.com/img/players/players/heung-min-son_6523_67-ub-800-mobile.png"
+      ],
+      "definitions": [
+        "a male human offspring",
+        "the divine word of God; the second person in the Trinity (incarnate in Jesus)"
+      ]
+    },
+    {
+      "id": "daughter",
+      "image_urls": [
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/34288/mother-daughter-clipart-xl.png",
+        "https://cdn2.iconfinder.com/data/icons/family-28/49/87-512.png",
+        "https://cdn4.iconfinder.com/data/icons/fatherhood-child-rearing/50/45-512.png",
+        "https://i2.wp.com/www.thegamegal.com/wp-content/uploads/2018/10/mother-daughter.png",
+        "https://image.flaticon.com/icons/png/512/2829/2829841.png"
+      ],
+      "definitions": [
+        "a female human offspring"
+      ]
+    },
+    {
+      "id": "king",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/nanatsu-no-taizai/images/7/7e/King_Anime_Season_3_Design.png",
+        "https://www.multisalaking.it/wp-content/uploads/2020/07/Logo-KING-Bianco-Negativo.png",
+        "https://777gliders.com/wp-content/uploads/2017/11/kinglogo-768x380.png",
+        "https://i1.wp.com/www.butterflyking.it/wp-content/uploads/2019/03/Risorsa-1@2x.png",
+        "https://static.wikia.nocookie.net/7dsgc_mobile_game/images/7/77/Hero_illust_king_1095001.png"
+      ],
+      "definitions": [
+        "a male sovereign; ruler of a kingdom",
+        "a competitor who holds a preeminent position",
+        "a very wealthy or powerful businessman",
+        "preeminence in a particular category or group or field",
+        "United States woman tennis player (born in 1943)",
+        "United States guitar player and singer of the blues (born in 1925)",
+        "United States charismatic civil rights leader and Baptist minister who campaigned against the segregation of Blacks (1929-1968)",
+        "a checker that has been moved to the opponent's first row where it is promoted to a piece that is free to move either forward or backward",
+        "one of the four playing cards in a deck bearing the picture of a king",
+        "(chess) the weakest but the most important piece"
+      ]
+    },
+    {
+      "id": "father",
+      "image_urls": [
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABRskFRlsewpX8JIv3Q-rx0cWueryr2Guymz0npK7RshtLVyuluaUmhCxc5VrmKarHRm9PbqKw6JivK3TdnetvLej90viCTmVV4S2.png",
+        "https://www.nadadventist.org/sites/default/files/inline-images/PPPA%20Fathers-3d.png",
+        "https://cdn.shopify.com/s/files/1/2068/3659/files/FatherTimeBread_FelixBust.png",
+        "https://calendar.wincalendar.net/img/holiday/fathers-day.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Father-and-Teenage-Daughter----Parent-Child-Family-Relationship-French-KS3.png"
+      ],
+      "definitions": [
+        "a male parent (also used as a term of address to your father)",
+        "the founder of a family",
+        "`Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military",
+        "(Christianity) any of about 70 theologians in the period from the 2nd to the 7th century whose writing established and confirmed official church doctrine; in the Roman Catholic Church some were later declared saints and became Doctor of the Church; the best known Latin Church Fathers are Ambrose, Augustine, Gregory the Great, and Jerome; those who wrote in Greek include Athanasius, Basil, Gregory Nazianzen, and John Chrysostom",
+        "a person who holds an important or distinguished position in some organization",
+        "God when considered as the first person in the Trinity",
+        "a person who founds or establishes some institution",
+        "the head of an organized crime family"
+      ]
+    }
+  ]
+}

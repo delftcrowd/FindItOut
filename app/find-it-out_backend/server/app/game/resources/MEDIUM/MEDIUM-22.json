@@ -1,0 +1,256 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "country",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Country_calling_codes_map.svg/1200px-Country_calling_codes_map.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GINI_index_World_Bank_up_to_2018.svg/500px-GINI_index_World_Bank_up_to_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/World_map_blank_shorelines_semiwikimapia.svg/720px-World_map_blank_shorelines_semiwikimapia.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg/500px-Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Landlocked_countries.svg/1200px-Landlocked_countries.svg.png"
+      ],
+      "definitions": [
+        "a politically organized body of people under a single government",
+        "the territory occupied by a nation",
+        "the people who live in a nation or country",
+        "an area outside of cities and towns",
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ]
+    },
+    {
+      "id": "program",
+      "image_urls": [
+        "https://www.theprojectgroup.com/blog/en/wp-content/uploads/sites/2/2020/03/1-4.png",
+        "https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Design_for_Interaction/DfI%20Programme%20sep2019.png",
+        "https://programbuilder.edu.au/sites/default/files/2019-10/Full-Program_0%20%283%29.png",
+        "https://www.eduployment.nl/wp-content/uploads/2019/11/191114-Scheme-1-Certified-nurses-program-EN-1.png",
+        "https://www.delta-n.nl/wp-content/uploads/2019/11/DevOps-ProgramCycle5.png"
+      ],
+      "definitions": [
+        "a series of steps to be carried out or goals to be accomplished",
+        "a system of projects or services intended to meet a public need",
+        "a radio or television show",
+        "a document stating the aims and principles of a political party",
+        "an announcement of the events that will occur as part of a theatrical or sporting event",
+        "an integrated course of academic studies",
+        "(computer science) a sequence of instructions that a computer can interpret and execute",
+        "a performance (or series of performances) at a public presentation"
+      ]
+    },
+    {
+      "id": "computer",
+      "image_urls": [
+        "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1200px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gnome-computer.svg/1200px-Gnome-computer.svg.png",
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.072-pc.nl/wp-content/uploads/2015/11/computer-apkn.png",
+        "https://www.paradigit.nl/media/825734/computer-gaming-bto.png"
+      ],
+      "definitions": [
+        "a machine for performing calculations automatically",
+        "an expert at calculation (or at operating calculating machines)"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5df20135260107019ff99900/1578328159952-CLFJE7ZHZ9T8XWEC68GC/The+Church+of+England+logo+Version+1.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "concert",
+      "image_urls": [
+        "https://weekendvanderomantischemuziek.nl/usr-uploads/images/2021/maanlicht-concert-logo-wit.png",
+        "https://eurovisioninconcert.nl/wordpress/wp-content/uploads/2021/02/logo_EIC_2022-wit2.png",
+        "https://cdn.mycreativeshop.com/images/templates/2966/music-concert-tri-fold-brochure-template-3361-trans-thumb.png",
+        "https://www.gervos.com/wp-content/uploads/CD-Ger-Vos-Live-in-Concert-2019.png",
+        "https://images.squarespace-cdn.com/content/v1/5f86ae7f6296dc3fbb849a80/1603114389845-HX2AT4I0DZLC56IQMZ2D/logo33.png"
+      ],
+      "definitions": [
+        "a performance of music by players or singers not involving theatrical staging"
+      ]
+    },
+    {
+      "id": "couch",
+      "image_urls": [
+        "https://d2ftqzf4nsbvwq.cloudfront.net/wp-content/uploads/www.slaapbanken.nl/2021/04/Slaapbank-Fiona-3.png",
+        "https://www.royaldesign.nl/wp-content/uploads/2019/05/bryck-bank-zitzak-3.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/TheSofaThreeSeater-Birch_Default_Post_1200x.png",
+        "https://productimages.mybobs.com/20066733014/20066733014_hero_wide.png",
+        "https://5starfurniture.co.za/wp-content/uploads/2021/02/lola.png"
+      ],
+      "definitions": [
+        "an upholstered seat for more than one person",
+        "a flat coat of paint or varnish used by artists as a primer",
+        "a narrow bed on which a patient lies during psychiatric or psychoanalytic treatment"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "television",
+      "image_urls": [
+        "https://smart-cover.co.uk/wp-content/themes/Smart%20Cover/page-templates/images/tvcvr-right.png",
+        "https://ec.europa.eu/energy/sites/default/files/eepf_labels/assets/images/eepf_labels_tv_icon_big.png",
+        "https://images.selency.com/1858e1b1-30f3-4a73-8d3a-c424ec2f8fd0/continental-television-edifice-on-foot-tulip_original.png",
+        "https://images-fe.ssl-images-amazon.com/images/I/71a%2BGOb1izL.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/CN/QD/AL/76732024/android-television-500x500.png"
+      ],
+      "definitions": [
+        "broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs",
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "id": "electricity",
+      "image_urls": [
+        "https://energyeducation.ca/wiki/images/d/d9/Incandescent_Light_Bulb.png",
+        "https://www.coolkidfacts.com/wp-content/uploads/2015/09/electricity-facts.png",
+        "https://static-00.iconduck.com/assets.00/electricity-icon-358x512-ksv02jk5.png",
+        "https://static.wikia.nocookie.net/civilization/images/b/b4/Electricity_%28Civ6%29.png",
+        "https://images.hydroreview.com/wp-content/uploads/2020/12/power-towers-5807194_1280.png"
+      ],
+      "definitions": [
+        "a physical phenomenon associated with stationary or moving electrons and protons",
+        "energy made available by the flow of electric charge through a conductor",
+        "keen and shared excitement"
+      ]
+    },
+    {
+      "id": "opera",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+        "https://img.ashampoo.com/images/products/partner0115/boxshot.png"
+      ],
+      "definitions": [
+        "a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes",
+        "a commercial browser",
+        "a building where musical dramas are performed"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.thegardenstore.nl/wp-content/uploads/2021/01/The-Garden-Store-Tuin-Interieur-Plantstyling-projects-frame.png",
+        "https://elho.xcdn.nl/RM200,200,C_OQ70/light-garden-leaf-green-1731900236000c1png/light_garden_leaf_green_1731900236000.c1.png",
+        "https://www.decoaction.nl/pub/media/catalog/product/cache/700x700/wandbord-englisch-flower-garden.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    },
+    {
+      "id": "lamp",
+      "image_urls": [
+        "https://res-2.cloudinary.com/m2-circa-lighting/image/upload/c_limit,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/s/p/sp3022habnp_10.png",
+        "https://www.lamp123.nl/data/upload/Shop/images/eglo-ledlamp-standaard-4w-11691-wwwlamp123nl.png",
+        "https://images.selency.com/bef91b39-9929-4a66-948c-3745cfe657d7/lamp-to-be-installed-in-alabaster_original.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Floorlamp/image-thumb__1835__height_500/paper-floor-lamp-big.png",
+        "https://www.ricebyrice.com/media/25590/lamp-tatrgo_2.png"
+      ],
+      "definitions": [
+        "an artificial source of visible illumination",
+        "a piece of furniture holding one or more electric light bulbs"
+      ]
+    }
+  ]
+}

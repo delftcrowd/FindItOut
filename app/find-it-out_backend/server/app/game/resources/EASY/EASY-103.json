@@ -1,0 +1,141 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Microsoft_Store.svg/1200px-Microsoft_Store.svg.png",
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "jellyfish",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/jellyfish-wiki_ver_1.png",
+        "https://thejellyfishapp.com/assets/images/icon.png",
+        "https://static.food4rhino.com/s3fs-public/users-files/smei/app/jellyfishicon.png",
+        "https://waxmelts.com.au/wp-content/uploads/2020/11/KIDS-JazzieTheJellyfish-ISO-Front-ScentPack-RA-FW20.png",
+        "https://static.wikia.nocookie.net/runescape2/images/3/34/Green_blubber_jellyfish_%28NPC%29.png"
+      ],
+      "definitions": [
+        "large siphonophore having a bladderlike float and stinging tentacles",
+        "any of numerous usually marine and free-swimming coelenterates that constitute the sexually reproductive forms of hydrozoans and scyphozoans"
+      ]
+    },
+    {
+      "id": "internet",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/0636adf0e6404bb38bb8b3293a418411/d5b717b1b43e4cd482c3b160b9751c64.png",
+        "https://www.glasvezelinternetaanbieding.nl/wp-content/uploads/2018/04/glasvezel-internet-rotterdam.png",
+        "https://www.tele2.nl/Tele2/media/images/Tele2/thuis/internet-tv-bellen/shop/internet-abonnement-1.png",
+        "https://internetvergelijken.org/wp-content/uploads/2019/04/internetentvicon-2.png",
+        "https://www.delta.nl/media/2612/laptop-alleen-internet-wifi.png"
+      ],
+      "definitions": [
+        "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange"
+      ]
+    },
+    {
+      "id": "book",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/1200px-Open_book_nae_02.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png",
+        "https://www.printsimpleindia.com/wp-content/uploads/2020/09/book_guide_hero_books.png",
+        "https://cdn.shopify.com/s/files/1/0039/7282/5134/products/Racism_1_860x860.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Book_A_Drunkard%27s_Tale.png"
+      ],
+      "definitions": [
+        "a written work or composition that has been published (printed on pages bound together)",
+        "physical objects consisting of a number of pages bound together",
+        "a compilation of the known facts regarding something or someone",
+        "a written version of a play or other dramatic composition; used in preparing for a performance",
+        "a record in which commercial accounts are recorded",
+        "a collection of playing cards satisfying the rules of a card game",
+        "a collection of rules or prescribed standards on the basis of which decisions are made",
+        "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+        "the sacred writings of the Christian religions",
+        "a major division of a long written composition",
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "id": "meeting",
+      "image_urls": [
+        "https://agilescrumgroup.nl/wp-content/uploads/sprint-planning-meeting-e1608804051883.png",
+        "https://blogs.fireflies.ai/content/images/2021/07/feat-min-1.png",
+        "https://agilescrumgroup.nl/wp-content/uploads/daily-scrum-standup-meeting.png",
+        "https://meetingroom.io/wp-content/uploads/2019/05/Company-Meetings.png",
+        "https://www.zohowebstatic.com/sites/default/files/meeting/home/zm-mobile-banner.png"
+      ],
+      "definitions": [
+        "a formally arranged gathering",
+        "a small informal social gathering",
+        "a casual or unexpected convergence",
+        "the social act of assembling for some common purpose",
+        "the act of joining together as one",
+        "a place where things merge or flow together (especially rivers)"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://duluthlibrary.org/media/11866/homeimage2.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "information",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Circle-information.svg/1200px-Circle-information.svg.png",
+        "https://piwik.pro/wp-content/uploads/2020/10/2020-10-21_What-Is-PII-non-PII-and-personal-data_blog.png",
+        "https://www.exin.com/sites/default/files/2018-11/EXIN_Badge_ModuleProfessional_InformationSM_ISO.png",
+        "https://d2k0ddhflgrk1i.cloudfront.net/EWI/Over%20de%20faculteit/Afdelingen/Software%20Technology/Web%20Information%20Systems/img/WisCircle_450.png",
+        "https://eternalsunshineoftheismind.files.wordpress.com/2013/02/information1.png"
+      ],
+      "definitions": [
+        "a message received and understood",
+        "knowledge acquired through study or experience or instruction",
+        "formal accusation of a crime",
+        "a collection of facts from which conclusions may be drawn",
+        "(communication theory) a numerical measure of the uncertainty of an outcome"
+      ]
+    }
+  ]
+}

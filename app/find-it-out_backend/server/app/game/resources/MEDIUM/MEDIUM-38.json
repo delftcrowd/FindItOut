@@ -1,0 +1,254 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "conference",
+      "image_urls": [
+        "https://one-conference.nl/uploads/21402040_ECP_One-conference-2021.png",
+        "https://conference.issa.nl/sites/default/files/ISSA_Conference.png",
+        "https://www.eden-online.org/wp-content/uploads/2021/01/madrid_website_header_madrid-news-transparent-01.png",
+        "https://www.iaoms.org/IAOMS/assets/File/IAOMS-Virtual-Conference-logo.png",
+        "https://www.idlo.int/sites/default/files/images/SDG16%20Conference%20News%20Updates_1.png"
+      ],
+      "definitions": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+        "an association of sports teams that organizes matches for its members",
+        "a discussion among participants who have an agreed (serious) topic"
+      ]
+    },
+    {
+      "id": "pencils",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0172/5474/4164/files/Custom_Hex_Web_720x.png",
+        "https://dixonpromo.com/wp-content/uploads/2019/05/pencilscat.png",
+        "https://cdn.shopify.com/s/files/1/0526/7144/7238/products/pencils-office-flying-tiger-copenhagen-199903_grande.png",
+        "https://cdn.shopify.com/s/files/1/0252/2021/8973/files/Lumograph_Pencils_large.png",
+        "https://static.wixstatic.com/media/98fc93_b5ff2042835e48c8b2d49968263dbbe6~mv2.png"
+      ],
+      "definitions": [
+        "a thin cylindrical pointed writing implement; a rod of marking substance encased in wood",
+        "graphite (or a similar substance) used in such a way as to be a medium of communication",
+        "a figure formed by a set of straight lines or light rays meeting at a point",
+        "a cosmetic in a long thin stick; designed to be applied to a particular part of the face"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://www.microsinternetdiensten.nl/resources/uploads/2017/06/Office365.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "notebook",
+      "image_urls": [
+        "https://octaevo.com/storage/uploads/4a02d3ac-6c2e-461e-9395-a6605297c12b/notebook-planner-grey-octaevo.png",
+        "https://creativeuseoftechnology.com/wp-content/uploads/2020/10/leren-notitieboekje-cognac-hervulbaar-gravering.png",
+        "https://cdn.shopify.com/s/files/1/0641/8323/products/Denik-Custom-Hardcover-Layflat-Notebook-Spine-Angle_1024x1024.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/55UNNPbCXSEFJYM70oVlRC/c2cc426b5d02e21fe71b74526954d97a/retailrepositioning-c493b08f1eb2d79988ba28f7a929124e-800-800.png",
+        "https://470833-1477561-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Family-foto-2-schaduw.png"
+      ],
+      "definitions": [
+        "a book with blank pages for recording notes or memoranda",
+        "a small compact portable computer"
+      ]
+    },
+    {
+      "id": "paper",
+      "image_urls": [
+        "https://www.paardekooper.nl/static/uploads/pictures/large/920505.png",
+        "https://studioproefschrift.nl/images/hvo.png",
+        "https://www.smurfitkappa.com/products-and-services/-/m/images/products-images-740x-740/paper-and-board/printing-and-writing-papers/bond_from_paper.png",
+        "https://media.smurfitkappa.com/-/m/images/page-hero-610-x-350/paper_and_board_.png",
+        "https://catalog.depa.eu/static/uploads/pictures/large/DEPA_554760.png"
+      ],
+      "definitions": [
+        "a material made of cellulose pulp derived mainly from wood or rags or certain grasses",
+        "an essay (especially one written as an assignment)",
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a medium for written communication",
+        "a scholarly article describing the results of observations or stating hypotheses",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher"
+      ]
+    },
+    {
+      "id": "nails",
+      "image_urls": [
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dwb1f3f902/images/120430662/120430662_MCM_PACK_730025.png",
+        "https://www.nagelinkoop.nl/media/catalog/product/c/r/cracklenpinsta.png",
+        "https://i5.walmartimages.com/asr/23441d3e-aa58-4ddc-b612-ee7d0ee38e43.675eb027af61cc8da0dd9a84ff31647f.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dwbadd2c8f/images/120550576/120550576_MCM_PACK_138393.png",
+        "https://www.joahbeauty.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/i/m/im14x-01-nails.png"
+      ],
+      "definitions": [
+        "horny plate covering and protecting part of the dorsal surface of the digits",
+        "a thin pointed piece of metal that is hammered into materials as a fastener",
+        "a former unit of length for cloth equal to 1/16 of a yard"
+      ]
+    },
+    {
+      "id": "classroom",
+      "image_urls": [
+        "https://www.clanbeat.com/wp-content/uploads/2021/04/Google-Classroom.png",
+        "https://www.woodridge68.org/cms/lib/IL01904677/Centricity/Domain/360/classroom.png",
+        "https://www.wvr.ac.uk/wp-content/uploads/2020/03/Google-Classroom-Icon-300x204.png",
+        "https://www.fujitsu.com/hk/imagesgig5/Icon_classroom_tcm137-3749856_tcm137-2750236-32.png",
+        "https://3.files.edl.io/dd2e/20/12/03/213020-0b484f5a-fc96-499c-bc55-537acedcfac2.png"
+      ],
+      "definitions": [
+        "a room in a school where lessons take place"
+      ]
+    },
+    {
+      "id": "backpack",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/John-Backpack-Midi-Black-Back_1024x1024.png",
+        "https://www.nixon.com/on/demandware.static/-/Sites-masterCatalog_Nixon/default/dwa17349ad/products/C3025-000-view1.png",
+        "https://image01.oneplus.net/ebp/202012/22/1-m00-1e-ac-rb8bwl_hxzaaqkeraaratr4jfa8896.png",
+        "https://static.nike.com/a/images/t_default/bf773f53-e74f-4248-89cc-1f4d0992acae/sb-rpm-skate-backpack-nmcTDs.png",
+        "https://www.barts.eu/img/240/427/resize/3/7/3779_mountain-backpack_13_1.png"
+      ],
+      "definitions": [
+        "a bag carried by a strap on your back or shoulder"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "pen",
+      "image_urls": [
+        "https://penworld.sirv.com/media/catalog/product/4/0/400brccl_1024x1024.png",
+        "https://cdn.shopify.com/s/files/1/0013/9676/8815/products/FR-101_1000x1000.png",
+        "https://www.pwakkerman.com/Content/img/featured-products/special-offers.png",
+        "https://cdn.shopify.com/s/files/1/0013/9676/8815/products/BK90-A_cf6209e2-3d53-4664-98bc-24145e455988_1800x1800.png",
+        "https://fanshop.feyenoord.nl/media/catalog/product/cache/3285d6f641d73e0bc8abd61edfdda84d/5/7/57007410_feyenoord_light_pen_zwart_1_.png"
+      ],
+      "definitions": [
+        "a writing implement with a point from which ink flows",
+        "an enclosure for confining livestock",
+        "a portable enclosure in which babies may be left to play",
+        "a correctional institution for those convicted of major crimes",
+        "female swan"
+      ]
+    },
+    {
+      "id": "briefcase",
+      "image_urls": [
+        "https://www.st-dupont.com/media/catalog/product/cache/13/image/9df78eab33525d08d6e5fb8d27136e95/1/8/181100_17.png",
+        "https://cdn.shopify.com/s/files/1/2406/1713/products/cognac_travelteq_1_600x.png",
+        "https://www.prada.com/content/dam/pradanux_products/2/2VE/2VE008/2FADF0002/2VE008_2FAD_F0002_V_OOO_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/2/2VE/2VE366/2FADF0216/2VE366_2FAD_F0216_V_OOX_MDL.png",
+        "https://www.picard-lederwaren.de/out/pictures/master/product/1/4404001Office_1.png"
+      ],
+      "definitions": [
+        "a case with a handle; for carrying papers or files or books"
+      ]
+    },
+    {
+      "id": "pocket",
+      "image_urls": [
+        "https://www.afas.nl/portal-product/afas-pocket-afas-software/afas%20pocket%20app%20mob.png",
+        "https://klant.afas.nl/portal-themapagina/afaspocket/downloaden.png",
+        "https://teenage.engineering/_img/54a7557fc7530702005257b3_512.png",
+        "https://www.afas.nl/portal-product/afas-pocket-in-de-bouw-afas-software/afas%20pocket%20als%20bouwapp%20-%20mob.png",
+        "https://www.f-one.world/app/uploads/2020/03/Pocket-Foil-Carbon-110.png"
+      ],
+      "definitions": [
+        "a small pouch inside a garment for carrying small articles",
+        "an enclosed space",
+        "a supply of money",
+        "(bowling) the space between the headpin and the pins behind it on the right or left",
+        "a hollow concave shape made by removing something",
+        "a local region of low pressure or descending air that causes a plane to lose height suddenly",
+        "a small isolated group of people",
+        "(anatomy) saclike structure in any of various animals (as a marsupial or gopher or pelican)",
+        "an opening at the corner or on the side of a billiard table into which billiard balls are struck"
+      ]
+    },
+    {
+      "id": "container",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://images.ctfassets.net/gc5htdx4kcus/4OHleWuGTa6mdbSbicT5ur/d2424e4d0ac10b83ac4d47c86d01b5c5/22G1_20FT_Standaard_new_blue_Corner_shadow.png",
+        "https://www.unifeeder.com/hubfs/Container%20equipment%20on%20website%20-%2040ft%20HC-1.png"
+      ],
+      "definitions": [
+        "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+      ]
+    },
+    {
+      "id": "teacher",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/teacher-0adfd15a68a4267c42b0ddeb994f8583eeb65408.png",
+        "https://heartfulness.org/education/wp-content/uploads/2018/10/hfn-teacher-img.png",
+        "https://thelearningcounsel.com/sites/default/files/styles/large/public/sites/default/files/styles/large/public/field/image/infographic-circle.png",
+        "https://www.jrschange.org/wp-content/themes/twentynineteen/img/pictos/Teacher.png",
+        "https://planbook.com/images/welcome-home-c.png"
+      ],
+      "definitions": [
+        "a person whose occupation is teaching",
+        "a personified abstraction that teaches"
+      ]
+    },
+    {
+      "id": "jar",
+      "image_urls": [
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw953883ce/images/120527860/120527860_MCM_PACK_150516.png",
+        "https://www.bierglazen-fabriek.nl/wp-content/uploads/2018/03/drinking-jar-71-cl-set-van-12-12426.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw116bec09/images/120527771/120527771_MCM_PACK_150532.png",
+        "https://www.candlewarmers.com/cache/PRODUCTIMAGE4018MAR.png",
+        "https://www.oasisfloral.co.uk/media/catalog/product/cache/73fdfc624587e8942c64b15b96a5e275/4/5/45-03255_group_new_hailey_clear_and_green.png"
+      ],
+      "definitions": [
+        "a vessel (usually cylindrical) with a wide mouth and without handles",
+        "the quantity contained in a jar",
+        "a sudden jarring impact"
+      ]
+    }
+  ]
+}

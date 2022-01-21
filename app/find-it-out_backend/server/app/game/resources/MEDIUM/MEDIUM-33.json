@@ -1,0 +1,245 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "wilderness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/wilderness-a2c574200cd8ac2d3628c06b9e7c7f436681a98e.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQBHx96_Eps-PJq2a9Ej6LjiBuy_ySxuOy6IZW0h0O6QATmcMSNYkLEdI2e0Uk6k-mzRxP3qT4adKGzvH0Ks4KvquoNzzzq4c6H_N6mw8HLwFr3wMPVo-7qWRaz4WRxJLByRFLzC0O20h6DfQuXv6KOUvwgUgH75_4egMVR0dJYx-Q.png",
+        "https://www.mypigeonforge.com/wp-content/uploads/2018/01/Wilderness-Wildlife-Week-horizontal-logo.jpg15.png",
+        "https://www.spellenhuis.nl/media/catalog/product/cache/1/image/420x420/9df78eab33525d08d6e5fb8d27136e95/2/g/2gpkg5peeybgt5qm2rd267d6dmd7rhtm.png",
+        "https://wpresort.com/wp-content/uploads/2020/03/Wilderness-Presidential-Resort-Emblem-png8-500.png"
+      ],
+      "definitions": [
+        "(politics) a state of disfavor",
+        "a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War",
+        "a wild and uninhabited area left in its natural condition",
+        "a bewildering profusion"
+      ]
+    },
+    {
+      "id": "cage",
+      "image_urls": [
+        "https://images.selency.com/6d90b6ec-55df-47d7-a74a-5ad8c788ce46/wood-and-metal-cage_original.png",
+        "https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12193.png",
+        "https://www.nihonsport.nl/wp-content/uploads/2020/08/FL-OCT1.png",
+        "https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12192.png",
+        "https://www.weverducre.com/pim/COSTA%202.1%20CAGE/image-thumb__442705__lightbox/COSTA-2.1-CAGE-BLACK.png"
+      ],
+      "definitions": [
+        "an enclosure made or wire or metal bars in which birds or animals can be kept",
+        "something that restricts freedom as a cage restricts movement",
+        "United States composer of avant-garde music (1912-1992)",
+        "the net that is the goal in ice hockey",
+        "a movable screen placed behind home base to catch balls during batting practice"
+      ]
+    },
+    {
+      "id": "creek",
+      "image_urls": [
+        "https://www.creekaudio.com/wp-content/uploads/2020/08/Creek-Audio-Logo-sq4.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPdzg1C06lWf6scWytve51aNxeaeNkie3L0Zwo48Oxk4Y7n7NXR1NQ8LwnarvsOq743F9PHZb0_CPi3sDHnsK0eAqXaceVOaklg.png",
+        "https://www.aldi.nl/content/dam/aldi/netherlands/products/trots-van-aldi/0000392_04.png",
+        "https://images.squarespace-cdn.com/content/v1/5aaf6e0c31d4dfced19cb946/1525328345693-EYXQBA42QFMOURH57S0J/leader+creek+orig+tweaked.png",
+        "https://cdn11.bigcommerce.com/s-hgn1l9sh63/images/stencil/1000w/attribute_rule_images/8956_source_1624000846.png"
+      ],
+      "definitions": [
+        "a natural stream of water smaller than a river (and often a tributary of a river)",
+        "any member of the Creek Confederacy (especially the Muskogee) formerly living in Georgia and Alabama but now chiefly in Oklahoma"
+      ]
+    },
+    {
+      "id": "woods",
+      "image_urls": [
+        "https://woodsbrasserie.nl/wp-content/uploads/2020/01/Logo-2020-Woods-met-boom-klein.png",
+        "https://woodsprinsenbeek.nl/wp-content/uploads/2021/03/210310_WOODS_Logo-website.png",
+        "https://www.woodswonen.nl/wp-content/uploads/2021/04/woods-wonen.png",
+        "https://woodsprinsenbeek.nl/wp-content/uploads/2021/03/210310_WOODS_Logo-website_Footer-300x300.png",
+        "https://woodsbrasserie.nl/wp-content/uploads/2020/01/Logo-2020-Woods-met-boom-klein-300x192.png"
+      ],
+      "definitions": [
+        "the hard fibrous lignified substance under the bark of trees",
+        "the trees and other plants in a large densely wooded area",
+        "United States film actress (1938-1981)",
+        "English conductor (1869-1944)",
+        "English writer of novels about murders and thefts and forgeries (1814-1887)",
+        "United States painter noted for works based on life in the Midwest (1892-1942)",
+        "any wind instrument other than the brass instruments",
+        "a golf club with a long shaft used to hit long shots; originally made with a wooden head"
+      ]
+    },
+    {
+      "id": "forest",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5dc2252c8c1cfd4ef90243c4/1574549437077-OEJUJ1HBEIZCG91WL67V/title-art-forest.png",
+        "https://outdoor-forest.nl/wp-content/uploads/2019/12/outdoor-forest-logo-dark-xs.png",
+        "https://forforest.net/wp-content/uploads/2020/10/Logo-Men%C3%BC_Sticky-header-01.png",
+        "https://endnightgames.com/sites/default/files/images/games/forest-logo.png",
+        "https://www.forestsoftheworld.org/files/International.forestsoftheworld.org/Goals%20and%20strategies/2021-03-16%20FoW%20ToC%20illustrated.png"
+      ],
+      "definitions": [
+        "the trees and other plants in a large densely wooded area",
+        "land that is covered with trees and shrubs"
+      ]
+    },
+    {
+      "id": "valley",
+      "image_urls": [
+        "https://www.horecava.nl/wp-content/uploads/2020/06/product-1394668_35540.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Formation-Of-A-V-Shaped-Valley-4-V-Shaped-Valley---Geography-Land-Water-Rivers-KS3.png",
+        "https://www.fictionvalley.nl/images/logo.png",
+        "https://www.veluwe-valley.nl/images/logo-2017.png",
+        "https://logisticsvalleyhelpt.nl/wp-content/uploads/2020/03/cropped-LV_Logo_CMYK_Rivierenland-1.png"
+      ],
+      "definitions": [
+        "a long depression in the surface of the land that usually contains a river"
+      ]
+    },
+    {
+      "id": "nature",
+      "image_urls": [
+        "https://www.fromnature2you.com/wp-content/uploads/logo-fromnature-transparant.png",
+        "https://we-are-nature.nl/wp-content/uploads/2019/02/wearenature-logo.png",
+        "https://natureforlife.world/wp-content/uploads/2018/02/LOGO4.png",
+        "https://www.natureskins.nl/wp-content/uploads/2019/11/nature_skins_logo_web.png",
+        "https://www.fromnature2you.com/wp-content/uploads/fromnature-tak-1.png"
+      ],
+      "definitions": [
+        "the essential qualities or characteristics by which something is recognized",
+        "a causal agent creating and controlling things in the universe",
+        "the natural physical world including plants and animals and landscapes etc.",
+        "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions",
+        "a particular type of thing"
+      ]
+    },
+    {
+      "id": "sky",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sky_International_-_Logo_2018.svg/220px-Sky_International_-_Logo_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",
+        "https://static.broadband.co.uk/img/sky-5.800px.png",
+        "https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blte734987060db60e6/5ef9f4ec89ea556d5881819f/Sky_Master_Brand_Logo_SMALL_RGB.png"
+      ],
+      "definitions": [
+        "the atmosphere and outer space as viewed from the earth"
+      ]
+    },
+    {
+      "id": "lake",
+      "image_urls": [
+        "https://media.matoketours.nl/wordpress/large/Lake-Mutanda-2-b9b43473.png",
+        "https://austinot.com/wp-content/uploads/2021/07/Lake-LBJ.png",
+        "https://drawinghowtos.com/wp-content/uploads/2020/02/lake-07.png",
+        "https://berenkuil.com/wp-content/uploads/2017/10/vliegvisvijver.png",
+        "https://ivins.recdesk.com/RecDeskPortal/Portals/222/lake.png"
+      ],
+      "definitions": [
+        "a body of (usually fresh) water surrounded by land",
+        "a purplish red pigment prepared from lac or cochineal",
+        "any of numerous bright translucent organic pigments"
+      ]
+    },
+    {
+      "id": "desert",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/ks2-desert-landscape.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Sahara-Desert--Terrain-Hot-Geography-KS2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/desert-habitat.png",
+        "https://i.pinimg.com/originals/4b/45/6c/4b456c02c9ab0835d9f97482f95a2873.png",
+        "https://www.elcidtour.com/wp-content/uploads/2020/11/Picture4.png"
+      ],
+      "definitions": [
+        "arid land with little or no vegetation",
+        "(usually plural) a person's deservingness of or entitlement to reward or punishment"
+      ]
+    },
+    {
+      "id": "outdoors",
+      "image_urls": [
+        "https://www.outdoorsholten.nl/wp-content/uploads/2020/03/logo.png",
+        "https://www.outdoors.nl/wp-content/uploads/2018/04/logo-outdoors-events-bedrijfsuitjes.png",
+        "https://dutchoutdoors.nl/wp-content/uploads/2020/02/Dutch_Outdoors_logo_Groen.png",
+        "https://www.bever.nl/content/dam/nl/brands/1298.png",
+        "https://i0.wp.com/yogaoutdoors.nl/wp-content/uploads/2018/04/YogaOutdoors1-e1522998443519.png"
+      ],
+      "definitions": [
+        "where the air is unconfined"
+      ]
+    },
+    {
+      "id": "stream",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Microsoft_Stream.svg/1200px-Microsoft_Stream.svg.png",
+        "https://www.elgato.com/themes/custom/smalcode/image/products/stream-deck-xl/hero-panel/stream-deck-xl.png",
+        "https://www.elgato.com/themes/custom/smalcode/image/products/stream-deck-mobile/hero-hand.png",
+        "https://docs.microsoft.com/nl-nl/stream/media/stream-classic-migration/apps-storage-extensions-self-stream-alone.png",
+        "https://www.elgato.com/sites/default/files/2019-05/stream-deck-xl-top-left.png"
+      ],
+      "definitions": [
+        "a natural body of running water flowing on or under the earth",
+        "dominant course (suggestive of running water) of successive events or ideas",
+        "the act of flowing or streaming; continuous progression",
+        "something that resembles a flowing stream in moving continuously",
+        "a steady flow of a fluid (usually from natural causes)"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "bird",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/starwars/images/4/47/Porg_wings_Fathead.png",
+        "https://cdn-reichelt.de/bilder/web/xxl_ws/E910/TEV_60086_01.png",
+        "https://www.ricebyrice.com/media/22521/wrbir-lxc19i_1.png",
+        "https://extra.katwijk.nl/fileadmin/_processed_/b/5/csm_Grote_Stern-Vrijstaand_bdfafdaf1f.png",
+        "https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/4/45/Non_Flying_Bird.png"
+      ],
+      "definitions": [
+        "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+        "the flesh of a bird or fowl (wild or domestic) used as food",
+        "informal terms for a (young) woman",
+        "a cry or noise made to express displeasure or contempt",
+        "badminton equipment consisting of a ball of cork or rubber with a crown of feathers"
+      ]
+    },
+    {
+      "id": "windowsill",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/nuuline-fill-interior-home-decoration/150/home_decoration_interior-09-512.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/02/Windowsill-breeze-Scentsy-waxbar.png",
+        "https://www.comhan.com/sites/default/files/styles/type_smal/public/waterslagen_35sl_15deg_waterslag_35sl_190mm_w-image1.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/10/Scentsy-vloeibaar-wasmiddel-windowsill-breeze.png",
+        "https://www.seekpng.com/png/full/763-7631869_how-to-design-a-windowsill-flower-box-window.png"
+      ],
+      "definitions": [
+        "the sill of a window; the horizontal member at the bottom of the window frame"
+      ]
+    }
+  ]
+}

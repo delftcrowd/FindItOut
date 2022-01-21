@@ -1,0 +1,145 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "wheel",
+      "image_urls": [
+        "https://snipstock.com/assets/cdn/png/ad18655608d4e3208c5f7d2eef9a1826.png",
+        "https://lightweight.info/fileadmin/_processed_/0/d/csm_Rundkurs_Flyout_f930801a79.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1010px-Plutchik-wheel.svg.png",
+        "https://evolutionbike.it/pub/media/catalog/product/cache/9a7f5d11d3fdb309eee2409db95d8c49/_/f/_f_w_fw_orw-set_1_1_35.png",
+        "https://momo.com/wp-content/uploads/2019/03/MOMO-Legend-Wheels-Thumbnail-1-750x750.png"
+      ],
+      "definitions": [
+        "a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)",
+        "a handwheel that is used for steering",
+        "forces that provide energy and direction",
+        "a circular helm to control the rudder of a vessel",
+        "game equipment consisting of a wheel with slots that is used for gambling; the wheel rotates horizontally and players bet on which slot the roulette ball will stop in",
+        "an instrument of torture that stretches or disjoints or mutilates victims",
+        "a wheeled vehicle that has two wheels and is moved by foot pedals"
+      ]
+    },
+    {
+      "id": "tray",
+      "image_urls": [
+        "https://sgdentalshop.com/wp-content/uploads/2020/05/Asiga-build-tray-Pro-4K.png",
+        "https://www.secretjardin.com/wp-content/uploads/2019/10/WATER-TRAY-1.png",
+        "https://res-3.cloudinary.com/christofle/s--qSKqKd8X--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/R/e/Rectangular_20tray_20_20Malmaison_20_20Silver_20plated_04200720000101_T_1.png",
+        "https://res-5.cloudinary.com/christofle/s---nnLPZJk--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/T/r/Tray_2020x16_20cm_20Graffiti_20_20Silver_20plated_04200416000001_STQP.png",
+        "https://cdn.shopify.com/s/files/1/3008/1030/products/virginia-boys-kitchens-serving-tray-20-x-15-inch-rectangular-walnut-wood-serving-and-coffee-table-tray-with-handles-made-in-usa-walnut-wood-11694691811364_900x.png"
+      ],
+      "definitions": [
+        "an open receptacle for holding or displaying or serving articles or food"
+      ]
+    },
+    {
+      "id": "strainer",
+      "image_urls": [
+        "https://www.laviadelte.com/immagini/z/386_650.png",
+        "https://5.imimg.com/data5/GQ/HD/VN/SELLER-9527117/s-s-mesh-strainer-500x500.png",
+        "https://cdn.shopify.com/s/files/1/0526/7144/7238/products/tea-egg-strainer-kitchen-flying-tiger-copenhagen-531685@2x.png",
+        "https://www.gteek.com/image/catalog/valves/strainers/strainer_basket_type.png",
+        "https://ginshop.it/wp-content/uploads/2021/04/Strainer-4-linguette.png"
+      ],
+      "definitions": [
+        "a filter to retain larger pieces while smaller pieces and liquids pass through"
+      ]
+    },
+    {
+      "id": "barrel",
+      "image_urls": [
+        "https://www.dressityourself.co.uk/wp-content/uploads/2020/05/Oak-Whiskey-Barrel-Hire-1.png",
+        "https://static.wikia.nocookie.net/atelierseries/images/4/47/A11_item_076.png",
+        "https://cdn.shopify.com/s/files/1/2709/4168/products/Barrel-BAR12OWG-DarkOakWood-NoLogo_2x.png",
+        "https://urbanbarrelcompany.com/wp-content/uploads/2021/06/ub-gator-slider.png",
+        "https://static.wikia.nocookie.net/animalcrossing/images/3/34/NH-DIY-Furniture-Barrel.png"
+      ],
+      "definitions": [
+        "a tube through which a bullet travels when a gun is fired",
+        "a cylindrical container that holds liquids",
+        "a bulging cylindrical shape; hollow with flat ends",
+        "the quantity that a barrel (of any size) will hold",
+        "any of various units of capacity"
+      ]
+    },
+    {
+      "id": "screws",
+      "image_urls": [
+        "https://www.mustad.it/wp-content/uploads/2018/06/ico_vite_autofilettante_flat_tc_ph_zincata_bianca_600x300.png",
+        "https://www.mustad.it/wp-content/uploads/2018/08/ico_vite_pvit_uni_tx_chromiting_600x300.png",
+        "https://www.mustad.it/wp-content/uploads/2018/07/ico_vite_autofilettante_tc_ph_zincata_bianca_600x300.png",
+        "https://res.cloudinary.com/the-deck-store/s--xqc_qCfT--/c_pad,dpr_1.0,f_auto,q_auto/media/catalog/product/b/i/big-timber-fs-tiny-head-finish-screws_1.png",
+        "https://www.dkceurope.com/computedimage/sottotesta-png.i30166-kiMNtwo-w466-h373-l1-q98-r1.png"
+      ],
+      "definitions": [
+        "someone who guards prisoners",
+        "a simple machine of the inclined-plane type consisting of a spirally threaded cylindrical rod that engages with a similarly threaded hole",
+        "a propeller with several angled blades that rotates to push against water or air",
+        "a fastener with a tapered threaded shank and a slotted head",
+        "slang for sexual intercourse"
+      ]
+    },
+    {
+      "id": "tank",
+      "image_urls": [
+        "https://eu-wotp.wgcdn.co/dcont/fb/image/tmb/m18_hellcat_tanopedia_icon_cut_300x.png",
+        "https://thedailybounce.net/wp-content/uploads/2020/08/GB106_Cobra.png",
+        "https://static.wikia.nocookie.net/ultra/images/9/98/Dinosaur_Tank%282%29.png",
+        "https://cdn.actionbooker.io/media/sites/16/2019/08/06160016/tank-ireland.png",
+        "https://eu-wotp.wgcdn.co/static/5.92.1_29ca43/wotp_static/img/core/frontend/scss/common/blocks/about-technic/img/overlap/germany.png"
+      ],
+      "definitions": [
+        "an enclosed armored military vehicle; has a cannon and moves on caterpillar treads",
+        "a large (usually metallic) vessel for holding gases or liquids",
+        "as much as a tank will hold",
+        "a freight car that transports liquids or gases in bulk",
+        "a cell for violent prisoners"
+      ]
+    },
+    {
+      "id": "pipe",
+      "image_urls": [
+        "https://www.acquageo.com/en/img/prodotti/tubi_pozzo/tubo_PVC_pozzi_artesiani.png",
+        "https://www.logstor.com/media/5976/sliding-_770x520.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/10/TN/ON/RN/13248269/cpvc-pipe-500x500.png",
+        "https://www.blupura.com//contrib/uploads/Nano-Silver-Pipe-1.png",
+        "https://www.kuzeyborugroup.com/32mm-pn-10-hdpe-pipe-hdpe-pipe-171-68-B.png"
+      ],
+      "definitions": [
+        "a tube with a small bowl at one end; used for smoking tobacco",
+        "a long tube made of metal or plastic that is used to carry water or oil or gas etc.",
+        "a hollow cylindrical shape",
+        "a tubular wind instrument",
+        "the flues and stops on a pipe organ"
+      ]
+    },
+    {
+      "id": "plate",
+      "image_urls": [
+        "https://www.frantoiomuraglia.it/prodotti/immagini/0/0/C/8264f306eea44f0265a6b222a4f07f36/1531990595_piatti-in-ceramica_1.png",
+        "https://cdn.shopify.com/s/files/1/2281/6071/t/161/assets/5ee3a36632ab--EF-CP-2-AO-COLL.png",
+        "https://m9v9r6h3.stackpathcdn.com/wp-content/uploads/2020/06/download-27.png",
+        "https://5.imimg.com/data5/AJ/RY/BF/SELLER-6219443/plate-kinardar-4--500x500.png",
+        "https://cdn.shopify.com/s/files/1/0024/4137/9915/products/PDP_Plate_Spice_2_1000x.png"
+      ],
+      "definitions": [
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "a sheet of metal or wood or glass or plastic",
+        "a full-page illustration (usually on slick paper)",
+        "dish on which food is served or from which food is eaten",
+        "the quantity contained in a plate",
+        "a rigid layer of the Earth's crust that is believed to drift slowly",
+        "the thin under portion of the forequarter",
+        "a main course served on a plate",
+        "any flat platelike body structure or part",
+        "the positively charged electrode in a vacuum tube",
+        "a flat sheet of metal or glass on which a photographic image can be recorded",
+        "structural member consisting of a horizontal beam that provides bearing and anchorage",
+        "a shallow receptacle for collection in church",
+        "a metal sheathing of uniform thickness (such as the shield attached to an artillery piece to protect the gunners)",
+        "a dental appliance that artificially replaces missing teeth"
+      ]
+    }
+  ]
+}

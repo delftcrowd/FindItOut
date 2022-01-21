@@ -1,0 +1,263 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "airplane",
+      "image_urls": [
+        "https://cdn2.iconfinder.com/data/icons/user-interface-180/128/User-Interface-172-512.png",
+        "https://www.rawshorts.com/freeicons/wp-content/uploads/2017/01/Travel-pict-airplane.png",
+        "https://lezebre.lu/images/detailed/13/avion-deco-2.png",
+        "https://www.utf8icons.com/character_image/9992-airplane.png",
+        "https://static.wikia.nocookie.net/sqmegapolis/images/6/6a/Passenger_Airplane_Construction.png"
+      ],
+      "definitions": [
+        "an aircraft that has a fixed wing and is powered by propellers or jets"
+      ]
+    },
+    {
+      "id": "hairbrush",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0025/1478/0219/products/pink-wet-dry-detangling-hairbrush.png",
+        "https://arunny.com/wp-content/uploads/2020/06/Banbu-hairbrush-arunny-zero-waste-store-0-2.png",
+        "https://www.parsa-beauty.de/media/image/47/e0/ae/00071325-200010-PARSABeauty-HaarbuersteCarbon-01.png",
+        "https://sweetsistersbodycare.com/wp-content/uploads/2019/10/HairBrush.png",
+        "https://cdn-ec.niceshops.com/upload/image/product/large/default/glov-hair-brush-1456641-nl.png"
+      ],
+      "definitions": [
+        "a brush used to groom a person's hair"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://global-uploads.webflow.com/5ee2074bd5264569f2a3a32f/5f58f409db9a88529bf05059_LY01_top_view_transparent_background.png",
+        "https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "classroom",
+      "image_urls": [
+        "https://www.clanbeat.com/wp-content/uploads/2021/04/Google-Classroom.png",
+        "https://www.woodridge68.org/cms/lib/IL01904677/Centricity/Domain/360/classroom.png",
+        "https://www.wvr.ac.uk/wp-content/uploads/2020/03/Google-Classroom-Icon-300x204.png",
+        "https://www.fujitsu.com/hk/imagesgig5/Icon_classroom_tcm137-3749856_tcm137-2750236-32.png",
+        "https://3.files.edl.io/dd2e/20/12/03/213020-0b484f5a-fc96-499c-bc55-537acedcfac2.png"
+      ],
+      "definitions": [
+        "a room in a school where lessons take place"
+      ]
+    },
+    {
+      "id": "fire",
+      "image_urls": [
+        "https://www.allegiantfire.net/wp-content/uploads/2019/09/2-subheading-1024x288.png",
+        "https://emojipedia-us.s3.amazonaws.com/source/skype/289/fire_1f525.png",
+        "https://static.wikia.nocookie.net/harrypotter/images/6/6a/IncendioHM.png",
+        "https://www.science.org.au/curious/sites/default/files/images/curious/environment/fire-triangle-all.png",
+        "https://www.globalforestwatch.org/_next/static/images/intro-fires-282414898126fd72f0d8f0659cabe571.png"
+      ],
+      "definitions": [
+        "the event of something burning (often destructive)",
+        "the act of firing weapons or artillery at an enemy",
+        "the process of combustion of inflammable materials producing heat and light and (often) smoke",
+        "a fireplace in which a relatively small fire is burning",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "feelings of great warmth and intensity",
+        "fuel that is burning and is used as a means for cooking",
+        "a severe trial",
+        "intense adverse criticism"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "image_urls": [
+        "https://www.innr.com/wp-content/uploads/cache/RCL-110-Round-Ceiling-Lamp-3D-shadow-owiejg0m73nwumlqwnqtacfga165mkg7tt4pqkl62o.png",
+        "https://cdn.shopify.com/s/files/1/1955/8109/products/rusttile2_530x@2x.png",
+        "https://in-lite.com/media/catalog/product/cache/459e1860863622a8290e217fbf029ff6/s/c/scope_ceiling-1_1.png",
+        "https://www.tonone.com/media/47/55/97/1604919773/bolt%20ceiling%202%20arm%20sidefit%20sb.png",
+        "https://www.cabasse.com/wp-content/uploads/2020/05/Alcyone-in-ceiling-3-4-roundF-600x450.png"
+      ],
+      "definitions": [
+        "the overhead upper surface of a covered space",
+        "(meteorology) altitude of the lowest layer of clouds",
+        "an upper limit on what is allowed",
+        "maximum altitude at which a plane can fly (under specified conditions)"
+      ]
+    },
+    {
+      "id": "drugstore",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2646/2646036.png",
+        "https://cdn2.iconfinder.com/data/icons/medical-5-5/128/medical_pharmacy_medical-store-512.png",
+        "https://cdn.shopify.com/s/files/1/0534/5604/4227/files/Final_drugstore_410x.png",
+        "https://cdn-icons-png.flaticon.com/512/2650/2650583.png",
+        "https://www.awicons.com/free-icons/download/object-icons/large-home-icons-by-aha-soft/png/256/Drugstore.png"
+      ],
+      "definitions": [
+        "a retail shop where medicine and other articles are sold"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.cupapizarras.com/wp-content/uploads/2019/09/roof-parts.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://sunstruction.nl/png/systems/roof-hooks.png",
+        "https://www.atlasroofing.com/media/images/original/5319.png",
+        "https://www.mg-bouw.com/wp-content/uploads/2020/05/Meuwissen-AlkReflex-Roof-1.7-Wand-dak-buitenzijde-20210727.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "home",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go-home-2.svg/1200px-Go-home-2.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Home-icon.svg/2048px-Home-icon.svg.png",
+        "https://s3-eu-west-1.amazonaws.com/zkn/files/df172fd7066470da8c916409ba3f75c4.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABajVV54Z0yXvIDzrA3hPAm6UAxTjm9xPYG0NfkeRky2wjDbVDEmX-vKnRx00rWSvsAGCrsXy2UxenzhVYnVNGx3Bzs7FsErHOOq7.png",
+        "https://www.somfy.nl/common/img/library///700x350/15-smart-home.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "sun",
+      "image_urls": [
+        "https://solarsystem.nasa.gov/system/basic_html_elements/11561_Sun.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/golden-tan-max-after-sun-lotion-125-ml.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/3614224838553_sun-beauty-body_sun-beauty-velvet-milk-spf30-75ml-tube.png",
+        "https://www.etos.nl/on/demandware.static/-/Sites-etos-master-catalog/default/dwe338e5f7/images/120093432/120093432_MCM_PACK_1136912.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw3e4e7ece/images/120395588/120395588_MCM_PACK_1040619.png"
+      ],
+      "definitions": [
+        "the star that is the source of light and heat for the planets in the solar system",
+        "the rays of the sun",
+        "a person considered as a source of warmth or energy or glory etc",
+        "any star around which a planetary system revolves",
+        "first day of the week; observed as a day of rest and worship by most Christians"
+      ]
+    },
+    {
+      "id": "temple",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/sqmegapolis/images/f/ff/Vishnu_Temple_L3.png",
+        "https://static.wikia.nocookie.net/humankind_gamepedia_en/images/e/ed/Temple_of_Artemis.png",
+        "https://www.sompura.in/images/jain-temple.png",
+        "https://static.wikia.nocookie.net/civilization/images/1/1c/Temple_%28Civ6%29.png",
+        "https://www.rijksmuseumshop.nl/media/image/37/73/3a/13882_f.png"
+      ],
+      "definitions": [
+        "place of worship consisting of an edifice for the worship of a deity",
+        "the flat area on either side of the forehead",
+        "an edifice devoted to special or exalted purposes",
+        "(Judaism) the place of worship for a Jewish congregation"
+      ]
+    },
+    {
+      "id": "loft",
+      "image_urls": [
+        "https://www.loftloft.nl/wp-content/uploads/2020/09/Logo-loft-png.png",
+        "https://vepa.nl/wp-content/uploads/2021/02/Loft_008_Prd_MeetSit_10043367_Transparent.png",
+        "https://woneninhout.nl/wp-content/uploads/Koda-Loft-3D-tekening-met-aanduidingen-ruimtes.png",
+        "https://woneninhout.nl/wp-content/uploads/KODA-Loft-Micro-3d-vrijstaand.png",
+        "https://vepa.nl/wp-content/uploads/2021/02/Loft_009_Prd_MeetSit_10036769_Transparent.png"
+      ],
+      "definitions": [
+        "floor consisting of a large unpartitioned space over a factory or warehouse or other commercial space",
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "(golf) the backward slant on the head of some golf clubs that is designed to drive the ball high in the air",
+        "a raised shelter in which pigeons are kept"
+      ]
+    }
+  ]
+}

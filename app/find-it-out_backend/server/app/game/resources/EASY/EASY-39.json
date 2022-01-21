@@ -1,0 +1,139 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "government",
+      "image_urls": [
+        "https://www.rijkshuisstijl.nl/binaries/large/content/gallery/rijkshuisstijl/content-afbeeldingen/basiselementen/logo/ro_logo_online_ex_pos_en.png",
+        "https://landportal.org/sites/landportal.org/files/styles/220heightmax/public/lrQMWH3.png",
+        "https://www.servicenow.nl/content/dam/servicenow-assets/public/en-us/images/company-library/individuals-indirect/federalnational-marquee.png",
+        "https://www.salesforce.com/content/dam/web/en_us/www/images/industries/government/governmernt-redesign/ind-PS-26-govt-cloud-plus-jumbo_LG%20(1).png",
+        "https://cdn2.iconfinder.com/data/icons/election-21/512/CoalitionGovernment-election-politics-government-cabinet-512.png"
+      ],
+      "definitions": [
+        "the organization that is the governing authority of a political unit",
+        "the act of governing; exercising authority",
+        "(government) the system or form by which a community or other political unit is governed",
+        "the study of government of states and other political units"
+      ]
+    },
+    {
+      "id": "canada",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/1200px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/350px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canada_on_the_globe_%28North_America_centered%29.svg/1200px-Canada_on_the_globe_%28North_America_centered%29.svg.png",
+        "https://www.rabobank.com/en/images/canada.png",
+        "https://www.startupcan.ca/wp-content/themes/startup-canada/assets/img/canada-map.png"
+      ],
+      "definitions": [
+        "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+      ]
+    },
+    {
+      "id": "country",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Country_calling_codes_map.svg/1200px-Country_calling_codes_map.svg.png",
+        "https://cdn.ip2location.com/assets/img/flags/flags_32.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GINI_index_World_Bank_up_to_2018.svg/500px-GINI_index_World_Bank_up_to_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/World_map_blank_shorelines_semiwikimapia.svg/720px-World_map_blank_shorelines_semiwikimapia.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg/500px-Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg.png"
+      ],
+      "definitions": [
+        "a politically organized body of people under a single government",
+        "the territory occupied by a nation",
+        "the people who live in a nation or country",
+        "an area outside of cities and towns",
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ]
+    },
+    {
+      "id": "sun",
+      "image_urls": [
+        "https://solarsystem.nasa.gov/system/basic_html_elements/11561_Sun.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/golden-tan-max-after-sun-lotion-125-ml.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/3614224838553_sun-beauty-body_sun-beauty-velvet-milk-spf30-75ml-tube.png",
+        "https://www.etos.nl/on/demandware.static/-/Sites-etos-master-catalog/default/dwe338e5f7/images/120093432/120093432_MCM_PACK_1136912.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw3e4e7ece/images/120395588/120395588_MCM_PACK_1040619.png"
+      ],
+      "definitions": [
+        "the star that is the source of light and heat for the planets in the solar system",
+        "the rays of the sun",
+        "a person considered as a source of warmth or energy or glory etc",
+        "any star around which a planetary system revolves",
+        "first day of the week; observed as a day of rest and worship by most Christians"
+      ]
+    },
+    {
+      "id": "army",
+      "image_urls": [
+        "https://www.army.mil/e2/images/rv7/uniforms/Uniforms_ASU_frontshot_male.png",
+        "https://www.army.mil/e2/images/rv7/uniforms/Uniforms_OCP_sideview.png",
+        "https://afcwebsite.blob.core.usgovcloudapi.net/uploads/assets/swf_slider_image_f9da51d008.png",
+        "https://www.todaysmilitary.com/themes/basic/images/optimized/JT_Nipp.png",
+        "https://www.defense.gov/portals/1/Interactive/2019/11-uniform-evolution/army/banner-figures-monochrome-army.png"
+      ],
+      "definitions": [
+        "a permanent organization of the military land forces of a nation or state",
+        "a large number of people united for some specific purpose",
+        "the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/nPT3vS4AklWXg39tTeiah/a110333e41cfb94c85f8de782a45ccf0/retailrepositioning-e6ed62bb181d46b19c0e770fcdd73be8-800-800.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "trouble",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5caa8b9e809d8e64e388b186/1558347693039-1YXXPSOC1X3VPZ9SR97T/Trouble_logo_yellow1.png",
+        "https://images.squarespace-cdn.com/content/v1/5caa8b9e809d8e64e388b186/1558347693039-1YXXPSOC1X3VPZ9SR97T/Trouble_logo_yellow1.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZhKBph6n8-EBppzfnvUn29KQnfKCTosmPwscgvcjoI3mtMEfk8nNGVNXk14-tt6EnFdRJXPfWtUw1SD2nB5M3IC4Y1NjvPyWoZ5.png",
+        "https://images.squarespace-cdn.com/content/v1/5c0714f2b40b9d1bd887c614/1600113128998-SCHNO8RGWR5KCWK07I01/Trouble_combologo_purple.png",
+        "https://static.wikia.nocookie.net/logopedia/images/b/bc/Trouble_logo_1997.png"
+      ],
+      "definitions": [
+        "a source of difficulty",
+        "an angry disturbance",
+        "an event causing distress or pain",
+        "an effort that is inconvenient",
+        "a strong feeling of anxiety",
+        "an unwanted pregnancy"
+      ]
+    },
+    {
+      "id": "control",
+      "image_urls": [
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcontrol%2Fhome%2FCONTROL_logo_black_with_trademark_RGB-2339x431-bb9ba500a825fd85bb075403fc5068ad162c95f3.png",
+        "https://www.house-of-control.nl/uploads/images/control-simons-levers-of-control.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfrkgnOzSwXfNu5iq-9BjtBGri10O53j5hmvbL9DzGPh8VxnPJXae880hiaP7Jr7If4OKkhV70nbJTGqfa_omqiV9OkWO29P3pojtTYWiYbTjVHjU961HgMVsz0_WABCu_wNvNPlYHCa6RhCkBTIKYVLdvAysYgJbf5vPHMuiYzuXg.png",
+        "https://cdn2.unrealengine.com/control-ultimate-edition-black-rgb-r-2000x518-3b437a5a9a01.png",
+        "https://www.secnology.com/wp-content/uploads/2017/11/Secnology-policy-control.png"
+      ],
+      "definitions": [
+        "power to direct or determine",
+        "a relation of constraint of one entity (thing or person or group) by another",
+        "(physiology) regulation or maintenance of a function or action or reflex etc",
+        "a standard against which other conditions can be compared in a scientific experiment",
+        "the activity of managing or exerting control over something",
+        "the state that exists when one person or group has power over another",
+        "discipline in personal and social activities",
+        "great skillfulness and knowledge of some subject or activity",
+        "a mechanism that controls the operation of a machine",
+        "a spiritual agency that is assumed to assist the medium during a seance",
+        "the economic policy of controlling or limiting or curbing prices or wages etc."
+      ]
+    }
+  ]
+}

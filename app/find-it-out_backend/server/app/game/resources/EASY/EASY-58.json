@@ -1,0 +1,146 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "clouds",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://cdn-icons-png.flaticon.com/512/252/252035.png",
+        "https://cdn1.iconfinder.com/data/icons/hawcons/32/700432-icon-20-clouds-512.png"
+      ],
+      "definitions": [
+        "any collection of particles (e.g., smoke or dust) or gases that is visible",
+        "a visible mass of water or ice particles suspended at a considerable altitude",
+        "out of touch with reality",
+        "a cause of worry or gloom or trouble",
+        "suspicion affecting your reputation",
+        "a group of many things in the air or on the ground"
+      ]
+    },
+    {
+      "id": "television",
+      "image_urls": [
+        "https://smart-cover.co.uk/wp-content/themes/Smart%20Cover/page-templates/images/tvcvr-right.png",
+        "https://ec.europa.eu/energy/sites/default/files/eepf_labels/assets/images/eepf_labels_tv_icon_big.png",
+        "https://images.selency.com/1858e1b1-30f3-4a73-8d3a-c424ec2f8fd0/continental-television-edifice-on-foot-tulip_original.png",
+        "https://www.bestelectronicsltd.com/wp-content/uploads/2017/11/Toshiba-40%E2%80%B3-Series-37L3750VE-Full-HD-LED-LCD-Television.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/CN/QD/AL/76732024/android-television-250x250.png"
+      ],
+      "definitions": [
+        "broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs",
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "id": "ground",
+      "image_urls": [
+        "https://lightlife.com/wp-content/uploads/2020/05/Img_OurFood_Ground_med_CA-1.png",
+        "https://www.uva.nl/binaries/_ht_1557240385793/cardmedium/content/gallery/faculteiten-en-diensten/fgw-met-restricties/disciplines/conservering/projecten/down-to-the-ground-logo.png",
+        "https://www.jennieo.com/wp-content/uploads/2019/10/image-product_lean-ground-turkey-roll-16oz-500x500-2.png",
+        "https://www.shakyground.nl/wp-content/uploads/2020/01/ShakyGround-logo-260x189-1.png",
+        "https://www.tyson.com/static/db3fdabc3b4fa366fe867bcfb905462e/03e29/tyson_ground_chicken_665x547.png"
+      ],
+      "definitions": [
+        "the solid part of the earth's surface",
+        "a rational motive for a belief or action",
+        "the loose soft material that makes up a large part of the land surface",
+        "a relation that provides the foundation for something",
+        "a position to be won or defended in battle (or as if in battle)",
+        "the part of a scene (or picture) that lies behind objects in the foreground",
+        "material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)",
+        "a relatively homogeneous percept extending back of the figure on which attention is focused",
+        "a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)",
+        "(art) the surface (as a wall or canvas) prepared to take the paint for a painting",
+        "the first or preliminary coat of paint or size applied to a surface"
+      ]
+    },
+    {
+      "id": "dust",
+      "image_urls": [
+        "https://www.nioz.nl/application/files/5616/1407/2191/64PE482-dust2021-sticker.png",
+        "https://cdn.staticcrate.com/stock-hd/effects/footagecrate-disintegration-dust-surface-1-prev-full.png",
+        "https://cdn.werkenmetmerken.nl/img/Kontakt-Chemie_Dust_Off_HF-t-500x333.png",
+        "https://www.pastglobalchanges.org/sites/default/files/download/docs/magazine/2014-2/images/Fig%201_Dust%20in%20climate_L_opt.png",
+        "https://product-images.weber.com/accessory-images/17614_Smoking-Dust-Beech_Side_REV.png"
+      ],
+      "definitions": [
+        "fine powdery material such as dry earth or pollen that can be blown about in the air",
+        "the remains of something that has been destroyed or broken up",
+        "free microscopic particles of solid material"
+      ]
+    },
+    {
+      "id": "radio",
+      "image_urls": [
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw4c424d68/Tuner_Hero_Black-1605x1605px.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7b1d8da8/JBL_TUNER2_DAB_HERO_WHITE_003_x3.png",
+        "https://www.panasonic.com/content/dam/pim/be/nl/RX/RX-D55/RX-D552E/ast-1261642.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw73473d81/JBL_TUNERXL_DAB_HERO_BLACK_003_x2.png",
+        "https://koelemanelektro.nl/uploads/images/catalog/product/crop_small/albrecht-dr-490-wit.png"
+      ],
+      "definitions": [
+        "medium for communication",
+        "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+        "a communication system based on broadcasting electromagnetic waves"
+      ]
+    },
+    {
+      "id": "attic",
+      "image_urls": [
+        "https://energycodeace.com/site/custom/public/reference-ace-2016/ImagesExt/image6738_15.png",
+        "https://hintzebelts.com/wp-content/uploads/2017/09/atticboardset.png",
+        "https://www.datocms-assets.com/38021/1617972282-attic-splash-570.png",
+        "https://www.stira.com/wp-content/uploads/2021/03/2png.png",
+        "https://d2zrc47ziwc8va.cloudfront.net/images/eas/Efficient-Attic-Solution.png"
+      ],
+      "definitions": [
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+        "informal terms for a human head",
+        "(architecture) a low wall at the top of the entablature; hides the roof"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "corner",
+      "image_urls": [
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/ORO1N1N1/logo_465x320.png",
+        "https://my.pocketmenu.nl/uploads/files/websites/the-corner-amsterdam/logo.png",
+        "https://static.takeaway.com/images/restaurants/nl/QO5N7PO/logo_465x320.png",
+        "https://static.takeaway.com/images/restaurants/nl/N7PQRRO/logo_465x320.png",
+        "https://www.woutmonseurs.nl/wp-content/uploads/2018/03/corner4.png"
+      ],
+      "definitions": [
+        "a place off to the side of an area",
+        "the point where two lines meet or intersect",
+        "an interior angle formed by two meeting walls",
+        "the intersection of two streets",
+        "the point where three areas or surfaces meet or intersect",
+        "a small concavity",
+        "a temporary monopoly on a kind of commercial trade",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a projecting part where two sides or edges meet",
+        "a remote area",
+        "(architecture) solid exterior angle of a building; especially one formed by a cornerstone"
+      ]
+    }
+  ]
+}

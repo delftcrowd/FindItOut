@@ -1,0 +1,118 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "oven",
+      "image_urls": [
+        "https://media3.bosch-home.com/Product_Shots/1600x900/MCSA01975329_HBA534BS0_FullSizeOven_Bosch_STP_EOX5_def.png",
+        "https://www.beko.com/content/dam/netherlands-nl-aem/netherlands-nl-aemProductCatalog/technology/tech_CookMaster_Cooking/BI-Oven-CookMaster-Primary.png",
+        "https://www.pelgrim.nl/wp-content/uploads/2020/07/OVP436RVS.png",
+        "https://www.pelgrim.nl/wp-content/uploads/2020/07/OVP436RVS_IMG2.png",
+        "https://www.pelgrim.nl/wp-content/uploads/2020/07/OVM824MAT-1.png"
+      ],
+      "definitions": [
+        "kitchen appliance used for baking or roasting"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://www.robertthomashomes.com/wp-content/uploads/2020/04/At-Home-Kitchen-1.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "pan",
+      "image_urls": [
+        "https://rookplankje.nl/wp-content/uploads/2020/08/Grill_Guru_Cast_Iron_Fry_Pan_GG320.png",
+        "https://cdn.shopify.com/s/files/1/0066/9312/6202/products/small_fry_45_30405_45f2b218-7de8-4c75-8788-4638aa68185b_1000x700_crop_bottom.png",
+        "https://www.greenpan.nl/dw/image/v2/BGCC_PRD/on/demandware.static/-/Sites-greenpan-storefront-nl/default/dwec187a49/Category_thumbnail_Frying%20Pan.png",
+        "https://www.cadacinternational.com/media/catalog/product/cache/5d451a7c2706e3178632db9d96f08f78/5/6/5610-300_chef_pan_40.png",
+        "https://uploads-ssl.webflow.com/60f16ed66c5ad0b36e89102d/60f16ed66c5ad064098914cc_Fry%20Pan%20Dark%20Grey%2028%20CM%20-%20thumb.png"
+      ],
+      "definitions": [
+        "cooking utensil consisting of a wide metal vessel",
+        "(Greek mythology) god of fields and woods and shepherds and flocks; represented as a man with goat's legs and horns and ears; identified with Roman Sylvanus or Faunus",
+        "shallow container made of metal",
+        "chimpanzees; more closely related to Australopithecus than to other pongids"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "shop",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/1200px-DotShop_gTLD_logo.svg.png",
+        "https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5f76d7cb690e57c164388d32_Artboard%208.png",
+        "https://www.jumblebee.co.uk/site/wp-content/uploads/2014/06/JB-FE-Shop_10.png",
+        "https://shopinshopxlstore.nl/wp-content/uploads/2021/03/logo-shop-in-shop-XL-store-e1617103847341.png",
+        "https://cdn.shopify.com/s/files/1/0523/6791/7209/files/blue-stg_100x@2x.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "small workplace where handcrafts or manufacturing are done",
+        "a course of instruction in a trade (as carpentry or electricity)"
+      ]
+    },
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "food",
+      "image_urls": [
+        "https://images.ctfassets.net/grb5fvwhwnyo/1sJpRsfp1RJI3AASMiOS1h/4421f71ab2cbdf50d1c960ebfcd02a39/P2.3_Page-SEO-Data.png",
+        "https://www.asiaexpressfood.nl/images/header/2019/Anuga_banner_2021_-_Bovenlaag.png",
+        "https://futurefoodgroup.nl/en/wp-content/uploads/sites/5/2020/09/LR_Vega_worst@0.33x-450x480.png",
+        "https://amlifestylemedicine.com/wp-content/uploads/2019/01/canada.png",
+        "https://www.rotterdamfoodcluster.com/content/themes/rfc/dist/assets/images/logo-rfc-extended.png"
+      ],
+      "definitions": [
+        "any substance that can be metabolized by an animal to give energy and build tissue",
+        "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+        "anything that provides mental stimulus for thinking"
+      ]
+    },
+    {
+      "id": "refrigerators",
+      "image_urls": [
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png",
+        "https://ac.inv-static.com/images/psygeia/psigeiokatapsiktes/PS18870LIN/CATEGORY_SEE_MORE/CATEGORY_IMAGE_PS18870LIN%20(1).png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/EI23BC82SS-HOV_628.png",
+        "https://www.steel-cucine.com/content/uploads/steel/2015/10/GFR9B-Immagine-Evidenza-STEEL.png",
+        "https://www.steel-cucine.com/content/uploads/steel/2021/09/EFR9_featured.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    }
+  ]
+}

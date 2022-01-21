@@ -1,0 +1,265 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "wall",
+      "image_urls": [
+        "https://www.hofbogen.nl/wp-content/uploads/2017/10/pink-wall.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Cobblestone_Wall_JE2_BE2.png",
+        "https://www.wall-stack.com/wp-content/uploads/2019/03/WallStack-Modular-Partition-Wall-System-principle-02.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/Deepslate_Tile_Wall_JE2.png",
+        "https://www.weverducre.com/pim/BOX%20WALL%20OUTDOOR%202.0/image-thumb__951978__lightbox/Box-2.0-740148A_.png"
+      ],
+      "definitions": [
+        "an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure",
+        "anything that suggests a wall in structure or function or effect",
+        "(anatomy) a layer (a lining or membrane) that encloses a structure",
+        "a difficult or awkward situation",
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+        "a layer of material that encloses space",
+        "a masonry fence (as around an estate or garden)",
+        "an embankment built around a space for defensive purposes"
+      ]
+    },
+    {
+      "id": "cave",
+      "image_urls": [
+        "https://www.nps.gov/subjects/caves/images/speleothem_formation_MACA_revised.png",
+        "https://lumiere-a.akamaihd.net/v1/images/thecave_pedigree-1200-goldblack_v2_30a2610c.png",
+        "https://veho-world.com/wp-content/uploads/2018/05/Cave-Starter-Kit-1.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/cave-fff789f8aed0a3b79ce734c17103df2131cdff14.png",
+        "https://krcgtv.com/resources/media/deae1689-b398-4ceb-a5f7-daff61507be2-medium16x9_cave3.png"
+      ],
+      "definitions": [
+        "a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea"
+      ]
+    },
+    {
+      "id": "maze",
+      "image_urls": [
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/61033/maze-clipart-md.png",
+        "https://inginious.org/course/competitive-programming/graphs-maze/maze.png",
+        "https://i.pinimg.com/originals/f3/f8/d1/f3f8d1fd6c79ec18e00a44d26e064676.png",
+        "https://mazegroup.nl/wp-content/uploads/2020/05/maze-versimpeld-x.png",
+        "https://cdn.shopify.com/s/files/1/0591/9493/articles/Spring-Celebration-Ballet-Lottie-printable-maze_1024x1024.png"
+      ],
+      "definitions": [
+        "complex system of paths or tunnels in which it is easy to get lost",
+        "something jumbled or confused"
+      ]
+    },
+    {
+      "id": "gate",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/1207/1207120.png",
+        "https://www.nicepng.com/png/full/61-613172_metal-gate-png-picture-library-library-wrought-iron.png",
+        "https://static.wikia.nocookie.net/valheim/images/e/e8/Iron_gate.png",
+        "https://static.wikia.nocookie.net/foxhole_gamepedia_en/images/2/26/Gate-T1Icon.png",
+        "https://boetechmeps.com/wp-content/uploads/2020/05/categorie_automatic_gate.png"
+      ],
+      "definitions": [
+        "a movable barrier in a fence or wall",
+        "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+        "total admission receipts at a sports event",
+        "passageway (as in an air terminal) where passengers can embark or disembark"
+      ]
+    },
+    {
+      "id": "hotel",
+      "image_urls": [
+        "https://media.hrs.com/media/image/01/99/b7/hotel-dummy.png",
+        "https://www.thejames.nl/images/logo-the-james-gold.png",
+        "https://2xtznj18ire847rzm32uwbwy-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/Ambassade_Hotel_Amsterdam_logo_2016-black-1030x447.png",
+        "https://www.hotelriche.nl/wp-content/uploads/2019/11/Hotel-Riche-Logo_Retina.png",
+        "https://www.wijck.com/upload/producten/1024x1024/hotel-new-york-lijst15009154163.png"
+      ],
+      "definitions": [
+        "a building where travelers can pay for lodging and meals and other services"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "airport",
+      "image_urls": [
+        "https://s28477.pcdn.co/wp-content/uploads/2017/07/Schiphol_logo.svg_-1024x380.png",
+        "https://www.inform-software.com/fileadmin/user_upload/inform-world/INFORMWELT-Airport.png",
+        "https://naco.nl/smart-aviation/images/passenger.png",
+        "https://www.swarco.com/sites/default/files/public/airport800.png",
+        "https://uploads-ssl.webflow.com/5bc87d66e1f40410cb03fe2f/603805bfb4ce0884ec3deaae_forum%20icon.png"
+      ],
+      "definitions": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    },
+    {
+      "id": "hospital",
+      "image_urls": [
+        "https://images.trafficsupply.nl/imgfill/800/800/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://images.trafficsupply.nl/imgsrc/504/640/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://ramboll.com/-/media/files/ramboll-fonden/h/hospital-icons3.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXadDGDIpUtxr0qClFU1a8_vMbEd0a-SEDnnm4-grD1cDYkKIl9oajcZYVcnaJ3e1zG4MefT_BXAai2yhtwOtK0nO3Pv9axEw0Wj.png",
+        "https://photos.healthgrades.com/homeimages/find-a-hospital.png"
+      ],
+      "definitions": [
+        "a health facility where patients receive treatment",
+        "a medical institution where sick or injured people are given medical or surgical care"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "freeway",
+      "image_urls": [
+        "https://www.hoofwear.com/media/catalog/product/cache/2884acc26e896ef746f1521ca7341d41/f/r/freeway_front.png",
+        "https://assets.jabra.com/9/1/7/2/91724198e38cb3a1eb7af2f6c9ba1417e44b89c5_jabra_freeway_01.png",
+        "https://www.hoofwear.com/media/catalog/product/cache/2884acc26e896ef746f1521ca7341d41/f/r/freeway-raw-600x600.png",
+        "https://www.xtreme-lab.net/games/freeways/images/logo.png",
+        "https://s3.amazonaws.com/content.sitezoogle.com/u/81865/349a1edcfb0944cc2b9e57e6005b190521a2ce34/original/freeway13.png"
+      ],
+      "definitions": [
+        "a broad highway designed for high-speed traffic"
+      ]
+    },
+    {
+      "id": "connection",
+      "image_urls": [
+        "https://www.connection-sggz.nl/storage/sites/optimized/logo_20200114165657587.png",
+        "https://www.connection-events.com/wp-content/uploads/2018/06/Game-Connection-300x201.png",
+        "https://connectionofthings.com/wp-content/uploads/2021/04/COT.png",
+        "https://images.squarespace-cdn.com/content/v1/5c4f2f545ffd2087e37d7059/1583863268339-BQIYWJH2P4JSU2AJTAPM/NWE-logoPC.png",
+        "https://www.snack-connection.nl/_webblocks/images/logo.png"
+      ],
+      "definitions": [
+        "a relation between things or events (as in the case of one causing the other or sharing features with it)",
+        "the state of being connected",
+        "an instrumentality that connects",
+        "(usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
+        "the process of bringing ideas or events together in memory or imagination",
+        "a connecting shape",
+        "a supplier (especially of narcotics)",
+        "shifting from one form of transportation to another",
+        "the act of bringing two things into contact (especially for communication)"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "love",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drawn_love_hearts.svg/2483px-Drawn_love_hearts.svg.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVBOh9R_LiJ3f2U8kSEydCZ13kEi-9hE-oj8lMPDVFfTVV5dLEYQe8Bk9dq7AlLEj2kAySoeHBP_mWd52ldCMfyBv_MWiOF72EreDidwMBlIubgZfKRGeje8JHj1veG_5nOLUM2A5sjAqJJh40JOnQDbhUJ05VpbSrBl42EdwqCJZw.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeQP52-AdAswTtuVWZ7q2exWntgVndKGKmZG51EQIWy4UljXAaBNVjDVOc0lPRmYv0dxajI9EzppopgxiLoPL-poh8MX8Rt_s-iL.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png",
+        "https://little.love/storage/app/uploads/public/67b/350/eaa/thumb__722_0_0_0_auto.png"
+      ],
+      "definitions": [
+        "a strong positive emotion of regard and affection",
+        "any object of warm affection or devotion",
+        "a beloved person; used as terms of endearment",
+        "a deep feeling of sexual desire and attraction",
+        "a score of zero in tennis or squash",
+        "sexual activities (often including sexual intercourse) between two people"
+      ]
+    },
+    {
+      "id": "passageway",
+      "image_urls": [
+        "https://www.passageway.nl/wp-content/uploads/2020/05/MOA-logoGuidline_1_5_meters-2020-1-350x305.png",
+        "https://artonlocations.com/wp-content/uploads/2017/02/Omaha-Passageway-Canvas-600x600.png",
+        "https://artonlocations.com/wp-content/uploads/2018/04/passageway-24x36-proof-600x600.png",
+        "https://winnielim.org/wp-content/uploads/2020/09/the-passageway-winnielim.png",
+        "https://cdn4.iconfinder.com/data/icons/smart-city-10/512/Underpass_highway_passageway_tunnel_underpass_road_-512.png"
+      ],
+      "definitions": [
+        "a passage between rooms or between buildings",
+        "a path or channel or duct through or along which something may pass"
+      ]
+    },
+    {
+      "id": "company",
+      "image_urls": [
+        "https://web-company.com/wp-content/uploads/2017/01/web-company_transparantPNG.png",
+        "https://companyinholland.nl/wp-content/uploads/2019/10/company-in-holland_logo_400.png",
+        "https://www.feedbackcompany.com/nl-nl/wp-content/uploads/sites/3/2019/02/feedback-company.png",
+        "https://www.secondcompany.nl/app/uploads/2019/12/second-company-logo.png",
+        "https://www.watcompany.nl/wp-content/uploads/2018/10/wat-logo.png"
+      ],
+      "definitions": [
+        "an institution created to conduct business",
+        "small military unit; usually two or three platoons",
+        "the state of being with someone",
+        "organization of performers and associated personnel (especially theatrical)",
+        "a social or business visitor",
+        "a social gathering of guests or companions",
+        "a band of people associated temporarily in some activity",
+        "crew of a ship including the officers; the whole force or personnel of a ship",
+        "a unit of firefighters including their equipment"
+      ]
+    }
+  ]
+}

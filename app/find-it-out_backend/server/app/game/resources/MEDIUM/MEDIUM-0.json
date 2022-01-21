@@ -1,0 +1,265 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "tree",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Tree.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/Azalea_Tree.png",
+        "https://treesforall.nl/app/themes/treesforall/dist/images/beschermer_900.png",
+        "https://tgs.nl/wp-content/uploads/2015/03/tree-new.png",
+        "https://canfield.gov/wp-content/uploads/2019/05/Full-Green-Tree.png"
+      ],
+      "definitions": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+        "a figure that branches from a single root",
+        "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+      ]
+    },
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "air",
+      "image_urls": [
+        "https://static.nike.com/a/images/t_default/358b5ffe-0704-4c5a-89fd-0fa5b2b1f99b/air-max-plus-iii-shoe-KFPSRr.png",
+        "https://ec.europa.eu/environment/air/cleaner_air/img/intro/bird1.png",
+        "https://static.nike.com/a/images/t_default/b5ae51b1-117c-4cf5-96be-e7c69e8ac4ff/air-more-uptempo-older-shoe-fH1t1H.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Air_%28shown%29_JE2.png",
+        "https://ec.europa.eu/environment/air/cleaner_air/img/intro/bird2.png"
+      ],
+      "definitions": [
+        "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
+        "the region above the ground",
+        "a distinctive but intangible quality surrounding a person or thing",
+        "a slight wind (usually refreshing)",
+        "the mass of air surrounding the Earth",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "a succession of notes forming a distinctive sequence",
+        "medium for radio and television broadcasting",
+        "travel via aircraft"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "squirrel",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/iceage/images/e/ec/Scrat_Ice_Age.png",
+        "https://static.wikia.nocookie.net/hayday/images/3/3e/Squirrel_Idle.png",
+        "https://cdn-icons-png.flaticon.com/512/1864/1864534.png",
+        "https://s3.envato.com/files/299233243/Cute%20Squirrel%20With%20Almonds%20SET/cute-squirrel-with-almonds%20transparent%20png.png",
+        "https://cdn-icons-png.flaticon.com/512/1588/1588774.png"
+      ],
+      "definitions": [
+        "a kind of arboreal rodent having a long bushy tail",
+        "the fur of a squirrel"
+      ]
+    },
+    {
+      "id": "desert",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/ks2-desert-landscape.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Sahara-Desert--Terrain-Hot-Geography-KS2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/desert-habitat.png",
+        "https://i.pinimg.com/originals/4b/45/6c/4b456c02c9ab0835d9f97482f95a2873.png",
+        "https://www.elcidtour.com/wp-content/uploads/2020/11/Picture4.png"
+      ],
+      "definitions": [
+        "arid land with little or no vegetation",
+        "(usually plural) a person's deservingness of or entitlement to reward or punishment"
+      ]
+    },
+    {
+      "id": "forest",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5dc2252c8c1cfd4ef90243c4/1574549437077-OEJUJ1HBEIZCG91WL67V/title-art-forest.png",
+        "https://outdoor-forest.nl/wp-content/uploads/2019/12/outdoor-forest-logo-dark-xs.png",
+        "https://forforest.net/wp-content/uploads/2020/10/Logo-Men%C3%BC_Sticky-header-01.png",
+        "https://endnightgames.com/sites/default/files/images/games/forest-logo.png",
+        "https://www.forestsoftheworld.org/files/International.forestsoftheworld.org/Goals%20and%20strategies/2021-03-16%20FoW%20ToC%20illustrated.png"
+      ],
+      "definitions": [
+        "the trees and other plants in a large densely wooded area",
+        "land that is covered with trees and shrubs"
+      ]
+    },
+    {
+      "id": "birds",
+      "image_urls": [
+        "https://www.lynxeds.com/wp-content/uploads/2020/06/All_the_Birds_of_the_World_cover_transp.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Birdmorphology.svg/300px-Birdmorphology.svg.png",
+        "https://www.allaboutbirds.org/guide/images/shape/icon-blackbirds.png",
+        "https://www.birdingplaces.eu/images/bird_placeholder.png",
+        "https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/4/45/Non_Flying_Bird.png"
+      ],
+      "definitions": [
+        "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+        "the flesh of a bird or fowl (wild or domestic) used as food",
+        "informal terms for a (young) woman",
+        "a cry or noise made to express displeasure or contempt",
+        "badminton equipment consisting of a ball of cork or rubber with a crown of feathers"
+      ]
+    },
+    {
+      "id": "sky",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sky_International_-_Logo_2018.svg/220px-Sky_International_-_Logo_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",
+        "https://static.broadband.co.uk/img/sky-5.800px.png",
+        "https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blte734987060db60e6/5ef9f4ec89ea556d5881819f/Sky_Master_Brand_Logo_SMALL_RGB.png"
+      ],
+      "definitions": [
+        "the atmosphere and outer space as viewed from the earth"
+      ]
+    },
+    {
+      "id": "ground",
+      "image_urls": [
+        "https://lightlife.com/wp-content/uploads/2020/05/Img_OurFood_Ground_med_CA-1.png",
+        "https://www.uva.nl/binaries/_ht_1557240385793/cardmedium/content/gallery/faculteiten-en-diensten/fgw-met-restricties/disciplines/conservering/projecten/down-to-the-ground-logo.png",
+        "https://www.jennieo.com/wp-content/uploads/2019/10/image-product_lean-ground-turkey-roll-16oz-500x500-2.png",
+        "https://www.shakyground.nl/wp-content/uploads/2020/01/ShakyGround-logo-260x189-1.png",
+        "https://www.tyson.com/static/db3fdabc3b4fa366fe867bcfb905462e/03e29/tyson_ground_chicken_665x547.png"
+      ],
+      "definitions": [
+        "the solid part of the earth's surface",
+        "a rational motive for a belief or action",
+        "the loose soft material that makes up a large part of the land surface",
+        "a relation that provides the foundation for something",
+        "a position to be won or defended in battle (or as if in battle)",
+        "the part of a scene (or picture) that lies behind objects in the foreground",
+        "material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)",
+        "a relatively homogeneous percept extending back of the figure on which attention is focused",
+        "a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)",
+        "(art) the surface (as a wall or canvas) prepared to take the paint for a painting",
+        "the first or preliminary coat of paint or size applied to a surface"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.cupapizarras.com/wp-content/uploads/2019/09/roof-parts.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://sunstruction.nl/png/systems/roof-hooks.png",
+        "https://www.atlasroofing.com/media/images/original/5319.png",
+        "https://www.mg-bouw.com/wp-content/uploads/2020/05/Meuwissen-AlkReflex-Roof-1.7-Wand-dak-buitenzijde-20210727.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png",
+        "https://www.mystreet.org/media/791008/footpaths-roundel.png",
+        "https://images.squarespace-cdn.com/content/v1/5620ddc4e4b04789570e5fca/1519660057648-G5ZZEN43K2NMO3YOA5PS/SCNL-logo.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/cjfv6a9on0zlh0hqmireerr8r-moto-tyres-pilot-street-persp.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "swimming",
+      "image_urls": [
+        "https://dutchreview.com/wp-content/uploads/rustig_leven.png",
+        "https://dutchreview.com/wp-content/uploads/Screenshot-2019-03-04-at-3.12.11-PM.png",
+        "https://dutchreview.com/wp-content/uploads/Screenshot-2019-03-05-at-12.46.09-PM.png",
+        "https://myswimedge.com/wp-content/uploads/2021/07/img1.png",
+        "https://www.rookieroad.com/img/swimming/swimming-basics.png"
+      ],
+      "definitions": [
+        "the act of swimming"
+      ]
+    },
+    {
+      "id": "yard",
+      "image_urls": [
+        "https://www.yard-indoorfarming.com/wp-content/uploads/2021/05/Yardpeterselke.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/041738_A.png",
+        "https://www.theyardhotel.nl/wp-content/uploads/2017/07/logo.png",
+        "https://images.squarespace-cdn.com/content/v1/5b621f7525bf02d42c9666d8/1533162506506-49XMESISZ94IDRXIHFKW/Main+Logo-03.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/093699_A.png"
+      ],
+      "definitions": [
+        "a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride",
+        "the enclosed land around a house or other building",
+        "a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings)",
+        "the cardinal number that is the product of 10 and 100",
+        "a unit of volume (as for sand or gravel)",
+        "a tract of land where logs are accumulated",
+        "an area having a network of railway tracks and sidings for storage and maintenance of cars and engines",
+        "a long horizontal spar tapered at the end and used to support and spread a square sail or lateen",
+        "an enclosure for animals (as chicken or livestock)"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.thegardenstore.nl/wp-content/uploads/2021/01/The-Garden-Store-Tuin-Interieur-Plantstyling-projects-frame.png",
+        "https://elho.xcdn.nl/RM200,200,C_OQ70/light-garden-leaf-green-1731900236000c1png/light_garden_leaf_green_1731900236000.c1.png",
+        "https://www.decoaction.nl/pub/media/catalog/product/cache/700x700/wandbord-englisch-flower-garden.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    }
+  ]
+}

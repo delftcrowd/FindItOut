@@ -1,0 +1,114 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "mexico",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MEX_orthographic.svg/260px-MEX_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mexico_%28orthographic_projection%29.svg/266px-Mexico_%28orthographic_projection%29.svg.png",
+        "https://beachsoccer.com/wp-content/uploads/flags/mex.png",
+        "https://www.giz.de/static/en/media/Mexico_flag.png",
+        "https://www.hollandhousemexico.com/app/uploads/sites/16/2020/10/HHM20_Mexico-Macroeconomic.png"
+      ],
+      "definitions": [
+        "a republic in southern North America; became independent from Spain in 1810"
+      ]
+    },
+    {
+      "id": "america",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Latin_America_%28orthographic_projection%29.svg/1200px-Latin_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_North_America.svg/1200px-Location_North_America.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USA_orthographic.svg/220px-USA_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/1200px-South_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/United_States_on_the_globe_%28North_America_centered%29.svg/1200px-United_States_on_the_globe_%28North_America_centered%29.svg.png"
+      ],
+      "definitions": [
+        "North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776",
+        "North America and South America and Central America"
+      ]
+    },
+    {
+      "id": "oklahoma",
+      "image_urls": [
+        "https://kfor.com/wp-content/uploads/sites/3/2021/06/deq-air-qualirt-health-advisory.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Oklahoma_City_highlighted.svg/250px-Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Oklahoma_City_highlighted.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2010populationdensityoklahoma.svg/1200px-2010populationdensityoklahoma.svg.png",
+        "https://www.occedb.org/uploads/1/2/1/4/121468201/published/ok-map1.png",
+        "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+      ],
+      "definitions": [
+        "a state in south central United States"
+      ]
+    },
+    {
+      "id": "utah",
+      "image_urls": [
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_9-23.png",
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_9-9-21.png",
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_8-26.png",
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_9-16.png",
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_8-5.png"
+      ],
+      "definitions": [
+        "a state in the western United States; settled in 1847 by Mormons led by Brigham Young"
+      ]
+    },
+    {
+      "id": "texas",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Texas_flag_map.svg/1200px-Texas_flag_map.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag-map_of_Texas.svg/1200px-Flag-map_of_Texas.svg.png",
+        "https://schreiner.edu/wp-content/uploads/Departments/The-Texas-Center/The-Texas-Center-Logo-WebSU.png",
+        "https://poweringtexas.com/wp-content/uploads/2018/10/powering-texas-icon.png",
+        "https://is-birdcast-wordpress-prod-s3.s3.amazonaws.com/wp-content/uploads/Tim-Wallace-Light-with-control-for-population-TX-v1.png"
+      ],
+      "definitions": [
+        "the second largest state; located in southwestern United States on the Gulf of Mexico"
+      ]
+    },
+    {
+      "id": "colorado",
+      "image_urls": [
+        "https://oedit.colorado.gov/sites/coedit/files/styles/carousel_images/public/co-mountains-edited-sky-copy-1530x858.png",
+        "https://archives.colorado.gov/sites/archives/files/styles/large_thumbnail_450x450_/public/shutterstock_136762484-GreetingsPostcard.png",
+        "https://www.coloradocharlie.nl/wp-content/uploads/logo-colorado-charlie-paars.png",
+        "https://www.projectcanary.com/wp-content/uploads/2021/03/CSULogoOG.png",
+        "https://inv.assets.sincrod.com/ChromeColorMatch/us/TRANSPARENT_cc_2022CHT350007_01_1280_G9K.png"
+      ],
+      "definitions": [
+        "a state in west central United States in the Rocky Mountains",
+        "a river in Texas; flows southeast into the Gulf of Mexico",
+        "an important river in the southwestern United States; rises in the Rocky Mountains of northern Colorado and flows southwest through Utah into Arizona (where it flows through the Grand Canyon) and then southward through the southern tip of Nevada, then forming the border between California and Arizona and finally into Mexico where it empties into the Gulf of California; the main source of water in the southwestern United States"
+      ]
+    },
+    {
+      "id": "arizona",
+      "image_urls": [
+        "https://www.lekker-fris.nl/wp-content/uploads/2021/07/5-450x450.png",
+        "https://www.lekker-fris.nl/wp-content/uploads/2017/04/AZ-335x1024kopie-335x1024.png",
+        "https://www.lekker-fris.nl/wp-content/uploads/2017/04/KiwiStrawberry.png",
+        "https://www.mbgglobal.net/en/wp-content/uploads/sites/2/2019/03/AriZona_500x350_Portfolio.png",
+        "https://images.squarespace-cdn.com/content/v1/6049869c2901a02ddf00c94e/1617153982460-XRSDVJPSTGV0I4FRIJ3C/1.png"
+      ],
+      "definitions": [
+        "a state in southwestern United States; site of the Grand Canyon",
+        "glossy snake"
+      ]
+    },
+    {
+      "id": "arkansas",
+      "image_urls": [
+        "https://www.healthy.arkansas.gov//themes/site_themes/default_site/images/health-units-map.png",
+        "https://www.arcf.org/app/uploads/2020/05/AFF-Map.png",
+        "https://gis.arkansas.gov/wp-content/uploads/2019/01/House_2011.png",
+        "https://dynamiclearningmaps.org/sites/default/files/pictures/states/AR_state.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-05/hotspots.png"
+      ],
+      "definitions": [
+        "a state in south central United States; one of the Confederate states during the American Civil War",
+        "a river that rises in the Rocky Mountains in Colorado and flows southeast through Kansas and Oklahoma and through Arkansas to become a tributary of the Mississippi River"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "summer",
+      "image_urls": [
+        "https://calendar.wincalendar.net/img/holiday/summer-solstice.png",
+        "https://www.scattando.nl/uploads/6/2/3/4/62348357/summer-events-logo_orig.png",
+        "https://indiansummerfestival.nl/_nuxt/img/hero@2x.7469a0b.png",
+        "https://www.freeiconspng.com/thumbs/summer-png/beach-umbrella-sea-cocktail-ball-summer-png-24.png",
+        "https://www.refinery29.com/images/9875777.png"
+      ],
+      "definitions": [
+        "the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox",
+        "the period of finest development, happiness, or beauty"
+      ]
+    },
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "moon",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://cdn.shopify.com/s/files/1/2486/3224/files/PL_jpg_30a24c90-8bb6-4ff1-85c7-baa43f4d0131_grande.png",
+        "https://nineplanets.org/wp-content/uploads/2019/09/moon.png"
+      ],
+      "definitions": [
+        "the natural satellite of the Earth",
+        "any object resembling a moon",
+        "the period between successive new moons (29.531 days)",
+        "the light of the Moon",
+        "United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)",
+        "any natural satellite of a planet"
+      ]
+    },
+    {
+      "id": "windowsill",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/nuuline-fill-interior-home-decoration/150/home_decoration_interior-09-512.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/02/Windowsill-breeze-Scentsy-waxbar.png",
+        "https://www.comhan.com/sites/default/files/styles/type_smal/public/waterslagen_35sl_15deg_waterslag_35sl_190mm_w-image1.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/10/Scentsy-vloeibaar-wasmiddel-windowsill-breeze.png",
+        "https://www.seekpng.com/png/full/763-7631869_how-to-design-a-windowsill-flower-box-window.png"
+      ],
+      "definitions": [
+        "the sill of a window; the horizontal member at the bottom of the window frame"
+      ]
+    },
+    {
+      "id": "desert",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/ks2-desert-landscape.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Sahara-Desert--Terrain-Hot-Geography-KS2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/desert-habitat.png",
+        "https://i.pinimg.com/originals/4b/45/6c/4b456c02c9ab0835d9f97482f95a2873.png",
+        "https://www.elcidtour.com/wp-content/uploads/2020/11/Picture4.png"
+      ],
+      "definitions": [
+        "arid land with little or no vegetation",
+        "(usually plural) a person's deservingness of or entitlement to reward or punishment"
+      ]
+    },
+    {
+      "id": "sunbathers",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1646/3445/products/MOZ_june2021merchdrop-towel_2048x2048.png",
+        "https://cdn.shopify.com/s/files/1/1246/1559/products/IMG_6740_grande.png",
+        "https://i.pinimg.com/originals/6c/26/07/6c2607c2db67f6128ff178362ea4b65f.png",
+        "https://cdn.wearedestination.com/cms4/uploads/2019/10/24/d145dd51aa6c4dfa8d88e02500a9583a-200x200.png",
+        "https://i.pinimg.com/originals/fe/67/64/fe67649325f9366dd58b6438a2e03301.png"
+      ],
+      "definitions": [
+        "someone who basks in the sunshine in order to get a suntan"
+      ]
+    },
+    {
+      "id": "sun",
+      "image_urls": [
+        "https://solarsystem.nasa.gov/system/basic_html_elements/11561_Sun.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/golden-tan-max-after-sun-lotion-125-ml.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/3614224838553_sun-beauty-body_sun-beauty-velvet-milk-spf30-75ml-tube.png",
+        "https://www.etos.nl/on/demandware.static/-/Sites-etos-master-catalog/default/dwe338e5f7/images/120093432/120093432_MCM_PACK_1136912.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw3e4e7ece/images/120395588/120395588_MCM_PACK_1040619.png"
+      ],
+      "definitions": [
+        "the star that is the source of light and heat for the planets in the solar system",
+        "the rays of the sun",
+        "a person considered as a source of warmth or energy or glory etc",
+        "any star around which a planetary system revolves",
+        "first day of the week; observed as a day of rest and worship by most Christians"
+      ]
+    },
+    {
+      "id": "sea",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/58c03b872e69cfc931230b4d/1568984986484-DH59U58UFQ8GR6IH0SRT/john-jason-mpVZVCClgac-unsplash.png",
+        "https://sea-eu.org/wp-content/themes/theme_seaeu_uca/images/logo/logo_seaeu4.png",
+        "https://sea-watch.org/wp-content/uploads/2017/05/sea-watch_logo_1024.png",
+        "https://www.koppertcress.com/media/cache/generic/rc/WftAKqME//uploads/media/5db97406659e8/special-wb-seafennel-1805-rgb-16-9.png",
+        "https://wesea.es/wp-content/uploads/2020/01/tuni2-scaled-min3-1030x546.png"
+      ],
+      "definitions": [
+        "a division of an ocean or a large body of salt water partially enclosed by land",
+        "anything apparently limitless in quantity or volume",
+        "turbulent water with swells of considerable size"
+      ]
+    },
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png",
+        "https://www.mystreet.org/media/791008/footpaths-roundel.png",
+        "https://images.squarespace-cdn.com/content/v1/5620ddc4e4b04789570e5fca/1519660057648-G5ZZEN43K2NMO3YOA5PS/SCNL-logo.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/cjfv6a9on0zlh0hqmireerr8r-moto-tyres-pilot-street-persp.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    },
+    {
+      "id": "glass",
+      "image_urls": [
+        "https://www.rijksmuseumshop.nl/media/image/62/b3/91/12118_f.png",
+        "https://anna-nina.imgix.net/spree/products/14506/huge/Wine_Glass_Cobalt_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/14497/huge/Bubble_Water_Glass_Sea_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/14505/huge/Wine_Glass_Sea_Blue_edited.png",
+        "https://catalog.depa.eu/static/uploads/pictures/large/DEPA_150331.png"
+      ],
+      "definitions": [
+        "a brittle transparent solid with irregular atomic structure",
+        "a container made of glass for holding liquids while drinking",
+        "the quantity a glass will hold",
+        "a small refracting telescope",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant",
+        "a mirror; usually a ladies' dressing mirror",
+        "glassware collectively"
+      ]
+    },
+    {
+      "id": "sunshine",
+      "image_urls": [
+        "https://i.pinimg.com/originals/ff/c4/79/ffc47937dc0fdd6fa4da4744d3341302.png",
+        "https://cdn-icons-png.flaticon.com/512/566/566516.png",
+        "https://grandaisy.eu/wp-content/uploads/2019/12/Tekengebied-9.png",
+        "https://www.ethiorest.nl/wp-content/uploads/2020/07/logo_sunshine_zonderurl_hoog.png",
+        "https://images.squarespace-cdn.com/content/v1/56ccf3f962cd94e237370b60/1456526323174-888QLETZSIAVC0MYMGI4/Tiny+Ray+of+Sunshine-logo+%282%29.png"
+      ],
+      "definitions": [
+        "the rays of the sun",
+        "moderate weather; suitable for outdoor activities",
+        "the quality of being cheerful and dispelling gloom"
+      ]
+    },
+    {
+      "id": "disneyland",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/disney/images/a/ad/Disneyland.png",
+        "https://d118pfm5xh6r9q.cloudfront.net/images/d/disneylandparis_9.png",
+        "https://disneydrive.be/wp-content/uploads/2018/03/Disneyland_Paris_logo.svg-1-1024x289.png",
+        "https://www.discoverthemagic.nl/images/footer-discoverthemagic.png",
+        "https://static.wikia.nocookie.net/disney/images/9/96/Disneyland_Paris.png"
+      ],
+      "definitions": [
+        "an amusement park in Anaheim created in 1955 by Walt Disney"
+      ]
+    },
+    {
+      "id": "curtain",
+      "image_urls": [
+        "https://www.soliday.eu/fileadmin/user_upload/produkte/outdoor_vorhaenge/section1/outdoor_vorhaenge_4-crop-u64935.png",
+        "https://www.kitschkitchen.nl/wp-content/uploads/Kitsch-Kitchen-Deurgordijn-Mix.png",
+        "https://i.pinimg.com/originals/6b/60/48/6b6048cf47b2fb0d7228b8ea77af4649.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/3/FY/XE/ES/25664480/door-curtain-500x500.png",
+        "https://cdn.shopify.com/s/files/1/2808/8444/products/WSC1318-WEIGHTED-SHOWER-CURTAIN_-1300MM-WIDTH_-18OOMM-DEPTH-P3_400x.png"
+      ],
+      "definitions": [
+        "hanging cloth used as a blind (especially for a window)",
+        "any barrier to communication or vision"
+      ]
+    },
+    {
+      "id": "beach",
+      "image_urls": [
+        "https://luxepoxytafels.nl/app/uploads/2021/06/Epoxy-Tafel-Beach-Bovenaanzicht.png",
+        "https://cdn.shopify.com/s/files/1/0323/5518/8873/products/JL_Beach_Sinatra_Men_1024x1024.png",
+        "https://www.webtonbeachtwente.nl/wp-content/uploads/logo-webton-beach-twente-achtergrond.png",
+        "https://www.palmbeach-roermond.nl/wp/wp-content/uploads/2021/02/palmbeach.png",
+        "https://www.emsporting.nl/Files/4/10000/10720/ProductPhotos/MaxContent/284799977.png"
+      ],
+      "definitions": [
+        "an area of sand sloping down to the water of a sea or lake"
+      ]
+    },
+    {
+      "id": "snow",
+      "image_urls": [
+        "https://centimo.nl/wp-content/uploads/2021/03/whiteflock.png",
+        "https://www.sherpa.si/images/parallax-ground-reduced.png",
+        "https://cdn1.umg3.net/485-cdn/img/snowflake.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c9/Snow_%28layers_2%29_JE3_BE2.png",
+        "https://energydrinkshop.nl/wp-content/uploads/2019/07/Snow_Cone.png"
+      ],
+      "definitions": [
+        "precipitation falling from clouds in the form of ice crystals",
+        "a layer of snowflakes (white crystals of frozen water) covering the ground",
+        "English writer of novels about moral dilemmas in academe (1905-1980)",
+        "street names for cocaine"
+      ]
+    }
+  ]
+}

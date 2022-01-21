@@ -1,0 +1,255 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://nvdpl.ca/sites/default/files/styles/slideshow/public/field/image/slideshow_images/Web_2020%20COVID-19_Get%20in%20touch_2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "hotel",
+      "image_urls": [
+        "https://media.hrs.com/media/image/01/99/b7/hotel-dummy.png",
+        "https://www.thejames.nl/images/logo-the-james-gold.png",
+        "https://2xtznj18ire847rzm32uwbwy-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/Ambassade_Hotel_Amsterdam_logo_2016-black-1030x447.png",
+        "https://www.hotelriche.nl/wp-content/uploads/2019/11/Hotel-Riche-Logo_Retina.png",
+        "https://www.wijck.com/upload/producten/1024x1024/hotel-new-york-lijst15009154163.png"
+      ],
+      "definitions": [
+        "a building where travelers can pay for lodging and meals and other services"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "airport",
+      "image_urls": [
+        "https://s28477.pcdn.co/wp-content/uploads/2017/07/Schiphol_logo.svg_-1024x380.png",
+        "https://www.inform-software.com/fileadmin/user_upload/inform-world/INFORMWELT-Airport.png",
+        "https://naco.nl/smart-aviation/images/passenger.png",
+        "https://www.swarco.com/sites/default/files/public/airport800.png",
+        "https://uploads-ssl.webflow.com/5bc87d66e1f40410cb03fe2f/603805bfb4ce0884ec3deaae_forum%20icon.png"
+      ],
+      "definitions": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    },
+    {
+      "id": "hospital",
+      "image_urls": [
+        "https://images.trafficsupply.nl/imgfill/800/800/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://images.trafficsupply.nl/imgsrc/504/640/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://ramboll.com/-/media/files/ramboll-fonden/h/hospital-icons3.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXadDGDIpUtxr0qClFU1a8_vMbEd0a-SEDnnm4-grD1cDYkKIl9oajcZYVcnaJ3e1zG4MefT_BXAai2yhtwOtK0nO3Pv9axEw0Wj.png",
+        "https://photos.healthgrades.com/homeimages/find-a-hospital.png"
+      ],
+      "definitions": [
+        "a health facility where patients receive treatment",
+        "a medical institution where sick or injured people are given medical or surgical care"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://www.microsinternetdiensten.nl/resources/uploads/2017/06/Office365.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "cave",
+      "image_urls": [
+        "https://www.nps.gov/subjects/caves/images/speleothem_formation_MACA_revised.png",
+        "https://lumiere-a.akamaihd.net/v1/images/thecave_pedigree-1200-goldblack_v2_30a2610c.png",
+        "https://veho-world.com/wp-content/uploads/2018/05/Cave-Starter-Kit-1.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/cave-fff789f8aed0a3b79ce734c17103df2131cdff14.png",
+        "https://krcgtv.com/resources/media/deae1689-b398-4ceb-a5f7-daff61507be2-medium16x9_cave3.png"
+      ],
+      "definitions": [
+        "a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea"
+      ]
+    },
+    {
+      "id": "passageway",
+      "image_urls": [
+        "https://www.passageway.nl/wp-content/uploads/2020/05/MOA-logoGuidline_1_5_meters-2020-1-350x305.png",
+        "https://artonlocations.com/wp-content/uploads/2017/02/Omaha-Passageway-Canvas-600x600.png",
+        "https://artonlocations.com/wp-content/uploads/2018/04/passageway-24x36-proof-600x600.png",
+        "https://winnielim.org/wp-content/uploads/2020/09/the-passageway-winnielim.png",
+        "https://cdn4.iconfinder.com/data/icons/smart-city-10/512/Underpass_highway_passageway_tunnel_underpass_road_-512.png"
+      ],
+      "definitions": [
+        "a passage between rooms or between buildings",
+        "a path or channel or duct through or along which something may pass"
+      ]
+    },
+    {
+      "id": "lamp",
+      "image_urls": [
+        "https://res-2.cloudinary.com/m2-circa-lighting/image/upload/c_limit,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/s/p/sp3022habnp_10.png",
+        "https://www.lamp123.nl/data/upload/Shop/images/eglo-ledlamp-standaard-4w-11691-wwwlamp123nl.png",
+        "https://images.selency.com/bef91b39-9929-4a66-948c-3745cfe657d7/lamp-to-be-installed-in-alabaster_original.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Floorlamp/image-thumb__1835__height_500/paper-floor-lamp-big.png",
+        "https://www.ricebyrice.com/media/25590/lamp-tatrgo_2.png"
+      ],
+      "definitions": [
+        "an artificial source of visible illumination",
+        "a piece of furniture holding one or more electric light bulbs"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    },
+    {
+      "id": "coats",
+      "image_urls": [
+        "https://d1fufvy4xao6k9.cloudfront.net/feed/img/man_trenchcoat/228104/mac-coat-men_crop.png",
+        "https://d1fufvy4xao6k9.cloudfront.net/feed/img/man_coat/10788/A4_crop.png",
+        "https://cdn.shopify.com/s/files/1/0030/1239/5052/products/KASSLEditions_HS21_CoatKimonoBelowOilSandBelt2_800x800.png",
+        "https://d2w9m16hs9jc37.cloudfront.net/dimg/blog/2018/10/sumissura_interior_9656_3.png",
+        "https://www.bardot.com/dw/image/v2/BCGZ_PRD/on/demandware.static/-/Sites-bardot-master-catalog/default/dw1d977486/images/hi-res/bardot/53421JB3/53421JB3_161432_TF_06.png"
+      ],
+      "definitions": [
+        "an outer garment that has sleeves and covers the body from shoulder down; worn outdoors",
+        "a thin layer covering something",
+        "growth of hair or wool or fur covering the body of an animal"
+      ]
+    }
+  ]
+}

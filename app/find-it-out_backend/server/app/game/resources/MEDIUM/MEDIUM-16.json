@@ -1,0 +1,263 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "basement",
+      "image_urls": [
+        "https://www.ussu.co.uk/events/PublishingImages/50762604_1050380401812311_3411702263645732864_n.png",
+        "https://www.albodeuren.nl/wp-content/uploads/2018/03/Basement_Modern.png",
+        "https://www.mybasementdoctor.com/wp-content/uploads/2019/11/bd-logo-1.png",
+        "https://www.finishedbasementsplus.com/wp-content/uploads/2019/09/FPB-Logo-1024x537.png",
+        "https://escaperoomthegame.com/images/nl-NL/basement-logo.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "the ground floor facade or interior in Renaissance architecture"
+      ]
+    },
+    {
+      "id": "exchange",
+      "image_urls": [
+        "https://www.avepoint.com/blog/wp-content/uploads/2018/10/exchange-1.png",
+        "https://cloudrun.co.uk/wp-content/uploads/2018/08/Exchange__510x203.png",
+        "https://www.isourcecloud.nl/wp-content/uploads/2014/10/hosted_exchange.png",
+        "https://www.doclogic.nl/hs-fs/hubfs/Logos/Koppelingen/Pagina/Koppeling-JOIN-Microsoft-Exchange.png",
+        "https://support.apple.com/library/content/dam/edam/applecare/images/nl_NL/iOS/iphone-xs-ios13-settings-account-add-exchange-steps-crop.png"
+      ],
+      "definitions": [
+        "chemical process in which one atom or ion or group changes places with another",
+        "a mutual expression of views (especially an unpleasant one)",
+        "the act of changing one thing for another thing",
+        "the act of giving something in return for something received",
+        "a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication",
+        "a workplace for buying and selling; open only to members",
+        "(sports) an unbroken sequence of several successive strokes",
+        "reciprocal transfer of equivalent sums of money (especially the currencies of different countries)",
+        "the act of putting one thing or person in the place of another:",
+        "(chess) gaining (or losing) a rook in return for a knight or bishop",
+        "(chess) the capture by both players (usually on consecutive moves) of pieces of equal value"
+      ]
+    },
+    {
+      "id": "conference",
+      "image_urls": [
+        "https://one-conference.nl/uploads/21402040_ECP_One-conference-2021.png",
+        "https://conference.issa.nl/sites/default/files/ISSA_Conference.png",
+        "https://www.eden-online.org/wp-content/uploads/2021/01/madrid_website_header_madrid-news-transparent-01.png",
+        "https://www.iaoms.org/IAOMS/assets/File/IAOMS-Virtual-Conference-logo.png",
+        "https://www.idlo.int/sites/default/files/images/SDG16%20Conference%20News%20Updates_1.png"
+      ],
+      "definitions": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+        "an association of sports teams that organizes matches for its members",
+        "a discussion among participants who have an agreed (serious) topic"
+      ]
+    },
+    {
+      "id": "hallway",
+      "image_urls": [
+        "https://design-tips.floorplanner.com/wp-content/uploads/2021/02/95450991_project_1_first_floor_first_design_20210212093236.png",
+        "https://cdn0.iconfinder.com/data/icons/interior-furniture-volume-2/256/HALLWAY-512.png",
+        "https://hallway-strapijs-us-east-1-assets.s3.amazonaws.com/Hallway_Logo_Large_Transparent_Text_150c4bada5.png",
+        "https://images.squarespace-cdn.com/content/v1/5d45669751d1320001b1f5af/1606123859850-SKEAAHNT2UXKHI6YMWFE/image-asset.png",
+        "https://ourhousenowahome.com/wp-content/uploads/2016/02/hallway-transormation-collage.png"
+      ],
+      "definitions": [
+        "an interior passage or corridor onto which rooms open"
+      ]
+    },
+    {
+      "id": "dance",
+      "image_urls": [
+        "https://activesafe.ca/wp-content/uploads/2018/04/dancer-completed-01.png",
+        "https://images.squarespace-cdn.com/content/v1/5f364b4110bb4202f7ee856b/1600160087581-R4J7LTHBLIUAENZL2Q3O/Dance+Valley+logo+2020+-+transparant.png",
+        "https://dancer-strong.com/wp-content/uploads/2020/09/ballet-dancer.png",
+        "https://www.dolstradancecentre.nl/wp-content/uploads/2020/08/Dolstra-Dance-Centre-logo-met-dansers-zwart-wit-homepage-Vooropleiding-Talent-School.png",
+        "https://www.dance-skills.nl/wp-content/uploads/dancehiphop.png"
+      ],
+      "definitions": [
+        "an artistic form of nonverbal communication",
+        "a party of people assembled for dancing",
+        "taking a series of rhythmical steps (and movements) in time to music",
+        "a party for social dancing"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "carpet",
+      "image_urls": [
+        "https://www.fatboy.com/assets/image/000/000/124/fatboy-non-flying-carpets-paprika.png",
+        "https://www.fatboy.com/assets/image/000/000/118/fatboy-non-flying-carpets-dont-step.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/a98cbf61f86a5b05151eb960eb59bb35/i/t/it_s_a_wild_world_panther_baby_carpet_200x300_-1.png",
+        "https://images.selency.com/f7dc7262-5df5-437a-8155-0e5544bbbb34/oriental-carpet-240x340-cm-sky-blue_original.png",
+        "https://images.selency.com/6d84a671-d436-4e87-864e-f79ce798df82/small-colorful-old-carpet-150-x-70-cm_original.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)",
+        "a natural object that resembles or suggests a carpet"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5df20135260107019ff99900/1578328159952-CLFJE7ZHZ9T8XWEC68GC/The+Church+of+England+logo+Version+1.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c2d1217b40b9d0b0efaa79a/1560190011772-WGBWIOCBI971QK8HXCPD/BespokeDesign-FloorGuys.png",
+        "https://www.plugwise.com/wp-content/uploads/2020/11/Floor-1100@2x.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://www.kinderboeken.nl/wp-content/uploads/sites/52/2020/07/De-regels-van-Floor-Marjon-Hoffman-Nancy-Koot.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://www.microsinternetdiensten.nl/resources/uploads/2017/06/Office365.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    },
+    {
+      "id": "theater",
+      "image_urls": [
+        "https://d2zr9w65gdacs9.cloudfront.net/34120/tr-logo-aubergine-rgb1496167546logo1570193843logo.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/afas-theater-afbeelding%20algemeen2.png",
+        "https://zirkzee.nl/wp-content/uploads/2020/01/logo_pstheater.png",
+        "https://theaterbabelrotterdam.nl/wp-content/uploads/2018/04/2731B29E-098E-4F9E-96C9-86C045740438@lonnewennekendonk.nl_-300x206.png",
+        "https://www.theaterwalhalla.nl/wp-content/uploads/2018/03/wal.png"
+      ],
+      "definitions": [
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "the art of writing and producing plays",
+        "a region in which active military operations are in progress"
+      ]
+    },
+    {
+      "id": "chairs",
+      "image_urls": [
+        "https://www.boldmonkey.com/media/catalog/product/cache/22d363011ebadd9cd0091033a93e7422/b/m/bm11021_0edit4-.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/22d363011ebadd9cd0091033a93e7422/g/i/give_me_more_chair_orange_-1.png",
+        "https://hutten.com/wp-content/uploads/2018/01/Bilbao-S.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/1592/original/mia-dining-chairs-x2-1-brosa.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "fingernails",
+      "image_urls": [
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/3af8d95588b67f4ec30a7cc5b039e5aa55c42ad2-2000x1400.png",
+        "https://d1l9wtg77iuzz5.cloudfront.net/assets/5697/232835/original.png",
+        "https://cdn4.iconfinder.com/data/icons/spa-and-beauty-11/53/46-512.png",
+        "https://d1l9wtg77iuzz5.cloudfront.net/assets/5697/238359/max_width_extra_small.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/357c9a176e7da164789addedba0ef30091048675-2000x1400.png"
+      ],
+      "definitions": [
+        "the nail at the end of a finger"
+      ]
+    },
+    {
+      "id": "bathtub",
+      "image_urls": [
+        "https://www.romaniabathtubs.com/wp-content/uploads/2019/02/Modula3.png",
+        "https://www.thesocialitefamily.com/wp-content/uploads/2016/08/devon-devon-1-600x600.png",
+        "https://cdn.shopify.com/s/files/1/1746/8031/products/BA-DPD72-900A-OB_1024x1024.png",
+        "https://www.riluxa.com/m2f/media/catalog/product/cache/c7379007260ecad40e9db1dbcaab0a4e/l/o/lofty_160-freestanding_solid_surface_bathtub-bafs-gatr-loft160.png",
+        "https://prolucainteriors.com/wp-content/uploads/2021/03/newton-bathtub-01-boca-do-lobo.png"
+      ],
+      "definitions": [
+        "a relatively large open container that you fill with water and use to wash the body"
+      ]
+    },
+    {
+      "id": "computer",
+      "image_urls": [
+        "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1200px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gnome-computer.svg/1200px-Gnome-computer.svg.png",
+        "https://www.072-pc.nl/wp-content/uploads/2015/11/computer-apkn.png",
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://files.seniorweb.nl/uploadedimages/wwwseniorwebnl/thema/onderhoud/pc_opruimen/ccleaner%20computer.png"
+      ],
+      "definitions": [
+        "a machine for performing calculations automatically",
+        "an expert at calculation (or at operating calculating machines)"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2020/12/Romantic-garden.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2019/08/Hello-Garden-Waar-te-koop.png",
+        "https://cdn.shopify.com/s/files/1/1257/7487/products/edn-smallgarden-hero-basil-front-shopify_dba28422-4eeb-4039-821a-4d2551b531f5_2048x.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    },
+    {
+      "id": "dirt",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/Dirt_JE2_BE2.png",
+        "https://dirtgame.com/dirt5/static/media/logo_dirt5.bca7d7c9.png",
+        "https://static.wikia.nocookie.net/minecraft/images/2/2f/Dirt.png",
+        "https://dirtgame.com/dirt5/static/media/img_packshot_all.da9bd9f9.png",
+        "https://www.canyon.com/on/demandware.static/-/Sites-canyon-master/default/dwe4ed1fd7/images/full/full_2020_/2020/full_2020_stitched-360-pro_2367_cr-bk_P5.png"
+      ],
+      "definitions": [
+        "the part of the earth's surface consisting of humus and disintegrated rock",
+        "the state of being covered with unclean things",
+        "obscene terms for feces",
+        "disgraceful gossip about the private lives of other people"
+      ]
+    },
+    {
+      "id": "corner",
+      "image_urls": [
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/ORO1N1N1/logo_465x320.png",
+        "https://my.pocketmenu.nl/uploads/files/websites/the-corner-amsterdam/logo.png",
+        "https://static.takeaway.com/images/restaurants/nl/QO5N7PO/logo_465x320.png",
+        "https://static.takeaway.com/images/restaurants/nl/N7PQRRO/logo_465x320.png",
+        "https://www.woutmonseurs.nl/wp-content/uploads/2018/03/corner4.png"
+      ],
+      "definitions": [
+        "a place off to the side of an area",
+        "the point where two lines meet or intersect",
+        "an interior angle formed by two meeting walls",
+        "the intersection of two streets",
+        "the point where three areas or surfaces meet or intersect",
+        "a small concavity",
+        "a temporary monopoly on a kind of commercial trade",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a projecting part where two sides or edges meet",
+        "a remote area",
+        "(architecture) solid exterior angle of a building; especially one formed by a cornerstone"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    }
+  ]
+}

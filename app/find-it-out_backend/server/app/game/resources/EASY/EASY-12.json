@@ -1,0 +1,123 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "rosebush",
+      "image_urls": [
+        "https://polysyllabicprofundities.files.wordpress.com/2012/11/rosebush.png",
+        "https://www.pikpng.com/pngl/b/59-592075_graphic-royalty-free-library-rosebush-png-picture-gallery.png",
+        "https://www.seekpng.com/png/full/20-203355_rosebush-rose-bush-transparent-background.png",
+        "https://www.nicepng.com/png/full/67-677987_shrub-free-on-dumielauxepices-net-rosebush-rose-arch.png",
+        "https://www.pikpng.com/pngl/b/255-2553862_photo-rosebush-rose-bush-clipart.png"
+      ],
+      "definitions": [
+        "any of many shrubs of the genus Rosa that bear roses"
+      ]
+    },
+    {
+      "id": "kennel",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0053/9649/6456/products/all-weather-kit-gunner-836712_1000x.png",
+        "https://rufflandkennels.com/wp-content/uploads/2018/09/RFK_Kennel-Cover_Doors-Rolled-up.png",
+        "https://petcomfort.be/wp-content/uploads/2020/02/Petcomfort-volledige-kennel-3x2m-korte-poten.png",
+        "https://cdn.shopify.com/s/files/1/0391/4737/products/Combination_Lead_grande_2f0f312a-eb11-44be-ac88-3151e053ae23.png",
+        "https://cdn.shopify.com/s/files/1/0371/9652/9795/products/91c59d651e8813ed259b11bf140a5036cd512184_1154727_800x1026_crop_center@2x.png"
+      ],
+      "definitions": [
+        "outbuilding that serves as a shelter for a dog"
+      ]
+    },
+    {
+      "id": "backyard",
+      "image_urls": [
+        "https://backyarddesign.nl/wp-content/uploads/2021/03/Backyard-Website-Icon.png",
+        "https://writingexplained.org/wp-content/uploads/backyard-versus-back-yard.png",
+        "https://f.hubspotusercontent30.net/hubfs/17432/add-a-sauna-for-backyard-retreat.png",
+        "https://backyardgardenshow.com.au/images/Backyard-and-Garden-Show-Garden.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Backyard.png"
+      ],
+      "definitions": [
+        "the grounds in back of a house"
+      ]
+    },
+    {
+      "id": "ballpark",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5ace9d148f5130a183b3a87e/1574914259334-Q9DHTM9SZ4YF3GFGG864/BALLPARK+BRANDMARK_MASTER_RGB.png",
+        "https://www.ballparkbrand.com/themes/custom/ballpark/images/Ballpark_Logo_Blue.png",
+        "https://www.ballparkbrand.com/favicons/apple-touch-icon-180x180-precomposed.png",
+        "https://mlbballparkpassport.com/wp-content/uploads/2014/05/21.png",
+        "https://images.squarespace-cdn.com/content/v1/5846fa02bebafb624c0783dd/1549834631841-M9G4KNZD400XEKXUSPGD/Ballpark+Collective+Logo_Color_300ppi.png"
+      ],
+      "definitions": [
+        "a facility in which ball games are played (especially baseball games)",
+        "near to the scope or range of something"
+      ]
+    },
+    {
+      "id": "jungle",
+      "image_urls": [
+        "https://www.funkyjungle.nl/wp-content/uploads/2021/06/beeldlogo-Funky-Jungle.png",
+        "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7e/BiomeBannerJungle.png",
+        "https://kleinenkleurig.nl/wp-content/uploads/2020/12/Pringles-wikkel-jungle-1.png",
+        "https://img1.picmix.com/output/stamp/normal/7/4/9/5/1685947_cf213.png",
+        "https://frankiesjunglebistro.nl/____impro/1/onewebmedia/logoklein2019nov.png"
+      ],
+      "definitions": [
+        "a location marked by an intense competition and struggle for survival",
+        "a place where hoboes camp",
+        "an impenetrable equatorial forest"
+      ]
+    },
+    {
+      "id": "dog",
+      "image_urls": [
+        "https://cdn.codeblick.de/interquell-sb/1440x0/f/69110/1048x786/14c7621b83/129a5476-1-kopie-2.png",
+        "https://cdn.codeblick.de/interquell-sb/440x440/f/69110/480x480/c90b13149a/hd-vet-new-product-slider-packshots-sensible-11kg-300g.png",
+        "https://cdn.shopify.com/s/files/1/0128/0882/products/30lb_1024x1024.png",
+        "https://www.akcpetinsurance.com/res/akc/images/icons/home/home_dog.png",
+        "https://www.yarrah.com/en/wp-content/uploads/sites/10/2021/01/Banner-homepage-dry-food-products.png"
+      ],
+      "definitions": [
+        "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+        "a dull unattractive unpleasant girl or woman",
+        "informal term for a man",
+        "someone who is morally reprehensible",
+        "a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll",
+        "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward",
+        "metal supports for logs in a fireplace"
+      ]
+    },
+    {
+      "id": "outdoors",
+      "image_urls": [
+        "https://www.outdoorsholten.nl/wp-content/uploads/2020/03/logo.png",
+        "https://dutchoutdoors.nl/wp-content/uploads/2020/02/Dutch_Outdoors_logo_Groen.png",
+        "https://www.bever.nl/content/dam/nl/brands/1298.png",
+        "https://dutch-passion.blog/wp-content/uploads/2019/07/Outdoor-growing-image-1024x722.png",
+        "https://static.wikia.nocookie.net/logopedia/images/6/69/Go_Outdoors.png"
+      ],
+      "definitions": [
+        "where the air is unconfined"
+      ]
+    }
+  ]
+}

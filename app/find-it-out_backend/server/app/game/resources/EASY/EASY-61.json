@@ -1,0 +1,130 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "africa",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/1200px-Africa_%28orthographic_projection%29.svg.png",
+        "https://www.teejet.com/CMSImages/TEEJET_NL/local_offices/africa_map.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/North_Africa_%28orthographic_projection%29.svg/1200px-North_Africa_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_Countries_in_East_Africa.svg/220px-Map_of_Countries_in_East_Africa.svg.png",
+        "https://www.outofafricainteriors.nl/wp-content/uploads/2017/10/Afrika-oranje.png"
+      ],
+      "definitions": [
+        "the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean"
+      ]
+    },
+    {
+      "id": "country",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Country_calling_codes_map.svg/1200px-Country_calling_codes_map.svg.png",
+        "https://cdn.ip2location.com/assets/img/flags/flags_32.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GINI_index_World_Bank_up_to_2018.svg/500px-GINI_index_World_Bank_up_to_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/World_map_blank_shorelines_semiwikimapia.svg/720px-World_map_blank_shorelines_semiwikimapia.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg/500px-Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg.png"
+      ],
+      "definitions": [
+        "a politically organized body of people under a single government",
+        "the territory occupied by a nation",
+        "the people who live in a nation or country",
+        "an area outside of cities and towns",
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ]
+    },
+    {
+      "id": "region",
+      "image_urls": [
+        "https://www.counseling.org/images/default-source/specialty/default-album/aca-regions.png",
+        "https://www.natre.org.uk/templates/site/natre/assets/images/re-in-your-region.png",
+        "https://www.cupahr.org/wp-content/uploads/2017/07/Regions_W-Chapters_web_2017-700x460.png",
+        "https://www.noaa.gov/sites/default/files/legacy/image/2020/Aug/RCN-Map.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/EMEA_region_worldmap.svg/1200px-EMEA_region_worldmap.svg.png"
+      ],
+      "definitions": [
+        "the extended spatial location of something",
+        "a part of an animal that has a special function or is supplied by a given artery or nerve",
+        "a large indefinite location on the surface of the Earth",
+        "the approximate amount of something (usually used prepositionally as in `in the region of')",
+        "a knowledge domain that you are interested in or are communicating about"
+      ]
+    },
+    {
+      "id": "america",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Latin_America_%28orthographic_projection%29.svg/1200px-Latin_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_North_America.svg/1200px-Location_North_America.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USA_orthographic.svg/220px-USA_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/1200px-South_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/United_States_on_the_globe_%28North_America_centered%29.svg/1200px-United_States_on_the_globe_%28North_America_centered%29.svg.png"
+      ],
+      "definitions": [
+        "North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776",
+        "North America and South America and Central America"
+      ]
+    },
+    {
+      "id": "world",
+      "image_urls": [
+        "https://aci.aero/wp-content/uploads/2018/06/map-2.png",
+        "https://www.maropeng.co.za/uploads/imager/files/19832/world-1303628_1920_399f7ced9821ef832957bb0ed8fd3ff5.png",
+        "https://wid.world/wp-content/uploads/2016/06/img-homepage-world-1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/World_Population.svg/1200px-World_Population.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BlankMap-World-Microstates.svg/2754px-BlankMap-World-Microstates.svg.png"
+      ],
+      "definitions": [
+        "everything that exists anywhere",
+        "people in general; especially a distinctive group of people with some shared interest",
+        "all of your experiences that determine how things appear to you",
+        "the 3rd planet from the sun; the planet we live on",
+        "people in general considered as a whole",
+        "a part of the earth that can be considered separately",
+        "the concerns of this life as distinguished from heaven and the afterlife",
+        "all of the living human inhabitants of the earth"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    },
+    {
+      "id": "dirt",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/Dirt_JE2_BE2.png",
+        "https://dirtgame.com/dirt5/static/media/logo_dirt5.bca7d7c9.png",
+        "https://static.wikia.nocookie.net/minecraft/images/2/2f/Dirt.png",
+        "https://dirtgame.com/dirt5/static/media/img_packshot_all.da9bd9f9.png",
+        "https://www.canyon.com/on/demandware.static/-/Sites-canyon-master/default/dwe4ed1fd7/images/full/full_2020_/2020/full_2020_stitched-360-pro_2367_cr-bk_P5.png"
+      ],
+      "definitions": [
+        "the part of the earth's surface consisting of humus and disintegrated rock",
+        "the state of being covered with unclean things",
+        "obscene terms for feces",
+        "disgraceful gossip about the private lives of other people"
+      ]
+    },
+    {
+      "id": "asia",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/1200px-Asia_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/220px-Asia_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/285px-Asia_%28orthographic_projection%29.svg.png",
+        "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a7/Map_of_Asia.png",
+        "https://apa.sdg4education2030.org/sites/apa.sdg4education2030.org/files/inline-images/AP%20Map.png"
+      ],
+      "definitions": [
+        "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations",
+        "the nations of the Asian continent collectively"
+      ]
+    }
+  ]
+}

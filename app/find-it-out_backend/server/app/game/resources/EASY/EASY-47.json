@@ -1,0 +1,152 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "leaves",
+      "image_urls": [
+        "https://www.koppertcress.com/media/cache/generic/rc/LWAjrHZP//uploads/media/5db973fc6ae1c/special-wb-cardamomleaves-1834-rgb-16-9.png",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/1400/4df46074909391.5d1cba06e333e.png",
+        "https://www.thetreecenter.com/c/uploads/1000px-Ksztalty_lisci_2b.svg_.png",
+        "https://www.betaalbarekunst.nl/wp-content/uploads/2020/03/Metalen-wanddecoratie-Leaves.png",
+        "https://www.flavourfields.com/pub/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/d/u/dulce_leaves.png"
+      ],
+      "definitions": [
+        "the main organ of photosynthesis and transpiration in higher plants",
+        "a sheet of any written or printed material (especially in a manuscript or book)",
+        "hinged or detachable flat section (as of a table or door)"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "ground",
+      "image_urls": [
+        "https://lightlife.com/wp-content/uploads/2020/05/Img_OurFood_Ground_med_CA-1.png",
+        "https://www.uva.nl/binaries/_ht_1557240385793/cardmedium/content/gallery/faculteiten-en-diensten/fgw-met-restricties/disciplines/conservering/projecten/down-to-the-ground-logo.png",
+        "https://www.jennieo.com/wp-content/uploads/2019/10/image-product_lean-ground-turkey-roll-16oz-500x500-2.png",
+        "https://www.shakyground.nl/wp-content/uploads/2020/01/ShakyGround-logo-260x189-1.png",
+        "https://www.tyson.com/static/db3fdabc3b4fa366fe867bcfb905462e/03e29/tyson_ground_chicken_665x547.png"
+      ],
+      "definitions": [
+        "the solid part of the earth's surface",
+        "a rational motive for a belief or action",
+        "the loose soft material that makes up a large part of the land surface",
+        "a relation that provides the foundation for something",
+        "a position to be won or defended in battle (or as if in battle)",
+        "the part of a scene (or picture) that lies behind objects in the foreground",
+        "material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)",
+        "a relatively homogeneous percept extending back of the figure on which attention is focused",
+        "a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)",
+        "(art) the surface (as a wall or canvas) prepared to take the paint for a painting",
+        "the first or preliminary coat of paint or size applied to a surface"
+      ]
+    },
+    {
+      "id": "trees",
+      "image_urls": [
+        "https://treesforall.nl/app/themes/treesforall/dist/images/beschermer_900.png",
+        "https://www.ebben.nl/files/images/580x360/boomkwekerij-ebben-planten-fout-goed-en.png",
+        "https://hotelsfortrees.com/wp-content/uploads/2021/04/ngo2-ho3me-pic5.png",
+        "https://images.squarespace-cdn.com/content/v1/5b461598e74940f2e54b02b3/1541258072246-RIJ5RNUECT1AQIC2UXS4/LOGO_GOED_Normal_Size.png",
+        "https://images-na.ssl-images-amazon.com/images/I/713PNcxxEPL.png"
+      ],
+      "definitions": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+        "a figure that branches from a single root",
+        "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.cupapizarras.com/wp-content/uploads/2019/09/roof-parts.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://sunstruction.nl/png/systems/roof-hooks.png",
+        "https://www.mg-bouw.com/wp-content/uploads/2020/05/Meuwissen-AlkReflex-Roof-1.7-Wand-dak-buitenzijde-20210727.png",
+        "https://www.metalsales.us.com/wp-content/uploads/2020/08/pic2a-1024x720.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "field",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Relativistic_gravity_field_%28physics%29.svg/350px-Relativistic_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Newtonian_gravity_field_%28physics%29.svg/170px-Newtonian_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Electric_Field_Lines.svg/1200px-Electric_Field_Lines.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/51b8af35e4b06011310c1770/1467997527131-S7A5ILMMPDJVJ7VMHNL8/Logo+FF_DEF-01.png",
+        "https://i2.wp.com/analystanswers.com/wp-content/uploads/2021/04/combo-1.png"
+      ],
+      "definitions": [
+        "a piece of land cleared of trees and usually enclosed",
+        "a region where a battle is being (or has been) fought",
+        "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+        "a branch of knowledge",
+        "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it",
+        "a particular kind of commercial enterprise",
+        "a particular environment or walk of life",
+        "a piece of land prepared for playing a game",
+        "extensive tract of level open land",
+        "(mathematics) a set of elements such that addition and multiplication are commutative and associative and multiplication is distributive over addition and there are two elements 0 and 1",
+        "a region in which active military operations are in progress",
+        "all of the horses in a particular horse race",
+        "all the competitors in a particular contest or sporting event",
+        "a geographic region (land or sea) under which something valuable is found",
+        "(computer science) a set of one or more adjacent characters comprising a unit of information",
+        "the area that is visible (as through an optical instrument)",
+        "a place where planes take off and land"
+      ]
+    },
+    {
+      "id": "rock",
+      "image_urls": [
+        "https://www.aquariumplantenshop.nl/Files/10/290000/290411/ProductPhotos/1000x525/1509512632.png",
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABRG7ojED6WBlaaQgN03u4yr9XvJOoy_2u5ZOCtShgMyWJBVteB0BkyNK2FwjSg0C5qINg2ODnntS6urMgz-6yNSD07HahQh8xYne.png",
+        "https://www.rockyourworld.nl/wp-content/uploads/2019/03/Rock-your-Crystals-HC-3d.png",
+        "https://cdn.sera.de/fileadmin/user_upload/articlepictures/16763-04001942523752d010bqx0101.png",
+        "https://static.wikia.nocookie.net/prowrestling/images/a/ad/Wwe_the_rock_png_by_double_a1698_day9ylt-pre_%281%29.png"
+      ],
+      "definitions": [
+        "a lump or mass of hard consolidated mineral matter",
+        "material consisting of the aggregate of minerals like those making up the Earth's crust",
+        "United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)",
+        "(figurative) someone who is strong and stable and dependable; ; --Gospel According to Matthew",
+        "hard bright-colored stick candy (typically flavored with peppermint)",
+        "a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western",
+        "pitching dangerously to one side"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    }
+  ]
+}

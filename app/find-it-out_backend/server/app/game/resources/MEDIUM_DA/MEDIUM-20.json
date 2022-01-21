@@ -1,0 +1,226 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "tray",
+      "image_urls": [
+        "https://sgdentalshop.com/wp-content/uploads/2020/05/Asiga-build-tray-Pro-4K.png",
+        "https://www.secretjardin.com/wp-content/uploads/2019/10/WATER-TRAY-1.png",
+        "https://res-3.cloudinary.com/christofle/s--qSKqKd8X--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/R/e/Rectangular_20tray_20_20Malmaison_20_20Silver_20plated_04200720000101_T_1.png",
+        "https://res-5.cloudinary.com/christofle/s---nnLPZJk--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/T/r/Tray_2020x16_20cm_20Graffiti_20_20Silver_20plated_04200416000001_STQP.png",
+        "https://cdn.shopify.com/s/files/1/3008/1030/products/virginia-boys-kitchens-serving-tray-20-x-15-inch-rectangular-walnut-wood-serving-and-coffee-table-tray-with-handles-made-in-usa-walnut-wood-11694691811364_900x.png"
+      ],
+      "definitions": [
+        "an open receptacle for holding or displaying or serving articles or food"
+      ]
+    },
+    {
+      "id": "blouse",
+      "image_urls": [
+        "https://www.america-today.com/on/demandware.static/-/Sites-at-master-catalog/default/dw4b6cb072/images/product/blouse-collar-britt-women-green-2232002042-530-f.png",
+        "https://www.zattimarmi.it/wp-content/uploads/2018/11/Tolani-Megan-Long-Sleeve-Blouse-3.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P45/P451E/1H51F0304/P451E_1H51_F0304_S_202_SLF.png",
+        "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dw8f825d3f/images/DIS/60724SOO127T40_0.png",
+        "https://www.miumiu.com/content/dam/miumiu_products/M/MK1/MK1537/1YS4F0567/MK1537_1YS4_F0567_SLF.png"
+      ],
+      "definitions": [
+        "a top worn by women"
+      ]
+    },
+    {
+      "id": "thermometer",
+      "image_urls": [
+        "https://www.ht-instruments.com/media/products/products_ht/DT8806H.png",
+        "https://mk0tqcsheendm9hfmnd0.kinstacdn.com/wp-content/uploads/2016/05/INFRAROOD-THERMOMETER-MET-LASER-POINTER--470x470.png",
+        "https://www.globalmedicalshop.com/wp-content/uploads/2021/07/9462223a.png",
+        "https://www.charbroil.com/media/catalog/product/cache/001f37533a16b079f4fb726e8082a91d/f/7/f75b9eb172df6ec7664c5e3c95760570_4867720.png",
+        "https://www.microlife.com/uploads/media/800x/08/1768-MT_800.png"
+      ],
+      "definitions": [
+        "measuring instrument for measuring temperature"
+      ]
+    },
+    {
+      "id": "candle",
+      "image_urls": [
+        "https://www.franciskurkdjian.com/dw/image/v2/BDWF_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwbc20f98e/Packshots-07-2021/COLLECTION%20BR540/BR540%20BOUGIE%20280G/baccarat-rouge-540-bougie-parfumee-280-g-2022226_1-maison-francis-kurkdjian.png",
+        "https://images.squarespace-cdn.com/content/v1/56de2ca44d088eec19559052/1604400265256-V399YIVJANZXOIO0M3BC/HC-300g-Australia-2020-SHOP.png",
+        "https://drvranjes.com/media/catalog/product/cache/9555815117c2a923632c3eebe7523156/c/a/candle-new-perla-ginger-lime_1.png",
+        "https://www.franciskurkdjian.com/dw/image/v2/BDWF_PRD/on/demandware.static/-/Sites-mfk-master-catalog/default/dwb92998d1/Packshots-07-2021/BOUGIES%20MDLM/view-of-the-park-bougie-parfumee-280-g-2028526_1-maison-francis-kurkdjian.png",
+        "https://d3jk0p4mhmtvkv.cloudfront.net/production/imager/images/Products/Bougie/23788/HOME_BOUGIE_BRUNE_COSTES_4c994b0202aa954f24e352ca36c88518.png"
+      ],
+      "definitions": [
+        "stick of wax with a wick in the middle",
+        "the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin"
+      ]
+    },
+    {
+      "id": "skirt",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/P/P10/P103T/1ZBQF0964/P103T_1ZBQ_F0964_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P11/P110TR/1ZCNF0518/P110TR_1ZCN_F0518_S_212_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/131/131094/1YUEF0T21/131094_1YUE_F0T21_S_211_SLF.png",
+        "https://ae01.alicdn.com/kf/H199039964b084025bf0204f6984f0d68K/M-4XL-New-Summer-Preppy-Style-Purple-Plaid-Pleated-Skirt-Knee-length-Skirts-Female-High-Waist.png",
+        "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dw05253cc4/images/DIS/60746COT001T38_0.png"
+      ],
+      "definitions": [
+        "cloth covering that forms the part of a garment below the waist",
+        "a garment hanging from the waist; worn mainly by girls and women",
+        "(Fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar",
+        "informal terms for a (young) woman"
+      ]
+    },
+    {
+      "id": "lantern",
+      "image_urls": [
+        "https://contardi-italia.com/wp-content/uploads/2020/07/MUSE-LANTERN-OUTDOOR.png",
+        "https://i.pinimg.com/originals/77/13/46/7713462641481ab70106906c7832e002.png",
+        "https://bylassen.com/wp-content/uploads/2021/06/25002_pack_1.png",
+        "https://images.rosendahl.dk/products/434/354/1/4343541/v/4343541/XXLarge/dwl-hurricane-lantern-clear-h33-1-design-with-light-1500x1500.png",
+        "https://www.sbam-design.it/wp-content/uploads/2020/11/MoriMori-LedLanternSpeaker-urbansports-3.png"
+      ],
+      "definitions": [
+        "light in a transparent protective case"
+      ]
+    },
+    {
+      "id": "cigarette",
+      "image_urls": [
+        "https://assets.wprock.fr/emoji/joypixels/512/1f6ac.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Cigarette.png",
+        "https://img.icons8.com/emoji/452/cigarette.png",
+        "https://www.hse.ie/images_upload/portal/eng/about/who/tobaccocontrol/kf/Whats-in-a-cigarette.png",
+        "https://shamlan.co/wp-content/uploads/2019/10/1800x-header-Blue-1.png"
+      ],
+      "definitions": [
+        "finely ground tobacco wrapped in paper; for smoking"
+      ]
+    },
+    {
+      "id": "coat",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/U/UC4/UC448C/1W2ZF0008/UC448C_1W2Z_F0008_S_202_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P65/P658NH/03HF0002/P658NH_03H_F0002_S_202_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P61/P615O/1X5AF0002/P615O_1X5A_F0002_S_202_SLF.png",
+        "https://s3-eu-west-1.amazonaws.com/data.pozzilei.it/images/galleries/1201/18062020_168.png",
+        "https://www.bardot.com/dw/image/v2/BCGZ_PRD/on/demandware.static/-/Sites-bardot-master-catalog/default/dwc8c21c69/images/hi-res/bardot/39391JB/39391JB_190303_TF_04.png"
+      ],
+      "definitions": [
+        "an outer garment that has sleeves and covers the body from shoulder down; worn outdoors",
+        "a thin layer covering something",
+        "growth of hair or wool or fur covering the body of an animal"
+      ]
+    },
+    {
+      "id": "scarf",
+      "image_urls": [
+        "https://www.barts.eu/img/1080/1920/resize/4/9/4921_vincent-scarf_19_1.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1FS/1FS009/2D3EF0MFW/1FS009_2D3E_F0MFW_MDB.png",
+        "https://www.prada.com/content/dam/pradanux_products/U/USC/USC177/076F0480/USC177_076_F0480_S_172_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/U/UMS/UMS379/1XSQF0089/UMS379_1XSQ_F0089_S_202_MDF.png",
+        "https://www.america-today.com/on/demandware.static/-/Sites-at-master-catalog/default/dw75d68191/images/product/scarf-afleck-men-grey-1552002013-200-f.png"
+      ],
+      "definitions": [
+        "a garment worn around the head or neck or shoulders for warmth or decoration",
+        "a joint made by notching the ends of two pieces of timber or metal so that they will lock together end-to-end"
+      ]
+    },
+    {
+      "id": "pants",
+      "image_urls": [
+        "https://images.ctfassets.net/od02wyo8cgm5/LXOyRhqeL8pZwtDiuHtpa/ba1b0474d390613782de2d0743415f72/running_pants-fw16-navy-w-d.png",
+        "https://images.ctfassets.net/od02wyo8cgm5/7yuxL1LSqnW4hQdL00nRRG/3e6fe2ec30edbd722a16568deba1a9a6/running_pants-ss20-black-m-g1.png",
+        "https://dfr4rssi07fv7.cloudfront.net/htx/images/category/clothing/urban_tactical_pants_clothing.png",
+        "https://www.nordicwalkingshop.net/WebRoot/StoreIT7/Shops/120702/5A0E/B831/3629/F6BC/99BF/0A0A/B011/EBE3/8300255140868_1.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9912.png"
+      ],
+      "definitions": [
+        "the noise made by a short puff of steam (as from an engine)",
+        "(usually in the plural) a garment extending from the waist to the knee or ankle, covering each leg separately",
+        "a short labored intake of breath with the mouth open"
+      ]
+    },
+    {
+      "id": "lamp",
+      "image_urls": [
+        "https://res-2.cloudinary.com/m2-circa-lighting/image/upload/c_limit,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/s/p/sp3022habnp_10.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/l/a/lampada_da_tavolo_vintage_in_vetro_e_ottone_anni_70.png",
+        "https://www.spaziomatteotti5.it/wp-content/uploads/2020/04/21310-tip-table-lamp-black-1503648760-21970864.png",
+        "https://cdn.shopify.com/s/files/1/2283/1973/products/01c_qeeboo--piero_fasanotto_michele_branca--rabbit_small_lamp_with_rechargeable_led--design_stefano_giovannoni--white_1024x1024.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/o/d/odeon_floor_lamp_base.png"
+      ],
+      "definitions": [
+        "an artificial source of visible illumination",
+        "a piece of furniture holding one or more electric light bulbs"
+      ]
+    },
+    {
+      "id": "mirror",
+      "image_urls": [
+        "https://www.aliseo.de/wp-content/uploads/2020/06/020843_Kosmetikspiegel_MY-1024x1024-1-1024x1024.png",
+        "https://essentialhome.eu/images/products/product-page/accessories/shirley-mirror/shirley-mirror-1.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/LG10-R-Pearl-Rectangular-Mirror-e1557598277120.png",
+        "https://cdn.shopify.com/s/files/1/0174/2162/products/DYKE_AND_DEAN_ESSEM_Tillbakablick_mirror_WALL_OAK.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpr01521_tif.png"
+      ],
+      "definitions": [
+        "polished surface that forms images by reflecting light",
+        "a faithful depiction or reflection"
+      ]
+    },
+    {
+      "id": "necklace",
+      "image_urls": [
+        "https://media2.bulgari.com/f_auto,q_auto/production/dwd8a09b8d/images/images/459608.png",
+        "https://www.danielwellington.com/product-images/dw00400166_elan_unit-ZPwNMg9v.png",
+        "https://www.danielwellington.com/product-images/dw00400159_elan_neck-3uCKddIa.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1JC/1JC826/2DSPF0009/1JC826_2DSP_F0009_SLD.png",
+        "https://www.dodo.it/r/assets/DCC0006_KNOT0_000AG/4x3/DCC0006_KNOT0_000AG_010_Dodo_nodo-necklace-silver.png"
+      ],
+      "definitions": [
+        "jewelry consisting of a cord or chain (often bearing gems) worn about the neck as an ornament (especially by women)"
+      ]
+    },
+    {
+      "id": "clock",
+      "image_urls": [
+        "https://www.uhrmacherwerkzeuge.com/WebRoot/Store18/Shops/62662707/5A5F/6C78/EF05/D943/EC49/0A0C/6D0A/80EF/6039A.6155.png",
+        "https://images-eu.ssl-images-amazon.com/images/I/71a04y-NNgL.png",
+        "https://images-eu.ssl-images-amazon.com/images/I/61n252YpctL.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Horlo%C4%9Do_001.svg/300px-Horlo%C4%9Do_001.svg.png",
+        "https://i0.wp.com/www.magisdesign.com/wp-content/uploads/2015/02/tempo02Orange.png"
+      ],
+      "definitions": [
+        "a timepiece that shows the time of day"
+      ]
+    },
+    {
+      "id": "dress",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/P/P3D/P3D35/1ZCJF0964/P3D35_1ZCJ_F0964_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P3D/P3D13H/1WHIF0002/P3D13H_1WHI_F0002_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/2/23X/23X634/1YFLF0002/23X634_1YFL_F0002_S_202_MDR.png",
+        "https://www.prada.com/content/dam/pradanux_products/3/335/33556/1T4WF0009/33556_1T4W_F0009_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P3F/P3F25/1UCXF0009/P3F25_1UCX_F0009_S_211_SLF.png"
+      ],
+      "definitions": [
+        "a one-piece garment for a woman; has skirt and bodice",
+        "clothing of a distinctive style or for a particular occasion",
+        "clothing in general"
+      ]
+    },
+    {
+      "id": "chandelier",
+      "image_urls": [
+        "https://www.lampadaribesanza.com/media/catalog/product/cache/2/image/490x595/9df78eab33525d08d6e5fb8d27136e95/g/i/giocondanero.png",
+        "https://cdn.ciatdesign.com/pub/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/l/e/lee_broom_-_chamber_chandelier_5_piece.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/l/a/lampadario_antico_a_24_luci_epoca_napoleone_iii_francese_in_bronzo_e_cristallo_1.png",
+        "https://www.leporcellane.it/media/prodotti/5605-5.png",
+        "https://res-4.cloudinary.com/m2-circa-lighting/image/upload/c_limit,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/3/1/3180706en848_3.png"
+      ],
+      "definitions": [
+        "branched lighting fixture; often ornate; hangs from the ceiling"
+      ]
+    }
+  ]
+}

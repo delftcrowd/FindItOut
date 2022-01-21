@@ -1,0 +1,135 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "homes",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.baerz.com/thumb/m/images/logo-top.png",
+        "https://www.kanvihomes.com/hs-fs/hubfs/edmonton-home-builder-kanvi-homes-building-infill-homes-in-mature-communties-1.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Microsoft_Store.svg/1200px-Microsoft_Store.svg.png",
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "museum",
+      "image_urls": [
+        "https://chabotmuseum.nl/wp-content/themes/chabotmuseum-18-11-2017/assets/img/logo.png",
+        "https://www.museumvanloon.nl/graphics/Museum_Van_Loon.png",
+        "https://www.amsterdammuseum.nl/sites/default/files/logo.png",
+        "https://www.diamondmuseum.com/wp-content/uploads/2018/01/home-imaage-8.png",
+        "https://www.dutchmuseums.com/img/mjkdef.png"
+      ],
+      "definitions": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value"
+      ]
+    },
+    {
+      "id": "human",
+      "image_urls": [
+        "https://itis.swiss/assets/images/Virtual-Population/_resampled/ResizedImageWzYwMCwzNzdd/vip-overview-final-s2.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201_Elements_of_the_Human_Body.02.svg/300px-201_Elements_of_the_Human_Body.02.svg.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://duluthlibrary.org/media/11866/homeimage2.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "workplace",
+      "image_urls": [
+        "https://techcrunch.com/wp-content/uploads/2016/10/04_workplace_homepage_desktop.png",
+        "https://g-workplace.com/application/files/2116/0215/7685/illustration-2020at2x.png",
+        "https://www.servicenow.nl/content/dam/servicenow-assets/public/en-us/images/background/safe-workplace-medium-marquee.png",
+        "https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-workplacebyfacebook.png",
+        "https://venturebeat.com/wp-content/uploads/2016/12/07_Workplace_Group_Desktop-1-e1481072961504.png"
+      ],
+      "definitions": [
+        "a place where work is done"
+      ]
+    }
+  ]
+}

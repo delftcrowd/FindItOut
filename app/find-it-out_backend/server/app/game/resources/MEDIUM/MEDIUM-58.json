@@ -1,0 +1,258 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "drawer",
+      "image_urls": [
+        "https://www.godrejinterio.com/imagestore/B2C/56101516SD00018/56101516SD00018_01_500x500.png",
+        "https://www.directaviation.aero/IManager/Media/127991/1999111/EN/reg/aluflite-atlas-superlight-drawer.png",
+        "https://images.selency.com/c695ccb0-19fd-47ff-90c2-de53f4a890bc/english-drawer-dresser_original.png",
+        "https://www.decorist.com/static/finds/product_images/full_size/243098-alex-drawer-unit-white.e360c12997079c8f179f2e9426cb779d.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/02/CD6-shadow-edge-on-left.png"
+      ],
+      "definitions": [
+        "a boxlike container in a piece of furniture; made so as to slide in and out",
+        "the person who writes a check or draft instructing the drawee to pay someone else",
+        "an artist skilled at drawing"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "trunk",
+      "image_urls": [
+        "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c650956/images/large/83280654_1.png",
+        "https://images.selency.com/8c0f5e70-9a9c-4637-896d-399043953445/wooden-travel-trunk_original.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/h/a/harrow_medium_trunk-old_saddle_black_copy.png",
+        "https://images.selency.com/1ac2d1fd-4c06-43db-9872-9c6bf586aeb0/old-mail-trunk-in-zinc-sheathed-95-x-55-x-50-travel-trunk-liner-1900-1920_original.png",
+        "https://cdn11.bigcommerce.com/s-6gssxq8qcf/products/12962/images/21427/Olive_Seward_Trunk_1__44698.1621449166.386.513.png"
+      ],
+      "definitions": [
+        "the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber",
+        "luggage consisting of a large strong case used when traveling or for storage",
+        "the body excluding the head and neck and limbs",
+        "compartment in an automobile that carries luggage or shopping or tools",
+        "a long flexible snout as of an elephant"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "dinner",
+      "image_urls": [
+        "https://digitalcampaignsstorage.blob.core.windows.net/change4life/production/uploads/ckeditor/pictures/296/content_Nutrition-collection-dinner.png",
+        "https://static.takeaway.com/images/restaurants/nl/N15O/logo_465x320.png",
+        "https://www.dinnerinmotion.nl/wp-content/uploads/2019/09/Logo-Dinner-in-Motion-White-Transparant-2000x2000.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/dinner-6894dde410af53ff882a2204a2a54bb01eca1327.png",
+        "https://thedinnerhub.com/images/app_preview_1_dinnerhub.png"
+      ],
+      "definitions": [
+        "the main meal of the day served in the evening or at midday",
+        "a party of people assembled to have dinner together"
+      ]
+    },
+    {
+      "id": "clothes",
+      "image_urls": [
+        "https://online.seterra.com/mapimage/8020.png",
+        "https://d1e00ek4ebabms.cloudfront.net/production/dda59958-9e93-4dfc-8984-e53f6f3a306d.png",
+        "https://i.pinimg.com/originals/28/d6/4a/28d64a986065ab0257d319ab725d47e2.png",
+        "https://cloud.educaplay.com/recursos/73/2348726/imagen_1_1460726564.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/36174/clothes-clipart-xl.png"
+      ],
+      "definitions": [
+        "clothing in general"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "backpack",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/John-Backpack-Midi-Black-Back_1024x1024.png",
+        "https://www.nixon.com/on/demandware.static/-/Sites-masterCatalog_Nixon/default/dwa17349ad/products/C3025-000-view1.png",
+        "https://image01.oneplus.net/ebp/202012/22/1-m00-1e-ac-rb8bwl_hxzaaqkeraaratr4jfa8896.png",
+        "https://static.nike.com/a/images/t_default/bf773f53-e74f-4248-89cc-1f4d0992acae/sb-rpm-skate-backpack-nmcTDs.png",
+        "https://www.barts.eu/img/240/427/resize/3/7/3779_mountain-backpack_13_1.png"
+      ],
+      "definitions": [
+        "a bag carried by a strap on your back or shoulder"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://global-uploads.webflow.com/5ee2074bd5264569f2a3a32f/5f58f409db9a88529bf05059_LY01_top_view_transparent_background.png",
+        "https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "utensils",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0996/1022/products/4ocean-ToGoWare-Reusable-Bamboo-Eating-Utensils_1000x.png",
+        "https://cdn.shopify.com/s/files/1/2386/2119/products/stadnalone_0092_Lovevery-VKS-PlaceMat-Silverware-0295-June2020.png",
+        "https://images.selency.com/dcda6293-0f8f-4a11-a94f-aa77129206fc/4-kitchen-utensils-made-of-wood-and-brass-70s_original.png",
+        "https://ae01.alicdn.com/kf/H4cddce53e4d54c47b7b67b05861d8bdbn/12-13-Silicone-Cooking-Utensils-Wooden-Handle-Non-Stick-Kitchen-Set-Cooking-Tools-Accessories-With-Stainless.png",
+        "https://www.vibranthome.co.uk/user/products/Set%20of%204%20Colourful%20Kitchen%20Utensils%20Rice%20DK%20KISPA%204ZLETS%201_1024.png"
+      ],
+      "definitions": [
+        "an implement for practical use (especially in a household)"
+      ]
+    },
+    {
+      "id": "clothing",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0088/0685/8848/files/hoofding_webshop-01_1750x.png",
+        "https://mediacache5.select-sport.com/d5/13/9eaf-21a0-4e7f-9b85-0b3e337c8ee2/baselayer.png",
+        "https://www.bankvogue.com/wp-content/uploads/2019/12/used-clothes-main.png",
+        "https://cdn.shopify.com/s/files/1/0497/3284/5735/files/LOGO_FINAL_700x.png",
+        "https://149364146.v2.pressablecdn.com/wp-content/uploads/2020/04/templates-1.png"
+      ],
+      "definitions": [
+        "a covering designed to be worn on a person's body"
+      ]
+    },
+    {
+      "id": "dust",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.nioz.nl/application/files/5616/1407/2191/64PE482-dust2021-sticker.png",
+        "https://substance3d.adobe.com/documentation/sddoc/files/159451221/159451220/1/1496295996099/dust.png"
+      ],
+      "definitions": [
+        "fine powdery material such as dry earth or pollen that can be blown about in the air",
+        "the remains of something that has been destroyed or broken up",
+        "free microscopic particles of solid material"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c2d1217b40b9d0b0efaa79a/1560190011772-WGBWIOCBI971QK8HXCPD/BespokeDesign-FloorGuys.png",
+        "https://www.plugwise.com/wp-content/uploads/2020/11/Floor-1100@2x.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://www.kinderboeken.nl/wp-content/uploads/sites/52/2020/07/De-regels-van-Floor-Marjon-Hoffman-Nancy-Koot.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    }
+  ]
+}

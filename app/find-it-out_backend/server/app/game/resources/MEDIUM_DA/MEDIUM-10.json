@@ -1,0 +1,232 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "chocolate",
+      "image_urls": [
+        "https://www.loacker.com/mediaObject/importedCategories/WebCategory-1834265_int-en_icon/original/WebCategory-1834265_int-en_icon.png",
+        "https://www.loacker.com/mediaObject/importedProducts/ProdWeb-1860122_int-en_packaged/resolutions/res-c400x300/ProdWeb-1860122_int-en_packaged.png",
+        "https://www.valor.es/wp-content/uploads/2021/03/tableta.png",
+        "https://www.loacker.com/mediaObject/importedProducts/ProdWeb-1860092_int-en_packaged/original/ProdWeb-1860092_int-en_packaged.png",
+        "https://www.loacker.com/mediaObject/importedProducts/ProdWeb-1860132_int-en_packaged/resolutions/res-c400x300/ProdWeb-1860132_int-en_packaged.png"
+      ],
+      "definitions": [
+        "a beverage made from cocoa powder and milk and sugar; usually drunk hot",
+        "a food made from roasted ground cacao beans",
+        "a medium brown to dark-brown color"
+      ]
+    },
+    {
+      "id": "milk",
+      "image_urls": [
+        "https://www.arborea1956.com/wp-content/uploads/2021/07/semi-skimmed-milk_3-1-thegem-blog-masonry.png",
+        "https://ww2.kqed.org/app/uploads/sites/38/2016/03/milk-435295-1180x787.png",
+        "https://www.my-milk.it/cms/files/crop/crop_103676-crop489612-crop202425-latte-scremato-copia.png",
+        "https://drinkmilk.co.uk/wp-content/uploads/2020/05/milk_2pint.png",
+        "https://www.my-milk.it/cms/files/crop/crop_429881-latteepanna.png"
+      ],
+      "definitions": [
+        "a white nutritious liquid secreted by mammals and used as food by human beings",
+        "produced by mammary glands of female mammals for feeding their young",
+        "a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River",
+        "any of several nutritive milklike liquids"
+      ]
+    },
+    {
+      "id": "salad",
+      "image_urls": [
+        "https://www.enjoysalad.it/wp-content/uploads/2019/01/cesare_b.png",
+        "https://images.squarespace-cdn.com/content/v1/5cbf5a350cf57df7fb43982e/1576812082405-5FGHI5OD7CS3YDOGUY0B/Just-a-beginner.png",
+        "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/_cover_isolated_insalata_pollo_grigliato.png",
+        "https://www.edojapan.com/wp-content/themes/edojapan/images/pages/salads/chicken-salad-ranch-lg.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Satisfying_Salad.png"
+      ],
+      "definitions": [
+        "food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens"
+      ]
+    },
+    {
+      "id": "sandwich",
+      "image_urls": [
+        "https://ingliando.files.wordpress.com/2017/03/sandwiches.png",
+        "https://backend.moratopane.com/wp-content/uploads/2020/10/morato-morbidi-sandiwch-sku-1.png",
+        "https://backend.moratopane.com/wp-content/uploads/2020/10/morato-morbidi-sandwich-fascia.png",
+        "https://www.grissitalia.it/wp-content/uploads/2021/02/American-Sandwich-Pane-Bianco-550g.png",
+        "https://nutrifree.it/wp-content/uploads/2019/06/American-sandwich-1.png"
+      ],
+      "definitions": [
+        "two (or more) slices of bread with a filling between them"
+      ]
+    },
+    {
+      "id": "whisky",
+      "image_urls": [
+        "https://resizer.bernabei.it/ARTICOLI/L_1885.png",
+        "https://www.enotecalongo.it/wp-content/uploads/2020/08/WHSC119.png",
+        "https://www.enotecalongo.it/wp-content/uploads/2020/08/WHSC888.png",
+        "https://www.vino3.it/wp-content/uploads/2020/08/Talisker-Single-Malt-Scotch-Whisky.png",
+        "https://resizer.bernabei.it/ARTICOLI/L_1646.png"
+      ],
+      "definitions": [
+        "a liquor made from fermented mash of grain"
+      ]
+    },
+    {
+      "id": "sauce",
+      "image_urls": [
+        "https://www.divita.it/images/prodotti/sughi-condimenti/sughi-pomodoro-formaggio-sauce.png",
+        "https://www.raos.com/wp-content/uploads/2020/10/Raos_Sauce_Marinara_24oz_ProductShot_600x600.png",
+        "https://mutti-parma.com/app/uploads/sites/30/2020/10/premiumpizza-3d-napoli-us.png",
+        "https://cdn.shopify.com/s/files/1/0551/5345/9385/products/Untitleddesign_1024x1024.png",
+        "https://mutti-parma.com/app/uploads/sites/23/2019/09/genuine-basil.png"
+      ],
+      "definitions": [
+        "flavorful relish or dressing or topping served as an accompaniment to food"
+      ]
+    },
+    {
+      "id": "steak",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BeefCutShortLoinTenderloin.svg/1200px-BeefCutShortLoinTenderloin.svg.png",
+        "https://www.mychicagosteak.com/steak-university/wp-content/uploads/2016/05/Degrees-of-Doneness-new.png",
+        "https://americaschoicesteakcompany.com/wp-content/uploads/2021/01/Fresh-Meat-Steak.png",
+        "https://www.nonamesteaks.com/wp-content/uploads/2015/06/NoName_3D_Large_Original_L1.png",
+        "https://i.pinimg.com/originals/26/0f/a0/260fa0a407dee2e83212b928a243a835.png"
+      ],
+      "definitions": [
+        "a slice of meat cut from the fleshy part of an animal or large fish"
+      ]
+    },
+    {
+      "id": "beer",
+      "image_urls": [
+        "https://www.heineken.com/media-us/01pfxdqq/heineken-original-bottle.png",
+        "https://static.horiba.com/fileadmin/Horiba/_processed_/3/6/csm_csm_01_02-2019_Beer_Brewing_53ef2818e5_948557e774.png",
+        "https://www.mastribirraiumbri.com/wp-content/uploads/2019/08/California-nov2020.png",
+        "https://jtdtcwvg.tinifycdn.com/media/catalog/product/cache/e929677f5657086b99ca00f6ab1bdef2/g/e/germancaseaugust21-700.png",
+        "https://www.paulaner.com/content/1-our-products/2-weissbier00/modules/1-product_intro-bplv8t/bottle-int-1000x1550-wb00-05.png"
+      ],
+      "definitions": [
+        "a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops"
+      ]
+    },
+    {
+      "id": "bean",
+      "image_urls": [
+        "https://www.bushbeans.com/-/media/bushsbeans/salsifyimports/0003940001864_H1N1_R.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/haricot-blanc_95306314-e1475248941536.png",
+        "https://welcometogreenvalley.com/wp-content/uploads/2015/08/green-valley-red-kidney-beans-bowl-1069x1100.png",
+        "https://www.camelliabrand.com/static/wp-content/uploads/2020/07/1lb_508_red-kidneys.png",
+        "https://static.wikia.nocookie.net/surrealmemes/images/7/7d/Bean_Man_transparent.png"
+      ],
+      "definitions": [
+        "any of various edible seeds of plants of the family Leguminosae used for food",
+        "any of various seeds or fruits that are beans or resemble beans",
+        "any of various leguminous plants grown for their edible seeds and pods",
+        "informal terms for a human head"
+      ]
+    },
+    {
+      "id": "wine",
+      "image_urls": [
+        "https://mscwordpresscontent.s3.amazonaws.com/top100/wp-content/uploads/2020/12/Silo_6213090.png",
+        "https://www.orion-wines.com/Uploads/Small/orion-allumea-nerodavola-sicilia_1591_xxs.png",
+        "https://images.vivino.com/thumbs/YkSzafCbQfmjxkQ21MRzYA_pb_x960.png",
+        "https://www.orion-wines.com/Uploads/Small/orion-allumea-grillochardonnaysicilia_1538_xxs.png",
+        "https://images.vivino.com/thumbs/TRyFdTBbQDG03tJX-Neglw_pb_x960.png"
+      ],
+      "definitions": [
+        "fermented juice (of grapes especially)",
+        "a red as dark as red wine"
+      ]
+    },
+    {
+      "id": "potatoes",
+      "image_urls": [
+        "https://www.vip.coop/images/content/472645_39079_3_N_515_500_0_5374965/potatoes.png",
+        "https://static.wikia.nocookie.net/miscreated/images/0/0f/PotatoesRotten_2048.png",
+        "https://www.bcgourmet.it/images/patate3.png",
+        "https://www.hzpc.com/uploads/overview-transparent-896/dc78aee8-3f50-5ba8-b8d3-6cf74852aa2b/3175818931/Colomba%20%282%29.png",
+        "https://www.hzpc.com/uploads/overview-transparent-896/e3e6d564-9cc9-505f-b6c4-95fc3c75dabf/3175818934/Taurus.png"
+      ],
+      "definitions": [
+        "an edible tuber native to South America; a staple food of Ireland",
+        "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+      ]
+    },
+    {
+      "id": "butter",
+      "image_urls": [
+        "https://bergbauernmilch.de/_Resources/Persistent/f/2/d/1/f2d15bac1fbd5e10473f04f4f6c7488b2a7dc138/26590.png",
+        "https://www.heritagefoods.in/blog/wp-content/uploads/2021/02/our-goodness-butter.png",
+        "https://www.elle-et-vire.com/uploads/cache/400x400/uploads/recip/product/148/5fd7818b6a426_sans-titre-1.png",
+        "https://chefshamy-media.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/02/15120100/641548550123-Round-CINNAMON-front3.png",
+        "https://storcpdkenticomedia.blob.core.windows.net/media/lolretail/media/lolr-media/products/00034500151368-400x400.png"
+      ],
+      "definitions": [
+        "an edible emulsion of fat globules made by churning milk or cream; for cooking and table use",
+        "a fighter who strikes the opponent with his head"
+      ]
+    },
+    {
+      "id": "liquor",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0085/4333/8543/products/Group_pic.png",
+        "https://www.natfood.it/wp-content/uploads/2017/11/bottiglie-Ginco-4.png",
+        "https://5.imimg.com/data5/TG/WE/MY-47173491/liquor-labels-500x500.png",
+        "https://www.maryjanebg.it/wp-content/uploads/2018/02/LIQUOR.png",
+        "https://i2.wp.com/burnia.eu/wp-content/uploads/2020/04/Amaro-Henna-di-Arancia-Amara-Mandorle-Amaro.png"
+      ],
+      "definitions": [
+        "an alcoholic beverage that is distilled rather than fermented",
+        "a liquid substance that is a solution (or emulsion or suspension) used or obtained in an industrial process",
+        "the liquid in which vegetables or meat have be cooked"
+      ]
+    },
+    {
+      "id": "soup",
+      "image_urls": [
+        "https://www.freeiconspng.com/thumbs/soup-png/khanbaba-soup-png-4.png",
+        "https://res.cloudinary.com/general-mills/image/upload/q_auto,f_auto/annies/wp-content/uploads/2019/11/Organic-Star-Pasta-and-Chicken-Soup.png",
+        "https://www.raos.com/wp-content/uploads/2020/10/Raos_Soup_ChickenNoodle_16oz_600x600.png",
+        "https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/heinzcouk/soup/product/images/Classic/Vegetable.png",
+        "https://vinceandjoes.com/wp-content/uploads/2020/04/CHICKEN_NOODLE_SOUP_shutterstock_1041988957_clipped_rev_1.png"
+      ],
+      "definitions": [
+        "liquid food especially of meat or fish or vegetable stock often containing pieces of solid food",
+        "any composition having a consistency suggestive of soup",
+        "an unfortunate situation"
+      ]
+    },
+    {
+      "id": "sugar",
+      "image_urls": [
+        "https://sc04.alicdn.com/kf/UTB82I0TupPJXKJkSahV760yzFXaP.png",
+        "https://www.tmgimpianti.com/wp-content/uploads/2020/06/SUGAR-BAG.png",
+        "https://www.madhursugar.com/assets/images/madhur-sugar-blue-pack.png",
+        "https://assets.website-files.com/5db1a94b0cf70d833a4a34e9/5f32967f56ed5a376f75ea9d_arengasugar-small.png",
+        "https://static.wikia.nocookie.net/cryofall_gamepedia_en/images/3/36/Sugar_Icon.png"
+      ],
+      "definitions": [
+        "a white crystalline carbohydrate used as a sweetener and preservative",
+        "an essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain",
+        "informal terms for money"
+      ]
+    },
+    {
+      "id": "bacon",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/31/Made20bacon.png",
+        "https://www.levoni.it/ContentsFiles/levoni_salumi-affettati_1911-pancetta-affumicata_eng_zoom.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Bacon.png",
+        "https://www.perduefarms.com/dw/image/v2/BDQM_PRD/on/demandware.static/-/Sites-masterCatalog_perdue/default/dw2c5765e1/images/product-images/53789_Coleman_Pork_HickoryBacon_Package.png",
+        "https://dylzm7u8zqclv.cloudfront.net/2020/06/22/12/59/39/a7ae2210-0a5b-490e-9712-4b6c1b0916a5/Natural%20No%20Sugar%20Bacon_BACK.png"
+      ],
+      "definitions": [
+        "back and sides of a hog salted and dried or smoked; usually sliced thin and fried",
+        "English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)",
+        "English statesman and philosopher; precursor of British empiricism; advocated inductive reasoning (1561-1626)"
+      ]
+    }
+  ]
+}

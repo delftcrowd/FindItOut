@@ -1,0 +1,248 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "food",
+      "image_urls": [
+        "https://images.ctfassets.net/grb5fvwhwnyo/1sJpRsfp1RJI3AASMiOS1h/4421f71ab2cbdf50d1c960ebfcd02a39/P2.3_Page-SEO-Data.png",
+        "https://www.asiaexpressfood.nl/images/header/2019/Anuga_banner_2021_-_Bovenlaag.png",
+        "https://futurefoodgroup.nl/en/wp-content/uploads/sites/5/2020/09/LR_Vega_worst@0.33x-450x480.png",
+        "https://amlifestylemedicine.com/wp-content/uploads/2019/01/canada.png",
+        "https://www.33goodfood.nl/wp-content/uploads/2020/04/burger-33goodfood.png"
+      ],
+      "definitions": [
+        "any substance that can be metabolized by an animal to give energy and build tissue",
+        "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+        "anything that provides mental stimulus for thinking"
+      ]
+    },
+    {
+      "id": "pantry",
+      "image_urls": [
+        "https://www.thepantry.nl/wordpress/wp-content/uploads/Restaurant-The-Pantry-Amsterdam-logo-400X150.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594809742327-8QUZ2V0P4WFNZ4DHKSDY/maison_haven_organizers_style_sheet_PANTRY-ZONES.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594891146867-RI1QTHHZR9747T6GKY3H/maison-haven-style-sheet-pantry-main+copy.png",
+        "https://i2.wp.com/www.thedesignconfidential.com/wp-content/uploads/final_20.png",
+        "https://www.mwtoolboxqld.com.au/wp-content/uploads/2021/08/MW-Canopy-Pantry-Main.png"
+      ],
+      "definitions": [
+        "a small storeroom for storing foods or wines"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "plate",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1224/7992/products/Dinner_Plate_CUTOUT.png",
+        "https://www.rijksmuseumshop.nl/media/image/d7/3e/86/12861_f.png",
+        "https://www.rijksmuseumshop.nl/media/image/cf/99/43/12961_f.png",
+        "https://anna-nina.imgix.net/spree/products/17102/huge/Popolo_Large_Navy_Striped_Plate.png",
+        "https://rookplankje.nl/wp-content/uploads/2018/04/The-Bastard-Cast-Iron-Cooking-Plate-Holder_2.png"
+      ],
+      "definitions": [
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "a sheet of metal or wood or glass or plastic",
+        "a full-page illustration (usually on slick paper)",
+        "dish on which food is served or from which food is eaten",
+        "the quantity contained in a plate",
+        "a rigid layer of the Earth's crust that is believed to drift slowly",
+        "the thin under portion of the forequarter",
+        "a main course served on a plate",
+        "any flat platelike body structure or part",
+        "the positively charged electrode in a vacuum tube",
+        "a flat sheet of metal or glass on which a photographic image can be recorded",
+        "structural member consisting of a horizontal beam that provides bearing and anchorage",
+        "a shallow receptacle for collection in church",
+        "a metal sheathing of uniform thickness (such as the shield attached to an artillery piece to protect the gunners)",
+        "a dental appliance that artificially replaces missing teeth"
+      ]
+    },
+    {
+      "id": "stomach",
+      "image_urls": [
+        "https://anatomytool.org/sites/default/files/Ana_Digestivus_inside%20of%20stomach%20and%20duodenum.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/stomach-1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Stomach_blood_supply.svg/600px-Stomach_blood_supply.svg.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/092967_A.png",
+        "https://s3-us-west-2.amazonaws.com/svg.mindthegraph.com/realistic/stomach/900x772/stomach-04.png"
+      ],
+      "definitions": [
+        "an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion",
+        "the region of the body of a vertebrate between the thorax and the pelvis",
+        "an inclination or liking for things involving conflict or difficulty or unpleasantness",
+        "an appetite for food"
+      ]
+    },
+    {
+      "id": "stove",
+      "image_urls": [
+        "https://www.cadacinternational.com/media/catalog/product/cache/5d451a7c2706e3178632db9d96f08f78/2/0/202p0-10_2-cook_2_pro_stove_1__2.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ECCG3668AS-HOV.png",
+        "https://media.croma.com/image/upload/v1605175610/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/8852978860062.png",
+        "https://5.imimg.com/data5/CS/CG/MY-910175/double-burner-lpg-stove-500x500.png",
+        "https://www.snappychef.co.za/wp-content/uploads/2020/04/SCG003-Snappy-Chef-2-plate-Gas-Stove.png"
+      ],
+      "definitions": [
+        "a kitchen appliance used for cooking food",
+        "any heating apparatus"
+      ]
+    },
+    {
+      "id": "inside",
+      "image_urls": [
+        "https://playdead.com/css/img/INSIDE_game_logo.png",
+        "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABWtlF-0phIv7aUvUitdGG1GNWth2kljkoEg_b59FhACE9Tq2fw-Udw87F92S2v4dSGUDZc-BR_EgzVpvahtEiC8wRo9wFiA3yRK9.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQdt9YGRpjkDVp3KBSu8w6IDGKQSM4QGhXtwLbTGJcWC4_h4hmtqKZIkql6Y4yZ9gxYdrsWOx9UmqUSMyFUgUeLIa-SjqqnzwAMxTjRqzwZ_L0QM6oSi_SdaZ6ynrcLsgfM-aWsB3fj-wqPBMCYgshfanwsFUbJpKtEUCKP32RfRZQ.png",
+        "https://cdn.shopify.com/s/files/1/0587/6426/3598/products/bbinsideLP.png",
+        "https://www.rugby-inside.nl/wp-content/uploads/2020/06/Rugby-Inside-text-transparant-280x96px.png"
+      ],
+      "definitions": [
+        "the region that is inside of something",
+        "the inner or enclosed surface of something"
+      ]
+    },
+    {
+      "id": "condiments",
+      "image_urls": [
+        "https://www.monini.com/content/wp-content/uploads/2018/04/MENU_CONDIMENTS.png",
+        "https://www.zepbrook.co.uk/m/0/11221122.png",
+        "https://www.canadianpackaging.com/wp-content/uploads/2017/07/Frenchs-condiments.png",
+        "https://i.pinimg.com/originals/72/90/ef/7290efe69a6e587c25cd9fc2517d835c.png",
+        "https://www.sonoco.com/sites/default/files/styles/launchpad_primary/public/launchpad/DipandDressings.png"
+      ],
+      "definitions": [
+        "a preparation (a sauce or relish or spice) to enhance flavor or enjoyment"
+      ]
+    },
+    {
+      "id": "oven",
+      "image_urls": [
+        "https://media3.bosch-home.com/Product_Shots/1600x900/MCSA01975329_HBA534BS0_FullSizeOven_Bosch_STP_EOX5_def.png",
+        "https://www.beko.com/content/dam/netherlands-nl-aem/netherlands-nl-aemProductCatalog/technology/tech_CookMaster_Cooking/BI-Oven-CookMaster-Primary.png",
+        "https://www.pelgrim.nl/wp-content/uploads/2020/07/OVP436RVS.png",
+        "https://www.pelgrim.nl/wp-content/uploads/2020/07/OVP436RVS_IMG2.png",
+        "https://www.mayer.sg/pub/media/catalog/product/cache/458cdfb900b7b48b9fd1e65800102bb9/m/o/mo32r-open-.png"
+      ],
+      "definitions": [
+        "kitchen appliance used for baking or roasting"
+      ]
+    },
+    {
+      "id": "disneyland",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/disney/images/a/ad/Disneyland.png",
+        "https://d118pfm5xh6r9q.cloudfront.net/images/d/disneylandparis_9.png",
+        "https://disneydrive.be/wp-content/uploads/2018/03/Disneyland_Paris_logo.svg-1-1024x289.png",
+        "https://www.discoverthemagic.nl/images/footer-discoverthemagic.png",
+        "https://static.wikia.nocookie.net/disney/images/9/96/Disneyland_Paris.png"
+      ],
+      "definitions": [
+        "an amusement park in Anaheim created in 1955 by Walt Disney"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "cup",
+      "image_urls": [
+        "https://www.beppy.com/wp-content/uploads/2020/12/2-Cup-Red-Orange-1-1.png",
+        "https://www.beppy.com/wp-content/uploads/2020/02/Beppy-Cup-2-stuks.png",
+        "https://cdn.shopify.com/s/files/1/0525/3555/8299/products/image_cc9e0135-a963-4b23-a0d2-c7cd2993003e_709x.png",
+        "https://www.moonloft.nl/wp-content/uploads/2020/11/Espresso-Cup-I-know-.png",
+        "https://www.paardekooper.nl/static/uploads/pictures/large/450104.png"
+      ],
+      "definitions": [
+        "a small open container usually used for drinking; usually has a handle",
+        "the quantity a cup will hold",
+        "any cup-shaped concavity",
+        "a United States liquid unit equal to 8 fluid ounces",
+        "cup-shaped plant organ",
+        "a punch served in a pitcher instead of a punch bowl",
+        "the hole (or metal container in the hole) on a golf green",
+        "a large metal vessel with two handles that is awarded as a trophy to the winner of a competition"
+      ]
+    },
+    {
+      "id": "container",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://images.ctfassets.net/gc5htdx4kcus/4OHleWuGTa6mdbSbicT5ur/d2424e4d0ac10b83ac4d47c86d01b5c5/22G1_20FT_Standaard_new_blue_Corner_shadow.png",
+        "https://www.unifeeder.com/hubfs/Container%20equipment%20on%20website%20-%2040ft%20HC-1.png"
+      ],
+      "definitions": [
+        "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+      ]
+    },
+    {
+      "id": "jar",
+      "image_urls": [
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw953883ce/images/120527860/120527860_MCM_PACK_150516.png",
+        "https://www.bierglazen-fabriek.nl/wp-content/uploads/2018/03/drinking-jar-71-cl-set-van-12-12426.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw116bec09/images/120527771/120527771_MCM_PACK_150532.png",
+        "https://www.candlewarmers.com/cache/PRODUCTIMAGE4018MAR.png",
+        "https://www.oasisfloral.co.uk/media/catalog/product/cache/73fdfc624587e8942c64b15b96a5e275/4/5/45-03255_group_new_hailey_clear_and_green.png"
+      ],
+      "definitions": [
+        "a vessel (usually cylindrical) with a wide mouth and without handles",
+        "the quantity contained in a jar",
+        "a sudden jarring impact"
+      ]
+    },
+    {
+      "id": "refrigerators",
+      "image_urls": [
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/EI23BC82SS-HOV_628.png",
+        "https://ac.inv-static.com/images/psygeia/psigeiokatapsiktes/PS18870LIN/CATEGORY_SEE_MORE/CATEGORY_IMAGE_PS18870LIN%20(1).png",
+        "https://www.steel-cucine.com/content/uploads/steel/2015/10/GFR9B-Immagine-Evidenza-STEEL.png",
+        "https://www.steel-cucine.com/content/uploads/steel/2021/09/EFR9_featured.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    }
+  ]
+}

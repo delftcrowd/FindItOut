@@ -1,0 +1,266 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://nvdpl.ca/sites/default/files/styles/slideshow/public/field/image/slideshow_images/Web_2020%20COVID-19_Get%20in%20touch_2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "magazine",
+      "image_urls": [
+        "https://www.editoo.nl/wp-content/uploads/2021/05/magazinemaken.png",
+        "https://www.chipfotomagazine.nl/app/uploads/sites/5/2018/06/chip-foto-magazine-1024x888.png",
+        "https://www.magezino.nl/wp-content/uploads/2020/08/magazine-maken.png",
+        "https://images.studentendrukwerk.nl/sdw/nl/1f7319b097e4c/magazines/magazine-druk-480.png",
+        "https://www.chapeaumagazine.com/wp-content/uploads/2020/04/magazineadverteren.png"
+      ],
+      "definitions": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+        "product consisting of a paperback periodic publication as a physical object",
+        "a business firm that publishes magazines",
+        "a light-tight supply chamber holding the film and supplying it for exposure as required",
+        "a storehouse (as a compartment on a warship) where weapons and ammunition are stored",
+        "a metal frame or container holding cartridges; can be inserted into an automatic gun"
+      ]
+    },
+    {
+      "id": "magazines",
+      "image_urls": [
+        "https://images.studentendrukwerk.nl/sdw/nl/1f7319b097e4c/magazines/magazine-druk-480.png",
+        "https://www.izz.nl/sites/default/files/styles/dynamic_content_image/public/mainimage/De_zorg_4_magazines.png",
+        "https://www.grootsgedrukt.nl/sites/default/files/styles/vervolgpc_c2_right_side_bar/public/images/756-magazine.png",
+        "https://www.hoddereducation.co.uk/media/Images/magazines/Print%20Magazines%20Landing%20Page/Magazine-image.png",
+        "https://mcgraphics.pocketmags.com/pmimages/devices/digital-magazines.png"
+      ],
+      "definitions": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+        "product consisting of a paperback periodic publication as a physical object",
+        "a business firm that publishes magazines",
+        "a light-tight supply chamber holding the film and supplying it for exposure as required",
+        "a storehouse (as a compartment on a warship) where weapons and ammunition are stored",
+        "a metal frame or container holding cartridges; can be inserted into an automatic gun"
+      ]
+    },
+    {
+      "id": "drawer",
+      "image_urls": [
+        "https://www.godrejinterio.com/imagestore/B2C/56101516SD00018/56101516SD00018_01_500x500.png",
+        "https://www.directaviation.aero/IManager/Media/127991/1999111/EN/reg/aluflite-atlas-superlight-drawer.png",
+        "https://images.selency.com/c695ccb0-19fd-47ff-90c2-de53f4a890bc/english-drawer-dresser_original.png",
+        "https://www.decorist.com/static/finds/product_images/full_size/243098-alex-drawer-unit-white.e360c12997079c8f179f2e9426cb779d.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/02/CD6-shadow-edge-on-left.png"
+      ],
+      "definitions": [
+        "a boxlike container in a piece of furniture; made so as to slide in and out",
+        "the person who writes a check or draft instructing the drawee to pay someone else",
+        "an artist skilled at drawing"
+      ]
+    },
+    {
+      "id": "newspaper",
+      "image_urls": [
+        "https://www.la-streetfood.com/604/0/0/1/ffffff00/a9bb3cf9/35ea27e4ce63bcfaba82217a87415406e1c63698baf20f4b7df88daea19811aa/newspaper-new-york-1952-30x30.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Daily-Citizen-Newspaper--Object-Global-Citizenship-Life-KS2.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/NewspaperDesign_gestalten_book_editorial_journalism_inside03_2000x.png",
+        "https://cdn-assets.timesofmalta.com/epapers/newspapers-2x.png",
+        "https://storage.needpix.com/rsynced_images/newspaper-4222970_1280.png"
+      ],
+      "definitions": [
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher",
+        "cheap paper made from wood pulp and used for printing newspapers"
+      ]
+    },
+    {
+      "id": "jail",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/2070/PNG/512/jail_icon_126169.png",
+        "https://miscellanynews.org/wp-content/uploads/2019/02/prison_PNG46.png",
+        "https://cdn-icons-png.flaticon.com/512/1685/1685853.png",
+        "https://assets.website-files.com/6005e7e461f4ba3355a5d5b1/600b00c9c739b6d9140f308d_Icon%20Jail%20260.png",
+        "https://static.thenounproject.com/png/55081-200.png"
+      ],
+      "definitions": [
+        "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)"
+      ]
+    },
+    {
+      "id": "airport",
+      "image_urls": [
+        "https://s28477.pcdn.co/wp-content/uploads/2017/07/Schiphol_logo.svg_-1024x380.png",
+        "https://www.inform-software.com/fileadmin/user_upload/inform-world/INFORMWELT-Airport.png",
+        "https://naco.nl/smart-aviation/images/passenger.png",
+        "https://www.swarco.com/sites/default/files/public/airport800.png",
+        "https://uploads-ssl.webflow.com/5bc87d66e1f40410cb03fe2f/603805bfb4ce0884ec3deaae_forum%20icon.png"
+      ],
+      "definitions": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    },
+    {
+      "id": "dentist",
+      "image_urls": [
+        "https://www.greenmountaindentistry.com/assets/images/banner-team-cutout2.png",
+        "https://sabkadentist.com/wp-content/uploads/2021/06/dental-treatments-sabkadentist.png",
+        "https://www.tandaradental.com.au/wp-content/uploads/2021/01/quality-dentistry.png",
+        "https://bitebank.com/uploads/temp/1239/files/images/1.png",
+        "https://images.squarespace-cdn.com/content/v1/5d0ba86a128ef900017d8d2f/1589065936864-A5ZVG95LS6O4ZEIJW0ON/cosmedic-dentist-hobbs-nm-denta-dental.png"
+      ],
+      "definitions": [
+        "a person qualified to practice dentistry"
+      ]
+    },
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/2241/original/bruin-bed-king-1-brosa-design.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "porch",
+      "image_urls": [
+        "https://i.pinimg.com/originals/8f/cc/98/8fcc983ef3dbc51f6193218d2d4806ae.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/06/full-2.png",
+        "https://www.pinuphouses.com/wp-content/uploads/cabin-with-screened-porch-plans.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/05/wall-mounted-2.png",
+        "https://images.squarespace-cdn.com/content/v1/537d02bae4b03c36028df3c0/1474580906337-Z2J6H0MP2JNODOG26GQT/3D+FRONT+OF+LARGE+OAK+PORCH+WITH+JOWL+POSTS.png"
+      ],
+      "definitions": [
+        "a structure attached to the exterior of a building often forming a covered entrance"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c2d1217b40b9d0b0efaa79a/1560190011772-WGBWIOCBI971QK8HXCPD/BespokeDesign-FloorGuys.png",
+        "https://www.plugwise.com/wp-content/uploads/2020/11/Floor-1100@2x.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://www.kinderboeken.nl/wp-content/uploads/sites/52/2020/07/De-regels-van-Floor-Marjon-Hoffman-Nancy-Koot.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    },
+    {
+      "id": "shop",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/DotShop_gTLD_logo.svg/1200px-DotShop_gTLD_logo.svg.png",
+        "https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5f76d7cb690e57c164388d32_Artboard%208.png",
+        "https://www.jumblebee.co.uk/site/wp-content/uploads/2014/06/JB-FE-Shop_10.png",
+        "https://shopinshopxlstore.nl/wp-content/uploads/2021/03/logo-shop-in-shop-XL-store-e1617103847341.png",
+        "https://cdn.shopify.com/s/files/1/0523/6791/7209/files/blue-stg_100x@2x.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "small workplace where handcrafts or manufacturing are done",
+        "a course of instruction in a trade (as carpentry or electricity)"
+      ]
+    },
+    {
+      "id": "home",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go-home-2.svg/1200px-Go-home-2.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Home-icon.svg/2048px-Home-icon.svg.png",
+        "https://s3-eu-west-1.amazonaws.com/zkn/files/df172fd7066470da8c916409ba3f75c4.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABajVV54Z0yXvIDzrA3hPAm6UAxTjm9xPYG0NfkeRky2wjDbVDEmX-vKnRx00rWSvsAGCrsXy2UxenzhVYnVNGx3Bzs7FsErHOOq7.png",
+        "https://www.somfy.nl/common/img/library///700x350/15-smart-home.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "doctor",
+      "image_urls": [
+        "https://photos.healthgrades.com/homeimages/find-a-doctor.png",
+        "https://www.doctorcare.ca/wp-content/uploads/2021/05/header-homepage-cropped.png",
+        "https://www.allwayshealthpartners.org/ALL/media/AllwaysMedia/New%20photography/Men/MD%20(with%20and%20without%20patients)/2019138_Allways_Day4_MaleDoctorWritingOnTablet_0439_Final.png",
+        "https://d33wubrfki0l68.cloudfront.net/313534c303c9e212a82bd28bde722fe3b884581e/b03e0/assets/images/banner_docx2.png",
+        "https://newassets.apollo247.com/doctors/b972ba8b-1138-4710-9676-33313b65c7a8.png"
+      ],
+      "definitions": [
+        "a licensed medical practitioner",
+        "(Roman Catholic Church) a title conferred on 33 saints who distinguished themselves through the orthodoxy of their theological teaching",
+        "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+        "a person who holds Ph.D. degree (or the equivalent) from an academic institution"
+      ]
+    },
+    {
+      "id": "clothing",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0088/0685/8848/files/hoofding_webshop-01_1750x.png",
+        "https://mediacache5.select-sport.com/d5/13/9eaf-21a0-4e7f-9b85-0b3e337c8ee2/baselayer.png",
+        "https://www.bankvogue.com/wp-content/uploads/2019/12/used-clothes-main.png",
+        "https://cdn.shopify.com/s/files/1/0497/3284/5735/files/LOGO_FINAL_700x.png",
+        "https://149364146.v2.pressablecdn.com/wp-content/uploads/2020/04/templates-1.png"
+      ],
+      "definitions": [
+        "a covering designed to be worn on a person's body"
+      ]
+    }
+  ]
+}

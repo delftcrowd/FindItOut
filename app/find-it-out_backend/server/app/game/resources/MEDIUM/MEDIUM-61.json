@@ -1,0 +1,288 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "stuff",
+      "image_urls": [
+        "https://www.bot-i.com/wp-content/uploads/2020/05/Stuffaloons-logo.png",
+        "https://www.stuffhollywood.com/uploads/b/a6fda134fc08c445476be1046dca68b7a5dfca285d6db0b4155c6231c547d556/STUFFSHOP-logo_1599189684.png",
+        "https://images.squarespace-cdn.com/content/v1/5f218f677f1fdb38f06cebcb/1607614607399-LJ0MISB0PIVW7PDA4D5M/SSS2.png",
+        "https://cdn.cnn.com/cnnnext/dam/assets/190109151852-good-stuff-logo-with-smiley-face-super-tease.png",
+        "https://stuffdutchpeoplelike.com/wp-content/uploads/2016/05/SDPL_cover_3D-440x440.png"
+      ],
+      "definitions": [
+        "the tangible substance that goes into the makeup of a physical object",
+        "miscellaneous unspecified objects",
+        "informal terms for personal possessions",
+        "senseless talk",
+        "unspecified qualities required to do or be something",
+        "information in some unspecified form",
+        "a critically important or characteristic component"
+      ]
+    },
+    {
+      "id": "stamps",
+      "image_urls": [
+        "https://www.upu.int/getmedia/fe99a4ac-7895-4539-9e16-1426a20325dc/ServiceStamp_1957_0-20_PegasusSculpture_NoBackground.png",
+        "https://u3a6e8j6.stackpathcdn.com/media/revslider/homepage/image.png",
+        "https://assets.postmuseum.li/assets/Liechtenstein/960/D69.png",
+        "https://www.upu.int/getmedia/0252bd23-e9c9-4111-9e54-1827f0545337/ServiceStamp_1957_0-10_PegasusSculpture_NoBackground.png",
+        "https://assets.postmuseum.li/assets/Liechtenstein/960/P28.png"
+      ],
+      "definitions": [
+        "the distinctive form in which a thing is made",
+        "a type or class",
+        "a symbol that is the result of printing or engraving",
+        "a small adhesive token stuck on a letter or package to indicate that that postal fees have been paid",
+        "something that can be used as an official medium of payment",
+        "a small piece of adhesive paper that is put on an object to show that a government tax has been paid",
+        "machine consisting of a heavy bar that moves vertically for pounding or crushing ores",
+        "a block or die used to imprint a mark or design",
+        "a device incised to make an impression; used to secure a closing or to authenticate documents"
+      ]
+    },
+    {
+      "id": "drawer",
+      "image_urls": [
+        "https://www.godrejinterio.com/imagestore/B2C/56101516SD00018/56101516SD00018_01_500x500.png",
+        "https://www.directaviation.aero/IManager/Media/127991/1999111/EN/reg/aluflite-atlas-superlight-drawer.png",
+        "https://images.selency.com/c695ccb0-19fd-47ff-90c2-de53f4a890bc/english-drawer-dresser_original.png",
+        "https://www.decorist.com/static/finds/product_images/full_size/243098-alex-drawer-unit-white.e360c12997079c8f179f2e9426cb779d.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/02/CD6-shadow-edge-on-left.png"
+      ],
+      "definitions": [
+        "a boxlike container in a piece of furniture; made so as to slide in and out",
+        "the person who writes a check or draft instructing the drawee to pay someone else",
+        "an artist skilled at drawing"
+      ]
+    },
+    {
+      "id": "dinner",
+      "image_urls": [
+        "https://digitalcampaignsstorage.blob.core.windows.net/change4life/production/uploads/ckeditor/pictures/296/content_Nutrition-collection-dinner.png",
+        "https://static.takeaway.com/images/restaurants/nl/N15O/logo_465x320.png",
+        "https://www.dinnerinmotion.nl/wp-content/uploads/2019/09/Logo-Dinner-in-Motion-White-Transparant-2000x2000.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/dinner-6894dde410af53ff882a2204a2a54bb01eca1327.png",
+        "https://thedinnerhub.com/images/app_preview_1_dinnerhub.png"
+      ],
+      "definitions": [
+        "the main meal of the day served in the evening or at midday",
+        "a party of people assembled to have dinner together"
+      ]
+    },
+    {
+      "id": "plate",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1224/7992/products/Dinner_Plate_CUTOUT.png",
+        "https://www.rijksmuseumshop.nl/media/image/d7/3e/86/12861_f.png",
+        "https://www.rijksmuseumshop.nl/media/image/cf/99/43/12961_f.png",
+        "https://anna-nina.imgix.net/spree/products/17102/huge/Popolo_Large_Navy_Striped_Plate.png",
+        "https://rookplankje.nl/wp-content/uploads/2018/04/The-Bastard-Cast-Iron-Cooking-Plate-Holder_2.png"
+      ],
+      "definitions": [
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "a sheet of metal or wood or glass or plastic",
+        "a full-page illustration (usually on slick paper)",
+        "dish on which food is served or from which food is eaten",
+        "the quantity contained in a plate",
+        "a rigid layer of the Earth's crust that is believed to drift slowly",
+        "the thin under portion of the forequarter",
+        "a main course served on a plate",
+        "any flat platelike body structure or part",
+        "the positively charged electrode in a vacuum tube",
+        "a flat sheet of metal or glass on which a photographic image can be recorded",
+        "structural member consisting of a horizontal beam that provides bearing and anchorage",
+        "a shallow receptacle for collection in church",
+        "a metal sheathing of uniform thickness (such as the shield attached to an artillery piece to protect the gunners)",
+        "a dental appliance that artificially replaces missing teeth"
+      ]
+    },
+    {
+      "id": "trash",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/ramotion/512/Trash.png",
+        "https://static.macupdate.com/products/8214/l/trash-it-logo.png",
+        "https://www.eastpikeland.org/vertical/Sites/%7B3F7567AD-BA35-41A6-9117-FD7892D5A0DA%7D/uploads/Trashcan.png",
+        "https://bubblebinz.com/wp-content/uploads/2020/05/empty-clean-trash.png",
+        "https://www.toter.com/sites/default/files/2021-05/can-5_1.png"
+      ],
+      "definitions": [
+        "worthless material that is to be disposed of",
+        "worthless people",
+        "nonsensical talk or writing",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "backpack",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/John-Backpack-Midi-Black-Back_1024x1024.png",
+        "https://www.nixon.com/on/demandware.static/-/Sites-masterCatalog_Nixon/default/dwa17349ad/products/C3025-000-view1.png",
+        "https://image01.oneplus.net/ebp/202012/22/1-m00-1e-ac-rb8bwl_hxzaaqkeraaratr4jfa8896.png",
+        "https://static.nike.com/a/images/t_default/bf773f53-e74f-4248-89cc-1f4d0992acae/sb-rpm-skate-backpack-nmcTDs.png",
+        "https://www.barts.eu/img/240/427/resize/3/7/3779_mountain-backpack_13_1.png"
+      ],
+      "definitions": [
+        "a bag carried by a strap on your back or shoulder"
+      ]
+    },
+    {
+      "id": "coffee",
+      "image_urls": [
+        "https://dl906josmvu2y.cloudfront.net/theme/images/coffee-beans.png",
+        "https://static.wikia.nocookie.net/coffee/images/8/83/Coffee_PD_NIH.png",
+        "https://www.thecoffeequest.com/wp-content/uploads/2020/06/TCQ-logo-COL-rgb-png.png",
+        "https://www.coffeeandhealth.org/wp-content/uploads/2013/10/Ingredients.png",
+        "https://www.starbucksathome.com/mena/sites/default/files/styles/nutrition_instruction_image/public/2021-02/BlackCoffee_LongShadow_0.png"
+      ],
+      "definitions": [
+        "a beverage consisting of an infusion of ground coffee beans",
+        "any of several small trees and shrubs native to the tropical Old World yielding coffee beans",
+        "a seed of the coffee tree; ground to make coffee",
+        "a medium brown to dark-brown color"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "michigan",
+      "image_urls": [
+        "https://www.michigannature.org/images/img_library/crp/96-6-8-issue.png",
+        "https://www.bls.gov/regions/midwest/images/18782.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/hotspots.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/risk_levels.png",
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566497203534-IP8F83WR5AWBNVFFG2VF/Michigan.png"
+      ],
+      "definitions": [
+        "a midwestern state in north central United States in the Great Lakes region",
+        "the 3rd largest of the Great Lakes; the largest freshwater lake entirely within the United States borders",
+        "a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card"
+      ]
+    },
+    {
+      "id": "case",
+      "image_urls": [
+        "https://anna-nina.imgix.net/spree/products/14791/huge/12Atelje%CC%81_Yara_Michels_Pearl_Phone_Cases_Product_Image_DOUBLE_PEARL_CORD_1_w.png",
+        "https://cdn.shopify.com/s/files/1/0011/4651/9637/products/phone-case_album-cover_ae571646-caa7-4758-b8f9-d0be9147c983_800x.png",
+        "https://cdn.shopify.com/s/files/1/0269/0190/5507/files/12_pro_rebel_back.png",
+        "https://cdn11.bigcommerce.com/s-dat6f8vwhv/images/stencil/1280w/products/476/1189/JG.IMPCT.iPhone11_1__86303.1603304620.1280.1280__56143.1603304652.1280.1280__58664.1622558130.png",
+        "https://cdn.shopify.com/s/files/1/0273/6039/5377/products/Darkgreen1_600x.png"
+      ],
+      "definitions": [
+        "an occurrence of something",
+        "a special set of circumstances",
+        "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+        "the actual state of things",
+        "a portable container for carrying several objects",
+        "a person requiring professional services",
+        "a person who is subjected to experimental or other observational procedures; someone who is an object of investigation",
+        "a problem requiring investigation",
+        "a statement of facts and reasons used to support an argument",
+        "the quantity contained in a case",
+        "nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence",
+        "a specific state of mind that is temporary",
+        "a person of a specified kind (usually with many eccentricities)",
+        "a specific size and style of type within a type family",
+        "an enveloping structure or covering enclosing an animal or plant organ or part",
+        "the housing or outer covering of something",
+        "the enclosing frame around a door or window opening",
+        "(printing) the receptacle in which a compositor has his type, which is divided into compartments for the different letters, spaces, or numbers",
+        "bed linen consisting of a cover for a pillow",
+        "a glass container used to store and display items in a shop or museum or home"
+      ]
+    },
+    {
+      "id": "utensils",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0996/1022/products/4ocean-ToGoWare-Reusable-Bamboo-Eating-Utensils_1000x.png",
+        "https://cdn.shopify.com/s/files/1/2386/2119/products/stadnalone_0092_Lovevery-VKS-PlaceMat-Silverware-0295-June2020.png",
+        "https://images.selency.com/dcda6293-0f8f-4a11-a94f-aa77129206fc/4-kitchen-utensils-made-of-wood-and-brass-70s_original.png",
+        "https://ae01.alicdn.com/kf/H4cddce53e4d54c47b7b67b05861d8bdbn/12-13-Silicone-Cooking-Utensils-Wooden-Handle-Non-Stick-Kitchen-Set-Cooking-Tools-Accessories-With-Stainless.png",
+        "https://www.vibranthome.co.uk/user/products/Set%20of%204%20Colourful%20Kitchen%20Utensils%20Rice%20DK%20KISPA%204ZLETS%201_1024.png"
+      ],
+      "definitions": [
+        "an implement for practical use (especially in a household)"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "box",
+      "image_urls": [
+        "https://www.mysteryboxkopen.nl/wp-content/uploads/2019/01/Mystery_Box_V01-e1548633735113.png",
+        "https://www.doggy-box.com/wp-content/themes/doggy-box/img/open-box.png",
+        "https://static.cdn.packhelp.com/wp-content/uploads/2021/05/05134118/Packhelp24945-1-1.png",
+        "https://kidspeakltd.com/wp-content/uploads/2016/04/folding-box.png",
+        "https://cdn.shopify.com/s/files/1/0300/7227/4989/files/box_logo_white_bg_300x300.png"
+      ],
+      "definitions": [
+        "a (usually rectangular) container; may have a lid",
+        "private area in a theater or grandstand where a small group can watch the performance",
+        "the quantity contained in a box",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a rectangular drawing",
+        "evergreen shrubs or small trees",
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+        "the driver's seat on a coach",
+        "separate partitioned area in a public place for a few people",
+        "a blow with the hand (usually on the ear)"
+      ]
+    }
+  ]
+}

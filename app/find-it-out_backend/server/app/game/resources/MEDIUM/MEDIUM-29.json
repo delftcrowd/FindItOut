@@ -1,0 +1,257 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "basement",
+      "image_urls": [
+        "https://www.ussu.co.uk/events/PublishingImages/50762604_1050380401812311_3411702263645732864_n.png",
+        "https://www.albodeuren.nl/wp-content/uploads/2018/03/Basement_Modern.png",
+        "https://www.mybasementdoctor.com/wp-content/uploads/2019/11/bd-logo-1.png",
+        "https://www.finishedbasementsplus.com/wp-content/uploads/2019/09/FPB-Logo-1024x537.png",
+        "https://escaperoomthegame.com/images/nl-NL/basement-logo.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "the ground floor facade or interior in Renaissance architecture"
+      ]
+    },
+    {
+      "id": "synagogue",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://static.wikia.nocookie.net/scribblenauts/images/9/92/Synagogue.png",
+        "https://cdn.emojidex.com/emoji/seal/synagogue.png",
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://cdn.icon-icons.com/icons2/1448/PNG/512/42506synagogue_98941.png"
+      ],
+      "definitions": [
+        "(Judaism) the place of worship for a Jewish congregation"
+      ]
+    },
+    {
+      "id": "tree",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Tree.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/Azalea_Tree.png",
+        "https://treesforall.nl/app/themes/treesforall/dist/images/beschermer_900.png",
+        "https://tgs.nl/wp-content/uploads/2015/03/tree-new.png",
+        "https://canfield.gov/wp-content/uploads/2019/05/Full-Green-Tree.png"
+      ],
+      "definitions": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+        "a figure that branches from a single root",
+        "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+      ]
+    },
+    {
+      "id": "lumberyard",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/f/f2/Lumberyard_Logo.png",
+        "https://d1.awsstatic.com/gamedev/lumberyard/logo_lumberyard-500.1c9988f2f6a5a836bed6b70c944e770ccd178e7b.png",
+        "https://d1.awsstatic.com/feature-illustrations/200x200_feature_gaming_purple.ba765b9fa360b94899a9db9941240a0534d1120c.png",
+        "https://images.squarespace-cdn.com/content/v1/5f0f6aa46ce06a062b5b440d/1596298990990-GATFH57677VSC4PEBV0S/Lumberyard_MainLogo_Color2.png",
+        "https://www.lumberyard.org/wp-content/uploads/2018/09/LY_Logo-2.png"
+      ],
+      "definitions": [
+        "a workplace where lumber is stocked for sale"
+      ]
+    },
+    {
+      "id": "wood",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/d/df/Wood.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://capietra.com/wp-content/uploads/2019/10/Untitled-design-73.png",
+        "https://capietra.com/wp-content/uploads/2019/10/Untitled-design-2019-09-13T080626.960.png",
+        "https://www.ofyr.com/media/catalog/product/cache/7a0cfa73c1fbb1c40dafd6fe43c33f55/w/s/ws-d.png"
+      ],
+      "definitions": [
+        "the hard fibrous lignified substance under the bark of trees",
+        "the trees and other plants in a large densely wooded area",
+        "United States film actress (1938-1981)",
+        "English conductor (1869-1944)",
+        "English writer of novels about murders and thefts and forgeries (1814-1887)",
+        "United States painter noted for works based on life in the Midwest (1892-1942)",
+        "any wind instrument other than the brass instruments",
+        "a golf club with a long shaft used to hit long shots; originally made with a wooden head"
+      ]
+    },
+    {
+      "id": "river",
+      "image_urls": [
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfYG-2JJ4qmETgedI9xVH_RRlenov2GTkvXiweQVdKfeRTXqrRxrJZ4tCN_8RMtWJsI9RAqkmPmWNAvFGgu4X_4aLpQ_UDWYspUfOt_PwXeD6DOryFsOEhTI6Vvw0Su9WX7HSONSfCn9e9tJmcpxosfk9Qy4lkHJOdcR4aXDzatC_Q.png",
+        "https://www.nps.gov/miss/images/watershed.png",
+        "https://united-rivers.eu/wp-content/uploads/2020/07/united-rivers-32.png",
+        "https://cpw.state.co.us/PublishingImages/LandWater/Riverwatch/River-Watch-logo.png",
+        "https://ohioriverfdn.org/wp-content/uploads/OhioRiverWatershed.png"
+      ],
+      "definitions": [
+        "a large natural stream of water (larger than a creek)"
+      ]
+    },
+    {
+      "id": "boat",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/miscreated/images/6/6e/Fishing_boat_2048.png",
+        "https://smartlinerboat.com/index_htm_files/238524@2x.png",
+        "https://zsilt.nl/wp-content/uploads/2021/05/bootje-blauw-rgb.png",
+        "https://www.boatrental-giethoorn.eu/wp-content/uploads/2020/06/cropped-Boot-4-p-met-kussens-e1592467011913-1.png",
+        "https://tanaruz.boats/assets/images/better-for-planet.png"
+      ],
+      "definitions": [
+        "a small vessel for travel on water",
+        "a dish (often boat-shaped) for serving gravy or sauce"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__height_500/monster-chair-indigo-denim-with-arms.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/22d363011ebadd9cd0091033a93e7422/g/i/give_me_more_chair_orange_-1.png",
+        "https://www.ezup.com/media/catalog/product/cache/29c1a1faac4b2574dce43a966865c016/4/5/45view.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/2241/original/bruin-bed-king-1-brosa-design.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "wedding",
+      "image_urls": [
+        "https://www.jimdo.com/static/c4e8e6e4d1dbcbfde85d54227dd9685f/21dd8/picture.png",
+        "https://cdn.chowsangsang.com/eshop/hk/newweb/collection/2021/wedding/kv01_mobile.png",
+        "https://static.showit.co/1200/DmdiN1rsRoGPZE8inKX5ZQ/122969/honeybee_weddings_winter_wedding-100.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABactul89A47zMsHq8nvh7vTPNIKnRRSUC5QYJ6VJ25f-JSHPySxx8qz7dzUXlmj1BpRrGwWfCAM2Er7kK-dz8Z-5eu5Kfh5Arua5.png",
+        "https://cdn.shopify.com/s/files/1/0528/9567/8657/files/Wedding_round_a34997f1-d3cd-41f5-9521-dbb0af57238e_480x480.png"
+      ],
+      "definitions": [
+        "the social event at which the ceremony of marriage is performed",
+        "the act of marrying; the nuptial ceremony",
+        "a party of people at a wedding"
+      ]
+    },
+    {
+      "id": "inside",
+      "image_urls": [
+        "https://playdead.com/css/img/INSIDE_game_logo.png",
+        "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABWtlF-0phIv7aUvUitdGG1GNWth2kljkoEg_b59FhACE9Tq2fw-Udw87F92S2v4dSGUDZc-BR_EgzVpvahtEiC8wRo9wFiA3yRK9.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQdt9YGRpjkDVp3KBSu8w6IDGKQSM4QGhXtwLbTGJcWC4_h4hmtqKZIkql6Y4yZ9gxYdrsWOx9UmqUSMyFUgUeLIa-SjqqnzwAMxTjRqzwZ_L0QM6oSi_SdaZ6ynrcLsgfM-aWsB3fj-wqPBMCYgshfanwsFUbJpKtEUCKP32RfRZQ.png",
+        "https://cdn.shopify.com/s/files/1/0587/6426/3598/products/bbinsideLP.png",
+        "https://www.rugby-inside.nl/wp-content/uploads/2020/06/Rugby-Inside-text-transparant-280x96px.png"
+      ],
+      "definitions": [
+        "the region that is inside of something",
+        "the inner or enclosed surface of something"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png",
+        "https://www.mystreet.org/media/791008/footpaths-roundel.png",
+        "https://images.squarespace-cdn.com/content/v1/5620ddc4e4b04789570e5fca/1519660057648-G5ZZEN43K2NMO3YOA5PS/SCNL-logo.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/cjfv6a9on0zlh0hqmireerr8r-moto-tyres-pilot-street-persp.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    },
+    {
+      "id": "carpet",
+      "image_urls": [
+        "https://www.fatboy.com/assets/image/000/000/124/fatboy-non-flying-carpets-paprika.png",
+        "https://www.fatboy.com/assets/image/000/000/118/fatboy-non-flying-carpets-dont-step.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/a98cbf61f86a5b05151eb960eb59bb35/i/t/it_s_a_wild_world_panther_baby_carpet_200x300_-1.png",
+        "https://images.selency.com/f7dc7262-5df5-437a-8155-0e5544bbbb34/oriental-carpet-240x340-cm-sky-blue_original.png",
+        "https://images.selency.com/6d84a671-d436-4e87-864e-f79ce798df82/small-colorful-old-carpet-150-x-70-cm_original.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)",
+        "a natural object that resembles or suggests a carpet"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c2d1217b40b9d0b0efaa79a/1560190011772-WGBWIOCBI971QK8HXCPD/BespokeDesign-FloorGuys.png",
+        "https://www.plugwise.com/wp-content/uploads/2020/11/Floor-1100@2x.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://www.kinderboeken.nl/wp-content/uploads/sites/52/2020/07/De-regels-van-Floor-Marjon-Hoffman-Nancy-Koot.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    }
+  ]
+}

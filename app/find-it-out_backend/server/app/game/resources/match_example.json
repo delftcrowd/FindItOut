@@ -1,0 +1,72 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "onion",
+      "image_url": "https://www.eatthestreets.ie/sites/default/files/2021-03/Onion.png",
+      "definitions": [
+        "the bulb of an onion plant",
+        "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+        "an aromatic flavorful vegetable"
+      ]
+    },
+    {
+      "id": "lettuce",
+      "image_url": "https://www.iloveorganicgirl.com/wp-content/uploads/2017/04/butterlettuce.png",
+      "definitions": [
+        "any of various plants of the genus Lactuca",
+        "leaves of any of various plants of Lactuca sativa"
+      ]
+    },
+    {
+      "id": "steak_sauce",
+      "image_url": "https://spursauces.co.za/wp-content/uploads/2019/01/10559S-Steak-Sauce-350x600-1.png",
+      "definitions": [
+        "pungent bottled sauce for steak"
+      ]
+    },
+    {
+      "id": "bell_pepper",
+      "image_url": "https://www.beautycookskisses.com/wp-content/uploads/2018/08/peppers-154377_960_7202.png",
+      "definitions": [
+        "a bell pepper"
+      ]
+    },
+    {
+      "id": "jalapeno",
+      "image_url": "https://www.primula.co.uk/wp-content/uploads/2020/09/Primula-Cheese-n-Jalapenos-452x1024.png",
+      "definitions": [
+        "hot green or red pepper of southwestern United States and Mexico"
+      ]
+    },
+    {
+      "id": "spaghetti_sauce",
+      "image_url": "https://www.bertolli.com/wp-content/uploads/2017/04/BT_PR_PS_TRS_ItalianSausageGarlicRomano-0x480-c-default.png",
+      "definitions": [
+        "spaghetti sauce"
+      ]
+    },
+    {
+      "id": "tomato_paste",
+      "image_url": "https://cdn.mutti-parma.com/app/uploads/sites/3/2019/09/dubble-concentrato-200g-hires-331x1024.png",
+      "definitions": [
+        "thick concentrated tomato puree"
+      ]
+    },
+    {
+      "id": "tomato_juice",
+      "image_url": "https://polmlek.com/wp-content/uploads/2018/10/fpb_pompikantny_r.png",
+      "definitions": [
+        "the juice of tomatoes (usually bottled or canned)"
+      ]
+    }
+  ],
+  "player1Card": {
+    "id": "spaghetti_sauce",
+    "image_url": "https://www.bertolli.com/wp-content/uploads/2017/04/BT_PR_PS_TRS_ItalianSausageGarlicRomano-0x480-c-default.png"
+  },
+  "player2Card": {
+    "id": "bell_pepper",
+    "image_url": "https://www.beautycookskisses.com/wp-content/uploads/2018/08/peppers-154377_960_7202.png"
+  }
+}

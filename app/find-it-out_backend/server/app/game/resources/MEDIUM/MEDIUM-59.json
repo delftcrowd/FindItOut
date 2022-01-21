@@ -1,0 +1,240 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "happiness",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/6054658e1836cc4e4e13b0a5/1616144265312-OFWOC1EPGMWL9WKM9LJC/Your+Happiness+logo+900.png",
+        "https://media.creativemornings.com/uploads/theme/image/4/2013-01-happiness.png",
+        "https://www.stickerop.nl/files/cache/3bde99a62576ae7f5604cd86981cd582-f4872/0020230-muursticker-tekst-Happiness-01.png",
+        "https://www.zomerenkeuning.nl/wp-content/uploads/2020/07/het-dorpje-happiness.png",
+        "https://www.babymassagehappiness.nl/wp-content/uploads/2020/07/happiness-logo-1.png"
+      ],
+      "definitions": [
+        "state of well-being characterized by emotions ranging from contentment to intense joy",
+        "emotions experienced when in a state of well-being"
+      ]
+    },
+    {
+      "id": "celebrating",
+      "image_urls": [
+        "https://cdn2.iconfinder.com/data/icons/celebration-poses-and-gestures/599/celebration-celebrate-011-512.png",
+        "https://cdn0.iconfinder.com/data/icons/celebration-2/549/celebration008-512.png",
+        "https://cdn0.iconfinder.com/data/icons/party-human-1/66/45-512.png",
+        "https://twowritingteachers.files.wordpress.com/2016/06/celebrate-for-twt.png",
+        "https://cdn3.iconfinder.com/data/icons/woman-celebrating/474/woman-celebrate-celebrating-006-512.png"
+      ],
+      "definitions": []
+    },
+    {
+      "id": "tears",
+      "image_urls": [
+        "https://tears.rip/wp-content/themes/uncode-child/library/img/branding/logo.png",
+        "https://mydryeyedisease.com/wp-content/uploads/2020/03/les-larmes-et-la-cornee-1024x799.png",
+        "https://mydryeyedisease.com/wp-content/uploads/2020/03/les-larmes-et-la-vision-1024x1024.png",
+        "https://mydryeyedisease.com/wp-content/uploads/2020/10/tears-explanation-1024x375.png",
+        "https://static.ah.nl/static/gall/img_227538_Gall_500.png"
+      ],
+      "definitions": [
+        "a drop of the clear salty saline solution secreted by the lacrimal glands",
+        "an opening made forcibly as by pulling apart",
+        "an occasion for excessive eating or drinking",
+        "the act of tearing"
+      ]
+    },
+    {
+      "id": "laughter",
+      "image_urls": [
+        "https://laughterwellness.org/wp-content/uploads/2020/04/laughter-wellness.png",
+        "https://images.squarespace-cdn.com/content/v1/5f88119801bee11a28a5c8b3/1602815723748-UW9BDTM0OB1PL8HK9JY0/Hearts+n+laughter+logo+Choplin-01.png",
+        "https://laughter-skills.com/wp-content/uploads/2019/12/logo-Laughter-Skills_gradient-for-light-BG-good-8.png",
+        "https://www.pinclipart.com/picdir/big/81-813803_laughter-clipart.png",
+        "https://cdn.icon-icons.com/icons2/1576/PNG/512/3561861-emoji-emoticon-expression-laughter_107883.png"
+      ],
+      "definitions": [
+        "the sound of laughing",
+        "the activity of laughing; the manifestation of joy or mirth or scorn"
+      ]
+    },
+    {
+      "id": "communication",
+      "image_urls": [
+        "https://mightyminds.com.au/assets/Uploads/Communicate03.png",
+        "https://en.unesco.org/youth/toptips/user/pages/images/phases/phase_communication-jumbo.png",
+        "https://cdn.business2community.com/wp-content/uploads/2020/09/Organizational-communication-900x900.png",
+        "https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-communication.png",
+        "https://www.ndcnl.com/wp-content/uploads/2019/04/Logo-1-1024x572.png"
+      ],
+      "definitions": [
+        "the activity of communicating; the activity of conveying information",
+        "something that is communicated by or to or between people or groups",
+        "a connection allowing access between persons or places"
+      ]
+    },
+    {
+      "id": "dancing",
+      "image_urls": [
+        "https://d1nb58ggi97wys.cloudfront.net/storage/20210430122504/stoplicht-1162x560.png",
+        "https://caps.unc.edu/sites/caps.unc.edu/files/styles/adaptive/public/Artboard%201MovementGroup.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Dynamic-Dance-Dancing-Pose-Streetdance-Stance---PE-General-Secondary.png",
+        "https://www.dancingdevotion.nl/wp-content/uploads/2020/12/2020-logoweb72-metsplash-DD-DP_Tekengebied-1.png",
+        "https://cdn-icons-png.flaticon.com/512/4442/4442692.png"
+      ],
+      "definitions": [
+        "taking a series of rhythmical steps (and movements) in time to music"
+      ]
+    },
+    {
+      "id": "excitement",
+      "image_urls": [
+        "https://theworldatoz.files.wordpress.com/2018/03/excitement-meter.png",
+        "https://cdn1.iconfinder.com/data/icons/micellaneous-211-mix/168/exciting_wow_cheerful_excitement_expression_funny_happy_emoji_provocative_flashy_fervor-512.png",
+        "https://cdn1.iconfinder.com/data/icons/parents-day/49/46-512.png",
+        "https://amiteshdashome.files.wordpress.com/2019/01/pt5oexl8c.png",
+        "https://static.wikia.nocookie.net/plagueinc/images/0/03/Excitement.png"
+      ],
+      "definitions": [
+        "the feeling of lively and cheerful joy",
+        "the state of being emotionally aroused and worked up",
+        "something that agitates and arouses",
+        "disturbance usually in protest"
+      ]
+    },
+    {
+      "id": "favors",
+      "image_urls": [
+        "https://dns1i9gglr0b.cloudfront.net/media/catalog/product/cache/1/image/520x350/17f82f742ffe127f42dca9de82fb58b1/3/p/3pc-salted-caramels-champagne-champagne-angle_1.png",
+        "https://cdn.shopify.com/s/files/1/0965/6524/products/party-favor-4p_580x@2x.png",
+        "https://cdn.shopify.com/s/files/1/0965/6524/products/party-favor-2p.png",
+        "https://dns1i9gglr0b.cloudfront.net/media/catalog/product/cache/1/image/520x350/17f82f742ffe127f42dca9de82fb58b1/7/p/7pc-gray-smoked-caramels-champagne-champagne-fy20_1.png",
+        "https://cdn.shopify.com/s/files/1/0358/0061/3001/products/PartyFavors_1040x.png"
+      ],
+      "definitions": [
+        "an act of gracious kindness",
+        "an advantage to the benefit of someone or something",
+        "an inclination to approve",
+        "a feeling of favorable regard",
+        "souvenir consisting of a small gift given to a guest at a party"
+      ]
+    },
+    {
+      "id": "smiles",
+      "image_urls": [
+        "https://i1.wp.com/oxsci.org/wp-content/uploads/2019/05/SMILE.png",
+        "https://www.attent.gifts/images/smiles.png",
+        "https://images-na.ssl-images-amazon.com/images/I/61QyS5AEpML.png",
+        "https://www.icingsmiles.nl/svg/i-smiles-purple.png",
+        "https://static.wikia.nocookie.net/robloxianmythhunters/images/9/95/4cc65a9ce04516676b1a0aea8e7cfd0f.png"
+      ],
+      "definitions": [
+        "a facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement"
+      ]
+    },
+    {
+      "id": "drinking",
+      "image_urls": [
+        "https://cdn.substack.com/image/fetch/w_1360,c_limit,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7a3c2396-5c7d-4c6b-84e6-61b05f1abec3_1280x1280.png",
+        "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/f4863fea-55c3-49eb-9113-7df51c47aa33_1280x1280.png",
+        "https://www.limafood.com/sites/default/files/styles/image_teaser/public/2020-03/lima_land_drinking_vinegar_pomegranate_rgb_transp.png",
+        "https://cdn0.iconfinder.com/data/icons/thin-food-cooking/24/thin-0897_no_drinking_forbidden-512.png",
+        "https://cdn2.iconfinder.com/data/icons/food-and-drink-49/100/Alcohol-05-512.png"
+      ],
+      "definitions": [
+        "the act of consuming liquids",
+        "the act of drinking alcoholic beverages to excess"
+      ]
+    },
+    {
+      "id": "love",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drawn_love_hearts.svg/2483px-Drawn_love_hearts.svg.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVBOh9R_LiJ3f2U8kSEydCZ13kEi-9hE-oj8lMPDVFfTVV5dLEYQe8Bk9dq7AlLEj2kAySoeHBP_mWd52ldCMfyBv_MWiOF72EreDidwMBlIubgZfKRGeje8JHj1veG_5nOLUM2A5sjAqJJh40JOnQDbhUJ05VpbSrBl42EdwqCJZw.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeQP52-AdAswTtuVWZ7q2exWntgVndKGKmZG51EQIWy4UljXAaBNVjDVOc0lPRmYv0dxajI9EzppopgxiLoPL-poh8MX8Rt_s-iL.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png",
+        "https://little.love/storage/app/uploads/public/67b/350/eaa/thumb__722_0_0_0_auto.png"
+      ],
+      "definitions": [
+        "a strong positive emotion of regard and affection",
+        "any object of warm affection or devotion",
+        "a beloved person; used as terms of endearment",
+        "a deep feeling of sexual desire and attraction",
+        "a score of zero in tennis or squash",
+        "sexual activities (often including sexual intercourse) between two people"
+      ]
+    },
+    {
+      "id": "fun",
+      "image_urls": [
+        "https://www.funexperts.nl/user/themes/funexperts/images/logo_nl.png",
+        "https://fun-thrills.nl/wp-content/uploads/2020/08/Alle-logos-1.png",
+        "https://funcollectibles.com/wp-content/uploads/2020/06/Logo-Nieuw-C00.png",
+        "https://www.funinnederland.nl/wp-content/uploads/2021/01/Fun-in-Nederland-logo-bewerkt-100.png",
+        "https://www.fitenfunplaza.nl/images/popup/logo-fit-en-fun-plaza.png"
+      ],
+      "definitions": [
+        "activities that are enjoyable or amusing",
+        "verbal wit or mockery (often at another's expense but not to be taken seriously)",
+        "violent and excited activity",
+        "a disposition to find (or make) causes for amusement"
+      ]
+    },
+    {
+      "id": "agreement",
+      "image_urls": [
+        "https://stories.freepiklabs.com/storage/34431/agreement-cuate-5418.png",
+        "https://www.theibservices.com/wp-content/uploads/2019/08/agreements-1024x827.png",
+        "https://0.academia-photos.com/attachment_thumbnails/44802708/mini_magick20190213-29161-uy8ask.png",
+        "https://www.unfpa.org/sites/default/files/resource-pdfpreview/ffe2e90579097b8fe1cd42d6a3e7007a.png",
+        "https://www.globalpartnership.org/sites/default/files/styles/document_main/public/2016-06-bod-doc-10-financial-procedures-agreement.pdf_21.png"
+      ],
+      "definitions": [
+        "the statement (oral or written) of an exchange of promises",
+        "compatibility of observations",
+        "harmony of people's opinions or actions or characters",
+        "the thing arranged or agreed to",
+        "the determination of grammatical inflection on the basis of word relations",
+        "the verbal act of agreeing"
+      ]
+    },
+    {
+      "id": "enjoyment",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0516/4305/6325/files/ENJOYMENT_LOGO_BLACKpng_2000x.png",
+        "https://www.enjoy.ng/wp-content/uploads/2019/12/enjoy-logo-circle-1024x1024.png",
+        "https://cdn0.iconfinder.com/data/icons/miscellaneous-89-line/128/joy_pleasure_happiness_enjoyment_delectation_refreshment_wonder_alleviation_joyfulness_emoji_happy-512.png",
+        "https://symbolikon.com/wp-content/uploads/edd/2019/09/NativeRockArt-enjoyment-bold-400w.png",
+        "https://static.thenounproject.com/png/2799315-200.png"
+      ],
+      "definitions": [
+        "the pleasure felt when having a good time",
+        "act of receiving pleasure from something",
+        "(law) the exercise of the legal right to enjoy the benefits of owning property"
+      ]
+    },
+    {
+      "id": "entertaining",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/entertaining-447497b02357e2048d74d5982b093426e386f006.png",
+        "https://i0.wp.com/www.groomedhome.com/media/uploads/2013/04/entertaining.png",
+        "https://theentertainingindustry.files.wordpress.com/2018/01/cropped-the-entertaining-industry11.png",
+        "https://holiday-entertaining.com/wp-content/uploads/2020/10/Holiday-Entertaining-Logo2_Rev2_510.png",
+        "https://images.squarespace-cdn.com/content/v1/5ed666a6924cd0017d343b01/1600114548136-6T7KN8NGAIVNJSQNT5AG/bite-me-more-holiday-entertaining-recipe-roundups-title.png"
+      ],
+      "definitions": []
+    },
+    {
+      "id": "like",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Facebook_Thumb_icon.svg/1200px-Facebook_Thumb_icon.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bot%C3%B3n_Me_gusta.svg/1200px-Bot%C3%B3n_Me_gusta.svg.png",
+        "https://techcrunch.com/wp-content/uploads/2015/09/facebook-like-sticker.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Facebook_Like_button.svg/1200px-Facebook_Like_button.svg.png",
+        "https://cdn-icons-png.flaticon.com/512/2107/2107854.png"
+      ],
+      "definitions": [
+        "a similar kind",
+        "a kind of person"
+      ]
+    }
+  ]
+}

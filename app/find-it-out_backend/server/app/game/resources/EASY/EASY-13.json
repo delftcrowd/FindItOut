@@ -1,0 +1,120 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://www.robertthomashomes.com/wp-content/uploads/2020/04/At-Home-Kitchen-1.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Love/Love%20Dining/image-thumb__29114__width_1200/Love-Dining-Natural-Wood-beige-no-background.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Nut/Nut%20Dining/image-thumb__30199__width_1200/Nut-Dining-Chair-Red-Brown-grey-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__width_1200/monster-chair-indigo-denim-with-arms.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "porch",
+      "image_urls": [
+        "https://i.pinimg.com/originals/8f/cc/98/8fcc983ef3dbc51f6193218d2d4806ae.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/06/full-2.png",
+        "https://www.pinuphouses.com/wp-content/uploads/cabin-with-screened-porch-plans.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/05/wall-mounted-2.png",
+        "https://images.squarespace-cdn.com/content/v1/537d02bae4b03c36028df3c0/1474580906337-Z2J6H0MP2JNODOG26GQT/3D+FRONT+OF+LARGE+OAK+PORCH+WITH+JOWL+POSTS.png"
+      ],
+      "definitions": [
+        "a structure attached to the exterior of a building often forming a covered entrance"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://i1.wp.com/designeddecor.com/wp-content/uploads/2018/06/Big-Impact-Bedroom-Changes-6-Simple.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png",
+        "https://www.072-pc.nl/wp-content/uploads/2020/06/Microsoft-Office-365-072-PC.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "airport",
+      "image_urls": [
+        "https://s28477.pcdn.co/wp-content/uploads/2017/07/Schiphol_logo.svg_-1024x380.png",
+        "https://www.inform-software.com/fileadmin/user_upload/inform-world/INFORMWELT-Airport.png",
+        "https://naco.nl/smart-aviation/images/passenger.png",
+        "https://uploads-ssl.webflow.com/5bc87d66e1f40410cb03fe2f/603805bfb4ce0884ec3deaae_forum%20icon.png",
+        "https://naco.nl/smart-aviation/images/airport.png"
+      ],
+      "definitions": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    }
+  ]
+}

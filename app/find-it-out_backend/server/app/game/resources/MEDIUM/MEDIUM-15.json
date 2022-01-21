@@ -1,0 +1,242 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "people",
+      "image_urls": [
+        "https://www.people-payment.nl/wp-content/uploads/2019/05/people-paymentfavicon-512x512px.png",
+        "https://acadal.com/wp-content/uploads/2019/12/poeple-led-growth.png",
+        "https://epeople.nl/wp-content/uploads/2016/08/slide-epeople.png",
+        "https://www.mendonpeople.nl/userfiles/mendonpeople.nl/images/Logo-Mendon%20People%20PNG.png",
+        "https://peopleintouch.com/wp-content/uploads/2019/11/logo-people-intouch.png"
+      ],
+      "definitions": [
+        "(plural) any group of human beings (men or women or children) collectively",
+        "the body of citizens of a state or country",
+        "members of a family line",
+        "the common people generally"
+      ]
+    },
+    {
+      "id": "synagogue",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://static.wikia.nocookie.net/scribblenauts/images/9/92/Synagogue.png",
+        "https://cdn.emojidex.com/emoji/seal/synagogue.png",
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://cdn.icon-icons.com/icons2/1448/PNG/512/42506synagogue_98941.png"
+      ],
+      "definitions": [
+        "(Judaism) the place of worship for a Jewish congregation"
+      ]
+    },
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "confession",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/confession-726caee4b2e3926945b36443b6ee51aa89a2b12a.png",
+        "https://static.ah.nl/static/gall/img_245309_Gall_500.png",
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXEQufo1G4IqxHgarsKgJ328c1xjuAklwaD8KSL4aqLOGUpBIxSmd4JVsejhTPtjuwPslyS0_ykCl3gNoHbmlVTV5WeiuGO0jW1O.png",
+        "https://images.squarespace-cdn.com/content/v1/576ed62829687f12f686b11c/1512445779791-4J0R9L6IHJLQKQMS2T2R/confession.png",
+        "https://cdn0.iconfinder.com/data/icons/christianity/544/catholic-church-jesus-008-512.png"
+      ],
+      "definitions": [
+        "an admission of misdeeds or faults",
+        "a written document acknowledging an offense and signed by the guilty party",
+        "(Roman Catholic Church) the act of a penitent disclosing his sinfulness before a priest in the sacrament of penance in the hope of absolution",
+        "a public declaration of your faith",
+        "the document that spells out the belief system of a given church (especially the Reformation churches of the 16th century)"
+      ]
+    },
+    {
+      "id": "conference",
+      "image_urls": [
+        "https://one-conference.nl/uploads/21402040_ECP_One-conference-2021.png",
+        "https://conference.issa.nl/sites/default/files/ISSA_Conference.png",
+        "https://www.eden-online.org/wp-content/uploads/2021/01/madrid_website_header_madrid-news-transparent-01.png",
+        "https://www.iaoms.org/IAOMS/assets/File/IAOMS-Virtual-Conference-logo.png",
+        "https://www.idlo.int/sites/default/files/images/SDG16%20Conference%20News%20Updates_1.png"
+      ],
+      "definitions": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+        "an association of sports teams that organizes matches for its members",
+        "a discussion among participants who have an agreed (serious) topic"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "concert",
+      "image_urls": [
+        "https://weekendvanderomantischemuziek.nl/usr-uploads/images/2021/maanlicht-concert-logo-wit.png",
+        "https://eurovisioninconcert.nl/wordpress/wp-content/uploads/2021/02/logo_EIC_2022-wit2.png",
+        "https://cdn.mycreativeshop.com/images/templates/2966/music-concert-tri-fold-brochure-template-3361-trans-thumb.png",
+        "https://www.gervos.com/wp-content/uploads/CD-Ger-Vos-Live-in-Concert-2019.png",
+        "https://images.squarespace-cdn.com/content/v1/5f86ae7f6296dc3fbb849a80/1603114389845-HX2AT4I0DZLC56IQMZ2D/logo33.png"
+      ],
+      "definitions": [
+        "a performance of music by players or singers not involving theatrical staging"
+      ]
+    },
+    {
+      "id": "musical",
+      "image_urls": [
+        "https://studio100.com/thumbnail/inline/110143/untitled-1.png",
+        "https://www.fanworkmusicals.nl/wp-content/uploads/2019/03/Fanwork-logo-1-klein_RGB_trans-e1551796124979.png",
+        "https://www.stage-entertainment.nl/sites/default/files/styles/857_width/public/TINA_woordlogo_transparant_692x423px.png",
+        "https://www.artistagency.nl/wp-content/uploads/2018/11/Sing-a-long-musical-Hits-boeken-bij-Artist-Agency-Nederland.png",
+        "https://www.stage-entertainment.nl/sites/default/files/styles/857_width/public/SENL_Woordlogo_transparant_0.png"
+      ],
+      "definitions": [
+        "a play or film whose action and dialogue is interspersed with singing and dancing"
+      ]
+    },
+    {
+      "id": "montana",
+      "image_urls": [
+        "https://veldhuyzenkaas.nl/wp-content/uploads/2016/08/montana-intenso-groep-met-blokjes.png",
+        "https://tiogatours.nl/dynamic/img/amerika/montana/seal.6.b958.png",
+        "https://mt.gov/images/mtmap.png",
+        "https://cdn.werkenmetmerken.nl/img/Montana_Gold_5-t-500x333.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/QR11N/logo_465x320.png"
+      ],
+      "definitions": [
+        "a state in northwestern United States on the Canadian border"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "opera",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+        "https://img.ashampoo.com/images/products/partner0115/boxshot.png"
+      ],
+      "definitions": [
+        "a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes",
+        "a commercial browser",
+        "a building where musical dramas are performed"
+      ]
+    },
+    {
+      "id": "circus",
+      "image_urls": [
+        "https://www.cirquemoustache.com/wp-content/uploads/2015/03/circustent_kl_resultaat.png",
+        "https://magic-circus.nl/wp-content/uploads/2020/12/cropped-1.-Logo-Magic-Circus-Full-Color.png",
+        "https://www.circusbarones.com/images/Logo-Circus-Barones-clown-links1.png",
+        "https://backstagekittyhagen.nl/wp-content/uploads/2021/02/Kitty-Hagen-Logo_inhuur-verhuur.png",
+        "https://www.kinheim.com/wp-content/uploads/WerkgidsCircus.png"
+      ],
+      "definitions": [
+        "a travelling company of entertainers; including trained animals",
+        "a performance given by a traveling company of acrobats, clowns, and trained animals",
+        "a frenetic disorganized (and often comic) disturbance suggestive of a large public entertainment",
+        "(antiquity) an open-air stadium for chariot races and gladiatorial games",
+        "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
+        "a genus of haws comprising the harriers"
+      ]
+    },
+    {
+      "id": "disneyland",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/disney/images/a/ad/Disneyland.png",
+        "https://d118pfm5xh6r9q.cloudfront.net/images/d/disneylandparis_9.png",
+        "https://disneydrive.be/wp-content/uploads/2018/03/Disneyland_Paris_logo.svg-1-1024x289.png",
+        "https://www.discoverthemagic.nl/images/footer-discoverthemagic.png",
+        "https://static.wikia.nocookie.net/disney/images/9/96/Disneyland_Paris.png"
+      ],
+      "definitions": [
+        "an amusement park in Anaheim created in 1955 by Walt Disney"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://bankinter.moneytown.es/images/city_home.png",
+        "https://www.town.nl/parkned.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    },
+    {
+      "id": "carnival",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0247/8476/4981/files/logo-new_640x.png",
+        "https://images.squarespace-cdn.com/content/v1/6049e94ea35ba05f50849c2f/1615458822673-2ZSR8RI0L73SUE9ZIFPF/Asset+1%404x.png",
+        "https://huddscarnival.com/wp-content/uploads/2019/05/Hudds-Carnival-Generic-Logo-01.png",
+        "https://www.springville.org/art-city-days/wp-content/blogs.dir/19/files/2020/02/SV_artcitydays_2color-red.png",
+        "https://www.bahamascarnival.com/image/catalog/LOGO/BC_logo_NEW%20PINK.png"
+      ],
+      "definitions": [
+        "a festival marked by merrymaking and processions",
+        "a frenetic disorganized (and often comic) disturbance suggestive of a large public entertainment",
+        "a traveling show; having sideshows and rides and games of skill etc."
+      ]
+    }
+  ]
+}

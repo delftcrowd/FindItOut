@@ -1,0 +1,236 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "happiness",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/6054658e1836cc4e4e13b0a5/1616144265312-OFWOC1EPGMWL9WKM9LJC/Your+Happiness+logo+900.png",
+        "https://media.creativemornings.com/uploads/theme/image/4/2013-01-happiness.png",
+        "https://www.stickerop.nl/files/cache/3bde99a62576ae7f5604cd86981cd582-f4872/0020230-muursticker-tekst-Happiness-01.png",
+        "https://www.zomerenkeuning.nl/wp-content/uploads/2020/07/het-dorpje-happiness.png",
+        "https://www.babymassagehappiness.nl/wp-content/uploads/2020/07/happiness-logo-1.png"
+      ],
+      "definitions": [
+        "state of well-being characterized by emotions ranging from contentment to intense joy",
+        "emotions experienced when in a state of well-being"
+      ]
+    },
+    {
+      "id": "headache",
+      "image_urls": [
+        "https://www.sensbeweegtje.nl/wp-content/uploads/2020/07/triggerpoints-hoofdpijn-e1594985071568.png",
+        "https://www.worcester-chiro.co.uk/wp-content/uploads/2020/05/headaches-trigger-points-358x267.png",
+        "https://infinitewellness.org/wp-content/uploads/2015/06/headache.png",
+        "https://www.tylenol.ca/sites/tylenol_ca/files/head.png",
+        "https://www.embodyhealth.nl/wp-content/uploads/2019/09/HEADACHES-types-vector.png"
+      ],
+      "definitions": [
+        "something or someone that causes anxiety; a source of unhappiness",
+        "pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+      ]
+    },
+    {
+      "id": "fulfillment",
+      "image_urls": [
+        "https://www.logisticsplus.com/wp-content/uploads/2017/04/LP-Fulfillment-Logo.png",
+        "https://m.media-amazon.com/images/G/01/sell/images/prime-boxes/family-boxes.png",
+        "https://www.inecommerce.com/wp-content/uploads/2019/04/overloaded_truck_for_dribbble-e1556200005433.png",
+        "https://www.erdtconcepts.de/en/wp-content/uploads/sites/2/2020/05/Fulfillment_Dienstleistungen_EN.png",
+        "https://s3.us-east-2.amazonaws.com/enviapaqueteria/uploads/landing/images/allCountries/Imagenes%20Solas/Apartado-Fulfillment.png"
+      ],
+      "definitions": [
+        "a feeling of satisfaction at having achieved your desires",
+        "the act of consummating something (a desire or promise etc)"
+      ]
+    },
+    {
+      "id": "suicide",
+      "image_urls": [
+        "https://bloximages.chicago2.vip.townnews.com/claremoreprogress.com/content/tncms/assets/v3/editorial/8/63/8636d1b8-1038-11ec-9c10-0b11dcbe9e07/6137fe766779f.image.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Suicide_rates_by_age%2C_OWID.svg/350px-Suicide_rates_by_age%2C_OWID.svg.png",
+        "https://www.sciencenews.org/wp-content/uploads/2015/12/010916_suicide_piechart.png",
+        "https://www.naminys.org/images/uploads/1977/national-suicide-banner__medium.png",
+        "https://static.wixstatic.com/media/21a335_55083ebd47fb4876a594a8fd488ab1b7~mv2.png"
+      ],
+      "definitions": [
+        "the act of killing yourself",
+        "a person who kills himself intentionally"
+      ]
+    },
+    {
+      "id": "fatigue",
+      "image_urls": [
+        "https://www.15minutes4me.com/img/sidebar-img-1.png",
+        "https://cdn-icons-png.flaticon.com/512/2927/2927331.png",
+        "https://cdn-icons-png.flaticon.com/512/3017/3017401.png",
+        "https://monitoringlove.sensu.io/hubfs/alert%20fatigue%20graphic-01-1.png",
+        "https://cardiolyse.com/wp-content/themes/cardiolyse/public/images/product-3-main-img.png"
+      ],
+      "definitions": [
+        "temporary loss of strength and energy resulting from hard physical or mental work",
+        "used of materials (especially metals) in a weakened state caused by long stress",
+        "(always used with a modifier) boredom resulting from overexposure to something",
+        "labor of a nonmilitary kind done by soldiers (cleaning or digging or draining or so on)"
+      ]
+    },
+    {
+      "id": "learning",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://agilescrumgroup.nl/wp-content/uploads/learning-agility-1.png",
+        "https://www.legendsoflearning.com/wp-content/uploads/2020/10/benefits-of-online-learning-graphic.png"
+      ],
+      "definitions": [
+        "the cognitive process of acquiring skill or knowledge",
+        "profound scholarly knowledge"
+      ]
+    },
+    {
+      "id": "laughter",
+      "image_urls": [
+        "https://laughterwellness.org/wp-content/uploads/2020/04/laughter-wellness.png",
+        "https://images.squarespace-cdn.com/content/v1/5f88119801bee11a28a5c8b3/1602815723748-UW9BDTM0OB1PL8HK9JY0/Hearts+n+laughter+logo+Choplin-01.png",
+        "https://laughter-skills.com/wp-content/uploads/2019/12/logo-Laughter-Skills_gradient-for-light-BG-good-8.png",
+        "https://www.pinclipart.com/picdir/big/81-813803_laughter-clipart.png",
+        "https://cdn.icon-icons.com/icons2/1576/PNG/512/3561861-emoji-emoticon-expression-laughter_107883.png"
+      ],
+      "definitions": [
+        "the sound of laughing",
+        "the activity of laughing; the manifestation of joy or mirth or scorn"
+      ]
+    },
+    {
+      "id": "empathy",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://ebsnegoziazione.files.wordpress.com/2021/03/immagine-cap-neg-5.png",
+        "https://wethinknext.com/wp-content/uploads/2020/02/thinker.png"
+      ],
+      "definitions": [
+        "understanding and entering into another's feelings"
+      ]
+    },
+    {
+      "id": "dancing",
+      "image_urls": [
+        "https://d1nb58ggi97wys.cloudfront.net/storage/20210430122504/stoplicht-1162x560.png",
+        "https://caps.unc.edu/sites/caps.unc.edu/files/styles/adaptive/public/Artboard%201MovementGroup.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Dynamic-Dance-Dancing-Pose-Streetdance-Stance---PE-General-Secondary.png",
+        "https://www.dancingdevotion.nl/wp-content/uploads/2020/12/2020-logoweb72-metsplash-DD-DP_Tekengebied-1.png",
+        "https://cdn-icons-png.flaticon.com/512/4442/4442692.png"
+      ],
+      "definitions": [
+        "taking a series of rhythmical steps (and movements) in time to music"
+      ]
+    },
+    {
+      "id": "skin",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Human_skin_structure.svg/1200px-Human_skin_structure.svg.png",
+        "https://pcaskinacademy.com/wp-content/uploads/2020/07/skin-anatomy-illustration@2x-768x0-c-default.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Human_skin_structure.svg/250px-Human_skin_structure.svg.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/014175_A.png",
+        "https://www.dermalogica.nl/media/catalog/product/cache/c565f69dfaba233eac489acb3ca367b2/s/k/skin_smoothing_cream_100_ml_1.png"
+      ],
+      "definitions": [
+        "a natural protective body covering and site of the sense of touch",
+        "an outer surface (usually thin)",
+        "body covering of a living animal",
+        "a person's skin regarded as their life",
+        "a member of any of several British or American groups consisting predominantly of young people who shave their heads; some engage in white supremacist and anti-immigrant activities and this leads to the perception that all skinheads are racist and violent",
+        "a person whose head is bald or shaved",
+        "the rind of a fruit or vegetable",
+        "a bag serving as a container for liquids; it is made from the hide of an animal"
+      ]
+    },
+    {
+      "id": "embarrassment",
+      "image_urls": [
+        "https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/145526/area14mp/image-20161111-25090-1ch75h6.png",
+        "https://images.squarespace-cdn.com/content/v1/609bea5774a4802fdcf0686f/1623692371490-S4OSAJ19ABD74FWD5FGD/ffc5f-image-asset.png",
+        "https://cdn4.iconfinder.com/data/icons/mood-smiles/80/mood-16-512.png",
+        "https://static.thenounproject.com/png/1476121-200.png",
+        "https://cdn-icons-png.flaticon.com/512/260/260223.png"
+      ],
+      "definitions": [
+        "the shame you feel when your inadequacy or guilt is made public",
+        "the state of being embarrassed (usually by some financial inadequacy)",
+        "some event that causes someone to be embarrassed",
+        "extreme excess"
+      ]
+    },
+    {
+      "id": "anxiety",
+      "image_urls": [
+        "https://noahhelps.org/wp-content/uploads/2020/05/Anxiety-Disorder.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/31a29de05559b6f1a45664b534930c587d5331a3-2001x1400.png",
+        "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/social-and-behavioural-sciences/psychologie/ontwikkelings--en-onderwijspsychologie/spil-logo-tekst.png",
+        "https://resilientmindcounseling.com/wp-content/uploads/2021/03/what-is-anxiety-symptoms-causes-treatments-anxiety-symptoms.png",
+        "https://assets.lemonaidhealth.com/web/brochure/images/anxiety-depression-pages/anxiety-treatment-anxiety-medication-man-panic-thoughts.png"
+      ],
+      "definitions": [
+        "(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic",
+        "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+      ]
+    },
+    {
+      "id": "entertaining",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/entertaining-447497b02357e2048d74d5982b093426e386f006.png",
+        "https://i0.wp.com/www.groomedhome.com/media/uploads/2013/04/entertaining.png",
+        "https://theentertainingindustry.files.wordpress.com/2018/01/cropped-the-entertaining-industry11.png",
+        "https://holiday-entertaining.com/wp-content/uploads/2020/10/Holiday-Entertaining-Logo2_Rev2_510.png",
+        "https://images.squarespace-cdn.com/content/v1/5ed666a6924cd0017d343b01/1600114548136-6T7KN8NGAIVNJSQNT5AG/bite-me-more-holiday-entertaining-recipe-roundups-title.png"
+      ],
+      "definitions": []
+    },
+    {
+      "id": "humiliation",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/humiliation-7bde3c124a6e58c0b8735df7f7b2d855dd76cbd8.png",
+        "https://www.theoriginofemotions.com/uploads/1/7/1/4/17142502/8956251_orig.png",
+        "https://i.pinimg.com/originals/99/82/e7/9982e747197b1cbcd3de657d74f0c054.png",
+        "https://0.academia-photos.com/attachment_thumbnails/32186813/mini_magick20190425-9804-1rs9xe.png",
+        "https://0.academia-photos.com/attachment_thumbnails/43581388/mini_magick20190215-15442-ed89no.png"
+      ],
+      "definitions": [
+        "state of disgrace or loss of self-respect",
+        "strong feelings of embarrassment",
+        "an instance in which you are caused to lose your prestige or self-respect",
+        "depriving one of self-esteem"
+      ]
+    },
+    {
+      "id": "listening",
+      "image_urls": [
+        "https://www.visiontorealitycoaching.com/wp-content/uploads/2019/11/ear-2973126_1920-1024x678.png",
+        "https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/ear-2972890_1280.png",
+        "https://cdn-icons-png.flaticon.com/512/746/746983.png",
+        "https://fonolo.com/wp-content/uploads/2018/04/active-listening-is-the-best-customer-service-.png",
+        "https://listening-skills.eu/wp-content/uploads/2014/07/listening-round-pink_ear.png"
+      ],
+      "definitions": [
+        "the act of hearing attentively"
+      ]
+    },
+    {
+      "id": "enjoyment",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0516/4305/6325/files/ENJOYMENT_LOGO_BLACKpng_2000x.png",
+        "https://www.enjoy.ng/wp-content/uploads/2019/12/enjoy-logo-circle-1024x1024.png",
+        "https://cdn0.iconfinder.com/data/icons/miscellaneous-89-line/128/joy_pleasure_happiness_enjoyment_delectation_refreshment_wonder_alleviation_joyfulness_emoji_happy-512.png",
+        "https://symbolikon.com/wp-content/uploads/edd/2019/09/NativeRockArt-enjoyment-bold-400w.png",
+        "https://static.thenounproject.com/png/2799315-200.png"
+      ],
+      "definitions": [
+        "the pleasure felt when having a good time",
+        "act of receiving pleasure from something",
+        "(law) the exercise of the legal right to enjoy the benefits of owning property"
+      ]
+    }
+  ]
+}

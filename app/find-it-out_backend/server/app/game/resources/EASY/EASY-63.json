@@ -1,0 +1,130 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "forest",
+      "image_urls": [
+        "https://outdoor-forest.nl/wp-content/uploads/2019/12/outdoor-forest-logo-dark-xs.png",
+        "https://forforest.net/wp-content/uploads/2020/10/Logo-Men%C3%BC_Sticky-header-01.png",
+        "https://endnightgames.com/sites/default/files/images/games/forest-logo.png",
+        "https://www.forestsoftheworld.org/files/International.forestsoftheworld.org/Goals%20and%20strategies/2021-03-16%20FoW%20ToC%20illustrated.png",
+        "https://static.eos.com/wp-content/uploads/2021/06/intro-forestry.png"
+      ],
+      "definitions": [
+        "the trees and other plants in a large densely wooded area",
+        "land that is covered with trees and shrubs"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "demonstration",
+      "image_urls": [
+        "https://tvsd.colvee.org/pluginfile.php/21849/mod_book/chapter/11271/practical%20demonstration.png",
+        "https://cdn2.iconfinder.com/data/icons/university-tuition-and-college-1/140/Icons-01-512.png",
+        "https://cdn.dataworks-ed.com/wordpress-content/uploads/20200127152945/LessonDemonstration_02.png",
+        "https://cdn4.iconfinder.com/data/icons/miscellaneous-6-1/128/demo_exhibition_demonstration-512.png",
+        "https://static.thenounproject.com/png/1923465-200.png"
+      ],
+      "definitions": [
+        "a show or display; the act of presenting something to sight or view",
+        "a show of military force or preparedness",
+        "a public display of group feelings (usually of a political nature)",
+        "proof by a process of argument or a series of proposition proving an asserted conclusion",
+        "a visual presentation showing how something works"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://www.houseofbeta.nl/app/uploads/2020/09/HoB-logo-cmyk-staand.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "clock",
+      "image_urls": [
+        "https://www.uhrmacherwerkzeuge.com/WebRoot/Store18/Shops/62662707/5D2F/0CF7/E0EC/CBE2/6640/0A0C/6D04/E5C9/6041A-3295.png",
+        "https://www.uhrmacherwerkzeuge.com/WebRoot/Store18/Shops/62662707/5A5F/6C78/EF05/D943/EC49/0A0C/6D0A/80EF/6039A.6155_ml.png",
+        "https://www.nixon.com/on/demandware.static/-/Sites-masterCatalog_Nixon/default/dwb592efb9/products/C3075-000-view1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Horlo%C4%9Do_001.svg/300px-Horlo%C4%9Do_001.svg.png",
+        "https://www.raftfurniture.co.uk/pub/media/catalog/product/cache/110341a25faa2b0b0f52adcd3642d696/c/o/collingwood.png"
+      ],
+      "definitions": [
+        "a timepiece that shows the time of day"
+      ]
+    },
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "conference",
+      "image_urls": [
+        "https://one-conference.nl/uploads/21402040_ECP_One-conference-2021.png",
+        "https://www.besteverconference.com/hubfs/Mask%20Group.png",
+        "https://conference.issa.nl/sites/default/files/ISSA_Conference.png",
+        "https://www.eden-online.org/wp-content/uploads/2021/01/madrid_website_header_madrid-news-transparent-01.png",
+        "https://www.iaoms.org/IAOMS/assets/File/IAOMS-Virtual-Conference-logo.png"
+      ],
+      "definitions": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+        "an association of sports teams that organizes matches for its members",
+        "a discussion among participants who have an agreed (serious) topic"
+      ]
+    },
+    {
+      "id": "speaker",
+      "image_urls": [
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3c54ef02/JBL_FlipEssential_Hero_005_x1.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/speakers/z607/gallery/z607-gallery-1.png",
+        "https://www.jbl.nl/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwdd875131/JBL_PartyBox_100_Hero_0057.png",
+        "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/bose_home_speaker_500/product_silo_images/bose_home_speaker_500_triple_black_EC_hero.psd/jcr:content/renditions/cq5dam.web.320.320.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/speakers/computer-speakers/z313/gallery/z313-gallery-1.png"
+      ],
+      "definitions": [
+        "someone who expresses in language; someone who talks (especially someone who delivers a public speech or someone especially garrulous)",
+        "electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance",
+        "the presiding officer of a deliberative assembly"
+      ]
+    }
+  ]
+}

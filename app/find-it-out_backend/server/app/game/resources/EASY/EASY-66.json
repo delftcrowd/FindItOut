@@ -1,0 +1,130 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "africa",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/1200px-Africa_%28orthographic_projection%29.svg.png",
+        "https://www.teejet.com/CMSImages/TEEJET_NL/local_offices/africa_map.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/North_Africa_%28orthographic_projection%29.svg/1200px-North_Africa_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Map_of_Countries_in_East_Africa.svg/220px-Map_of_Countries_in_East_Africa.svg.png",
+        "https://www.outofafricainteriors.nl/wp-content/uploads/2017/10/Afrika-oranje.png"
+      ],
+      "definitions": [
+        "the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://www.town.nl/parkned.png",
+        "https://www.tokofthetown.com/wp-content/uploads/2019/06/TOK-OF-THE-TOWN_Tekengebied-1.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    },
+    {
+      "id": "country",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Country_calling_codes_map.svg/1200px-Country_calling_codes_map.svg.png",
+        "https://cdn.ip2location.com/assets/img/flags/flags_32.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GINI_index_World_Bank_up_to_2018.svg/500px-GINI_index_World_Bank_up_to_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/World_map_blank_shorelines_semiwikimapia.svg/720px-World_map_blank_shorelines_semiwikimapia.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg/500px-Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg.png"
+      ],
+      "definitions": [
+        "a politically organized body of people under a single government",
+        "the territory occupied by a nation",
+        "the people who live in a nation or country",
+        "an area outside of cities and towns",
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ]
+    },
+    {
+      "id": "america",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Latin_America_%28orthographic_projection%29.svg/1200px-Latin_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_North_America.svg/1200px-Location_North_America.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USA_orthographic.svg/220px-USA_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/1200px-South_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/United_States_on_the_globe_%28North_America_centered%29.svg/1200px-United_States_on_the_globe_%28North_America_centered%29.svg.png"
+      ],
+      "definitions": [
+        "North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776",
+        "North America and South America and Central America"
+      ]
+    },
+    {
+      "id": "friend",
+      "image_urls": [
+        "https://nuri.com/uploads/refer_a_friend_header_nuri_3d16d20ca2.png",
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUuzWoQ5pyPYtko0ngSeYX-YmDxV7m1G6B2mJ0Cd6x7tLwIs_gOENczJA7NjA5eRvAHhk9zvunDF0fKr29BkNOy8_eAeM8-U-VRy.png",
+        "https://www.rentalocalfriend.com/packs/media/images/logo-home-f3bdb6c1c327cff7d1b133fec6a87ccb.png",
+        "https://images-na.ssl-images-amazon.com/images/I/71emTS3FI0L.png",
+        "https://static.wikia.nocookie.net/pokemongo/images/e/e4/Friendship.png"
+      ],
+      "definitions": [
+        "a person you know well and regard with affection and trust",
+        "an associate who provides cooperation or assistance",
+        "a person with whom you are acquainted",
+        "a person who backs a politician or a team etc.",
+        "a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)"
+      ]
+    },
+    {
+      "id": "world",
+      "image_urls": [
+        "https://aci.aero/wp-content/uploads/2018/06/map-2.png",
+        "https://www.maropeng.co.za/uploads/imager/files/19832/world-1303628_1920_399f7ced9821ef832957bb0ed8fd3ff5.png",
+        "https://wid.world/wp-content/uploads/2016/06/img-homepage-world-1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/World_Population.svg/1200px-World_Population.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/BlankMap-World-Microstates.svg/2754px-BlankMap-World-Microstates.svg.png"
+      ],
+      "definitions": [
+        "everything that exists anywhere",
+        "people in general; especially a distinctive group of people with some shared interest",
+        "all of your experiences that determine how things appear to you",
+        "the 3rd planet from the sun; the planet we live on",
+        "people in general considered as a whole",
+        "a part of the earth that can be considered separately",
+        "the concerns of this life as distinguished from heaven and the afterlife",
+        "all of the living human inhabitants of the earth"
+      ]
+    },
+    {
+      "id": "continent",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/19/Continents_vide_couleurs.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Australia-New_Guinea_%28orthographic_projection%29.svg/1200px-Australia-New_Guinea_%28orthographic_projection%29.svg.png",
+        "https://online.seterra.com/images/system/eurasia_continents.png",
+        "https://static.wikia.nocookie.net/earthmc2820/images/2/20/Asian.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Island_nations.svg/330px-Island_nations.svg.png"
+      ],
+      "definitions": [
+        "one of the large landmasses of the earth",
+        "the European mainland"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    }
+  ]
+}

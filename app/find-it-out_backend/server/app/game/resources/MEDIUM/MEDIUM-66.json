@@ -1,0 +1,269 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "happiness",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/6054658e1836cc4e4e13b0a5/1616144265312-OFWOC1EPGMWL9WKM9LJC/Your+Happiness+logo+900.png",
+        "https://media.creativemornings.com/uploads/theme/image/4/2013-01-happiness.png",
+        "https://www.stickerop.nl/files/cache/3bde99a62576ae7f5604cd86981cd582-f4872/0020230-muursticker-tekst-Happiness-01.png",
+        "https://www.zomerenkeuning.nl/wp-content/uploads/2020/07/het-dorpje-happiness.png",
+        "https://www.babymassagehappiness.nl/wp-content/uploads/2020/07/happiness-logo-1.png"
+      ],
+      "definitions": [
+        "state of well-being characterized by emotions ranging from contentment to intense joy",
+        "emotions experienced when in a state of well-being"
+      ]
+    },
+    {
+      "id": "fear",
+      "image_urls": [
+        "https://fearchannel.online/wp-content/uploads/2020/10/FEAR-logo-retina.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYF15X7yLstaOQ9M94tvX-IgLjzZW29CXv1GC6_wr80KwBTwpjfy5RcTyW8p172n5hTy4wH7f8eSE0NjILXEcjvvgB6wCbOuarZh.png",
+        "https://cdn.shopify.com/s/files/1/0167/0941/9072/files/FEAR_Logo_2363x.png",
+        "https://cdn3.iconfinder.com/data/icons/abstract-1/512/fear-512.png",
+        "https://www.fearscreampark.co.uk/wp-content/uploads/2019/03/FEAR-Logo-with-Blood-texture-and-white-text.png"
+      ],
+      "definitions": [
+        "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+        "an anxious feeling",
+        "a feeling of profound respect for someone or something"
+      ]
+    },
+    {
+      "id": "food",
+      "image_urls": [
+        "https://images.ctfassets.net/grb5fvwhwnyo/1sJpRsfp1RJI3AASMiOS1h/4421f71ab2cbdf50d1c960ebfcd02a39/P2.3_Page-SEO-Data.png",
+        "https://www.asiaexpressfood.nl/images/header/2019/Anuga_banner_2021_-_Bovenlaag.png",
+        "https://futurefoodgroup.nl/en/wp-content/uploads/sites/5/2020/09/LR_Vega_worst@0.33x-450x480.png",
+        "https://amlifestylemedicine.com/wp-content/uploads/2019/01/canada.png",
+        "https://www.33goodfood.nl/wp-content/uploads/2020/04/burger-33goodfood.png"
+      ],
+      "definitions": [
+        "any substance that can be metabolized by an animal to give energy and build tissue",
+        "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+        "anything that provides mental stimulus for thinking"
+      ]
+    },
+    {
+      "id": "thinking",
+      "image_urls": [
+        "https://humanskillsdevelopment.ca/wp-content/uploads/2020/01/Critical-Thinking.png",
+        "https://www.fluentu.com/blog/wp-content/uploads/2016/09/thinking-in-a-foreign-language-e1479154410182.png",
+        "https://images.squarespace-cdn.com/content/v1/5d662d724e441800011b364c/1597430576484-ZIOWQM37INTRQF14Q4BE/Design+thinking+kopie%403x.png",
+        "https://www.cobidu.co.uk/shared/images/general/57_thinking-skills_5fff1d9c8148c.png",
+        "https://www.metabolic.nl/wp-content/uploads/2021/01/SystemsThinking4.png"
+      ],
+      "definitions": [
+        "the process of using your mind to consider something carefully"
+      ]
+    },
+    {
+      "id": "birds",
+      "image_urls": [
+        "https://www.lynxeds.com/wp-content/uploads/2020/06/All_the_Birds_of_the_World_cover_transp.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Birdmorphology.svg/300px-Birdmorphology.svg.png",
+        "https://www.allaboutbirds.org/guide/images/shape/icon-blackbirds.png",
+        "https://www.birdingplaces.eu/images/bird_placeholder.png",
+        "https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/4/45/Non_Flying_Bird.png"
+      ],
+      "definitions": [
+        "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+        "the flesh of a bird or fowl (wild or domestic) used as food",
+        "informal terms for a (young) woman",
+        "a cry or noise made to express displeasure or contempt",
+        "badminton equipment consisting of a ball of cork or rubber with a crown of feathers"
+      ]
+    },
+    {
+      "id": "butterflies",
+      "image_urls": [
+        "https://www.betaalbarekunst.nl/wp-content/uploads/2020/09/Metalen-wanddecoratie-Butterflies-in-unison.png",
+        "https://thebottomline.as.ucsb.edu/wp-content/uploads/2019/05/butterfly2.png",
+        "https://images.selency.com/650f71eb-daa5-43ef-bae2-5c169722389e/frame-butterflies-taxidermy-kenya_original.png",
+        "https://dbdzm869oupei.cloudfront.net/img/sticker/preview/20124.png",
+        "https://m.media-amazon.com/images/S/aplus-media/vc/39270b63-4f93-42b4-b1cb-f76a47002d4f._CR0,0,300,300_PT0_SX300__.png"
+      ],
+      "definitions": [
+        "diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
+        "a swimming stroke in which the arms are thrown forward together out of the water while the feet kick up and down"
+      ]
+    },
+    {
+      "id": "reflection",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/reflection-ab578e5f38ec6e86a6950e6b616b512e267036a2.png",
+        "https://cdn.amouage.com/production/media/catalog/product/cache/c45c22584d6bdad8628cacfa66591d7f/r/e/reflection_bottle_side_woman_00000_1.png",
+        "https://www.cmdmethods.nl/images/show-co-reflection.png",
+        "https://www.mariecurie.org.uk/globalassets/media/images/get-involved/02-events/national-day-of-reflection/toolkit/f486_ndofr_logo_300dpi.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RefractionReflextion.svg/650px-RefractionReflextion.svg.png"
+      ],
+      "definitions": [
+        "a calm, lengthy, intent consideration",
+        "the phenomenon of a propagating wave (light or sound) being thrown back from a surface",
+        "expression without words",
+        "a likeness in which left and right are reversed",
+        "the image of something as reflected by a mirror (or other reflective material)",
+        "(mathematics) a transformation in which the direction of one axis is reversed",
+        "a remark expressing careful consideration",
+        "the ability to reflect beams or rays"
+      ]
+    },
+    {
+      "id": "anxiety",
+      "image_urls": [
+        "https://noahhelps.org/wp-content/uploads/2020/05/Anxiety-Disorder.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/31a29de05559b6f1a45664b534930c587d5331a3-2001x1400.png",
+        "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/social-and-behavioural-sciences/psychologie/ontwikkelings--en-onderwijspsychologie/spil-logo-tekst.png",
+        "https://resilientmindcounseling.com/wp-content/uploads/2021/03/what-is-anxiety-symptoms-causes-treatments-anxiety-symptoms.png",
+        "https://assets.lemonaidhealth.com/web/brochure/images/anxiety-depression-pages/anxiety-treatment-anxiety-medication-man-panic-thoughts.png"
+      ],
+      "definitions": [
+        "(psychiatry) a relatively permanent state of worry and nervousness occurring in a variety of mental disorders, usually accompanied by compulsive behavior or attacks of panic",
+        "a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune"
+      ]
+    },
+    {
+      "id": "cut",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/59389c4ecd0f68865c91e588/1499367089410-NGNGKUCVLQN2EX1CP32K/cut-color-02.png",
+        "https://cdn-icons-png.flaticon.com/512/71/71211.png",
+        "https://static.thenounproject.com/png/116507-200.png",
+        "https://static.thenounproject.com/png/116503-200.png",
+        "https://www.plakjestickers.nl/wp-content/uploads/2020/11/cut-here-1.png"
+      ],
+      "definitions": [
+        "a share of the profits",
+        "(film) an immediate transition from one shot to the next",
+        "a trench resembling a furrow that was made by erosion or excavation",
+        "a step on some scale",
+        "a wound made by cutting",
+        "a piece of meat that has been cut from an animal carcass",
+        "a remark capable of wounding mentally",
+        "a distinct selection of music from a recording or a compact disc",
+        "the omission that is made when an editorial change shortens a written passage",
+        "the style in which a garment is cut",
+        "a canal made by erosion or excavation",
+        "a refusal to recognize someone you know",
+        "in baseball; a batter's attempt to hit a pitched ball",
+        "(sports) a stroke that puts reverse spin on the ball",
+        "the division of a deck of cards before dealing",
+        "the act of penetrating or opening open with a sharp edge",
+        "the act of cutting something into parts",
+        "the act of shortening something by chopping off the ends",
+        "the act of reducing the amount or number",
+        "an unexcused absence from class"
+      ]
+    },
+    {
+      "id": "pride",
+      "image_urls": [
+        "https://uploads-ssl.webflow.com/583ac2b7b333a5214d325d90/583aec49b333a5214d32992b_Utrecht_Canal_Pride-2017.png",
+        "https://images.prismic.io/zwift-web/eeec8544-0a2f-47f0-a16c-f55b3db3e796_Pride_On_2020_Section_04_Pride_On_Thumb.png",
+        "https://www.mentoring.org/wp-content/uploads/2021/05/blm-pride-e1622053455291-1024x911.png",
+        "https://images.squarespace-cdn.com/content/v1/5eb2ed16b4e954188342b0f1/1593572137779-6KGJWGFTDABSB71QTUOO/Pride+Logo+Assets-04.png",
+        "https://images.squarespace-cdn.com/content/v1/594b1a5a725e251920ee2863/1611430793060-9GAS7R2FWZN209IDUCG5/image-asset.png"
+      ],
+      "definitions": [
+        "a feeling of self-respect and personal worth",
+        "satisfaction with your (or another's) achievements",
+        "the trait of being spurred on by a dislike of falling below your standards",
+        "a group of lions",
+        "unreasonable and inordinate self-esteem (personified as one of the deadly sins)"
+      ]
+    },
+    {
+      "id": "contemplating",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2021/03/contemplate-5cff9ba84de4b791f8d23349056a2c1fd5eddab6.png",
+        "https://stories.freepiklabs.com/storage/33454/contemplating-bro-4226.png",
+        "https://stories.freepiklabs.com/storage/33461/contemplating-rafiki-4157.png",
+        "https://stories.freepiklabs.com/storage/33449/contemplating-pana-4552.png",
+        "https://images.selency.com/40887bf0-90b9-42c6-b679-ac1243df6ec0/contemplating_original.png"
+      ],
+      "definitions": []
+    },
+    {
+      "id": "performing",
+      "image_urls": [
+        "https://www.luciamarthas.nl/wp-content/uploads/Lucia-Marthas-opleidingen-hbo-mbo-vooropleiding-1024x1024.png",
+        "https://www.hempfieldsd.org/cms/lib/PA01000122/Centricity/Domain/53/PAC_Logo_FINAL.png",
+        "https://www.pikpng.com/pngl/b/505-5050092_performing-arts-logo-performing-art-logo-clipart.png",
+        "https://cdn.icon-icons.com/icons2/1633/PNG/512/52781performingarts_109413.png",
+        "https://cdn3.iconfinder.com/data/icons/activity-add-on-vol-1/48/v-10-512.png"
+      ],
+      "definitions": [
+        "the performance of a part or role in a drama"
+      ]
+    },
+    {
+      "id": "action",
+      "image_urls": [
+        "https://www.bigshops.nl/images/winkels/logos/action.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Film1_Action_SVG.svg/1200px-Film1_Action_SVG.svg.png",
+        "https://www.athletesinaction.nl/wp-content/uploads/2019/09/logo-AIA.png",
+        "https://images.squarespace-cdn.com/content/v1/6049e33a3512a120620cfe14/1623737006761-ZRXT79P8NPHWMJWDL0H4/static1.squarespace.png",
+        "https://blab-mktg-bcorporation-production.s3.amazonaws.com/styles/landscape__600x450/s3/teaser-cta/welcom%20graphic%20one%20person_0.png"
+      ],
+      "definitions": [
+        "something done (usually as opposed to something said)",
+        "the state of being active",
+        "a military engagement",
+        "a process existing in or produced by nature (rather than by the intent of human beings)",
+        "the series of events that form a plot",
+        "the trait of being active and energetic and forceful",
+        "the operating part that transmits power to a mechanism",
+        "a judicial proceeding brought by one party against another; one party prosecutes another for a wrong done or for protection of a right or for prevention of a wrong",
+        "an act by a government body or supranational organization",
+        "the most important or interesting work or activity in a specific area or field"
+      ]
+    },
+    {
+      "id": "lightning",
+      "image_urls": [
+        "https://pbs.twimg.com/profile_images/1224898046195974145/7S25hk9V_400x400.png",
+        "https://static-00.iconduck.com/assets.00/lightning-symbol-emoji-264x512-wxrimde8.png",
+        "https://s2.coinmarketcap.com/static/img/coins/200x200/8801.png",
+        "https://cdn-icons-png.flaticon.com/512/2675/2675949.png",
+        "https://bluewallet.io/uploads//lightning-wallet.png"
+      ],
+      "definitions": [
+        "abrupt electric discharge from cloud to cloud or from cloud to earth accompanied by the emission of light",
+        "the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more"
+      ]
+    },
+    {
+      "id": "discovery",
+      "image_urls": [
+        "https://sx-content-labs.sixt.io/Media/8fleet-1050x600/land-rover-range-rover-discovery-5d-silber-2018.png",
+        "https://platform.cstatic-images.com/large/in/v2/stock_photos/a7d8da40-d1bf-4fe0-b9e6-548ee49911a1/765e9a3c-9586-4e68-96b3-32bb46960972.png",
+        "https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/vhs/Land-Rover-Discovery.png",
+        "https://sx-content-labs.sixt.io/Media/8fleet-1050x600/land-rover-range-rover-discovery-sport-5d-silber-2018.png",
+        "https://di-uploads-development.dealerinspire.com/landroveranaheimhills/uploads/2019/10/cc_2017LRS110001_01_640_1AL.png"
+      ],
+      "definitions": [
+        "the act of discovering something",
+        "something that is discovered",
+        "a productive insight",
+        "(law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case"
+      ]
+    },
+    {
+      "id": "injury",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Injury_icon_2.svg/1200px-Injury_icon_2.svg.png",
+        "https://www.accidentclaimsadvice.org.uk/wp-content/uploads/2019/06/soft-tissue-injury.png",
+        "https://www.ottawaphysio.clinic/wp-content/uploads/2020/05/injure-that-requires-physiotherapy.png",
+        "https://www.healthhub.sg/sites/assets/Assets/Programs/project-injury-hub/inner/images/pressue-injury-stage1.png",
+        "https://www.healthhub.sg/sites/assets/Assets/Programs/project-injury-hub/inner/images/measures-Infographic.png"
+      ],
+      "definitions": [
+        "any physical damage to the body caused by violence or accident or fracture etc.",
+        "an accident that results in physical damage or hurt",
+        "a casualty to military personnel resulting from combat",
+        "an act that causes someone or something to receive physical damage",
+        "wrongdoing that violates another's rights and is unjustly inflicted"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "funeral",
+      "image_urls": [
+        "https://www.uitvaartbloemen.com/contents/media/k_500801118-Volop-in-het-leven-ovaal.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Herinnering-Rouwboeket.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/rouwboeket-kleurrijk.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Oneindig-Gegroepeerd-300x300.png",
+        "https://www.fdanz.co.nz/assets/Nature_Kowhai-Whitewash-with-spray__ResizedImageWzgwMCw1MzNd.png"
+      ],
+      "definitions": [
+        "a ceremony at which a dead person is buried or cremated"
+      ]
+    },
+    {
+      "id": "jar",
+      "image_urls": [
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw953883ce/images/120527860/120527860_MCM_PACK_150516.png",
+        "https://www.bierglazen-fabriek.nl/wp-content/uploads/2018/03/drinking-jar-71-cl-set-van-12-12426.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw116bec09/images/120527771/120527771_MCM_PACK_150532.png",
+        "https://www.candlewarmers.com/cache/PRODUCTIMAGE4018MAR.png",
+        "https://www.oasisfloral.co.uk/media/catalog/product/cache/73fdfc624587e8942c64b15b96a5e275/4/5/45-03255_group_new_hailey_clear_and_green.png"
+      ],
+      "definitions": [
+        "a vessel (usually cylindrical) with a wide mouth and without handles",
+        "the quantity contained in a jar",
+        "a sudden jarring impact"
+      ]
+    },
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "food",
+      "image_urls": [
+        "https://images.ctfassets.net/grb5fvwhwnyo/1sJpRsfp1RJI3AASMiOS1h/4421f71ab2cbdf50d1c960ebfcd02a39/P2.3_Page-SEO-Data.png",
+        "https://www.asiaexpressfood.nl/images/header/2019/Anuga_banner_2021_-_Bovenlaag.png",
+        "https://futurefoodgroup.nl/en/wp-content/uploads/sites/5/2020/09/LR_Vega_worst@0.33x-450x480.png",
+        "https://amlifestylemedicine.com/wp-content/uploads/2019/01/canada.png",
+        "https://www.33goodfood.nl/wp-content/uploads/2020/04/burger-33goodfood.png"
+      ],
+      "definitions": [
+        "any substance that can be metabolized by an animal to give energy and build tissue",
+        "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+        "anything that provides mental stimulus for thinking"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "hotel",
+      "image_urls": [
+        "https://media.hrs.com/media/image/01/99/b7/hotel-dummy.png",
+        "https://www.thejames.nl/images/logo-the-james-gold.png",
+        "https://2xtznj18ire847rzm32uwbwy-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/Ambassade_Hotel_Amsterdam_logo_2016-black-1030x447.png",
+        "https://www.hotelriche.nl/wp-content/uploads/2019/11/Hotel-Riche-Logo_Retina.png",
+        "https://www.wijck.com/upload/producten/1024x1024/hotel-new-york-lijst15009154163.png"
+      ],
+      "definitions": [
+        "a building where travelers can pay for lodging and meals and other services"
+      ]
+    },
+    {
+      "id": "movies",
+      "image_urls": [
+        "https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1703375629.png",
+        "https://www.dressedbytiffanystrent.be/pub/media/Movies/Movies-logo-v1-01.png",
+        "https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1508501659.png",
+        "https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1532315359.png",
+        "https://cor-cdn-static.bibliocommons.com/list_jacket_covers/live/1469463107.png"
+      ],
+      "definitions": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+      ]
+    },
+    {
+      "id": "chocolate",
+      "image_urls": [
+        "https://cdn.webshopapp.com/shops/33241/files/289094934/about-us-rond-bars.png",
+        "https://www.leonidas.com/sites/default/files/2021-06/Pralines_2.png",
+        "https://www.loacker.com/mediaObject/importedProducts/ProdWeb-1860124_int-en_packaged/resolutions/res-c400x300/ProdWeb-1860124_int-en_packaged.png",
+        "https://www.valor.es/wp-content/uploads/2019/08/negro-92-0-azucares-added.png",
+        "https://cdn.webshopapp.com/shops/33241/files/263857661/chco-afbeelding-cafepagina-rond-4.png"
+      ],
+      "definitions": [
+        "a beverage made from cocoa powder and milk and sugar; usually drunk hot",
+        "a food made from roasted ground cacao beans",
+        "a medium brown to dark-brown color"
+      ]
+    },
+    {
+      "id": "wedding",
+      "image_urls": [
+        "https://www.jimdo.com/static/c4e8e6e4d1dbcbfde85d54227dd9685f/21dd8/picture.png",
+        "https://cdn.chowsangsang.com/eshop/hk/newweb/collection/2021/wedding/kv01_mobile.png",
+        "https://static.showit.co/1200/DmdiN1rsRoGPZE8inKX5ZQ/122969/honeybee_weddings_winter_wedding-100.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABactul89A47zMsHq8nvh7vTPNIKnRRSUC5QYJ6VJ25f-JSHPySxx8qz7dzUXlmj1BpRrGwWfCAM2Er7kK-dz8Z-5eu5Kfh5Arua5.png",
+        "https://cdn.shopify.com/s/files/1/0528/9567/8657/files/Wedding_round_a34997f1-d3cd-41f5-9521-dbb0af57238e_480x480.png"
+      ],
+      "definitions": [
+        "the social event at which the ceremony of marriage is performed",
+        "the act of marrying; the nuptial ceremony",
+        "a party of people at a wedding"
+      ]
+    },
+    {
+      "id": "candy",
+      "image_urls": [
+        "https://www.antilliaanse-toko.nl/media/catalog/product/cache/1ca3c8b1c6458f0eb1a5e1747c261955/p/r/productdetail-candycorn_1.png",
+        "https://zedcandy.com/wp-content/uploads/2021/02/SCARY-EYES-small-1.png",
+        "https://zedcandy.com/wp-content/uploads/2021/02/classic-package-small.png",
+        "https://www.fivestartrading-holland.eu/images/product_images/original_images/Candy%20Can%20Cotton%20Candy%2012-pack%20copy.png",
+        "https://www.fivestartrading-holland.eu/images/product_images/original_images/Candy%20Can%20Cotton%20Candy%20recht.png"
+      ],
+      "definitions": [
+        "a rich sweet made of flavored sugar and often combined with fruit or nuts"
+      ]
+    },
+    {
+      "id": "television",
+      "image_urls": [
+        "https://smart-cover.co.uk/wp-content/themes/Smart%20Cover/page-templates/images/tvcvr-right.png",
+        "https://ec.europa.eu/energy/sites/default/files/eepf_labels/assets/images/eepf_labels_tv_icon_big.png",
+        "https://images.selency.com/1858e1b1-30f3-4a73-8d3a-c424ec2f8fd0/continental-television-edifice-on-foot-tulip_original.png",
+        "https://images-fe.ssl-images-amazon.com/images/I/71a%2BGOb1izL.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/CN/QD/AL/76732024/android-television-500x500.png"
+      ],
+      "definitions": [
+        "broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs",
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "id": "families",
+      "image_urls": [
+        "https://i.1password.com/media/explore/families/hero.png",
+        "https://timothybrindleministries.com/wp-content/uploads/2020/12/Illo_LargeFamilies-abb4fa761280472d90359bd015d13c49.png",
+        "https://www.justonenorfolk.nhs.uk/media/3747/family-networking-hands-family-image.png",
+        "https://safefamilies.uk/wp-content/uploads/2019/10/Safe-Families-Web-Logo@2x.png",
+        "https://static.wixstatic.com/media/2cd43b_a039e49d7f6d4b6489ffd2d0827b3d4e~mv2_d_3550_5059_s_4_2.png"
+      ],
+      "definitions": [
+        "a social unit living together",
+        "primary social group; parents and children",
+        "a collection of things sharing a common attribute",
+        "people descended from a common ancestor",
+        "a person having kinship with another or others",
+        "(biology) a taxonomic group containing one or more genera",
+        "a loose affiliation of gangsters in charge of organized criminal activities",
+        "an association of people who share common beliefs or activities"
+      ]
+    },
+    {
+      "id": "mouth",
+      "image_urls": [
+        "https://stickershop.line-scdn.net/stickershop/v1/product/3201802/LINEStorePC/main.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/58_large.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/a37b771cee517ba7da048a08beff53c9fe26fe5c-2000x1400.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Laughing-Mouth.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/10c460690134d228495248088d2ab0ce22ce452f-2000x1400.png"
+      ],
+      "definitions": [
+        "the opening through which food is taken in and vocalizations emerge",
+        "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening",
+        "an opening that resembles a mouth (as of a cave or a gorge)",
+        "the point where a stream issues into a larger body of water",
+        "a person conceived as a consumer of food",
+        "a spokesperson (as a lawyer)",
+        "an impudent or insolent rejoinder",
+        "the opening of a jar or bottle"
+      ]
+    },
+    {
+      "id": "box",
+      "image_urls": [
+        "https://www.mysteryboxkopen.nl/wp-content/uploads/2019/01/Mystery_Box_V01-e1548633735113.png",
+        "https://www.doggy-box.com/wp-content/themes/doggy-box/img/open-box.png",
+        "https://static.cdn.packhelp.com/wp-content/uploads/2021/05/05134118/Packhelp24945-1-1.png",
+        "https://kidspeakltd.com/wp-content/uploads/2016/04/folding-box.png",
+        "https://cdn.shopify.com/s/files/1/0300/7227/4989/files/box_logo_white_bg_300x300.png"
+      ],
+      "definitions": [
+        "a (usually rectangular) container; may have a lid",
+        "private area in a theater or grandstand where a small group can watch the performance",
+        "the quantity contained in a box",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a rectangular drawing",
+        "evergreen shrubs or small trees",
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+        "the driver's seat on a coach",
+        "separate partitioned area in a public place for a few people",
+        "a blow with the hand (usually on the ear)"
+      ]
+    }
+  ]
+}

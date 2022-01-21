@@ -1,0 +1,126 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "boat",
+      "image_urls": [
+        "https://arctic-boats.com/stuff/file/i1_dark_blue.png",
+        "https://cobaltboats.com/wp-content/uploads/2021/03/R8outboard-SimilarModels.png",
+        "https://www.gerrisboats.com/wp-content/uploads/2021/03/GerrisBoat-34-1024x573.png",
+        "https://www.verme.it/wpsite/wp-content/uploads/2021/04/GerrisBoat-sketch-1024x836.png",
+        "https://www.evoyachts.com/wp-content/themes/evo/media/home/product-01.png"
+      ],
+      "definitions": [
+        "a small vessel for travel on water",
+        "a dish (often boat-shaped) for serving gravy or sauce"
+      ]
+    },
+    {
+      "id": "wheel",
+      "image_urls": [
+        "https://snipstock.com/assets/cdn/png/ad18655608d4e3208c5f7d2eef9a1826.png",
+        "https://lightweight.info/fileadmin/_processed_/0/d/csm_Rundkurs_Flyout_f930801a79.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1010px-Plutchik-wheel.svg.png",
+        "https://evolutionbike.it/pub/media/catalog/product/cache/9a7f5d11d3fdb309eee2409db95d8c49/_/f/_f_w_fw_orw-set_1_1_35.png",
+        "https://momo.com/wp-content/uploads/2019/03/MOMO-Legend-Wheels-Thumbnail-1-750x750.png"
+      ],
+      "definitions": [
+        "a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)",
+        "a handwheel that is used for steering",
+        "forces that provide energy and direction",
+        "a circular helm to control the rudder of a vessel",
+        "game equipment consisting of a wheel with slots that is used for gambling; the wheel rotates horizontally and players bet on which slot the roulette ball will stop in",
+        "an instrument of torture that stretches or disjoints or mutilates victims",
+        "a wheeled vehicle that has two wheels and is moved by foot pedals"
+      ]
+    },
+    {
+      "id": "truck",
+      "image_urls": [
+        "https://mk0saloodoi0q2rtgmna.kinstacdn.com/wp-content/uploads/2020/04/truck.png",
+        "https://www.oktrucks.it/assets/img/oktrucks_v1/tractor_unit.png",
+        "https://www.oktrucks.de/assets/img/oktrucks_v1/truck.png",
+        "https://mk0saloodoi0q2rtgmna.kinstacdn.com/wp-content/uploads/2020/03/straight-truck-1.png",
+        "https://techcrunch.com/wp-content/uploads/2019/07/Truck-Emoji-Image_Final.png"
+      ],
+      "definitions": [
+        "an automotive vehicle suitable for hauling",
+        "a handcart that has a frame with two low wheels and a ledge at the bottom and handles at the top; used to move crates or other heavy objects"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://microlino-car.com/resources/public/dtc/media/thumb/thumb_width600_microlino-red-parking-001.png",
+        "https://www.hyundai-n.com/images/en/main/main_section01_img04.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "skateboard",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0087/6065/5938/products/green-tea-skateboard-deck_2000x.png",
+        "https://cdn.shopify.com/s/files/1/0006/6302/7765/products/shopping_2_3376f153-6f93-4afb-b6c9-4edf23a8c531_1024x1024.png",
+        "https://admin.niviasports.com/uploadfile/product/SK-801J%20NIVIA%20SKATE%20BOARD%20JUNIOR-1.png",
+        "https://www.loveboardshop.com/wp-content/uploads/2021/04/1-8.png",
+        "https://www.promodeldeck.com/designer/product_images/mask/8-1256-2-mask.png"
+      ],
+      "definitions": [
+        "a board with wheels that is ridden in a standing or crouching position and propelled by foot"
+      ]
+    },
+    {
+      "id": "skis",
+      "image_urls": [
+        "https://www.blizzard-tecnica.com/storage/Product/8a0029fa001-firebird-wrc-xcell14-demo-1.png",
+        "https://zai.ch/wp-content/uploads/2020/12/Moncler_Soldat_Frei2_KORREKTUR_freigestellt_web-808x1024.png",
+        "https://en.zagskis.com/media/catalog/product/cache/b3bb7a1f2bc850712581689d5b25c13b/u/b/ubac_89.png",
+        "https://www.dynastar.com/uploads/images/default/5fbf6f88bd235.png",
+        "https://elanskis.com/media/catalog/product/cache/0b05020c511a768f77cb5aed427f9b88/e/l/elan-amphibio-16-ti-fusion-x-3d.png"
+      ],
+      "definitions": [
+        "narrow wood or metal or plastic runners used in pairs for gliding over snow"
+      ]
+    },
+    {
+      "id": "scooter",
+      "image_urls": [
+        "https://www.kibotek.com/wp-content/uploads/2021/02/kiboTEK_mi_scooter_pro2_amg_010.png",
+        "https://helbiz.com/_nuxt/img/skip-scooter@3x.c8d83ec.png",
+        "https://www.hurbascooter.com/wp-content/uploads/2021/05/Street-raptor-L2.png",
+        "https://i01.appmifile.com/webfile/globalimg/products/pc/mi-electric-scooter-3/0.png",
+        "https://cdn-reichelt.de/bilder/web/xxl_ws/E910/XIAOMI_SCOOTEP2B_01.png"
+      ],
+      "definitions": [
+        "a motorboat resembling a motor scooter",
+        "child's two-wheeled vehicle operated by foot",
+        "a wheeled vehicle with small wheels and a low-powered gasoline engine geared to the rear wheel",
+        "a sailing vessel with runners and a cross-shaped frame; suitable for traveling over ice",
+        "large black diving duck of northern parts of the northern hemisphere"
+      ]
+    },
+    {
+      "id": "bike",
+      "image_urls": [
+        "https://www.ghost-bikes.com/fileadmin/user_upload/ghostbikes_2019/HYBRIDE/LANES/86SC1002_PY18_SQUARE_CROSS_1-8_AL_U_IRIDIUMSILVER_JETBLACK_STARWHITE.png",
+        "https://www.ghost-bikes.com/fileadmin/_processed_/8/c/csm_ghost-bikes-Riot-Trail-essential-black-black-45_38d9fe71b8.png",
+        "https://www.canyon.com/on/demandware.static/-/Sites-canyon-master/default/dw0a62c29a/images/full/Full_2021_/2021/Full_2021_grail-cf-slx-8-etab_2720_bu-bk_P5.png",
+        "https://cdn.shopify.com/s/files/1/0903/4494/files/evil-insurgent-tranny-hero_640x.png",
+        "https://www.sadlerbike.it/assets/img/Roma.png"
+      ],
+      "definitions": [
+        "a motor vehicle with two wheels and a strong frame",
+        "a wheeled vehicle that has two wheels and is moved by foot pedals"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "carnival",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0247/8476/4981/files/logo-new_640x.png",
+        "https://malmesburycarnival.co.uk/images/2020/02/07/679-malmesbury-carnival-festival-2020.png",
+        "https://images.squarespace-cdn.com/content/v1/6049e94ea35ba05f50849c2f/1615458822673-2ZSR8RI0L73SUE9ZIFPF/Asset+1%404x.png",
+        "https://huddscarnival.com/wp-content/uploads/2019/05/Hudds-Carnival-Generic-Logo-01.png",
+        "https://www.irn-bru-carnival.com/assets/images/irn-bru-carnival-logo.png"
+      ],
+      "definitions": [
+        "a festival marked by merrymaking and processions",
+        "a frenetic disorganized (and often comic) disturbance suggestive of a large public entertainment",
+        "a traveling show; having sideshows and rides and games of skill etc."
+      ]
+    },
+    {
+      "id": "lights",
+      "image_urls": [
+        "https://www.innr.com/wp-content/uploads/cache/01-PL-115-Puck-on-oixed4ogxn9d4sanmlko312j7nt1bnmokzi6u8hwcg.png",
+        "https://cdn.zodiac.nl/media/zodiac-generated/ae6d55aa/5ba9/47f2/8362/4838d95ab892/standard-rgba.png",
+        "https://www.eglo.com/media/wysiwyg/3/2/32915.png",
+        "https://cdn.shopify.com/s/files/1/0526/7144/7238/products/string-lights-145-cm-home-flying-tiger-copenhagen-776205_grande.png",
+        "https://www.innr.com/wp-content/uploads/2019/12/01-RB-278-T-2-Bulb-on-shadow-300x300.png"
+      ],
+      "definitions": [
+        "(physics) electromagnetic radiation that can produce a visual sensation",
+        "any device serving as a source of illumination",
+        "a particular perspective or aspect of a situation",
+        "the quality of being luminous; emitting or reflecting light",
+        "an illuminated area",
+        "a condition of spiritual awareness; divine illumination",
+        "the visual effect of illumination on objects or scenes as created in pictures",
+        "a person regarded very fondly",
+        "having abundant light or illumination",
+        "mental understanding as an enlightening experience",
+        "merriment expressed by a brightness or gleam or animation of countenance",
+        "public awareness",
+        "a divine presence believed by Quakers to enlighten and guide the soul",
+        "a visual warning signal",
+        "a device for lighting or igniting fuel or charges or fires"
+      ]
+    },
+    {
+      "id": "barn",
+      "image_urls": [
+        "https://barnpros.com/wp-content/uploads/2020/02/BP_Home_Barns_O-575x0-c-default.png",
+        "https://www.restaurant-cadeaucard.nl/content/media/text/11640/original/56751.png",
+        "https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png",
+        "https://www.thebarnsporthealth.nl/wp-content/uploads/2019/06/personaltraining-badhoevedorp.nl-logo.png",
+        "https://static.wikia.nocookie.net/hayday/images/7/73/Barn_Broken.png"
+      ],
+      "definitions": [
+        "an outlying farm building for storing grain or animal feed and housing farm animals",
+        "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+      ]
+    },
+    {
+      "id": "road",
+      "image_urls": [
+        "https://saferoadmaps.org/wp-content/uploads/2021/04/road.png",
+        "https://images.vrt.be/orig/2019/02/04/deeb0349-2871-11e9-abcc-02b7b76bf47f.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/ckhu66mld0kdh01ok2hhq6lba-michelin-road-classic-f-front.full.png",
+        "https://platformduurzamebiobrandstoffen.nl/wp-content/uploads/2020/02/2018_GOV-UK-roadtozero-cover.png",
+        "https://www.jopenbier.nl/app/uploads/2020/01/road-to-nowhere-met-bokaal.png"
+      ],
+      "definitions": [
+        "an open way (generally public) for travel or transportation",
+        "a way or means to achieve something"
+      ]
+    },
+    {
+      "id": "plane",
+      "image_urls": [
+        "https://d2k0ddhflgrk1i.cloudfront.net/LR/Subsites/Flying%20V/Mei2019/FlyingV_Front.png",
+        "https://techcrunch.com/wp-content/uploads/2021/09/wright-concept.png",
+        "https://cdn.shopify.com/s/files/1/0260/4207/3140/products/a_db9527e6-903d-4f07-9e30-490fb867936d_1000x.png",
+        "https://images-na.ssl-images-amazon.com/images/I/81ESuzd6jNL.png",
+        "https://cdn2.iconfinder.com/data/icons/maps-and-navigation-collection/110/icon_Plane-512.png"
+      ],
+      "definitions": [
+        "an aircraft that has a fixed wing and is powered by propellers or jets",
+        "(mathematics) an unbounded two-dimensional shape",
+        "a level of existence or development",
+        "a power tool for smoothing or shaping wood",
+        "a carpenter's hand tool with an adjustable blade for smoothing or shaping wood"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "concert",
+      "image_urls": [
+        "https://weekendvanderomantischemuziek.nl/usr-uploads/images/2021/maanlicht-concert-logo-wit.png",
+        "https://www.dutchevent.nl/veulgereinconcert/wp-content/uploads/2021/04/dutchevent-veulgereinconcert-logo-concert-01-1024x664.png",
+        "https://eurovisioninconcert.nl/wordpress/wp-content/uploads/2021/02/logo_EIC_2022-wit2.png",
+        "https://cdn.mycreativeshop.com/images/templates/2966/music-concert-tri-fold-brochure-template-3361-trans-thumb.png",
+        "https://www.gervos.com/wp-content/uploads/CD-Ger-Vos-Live-in-Concert-2019.png"
+      ],
+      "definitions": [
+        "a performance of music by players or singers not involving theatrical staging"
+      ]
+    },
+    {
+      "id": "peanuts",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/4/40/Peanuts_gang.png",
+        "https://peanut-institute.com/wp-content/uploads/2017/08/peanut-home-focus.png",
+        "https://cdn.shopify.com/s/files/1/0277/8474/0935/products/Bikaji-Classic-Salted-Peanuts-200g.png",
+        "https://www.bikaji.com/pub/media/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/h/i/hing-jeera-peanut-new-front.png",
+        "https://swartberg.com/app/uploads/2018/04/peanuts_private_label_bag_medium-500x500.png"
+      ],
+      "definitions": [
+        "underground pod of the peanut vine",
+        "widely cultivated American plant cultivated in tropical and warm regions; showy yellow flowers on stalks that bend over to the soil so that seed pods ripen underground",
+        "a young child who is small for his age",
+        "pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms"
+      ]
+    }
+  ]
+}

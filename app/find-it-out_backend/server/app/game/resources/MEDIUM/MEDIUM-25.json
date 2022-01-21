@@ -1,0 +1,307 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "meeting",
+      "image_urls": [
+        "https://agilescrumgroup.nl/wp-content/uploads/sprint-planning-meeting-e1608804051883.png",
+        "https://blogs.fireflies.ai/content/images/2021/07/feat-min-1.png",
+        "https://meetingroom.io/wp-content/uploads/2019/05/Company-Meetings.png",
+        "https://cms.ratemymeeting.co/storage/uploads/2020/07/02/5efe007fad3e8homepage-meeting.png",
+        "https://www.zohowebstatic.com/sites/default/files/meeting/home/zm-mobile-banner.png"
+      ],
+      "definitions": [
+        "a formally arranged gathering",
+        "a small informal social gathering",
+        "a casual or unexpected convergence",
+        "the social act of assembling for some common purpose",
+        "the act of joining together as one",
+        "a place where things merge or flow together (especially rivers)"
+      ]
+    },
+    {
+      "id": "color",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/BYR_color_wheel.svg/2048px-BYR_color_wheel.svg.png",
+        "https://s3.amazonaws.com/www-inside-design/uploads/2019/08/color_wheel.png",
+        "https://cdn11.bigcommerce.com/s-ey7tq/product_images/uploaded_images/predyed-nylon-flag-colors-march2020-01.png",
+        "https://blog.hubspot.com/hs-fs/hubfs/00-Blog-Related_Images/types_of_colors.png",
+        "https://blog.hubspot.com/hs-fs/hubfs/triadic-color-wheel.png"
+      ],
+      "definitions": [
+        "a visual attribute of things that results from the light they emit or transmit or reflect",
+        "interest and variety and intensity",
+        "the timbre of a musical sound",
+        "an outward or token appearance or form that is deliberately misleading",
+        "any material used for its color",
+        "(physics) the characteristic of quarks that determines their role in the strong interaction",
+        "the appearance of objects (or light sources) described in terms of a person's perception of their hue and lightness (or brightness) and saturation"
+      ]
+    },
+    {
+      "id": "newspaper",
+      "image_urls": [
+        "https://www.la-streetfood.com/604/0/0/1/ffffff00/a9bb3cf9/35ea27e4ce63bcfaba82217a87415406e1c63698baf20f4b7df88daea19811aa/newspaper-new-york-1952-30x30.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Daily-Citizen-Newspaper--Object-Global-Citizenship-Life-KS2.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/NewspaperDesign_gestalten_book_editorial_journalism_inside03_2000x.png",
+        "https://cdn-assets.timesofmalta.com/epapers/newspapers-2x.png",
+        "https://storage.needpix.com/rsynced_images/newspaper-4222970_1280.png"
+      ],
+      "definitions": [
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher",
+        "cheap paper made from wood pulp and used for printing newspapers"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://nvdpl.ca/sites/default/files/styles/slideshow/public/field/image/slideshow_images/Web_2020%20COVID-19_Get%20in%20touch_2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "encyclopedia",
+      "image_urls": [
+        "https://books.britannica.com/wp-content/uploads/2021/04/Encyclo-US_3D-Britannica-template-medium-1-1164x1536.png",
+        "https://worldchristianresearch.files.wordpress.com/2015/08/wce-2.png",
+        "https://www.worldbookonline.com/training/look-inside/assets/images/wbe-2022.png",
+        "https://getintopc.com/wp-content/uploads/2013/12/44-h_main-w.png",
+        "https://global-uploads.webflow.com/5de14733d41c9b578bb9bd65/5f55d0a6f06083a23a208064_ubam--encyclopedias-for-kids.png"
+      ],
+      "definitions": [
+        "a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty"
+      ]
+    },
+    {
+      "id": "thinking",
+      "image_urls": [
+        "https://humanskillsdevelopment.ca/wp-content/uploads/2020/01/Critical-Thinking.png",
+        "https://www.fluentu.com/blog/wp-content/uploads/2016/09/thinking-in-a-foreign-language-e1479154410182.png",
+        "https://images.squarespace-cdn.com/content/v1/5d662d724e441800011b364c/1597430576484-ZIOWQM37INTRQF14Q4BE/Design+thinking+kopie%403x.png",
+        "https://www.cobidu.co.uk/shared/images/general/57_thinking-skills_5fff1d9c8148c.png",
+        "https://www.metabolic.nl/wp-content/uploads/2021/01/SystemsThinking4.png"
+      ],
+      "definitions": [
+        "the process of using your mind to consider something carefully"
+      ]
+    },
+    {
+      "id": "information",
+      "image_urls": [
+        "https://piwik.pro/wp-content/uploads/2020/10/2020-10-21_What-Is-PII-non-PII-and-personal-data_blog.png",
+        "https://www.exin.com/sites/default/files/2018-11/EXIN_Badge_ModuleProfessional_InformationSM_ISO.png",
+        "https://d2k0ddhflgrk1i.cloudfront.net/EWI/Over%20de%20faculteit/Afdelingen/Software%20Technology/Web%20Information%20Systems/img/WisCircle_450.png",
+        "https://eternalsunshineoftheismind.files.wordpress.com/2013/02/information1.png",
+        "https://cdn.icon-icons.com/icons2/2796/PNG/512/info_information_icon_178159.png"
+      ],
+      "definitions": [
+        "a message received and understood",
+        "knowledge acquired through study or experience or instruction",
+        "formal accusation of a crime",
+        "a collection of facts from which conclusions may be drawn",
+        "(communication theory) a numerical measure of the uncertainty of an outcome"
+      ]
+    },
+    {
+      "id": "head",
+      "image_urls": [
+        "https://static.thenounproject.com/png/870004-200.png",
+        "https://static.thenounproject.com/png/1341158-200.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw271f5ef4/images/120142214/120142214_MCM_PACK_142566.png",
+        "https://cdn.shopify.com/s/files/1/0338/0936/7176/products/HeadPuzzle-5Flat_1024x1024.png",
+        "https://logoeps.com/wp-content/uploads/2013/03/head-vector-logo.png"
+      ],
+      "definitions": [
+        "the upper part of the human body or the front part of the body in animals; contains the face and brains",
+        "a single domestic animal",
+        "that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason",
+        "a person who is in charge",
+        "the front of a military formation or procession",
+        "the pressure exerted by a fluid",
+        "the top of something",
+        "the source of water from which a stream arises",
+        "(grammar) the word in a grammatical constituent that plays the same grammatical role as the whole constituent",
+        "the tip of an abscess (where the pus accumulates)",
+        "the length or height based on the size of a human or animal head",
+        "a dense cluster of flowers or foliage",
+        "the educator who has executive authority for a school",
+        "an individual person",
+        "a user of (usually soft) drugs",
+        "a natural elevation (especially a rocky one that juts out into the sea)",
+        "a rounded compact mass",
+        "the foam or froth that accumulates at the top when you pour an effervescent liquid into a container",
+        "the part in the front or nearest the viewer",
+        "a difficult juncture",
+        "forward movement",
+        "a V-shaped mark at one end of an arrow pointer",
+        "the subject matter at issue",
+        "a line of text serving to indicate what the passage below it is about",
+        "the rounded end of a bone that fits into a rounded cavity in another bone to form a joint",
+        "that part of a skeletal muscle that is away from the bone that it moves",
+        "(computer science) a tiny electromagnetic coil and metal pole used to write and read magnetic patterns on a disk",
+        "(usually plural) the obverse side of a coin that usually bears the representation of a person's head",
+        "the striking part of a tool",
+        "(nautical) a toilet on board a boat or ship",
+        "a projection out from one end",
+        "a membrane that is stretched taut over a drum",
+        "oral stimulation of the genitals"
+      ]
+    },
+    {
+      "id": "dinner",
+      "image_urls": [
+        "https://digitalcampaignsstorage.blob.core.windows.net/change4life/production/uploads/ckeditor/pictures/296/content_Nutrition-collection-dinner.png",
+        "https://static.takeaway.com/images/restaurants/nl/N15O/logo_465x320.png",
+        "https://www.dinnerinmotion.nl/wp-content/uploads/2019/09/Logo-Dinner-in-Motion-White-Transparant-2000x2000.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/dinner-6894dde410af53ff882a2204a2a54bb01eca1327.png",
+        "https://thedinnerhub.com/images/app_preview_1_dinnerhub.png"
+      ],
+      "definitions": [
+        "the main meal of the day served in the evening or at midday",
+        "a party of people assembled to have dinner together"
+      ]
+    },
+    {
+      "id": "class",
+      "image_urls": [
+        "https://www.class.com/wp-content/uploads/2021/02/Class_BOZ.png",
+        "https://techcrunch.com/wp-content/uploads/2021/02/Class-for-Zoom-Attendance-.png",
+        "https://class.me/img/homepage/classes.png",
+        "https://theclassof2020.org/wp-content/uploads/2017/07/class2020_logo.png",
+        "https://images.squarespace-cdn.com/content/v1/5fd94d4e3d899d48cf71319b/3c788650-8128-4ef7-b3a3-905b79140a68/CLASS_WORKMARK_MIDNIGHT_V2.png"
+      ],
+      "definitions": [
+        "a collection of things sharing a common attribute",
+        "a body of students who are taught together",
+        "people having the same social, economic, or educational status",
+        "education imparted in a series of lessons or meetings",
+        "a league ranked by quality",
+        "a body of students who graduate together",
+        "(biology) a taxonomic group containing one or more orders",
+        "elegance in dress or behavior"
+      ]
+    },
+    {
+      "id": "television",
+      "image_urls": [
+        "https://smart-cover.co.uk/wp-content/themes/Smart%20Cover/page-templates/images/tvcvr-right.png",
+        "https://ec.europa.eu/energy/sites/default/files/eepf_labels/assets/images/eepf_labels_tv_icon_big.png",
+        "https://images.selency.com/1858e1b1-30f3-4a73-8d3a-c424ec2f8fd0/continental-television-edifice-on-foot-tulip_original.png",
+        "https://images-fe.ssl-images-amazon.com/images/I/71a%2BGOb1izL.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/CN/QD/AL/76732024/android-television-500x500.png"
+      ],
+      "definitions": [
+        "broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs",
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "id": "book",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/1200px-Open_book_nae_02.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png",
+        "https://www.printsimpleindia.com/wp-content/uploads/2020/09/book_guide_hero_books.png",
+        "https://cdn.shopify.com/s/files/1/0039/7282/5134/products/Racism_1_860x860.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Book_A_Drunkard%27s_Tale.png"
+      ],
+      "definitions": [
+        "a written work or composition that has been published (printed on pages bound together)",
+        "physical objects consisting of a number of pages bound together",
+        "a compilation of the known facts regarding something or someone",
+        "a written version of a play or other dramatic composition; used in preparing for a performance",
+        "a record in which commercial accounts are recorded",
+        "a collection of playing cards satisfying the rules of a card game",
+        "a collection of rules or prescribed standards on the basis of which decisions are made",
+        "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+        "the sacred writings of the Christian religions",
+        "a major division of a long written composition",
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "id": "safe",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.safebv.nl/wp-content/uploads/2018/11/safelogo-klein.png",
+        "https://scrumguide.nl/wp-content/uploads/Core-Values_F01_WEB-1024x799-1.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcZwifHcd-aWkpJm-ThfNuTK6bpn2wNmVAcShd2Z_f5B833oCKYR0VuZoHktsx6OBDGaSwMTfDwHGN5S_3b7N-BJjeuFJjWKbDHo.png"
+      ],
+      "definitions": [
+        "strongbox where valuables can be safely kept",
+        "a ventilated or refrigerated cupboard for securing provisions from pests",
+        "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+      ]
+    },
+    {
+      "id": "knowledge",
+      "image_urls": [
+        "https://turbulentflux.com/wp-content/uploads/2020/09/20200831_Data_Information_Knowledge.png",
+        "https://heranet.info/assets/uploads/2018/02/knowledge-translation-exchange.png",
+        "https://nathanworks.com/wp-content/uploads/2010/11/brain_KnowledgeTypes.png",
+        "https://www.knowledgesolution.nl/wp-content/uploads/2021/06/KS-Flex-Logo-1024x473.png",
+        "https://knowledgeagency.com/wp-content/uploads/2019/01/cropped-KVC-Triangle-FNL_RGB_07-1.png"
+      ],
+      "definitions": [
+        "the psychological result of perception and learning and reasoning"
+      ]
+    },
+    {
+      "id": "university",
+      "image_urls": [
+        "https://webster.nl/_resources/images/webster-leiden-logo.png",
+        "https://www.ru.nl/publish/pages/732676/best-traditional-university-rgb-1.png",
+        "https://webster.nl/_resources/images/webster-leiden-logo-white.png",
+        "https://features.york.ac.uk/who-we-are/assets/vvJikmK4Yz/uoy-logo-stacked-shield-pms432-800x369.png",
+        "https://www.isunet.edu/wp-content/uploads/2019/10/LOGO_ISU_Darkblue.png"
+      ],
+      "definitions": [
+        "the body of faculty and students at a university",
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+      ]
+    },
+    {
+      "id": "field",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Relativistic_gravity_field_%28physics%29.svg/350px-Relativistic_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Electric_Field_Lines.svg/1200px-Electric_Field_Lines.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/51b8af35e4b06011310c1770/1467997527131-S7A5ILMMPDJVJ7VMHNL8/Logo+FF_DEF-01.png",
+        "https://www.nikon.nl/imported/images/web/EU/products/software/nx_field/images/nikon_software_nx_field__Get_Original_.png",
+        "https://i2.wp.com/analystanswers.com/wp-content/uploads/2021/04/combo-1.png"
+      ],
+      "definitions": [
+        "a piece of land cleared of trees and usually enclosed",
+        "a region where a battle is being (or has been) fought",
+        "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+        "a branch of knowledge",
+        "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it",
+        "a particular kind of commercial enterprise",
+        "a particular environment or walk of life",
+        "a piece of land prepared for playing a game",
+        "extensive tract of level open land",
+        "(mathematics) a set of elements such that addition and multiplication are commutative and associative and multiplication is distributive over addition and there are two elements 0 and 1",
+        "a region in which active military operations are in progress",
+        "all of the horses in a particular horse race",
+        "all the competitors in a particular contest or sporting event",
+        "a geographic region (land or sea) under which something valuable is found",
+        "(computer science) a set of one or more adjacent characters comprising a unit of information",
+        "the area that is visible (as through an optical instrument)",
+        "a place where planes take off and land"
+      ]
+    }
+  ]
+}

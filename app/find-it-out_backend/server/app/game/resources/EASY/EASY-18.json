@@ -1,0 +1,122 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "himalayas",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/58e8c089579fb3beba98d799/1535579367742-859VMJBKAYCUM104B7JC/H2OLogo.png",
+        "https://www.excellup.com/classnine/sstnine/Image_physicalFeature/9_geography_chapter_2_fig_8.png",
+        "https://images.squarespace-cdn.com/content/v1/58e8c089579fb3beba98d799/1542510998506-WC6ABXZ468IFP28HAXKS/Mountains.png",
+        "https://images.squarespace-cdn.com/content/v1/58e8c089579fb3beba98d799/1552024364229-7V5TI9OILUVB2C0V9CJ5/Foothills.png",
+        "https://www.royalenfield.com/content/dam/royal-enfield/neitherlands/motorcycles/himalayan/colours/new-colors/studio-shots/mirage-sliver/side-view.png"
+      ],
+      "definitions": [
+        "a mountain range extending 1500 miles on the border between India and Tibet; this range contains the world's highest mountain"
+      ]
+    },
+    {
+      "id": "picture",
+      "image_urls": [
+        "https://api.members.fairwear.org/images/brand-logo/brand-logos/XB/AH/XBAHZv734cslayOAfGtgAbBBllpcDgQPKNLFHTUS.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/P/i/Picture-Party-speelmateriaal.png",
+        "https://cdn.icon-icons.com/icons2/1993/PNG/512/frame_gallery_image_images_photo_picture_pictures_icon_123209.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/P/i/Picture-Party.png",
+        "https://onepicture.com/images/onepicture-logo-sq-etgzf.png"
+      ],
+      "definitions": [
+        "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+        "graphic art consisting of an artistic composition made by applying paints to a surface",
+        "a clear and telling mental image",
+        "a situation treated as an observable object",
+        "illustrations used to decorate or explain a text",
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+        "the visible part of a television transmission",
+        "a graphic or vivid verbal description",
+        "a typical example of some state or quality",
+        "a representation of a person or scene in the form of a print or transparent slide or in digital format"
+      ]
+    },
+    {
+      "id": "canada",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/1200px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/350px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canada_on_the_globe_%28North_America_centered%29.svg/1200px-Canada_on_the_globe_%28North_America_centered%29.svg.png",
+        "https://www.rabobank.com/en/images/canada.png",
+        "https://www.startupcan.ca/wp-content/themes/startup-canada/assets/img/canada-map.png"
+      ],
+      "definitions": [
+        "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+      ]
+    },
+    {
+      "id": "switzerland",
+      "image_urls": [
+        "https://grandtour.myswitzerland.com/nl/img/route/swiss_map.png",
+        "https://beachsoccer.com/wp-content/uploads/2021/06/SWITZERLAND.png",
+        "https://static.t-cdn.net/5da57ad6db7f757e793ebe1a/groups/5efb43b79f21d65f9c1253f4/5efb43b79f21d65f9c1253f4_91013.png",
+        "https://cdn-icons-png.flaticon.com/512/303/303196.png",
+        "https://pbs.twimg.com/profile_images/1395375477863424005/dC61Z5aR_400x400.png"
+      ],
+      "definitions": [
+        "a landlocked federal republic in central Europe"
+      ]
+    },
+    {
+      "id": "mountain",
+      "image_urls": [
+        "https://www.mountainfilmalliance.org/wp-content/themes/iamf/images/mountains.png",
+        "https://i.pinimg.com/originals/50/df/a3/50dfa31fa16328c9cb56f27e2c503cbd.png",
+        "https://static.wikia.nocookie.net/valheim/images/7/78/Biome_mountain.png",
+        "https://www.un.org/sites/un2.un.org/files/mountain.png",
+        "https://static.wikia.nocookie.net/valheim/images/7/78/Biome_mountain.png"
+      ],
+      "definitions": [
+        "a land mass that projects well above its surroundings; higher than a hill",
+        "(often followed by `of') a large number or amount or extent"
+      ]
+    },
+    {
+      "id": "pennsylvania",
+      "image_urls": [
+        "https://www.witf.io/wp-content/uploads/2018/11/Regions-of-PA-Map.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pennsylvania_Governor_Election_Results_by_County%2C_2002.svg/1200px-Pennsylvania_Governor_Election_Results_by_County%2C_2002.svg.png",
+        "https://tiogatours.nl/dynamic/img/amerika/pennsylvania/seal.1768.0da7.png",
+        "https://www.pahighways.com/images/maps/pacountiesmap.png",
+        "https://www.pa.gov/wp-content/uploads/2018/11/open-data-pa-branding-footer-logo-white-2.png"
+      ],
+      "definitions": [
+        "a Mid-Atlantic state; one of the original 13 colonies",
+        "one of the British colonies that formed the United States",
+        "a university in Philadelphia, Pennsylvania"
+      ]
+    },
+    {
+      "id": "asia",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/1200px-Asia_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/220px-Asia_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Asia_%28orthographic_projection%29.svg/285px-Asia_%28orthographic_projection%29.svg.png",
+        "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/a/a7/Map_of_Asia.png",
+        "https://apa.sdg4education2030.org/sites/apa.sdg4education2030.org/files/inline-images/AP%20Map.png"
+      ],
+      "definitions": [
+        "the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations",
+        "the nations of the Asian continent collectively"
+      ]
+    },
+    {
+      "id": "austria",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Austro-Hungarian_Monarchy_%281914%29.svg/250px-Austro-Hungarian_Monarchy_%281914%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f9/Austria_states_english.png",
+        "https://www.nagel-group.com/wp-content/uploads/2021/04/Oesterreich.png",
+        "https://www.travel-weather.net/austria/images/austria-weather-map.png",
+        "https://www.cilc.nl/cms/wp-content/uploads/2021/03/Austria-Map.png"
+      ],
+      "definitions": [
+        "a mountainous republic in central Europe; under the Habsburgs (1278-1918) Austria maintained control of the Holy Roman Empire and was a leader in European politics until the 19th century"
+      ]
+    }
+  ]
+}

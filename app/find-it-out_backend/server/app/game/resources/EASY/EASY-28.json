@@ -1,0 +1,133 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "place",
+      "image_urls": [
+        "https://place.network/wp-content/uploads/2019/08/PLACE-LOGO.png",
+        "https://www.sense-of-place.eu/wp-content/uploads/2016/06/sense-of-place-original.png",
+        "https://assets.theplace.com/image/upload/w_1200,f_auto,q_auto,bo_200px_solid_rgb:afcee900/ecom/assets/static/images/favicon-tcp-cloud.png",
+        "https://d-place.org/static/D-PLACE_Logo.png",
+        "https://images.squarespace-cdn.com/content/v1/5943c23a440243c1fa28585f/1579096366930-XY3RBR0EM6BZM8U7I9OY/logo-10.png"
+      ],
+      "definitions": [
+        "a point located with respect to surface features of some region",
+        "any area set aside for a particular purpose",
+        "an abstract mental location",
+        "a general vicinity",
+        "the post or function properly or customarily occupied or served by another",
+        "a particular situation",
+        "where you live at a particular time",
+        "a job in an organization",
+        "the particular portion of space occupied by something",
+        "proper or designated social situation",
+        "a space reserved for sitting (as in a theater or on a train or airplane)",
+        "the passage that is being read",
+        "proper or appropriate position or location",
+        "a public square with room for pedestrians",
+        "an item on a list or in a sequence",
+        "a blank area"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://cdn.shopify.com/s/files/1/0531/5962/4900/products/Arccoffeetable_Ash_01_exposed_800x.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Container/Container%20Bodhi/image-thumb__3401__height_500/Container-Table_Bodhi-212-final.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "backyard",
+      "image_urls": [
+        "https://backyarddesign.nl/wp-content/uploads/2021/03/Backyard-Website-Icon.png",
+        "https://writingexplained.org/wp-content/uploads/backyard-versus-back-yard.png",
+        "https://f.hubspotusercontent30.net/hubfs/17432/add-a-sauna-for-backyard-retreat.png",
+        "https://backyardgardenshow.com.au/images/Backyard-and-Garden-Show-Garden.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Backyard.png"
+      ],
+      "definitions": [
+        "the grounds in back of a house"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://i1.wp.com/designeddecor.com/wp-content/uploads/2018/06/Big-Impact-Bedroom-Changes-6-Simple.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "rug",
+      "image_urls": [
+        "https://hkliving.nl/media/39199/ttk3063-lr_d_01.png",
+        "https://images.selency.com/306f4a30-cf03-438b-b4b9-a5f711b6ac7a/beautiful-rug-rbati_original.png",
+        "https://cdn.shopify.com/s/files/1/1496/0124/products/Ellsworth_10x8_f87a5242-70e3-4ca9-9f0b-dde5c9b12d17_x700.png",
+        "https://images.selency.com/a53dfdf8-408e-4269-b81b-84a3b44dc027/scandinavian-20th-century-modern-rya-rug-svangsta-slottsmatta-sweden-190-x-140-cm-75-x-55-in_original.png",
+        "https://cdn.shopify.com/s/files/1/1496/0124/products/Conway_Hand_Woven_Rug_3x5_d46f8a4e-b3db-4d83-a4f8-718448a9bb45_x700.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)"
+      ]
+    },
+    {
+      "id": "persia",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Map_Greco-Persian_Wars-en.svg/280px-Map_Greco-Persian_Wars-en.svg.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Zoroastrian-Symbol---Religion-Faith-Topics-KS1-black-and-white-RGB.png",
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png",
+        "https://cdn3.iconfinder.com/data/icons/flags-of-countries-3/128/Iran-512.png",
+        "https://static.wikia.nocookie.net/civilization/images/2/28/Persian_%28Civ5%29.png"
+      ],
+      "definitions": [
+        "an empire in southern Asia created by Cyrus the Great in the 6th century BC and destroyed by Alexander the Great in the 4th century BC",
+        "a theocratic Islamic republic in the Middle East in western Asia; Iran was the core of the ancient empire that was known as Persia until 1935; rich in oil"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "image_urls": [
+        "https://www.innr.com/wp-content/uploads/cache/RCL-110-Round-Ceiling-Lamp-3D-shadow-owiejg0m73nwumlqwnqtacfga165mkg7tt4pqkl62o.png",
+        "https://cdn.shopify.com/s/files/1/1955/8109/products/rusttile2_530x@2x.png",
+        "https://in-lite.com/media/catalog/product/cache/459e1860863622a8290e217fbf029ff6/s/c/scope_ceiling-1_1.png",
+        "https://www.tonone.com/media/47/55/97/1604919773/bolt%20ceiling%202%20arm%20sidefit%20sb.png",
+        "https://www.cabasse.com/wp-content/uploads/2020/05/Alcyone-in-ceiling-3-4-roundF-600x450.png"
+      ],
+      "definitions": [
+        "the overhead upper surface of a covered space",
+        "(meteorology) altitude of the lowest layer of clouds",
+        "an upper limit on what is allowed",
+        "maximum altitude at which a plane can fly (under specified conditions)"
+      ]
+    }
+  ]
+}

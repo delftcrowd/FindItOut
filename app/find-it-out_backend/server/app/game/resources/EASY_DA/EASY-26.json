@@ -1,0 +1,119 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "meal",
+      "image_urls": [
+        "https://d3ur40406gizl1.cloudfront.net/web_site/images/v2/plates/4.png",
+        "https://www.mymetabolicmeals.com/wp-content/uploads/2021/07/MMWebsite_HomePage_MealWithCalloutBubbles_Updated07272021-1.png",
+        "https://www.leanonmeals.ca/wp-content/uploads/2018/06/chicken.png",
+        "https://res.cloudinary.com/diqfjkeck/image/upload/v1628736809/SFCC/Custom-meal-plan-M.png",
+        "https://cdn.shopify.com/s/files/1/0257/5207/6363/products/YourChoice.png"
+      ],
+      "definitions": [
+        "the food served and eaten at one time",
+        "any of the occasions for eating food that occur by custom or habit at more or less fixed times",
+        "coarsely ground foodstuff; especially seeds of various cereal grasses or pulse"
+      ]
+    },
+    {
+      "id": "supper",
+      "image_urls": [
+        "https://cdn3.iconfinder.com/data/icons/hotels-b-b-and-cabins-1/50/Hotels_BB_and_Cabins_Outline-73-512.png",
+        "https://cdn.fitoplus.com/media/catalog/product/cache/6/image/650x650/9df78eab33525d08d6e5fb8d27136e95/p/r/product-fish-supper.png",
+        "https://gust-production.s3.amazonaws.com/uploads/startup/panoramic_image/704893/supper_logo_rgb_bg_white.png",
+        "https://supper.london/assets/img/Supper-Bike-Icon.png",
+        "https://cdn3.iconfinder.com/data/icons/dishes-2-1/50/99-512.png"
+      ],
+      "definitions": [
+        "a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime",
+        "a social gathering where a light evening meal is served"
+      ]
+    },
+    {
+      "id": "soup",
+      "image_urls": [
+        "https://www.freeiconspng.com/thumbs/soup-png/khanbaba-soup-png-4.png",
+        "https://res.cloudinary.com/general-mills/image/upload/q_auto,f_auto/annies/wp-content/uploads/2019/11/Organic-Star-Pasta-and-Chicken-Soup.png",
+        "https://www.raos.com/wp-content/uploads/2020/10/Raos_Soup_ChickenNoodle_16oz_600x600.png",
+        "https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/heinzcouk/soup/product/images/Classic/Vegetable.png",
+        "https://vinceandjoes.com/wp-content/uploads/2020/04/CHICKEN_NOODLE_SOUP_shutterstock_1041988957_clipped_rev_1.png"
+      ],
+      "definitions": [
+        "liquid food especially of meat or fish or vegetable stock often containing pieces of solid food",
+        "any composition having a consistency suggestive of soup",
+        "an unfortunate situation"
+      ]
+    },
+    {
+      "id": "steak",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/BeefCutShortLoinTenderloin.svg/1200px-BeefCutShortLoinTenderloin.svg.png",
+        "https://www.mychicagosteak.com/steak-university/wp-content/uploads/2016/05/Degrees-of-Doneness-new.png",
+        "https://americaschoicesteakcompany.com/wp-content/uploads/2021/01/Fresh-Meat-Steak.png",
+        "https://www.nonamesteaks.com/wp-content/uploads/2015/06/NoName_3D_Large_Original_L1.png",
+        "https://i.pinimg.com/originals/26/0f/a0/260fa0a407dee2e83212b928a243a835.png"
+      ],
+      "definitions": [
+        "a slice of meat cut from the fleshy part of an animal or large fish"
+      ]
+    },
+    {
+      "id": "bacon",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/31/Made20bacon.png",
+        "https://www.levoni.it/ContentsFiles/levoni_salumi-affettati_1911-pancetta-affumicata_eng_zoom.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/1/16/Item_Bacon.png",
+        "https://www.perduefarms.com/dw/image/v2/BDQM_PRD/on/demandware.static/-/Sites-masterCatalog_perdue/default/dw2c5765e1/images/product-images/53789_Coleman_Pork_HickoryBacon_Package.png",
+        "https://dylzm7u8zqclv.cloudfront.net/2020/06/22/12/59/39/a7ae2210-0a5b-490e-9712-4b6c1b0916a5/Natural%20No%20Sugar%20Bacon_BACK.png"
+      ],
+      "definitions": [
+        "back and sides of a hog salted and dried or smoked; usually sliced thin and fried",
+        "English scientist and Franciscan monk who stressed the importance of experimentation; first showed that air is required for combustion and first used lenses to correct vision (1220-1292)",
+        "English statesman and philosopher; precursor of British empiricism; advocated inductive reasoning (1561-1626)"
+      ]
+    },
+    {
+      "id": "salad",
+      "image_urls": [
+        "https://www.enjoysalad.it/wp-content/uploads/2019/01/cesare_b.png",
+        "https://www.mcdonalds.it/sites/default/files/styles/compressed/public/products/_cover_isolated_insalata_pollo_grigliato.png",
+        "https://www.edojapan.com/wp-content/themes/edojapan/images/pages/salads/chicken-salad-ranch-lg.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/8/8f/Item_Satisfying_Salad.png",
+        "https://www.noodles.com/wp-content/uploads/2018/03/Med-Salad-OH-1050x700.png"
+      ],
+      "definitions": [
+        "food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens"
+      ]
+    },
+    {
+      "id": "sandwich",
+      "image_urls": [
+        "https://ingliando.files.wordpress.com/2017/03/sandwiches.png",
+        "https://backend.moratopane.com/wp-content/uploads/2020/10/morato-morbidi-sandiwch-sku-1.png",
+        "https://backend.moratopane.com/wp-content/uploads/2020/10/morato-morbidi-sandwich-fascia.png",
+        "https://www.grissitalia.it/wp-content/uploads/2021/02/American-Sandwich-Pane-Bianco-550g.png",
+        "https://nutrifree.it/wp-content/uploads/2019/06/American-sandwich-1.png"
+      ],
+      "definitions": [
+        "two (or more) slices of bread with a filling between them"
+      ]
+    },
+    {
+      "id": "bean",
+      "image_urls": [
+        "https://www.bushbeans.com/-/media/bushsbeans/salsifyimports/0003940001864_H1N1_R.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/haricot-blanc_95306314-e1475248941536.png",
+        "https://welcometogreenvalley.com/wp-content/uploads/2015/08/green-valley-red-kidney-beans-bowl-1069x1100.png",
+        "https://www.camelliabrand.com/static/wp-content/uploads/2020/07/1lb_508_red-kidneys.png",
+        "https://static.wikia.nocookie.net/surrealmemes/images/7/7d/Bean_Man_transparent.png"
+      ],
+      "definitions": [
+        "any of various edible seeds of plants of the family Leguminosae used for food",
+        "any of various seeds or fruits that are beans or resemble beans",
+        "any of various leguminous plants grown for their edible seeds and pods",
+        "informal terms for a human head"
+      ]
+    }
+  ]
+}

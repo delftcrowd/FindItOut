@@ -1,0 +1,115 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "mexico",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MEX_orthographic.svg/260px-MEX_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mexico_%28orthographic_projection%29.svg/266px-Mexico_%28orthographic_projection%29.svg.png",
+        "https://beachsoccer.com/wp-content/uploads/flags/mex.png",
+        "https://www.giz.de/static/en/media/Mexico_flag.png",
+        "https://www.hollandhousemexico.com/app/uploads/sites/16/2020/10/HHM20_Mexico-Macroeconomic.png"
+      ],
+      "definitions": [
+        "a republic in southern North America; became independent from Spain in 1810"
+      ]
+    },
+    {
+      "id": "america",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Latin_America_%28orthographic_projection%29.svg/1200px-Latin_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_North_America.svg/1200px-Location_North_America.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USA_orthographic.svg/220px-USA_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/1200px-South_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/United_States_on_the_globe_%28North_America_centered%29.svg/1200px-United_States_on_the_globe_%28North_America_centered%29.svg.png"
+      ],
+      "definitions": [
+        "North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776",
+        "North America and South America and Central America"
+      ]
+    },
+    {
+      "id": "marmoset",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/zt2downloadlibrary/images/f/f9/Pygmy_Marmoset_%28Ulquiorra%29.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/9/9e/Common_Marmoset.png",
+        "https://pixy.org/src/129/1299536.png",
+        "https://www.pettittsadventurepark.co.uk/wp-content/uploads/2020/07/marmoset-1.png",
+        "https://marmoset.cs.umd.edu/images/marmoset.png"
+      ],
+      "definitions": [
+        "small soft-furred South American and Central American monkey with claws instead of nails"
+      ]
+    },
+    {
+      "id": "france",
+      "image_urls": [
+        "https://www.canyonstore.eu/belgium/wp-content/uploads/2016/08/FranceFlag_svg_400x400.png",
+        "https://www.rabobank.com/en/images/frankrijk.png",
+        "https://www.epspermits.com/wp-content/uploads/2020/01/frankrijk.png",
+        "https://www.mio.com/nl_nl/shop/media/catalog/product/cache/53/image/500x500/9df78eab33525d08d6e5fb8d27136e95/f/r/france_1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kingdom_of_France_%281789%29.svg/250px-Kingdom_of_France_%281789%29.svg.png"
+      ],
+      "definitions": [
+        "a republic in western Europe; the largest country wholly in Europe",
+        "French writer of sophisticated novels and short stories (1844-1924)"
+      ]
+    },
+    {
+      "id": "mountains",
+      "image_urls": [
+        "https://mountainsflame.nl/wp-content/uploads/2019/10/Mountainsflame-logo.png",
+        "https://i.pinimg.com/originals/2a/00/84/2a0084395045a7613ab1efa7ee069fd5.png",
+        "https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/mountains-2766-14039-550x550.png",
+        "https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/website/uploaded/ks1-mount-taranaki-new-zealand-mountain-landscape-peak-colour-rgb-1583146682.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/high-mountain.png"
+      ],
+      "definitions": [
+        "a land mass that projects well above its surroundings; higher than a hill",
+        "(often followed by `of') a large number or amount or extent"
+      ]
+    },
+    {
+      "id": "colorado",
+      "image_urls": [
+        "https://oedit.colorado.gov/sites/coedit/files/styles/carousel_images/public/co-mountains-edited-sky-copy-1530x858.png",
+        "https://archives.colorado.gov/sites/archives/files/styles/large_thumbnail_450x450_/public/shutterstock_136762484-GreetingsPostcard.png",
+        "https://www.coloradocharlie.nl/wp-content/uploads/logo-colorado-charlie-paars.png",
+        "https://www.projectcanary.com/wp-content/uploads/2021/03/CSULogoOG.png",
+        "https://inv.assets.sincrod.com/ChromeColorMatch/us/TRANSPARENT_cc_2022CHT350007_01_1280_G9K.png"
+      ],
+      "definitions": [
+        "a state in west central United States in the Rocky Mountains",
+        "a river in Texas; flows southeast into the Gulf of Mexico",
+        "an important river in the southwestern United States; rises in the Rocky Mountains of northern Colorado and flows southwest through Utah into Arizona (where it flows through the Grand Canyon) and then southward through the southern tip of Nevada, then forming the border between California and Arizona and finally into Mexico where it empties into the Gulf of California; the main source of water in the southwestern United States"
+      ]
+    },
+    {
+      "id": "arizona",
+      "image_urls": [
+        "https://www.lekker-fris.nl/wp-content/uploads/2021/07/5-450x450.png",
+        "https://www.lekker-fris.nl/wp-content/uploads/2017/04/AZ-335x1024kopie-335x1024.png",
+        "https://www.lekker-fris.nl/wp-content/uploads/2017/04/KiwiStrawberry.png",
+        "https://www.mbgglobal.net/en/wp-content/uploads/sites/2/2019/03/AriZona_500x350_Portfolio.png",
+        "https://images.squarespace-cdn.com/content/v1/6049869c2901a02ddf00c94e/1617153982460-XRSDVJPSTGV0I4FRIJ3C/1.png"
+      ],
+      "definitions": [
+        "a state in southwestern United States; site of the Grand Canyon",
+        "glossy snake"
+      ]
+    },
+    {
+      "id": "texas",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Texas_flag_map.svg/1200px-Texas_flag_map.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag-map_of_Texas.svg/1200px-Flag-map_of_Texas.svg.png",
+        "https://schreiner.edu/wp-content/uploads/Departments/The-Texas-Center/The-Texas-Center-Logo-WebSU.png",
+        "https://poweringtexas.com/wp-content/uploads/2018/10/powering-texas-icon.png",
+        "https://is-birdcast-wordpress-prod-s3.s3.amazonaws.com/wp-content/uploads/Tim-Wallace-Light-with-control-for-population-TX-v1.png"
+      ],
+      "definitions": [
+        "the second largest state; located in southwestern United States on the Gulf of Mexico"
+      ]
+    }
+  ]
+}

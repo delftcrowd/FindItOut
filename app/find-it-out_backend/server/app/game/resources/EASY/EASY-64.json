@@ -1,0 +1,134 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "joy",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.joy-events.nl/wp-content/themes/outlaw/inc/assets/img/logo-joy.png",
+        "https://www.winkelhartroden.nl/wp-content/uploads/2019/01/Logo-Joy-mode.png"
+      ],
+      "definitions": [
+        "the emotion of great happiness",
+        "something or someone that provides a source of happiness"
+      ]
+    },
+    {
+      "id": "relaxation",
+      "image_urls": [
+        "https://www.iitb-bandhu.org/Content/article-images/relaxation-techniques/men1.png",
+        "https://www.savethechildren.org.uk/content/dam/usa/images/graphics/2-collage-sq.png",
+        "https://t2conline.com/wp-content/uploads/2019/06/yoga-2150140_1280.png",
+        "https://truenorthcompanies.com/webres/Image/blog/Relaxation-Techniques.png",
+        "https://cdn.shopify.com/s/files/1/0100/6082/products/day-in-big-sur-remastered-dvd_400x400.png"
+      ],
+      "definitions": [
+        "(physiology) the gradual lengthening of inactive muscle or muscle fibers",
+        "(physics) the exponential return of a system to equilibrium after a disturbance",
+        "a feeling of refreshing tranquility and an absence of tension or worry",
+        "an occurrence of control or strength weakening",
+        "freedom from activity (work or strain or responsibility)",
+        "a method of solving simultaneous equations by guessing a solution and then reducing the errors that result by successive approximations until all the errors are less than some specified amount",
+        "the act of making less strict"
+      ]
+    },
+    {
+      "id": "satisfaction",
+      "image_urls": [
+        "https://aircall.io/wp-content/uploads/2016/10/how-to-measure-customer-satisfaction-2-870x435.png",
+        "https://satisfactioncoffee.nl/wp-content/uploads/2020/02/Satistaction-cofee-den-haag-logo-wit.png",
+        "https://www.click2buy.com/wp-content/uploads/2021/06/satisfaction.png",
+        "https://resource.gsx.com/5-star-reviews-icon.png",
+        "https://cdn0.iconfinder.com/data/icons/customer-satisfaction-2/64/satisfaction-satisfied-emotion-customer-happy-512.png"
+      ],
+      "definitions": [
+        "the contentment one feels when one has fulfilled a desire, need, or expectation",
+        "state of being gratified or satisfied",
+        "compensation for a wrong",
+        "(law) the payment of a debt or fulfillment of an obligation",
+        "act of fulfilling a desire or need or appetite"
+      ]
+    },
+    {
+      "id": "pride",
+      "image_urls": [
+        "https://prideandsports.nl/wp-content/uploads/2020/07/Pride-and-Sports-1.png",
+        "https://uploads-ssl.webflow.com/583ac2b7b333a5214d325d90/583aec49b333a5214d32992b_Utrecht_Canal_Pride-2017.png",
+        "https://images.prismic.io/zwift-web/eeec8544-0a2f-47f0-a16c-f55b3db3e796_Pride_On_2020_Section_04_Pride_On_Thumb.png",
+        "https://www.mentoring.org/wp-content/uploads/2021/05/blm-pride-e1622053455291-1024x911.png",
+        "https://images.squarespace-cdn.com/content/v1/5eb2ed16b4e954188342b0f1/1593572137779-6KGJWGFTDABSB71QTUOO/Pride+Logo+Assets-04.png"
+      ],
+      "definitions": [
+        "a feeling of self-respect and personal worth",
+        "satisfaction with your (or another's) achievements",
+        "the trait of being spurred on by a dislike of falling below your standards",
+        "a group of lions",
+        "unreasonable and inordinate self-esteem (personified as one of the deadly sins)"
+      ]
+    },
+    {
+      "id": "fun",
+      "image_urls": [
+        "https://www.funexperts.nl/user/themes/funexperts/images/logo_nl.png",
+        "https://funcollectibles.com/wp-content/uploads/2020/06/Logo-Nieuw-C00.png",
+        "https://fun-thrills.nl/wp-content/uploads/2020/08/Alle-logos-1.png",
+        "https://freefun.com.au/assets/free-fun-logo-f311a713c434489bad3d0afa6e36b307a6b37ff742c47ee2d4222f5ae5850120.png",
+        "https://www.fitenfunplaza.nl/images/popup/logo-fit-en-fun-plaza.png"
+      ],
+      "definitions": [
+        "activities that are enjoyable or amusing",
+        "verbal wit or mockery (often at another's expense but not to be taken seriously)",
+        "violent and excited activity",
+        "a disposition to find (or make) causes for amusement"
+      ]
+    },
+    {
+      "id": "excitement",
+      "image_urls": [
+        "https://usercontent.one/wp/www.excitement.be/wp-content/uploads/2021/02/EXCITEMENT-LOGO-01-450x250.png",
+        "https://theworldatoz.files.wordpress.com/2018/03/excitement-meter.png",
+        "https://cdn1.iconfinder.com/data/icons/micellaneous-211-mix/168/exciting_wow_cheerful_excitement_expression_funny_happy_emoji_provocative_flashy_fervor-512.png",
+        "https://cdn1.iconfinder.com/data/icons/parents-day/49/46-512.png",
+        "https://amiteshdashome.files.wordpress.com/2019/01/pt5oexl8c.png"
+      ],
+      "definitions": [
+        "the feeling of lively and cheerful joy",
+        "the state of being emotionally aroused and worked up",
+        "something that agitates and arouses",
+        "disturbance usually in protest"
+      ]
+    },
+    {
+      "id": "talk",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c895209e8ba440aa8edd4c1/1579104701268-UHTS7ZP7PEQ1570R0O1F/TalkClub_LogoAW_Black.png",
+        "https://www.globaltalk.nl/wp-content/uploads/2020/05/GlobalTalk-logo_RGB.png",
+        "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2018-12/conversation-1262311_640.png",
+        "https://www.talkfinance.biz/wp-content/uploads/2020/02/Talk-Finance-Logo_No-Asterism.png",
+        "https://www.twistandtalk.com/wp-content/uploads/2020/04/methodology-twist-and-talk.png"
+      ],
+      "definitions": [
+        "an exchange of ideas via conversation",
+        "discussion; (`talk about' is a less formal alternative for `discussion of')",
+        "the act of giving a talk to an audience",
+        "a speech that is open to the public",
+        "idle gossip or rumor"
+      ]
+    },
+    {
+      "id": "regret",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2021/03/regret-18f79c6c9604fe8daa56a95e1564468758b1072f.png",
+        "https://j3m2c9i8.rocketcdn.me/wp-content/uploads/2018/03/Regret_60ml.png",
+        "https://images.squarespace-cdn.com/content/v1/54aec4c1e4b0212b1fb50923/1527196255794-5PTDB024S7XLATG68SN3/regrets+square.png",
+        "https://static.thenounproject.com/png/329880-200.png",
+        "https://static.thenounproject.com/png/1544755-200.png"
+      ],
+      "definitions": [
+        "sadness associated with some wrong done or some disappointment"
+      ]
+    }
+  ]
+}

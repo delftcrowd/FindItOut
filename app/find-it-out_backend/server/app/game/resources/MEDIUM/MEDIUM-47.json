@@ -1,0 +1,266 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://nvdpl.ca/sites/default/files/styles/slideshow/public/field/image/slideshow_images/Web_2020%20COVID-19_Get%20in%20touch_2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "magazines",
+      "image_urls": [
+        "https://images.studentendrukwerk.nl/sdw/nl/1f7319b097e4c/magazines/magazine-druk-480.png",
+        "https://www.izz.nl/sites/default/files/styles/dynamic_content_image/public/mainimage/De_zorg_4_magazines.png",
+        "https://www.grootsgedrukt.nl/sites/default/files/styles/vervolgpc_c2_right_side_bar/public/images/756-magazine.png",
+        "https://www.hoddereducation.co.uk/media/Images/magazines/Print%20Magazines%20Landing%20Page/Magazine-image.png",
+        "https://mcgraphics.pocketmags.com/pmimages/devices/digital-magazines.png"
+      ],
+      "definitions": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+        "product consisting of a paperback periodic publication as a physical object",
+        "a business firm that publishes magazines",
+        "a light-tight supply chamber holding the film and supplying it for exposure as required",
+        "a storehouse (as a compartment on a warship) where weapons and ammunition are stored",
+        "a metal frame or container holding cartridges; can be inserted into an automatic gun"
+      ]
+    },
+    {
+      "id": "doctor",
+      "image_urls": [
+        "https://photos.healthgrades.com/homeimages/find-a-doctor.png",
+        "https://www.doctorcare.ca/wp-content/uploads/2021/05/header-homepage-cropped.png",
+        "https://www.allwayshealthpartners.org/ALL/media/AllwaysMedia/New%20photography/Men/MD%20(with%20and%20without%20patients)/2019138_Allways_Day4_MaleDoctorWritingOnTablet_0439_Final.png",
+        "https://d33wubrfki0l68.cloudfront.net/313534c303c9e212a82bd28bde722fe3b884581e/b03e0/assets/images/banner_docx2.png",
+        "https://newassets.apollo247.com/doctors/b972ba8b-1138-4710-9676-33313b65c7a8.png"
+      ],
+      "definitions": [
+        "a licensed medical practitioner",
+        "(Roman Catholic Church) a title conferred on 33 saints who distinguished themselves through the orthodoxy of their theological teaching",
+        "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+        "a person who holds Ph.D. degree (or the equivalent) from an academic institution"
+      ]
+    },
+    {
+      "id": "rug",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1740/0017/products/RugProductImage1_2677dce8-3ec2-4b95-8604-cbd8ea0ffe2c_600x.png",
+        "https://cdn.shopify.com/s/files/1/0260/4695/5594/products/RugProductImage1_2677dce8-3ec2-4b95-8604-cbd8ea0ffe2c_1600x.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/t/o/to_v.rug_lg_red_plain_1base.png",
+        "https://images.selency.com/306f4a30-cf03-438b-b4b9-a5f711b6ac7a/beautiful-rug-rbati_original.png",
+        "https://hkliving.nl/media/39199/ttk3063-lr_d_01.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)"
+      ]
+    },
+    {
+      "id": "corner",
+      "image_urls": [
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/ORO1N1N1/logo_465x320.png",
+        "https://my.pocketmenu.nl/uploads/files/websites/the-corner-amsterdam/logo.png",
+        "https://static.takeaway.com/images/restaurants/nl/QO5N7PO/logo_465x320.png",
+        "https://static.takeaway.com/images/restaurants/nl/N7PQRRO/logo_465x320.png",
+        "https://www.woutmonseurs.nl/wp-content/uploads/2018/03/corner4.png"
+      ],
+      "definitions": [
+        "a place off to the side of an area",
+        "the point where two lines meet or intersect",
+        "an interior angle formed by two meeting walls",
+        "the intersection of two streets",
+        "the point where three areas or surfaces meet or intersect",
+        "a small concavity",
+        "a temporary monopoly on a kind of commercial trade",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a projecting part where two sides or edges meet",
+        "a remote area",
+        "(architecture) solid exterior angle of a building; especially one formed by a cornerstone"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "airport",
+      "image_urls": [
+        "https://s28477.pcdn.co/wp-content/uploads/2017/07/Schiphol_logo.svg_-1024x380.png",
+        "https://www.inform-software.com/fileadmin/user_upload/inform-world/INFORMWELT-Airport.png",
+        "https://naco.nl/smart-aviation/images/passenger.png",
+        "https://www.swarco.com/sites/default/files/public/airport800.png",
+        "https://uploads-ssl.webflow.com/5bc87d66e1f40410cb03fe2f/603805bfb4ce0884ec3deaae_forum%20icon.png"
+      ],
+      "definitions": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    },
+    {
+      "id": "friends",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Friends_logo.svg/2560px-Friends_logo.svg.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaSnyb5pkZsaZFiofQY5SKqS2MfRqfdFrrRtG4j0r0uduvDLpu7zly1mG2sMuYFv1aaNnBhEPJZlHhfygkL5vB4eUUVwnya8GP7q.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZYSVaz5tc-lsn1eixIbG2_uzJHCZtbJrDcM5NW3h7xwweCjw0XNh7xN18qaxkm7t5iR8PZ1JeRYyNZujtEgJYr5QVuV82itnnMh.png",
+        "https://i1.wp.com/cityoffriends.com/wp-content/uploads/sites/3/2019/12/logo-1.png",
+        "https://nuri.com/uploads/refer_a_friend_header_nuri_3d16d20ca2.png"
+      ],
+      "definitions": [
+        "a person you know well and regard with affection and trust",
+        "an associate who provides cooperation or assistance",
+        "a person with whom you are acquainted",
+        "a person who backs a politician or a team etc.",
+        "a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)"
+      ]
+    },
+    {
+      "id": "demonstration",
+      "image_urls": [
+        "https://eindhovennews.com/wp-content/uploads/2021/05/Protest-Crowds.png",
+        "https://cdn2.iconfinder.com/data/icons/university-tuition-and-college-1/140/Icons-01-512.png",
+        "https://cdn.dataworks-ed.com/wordpress-content/uploads/20200127152945/LessonDemonstration_02.png",
+        "https://cdn4.iconfinder.com/data/icons/miscellaneous-6-1/128/demo_exhibition_demonstration-512.png",
+        "https://static.thenounproject.com/png/1923465-200.png"
+      ],
+      "definitions": [
+        "a show or display; the act of presenting something to sight or view",
+        "a show of military force or preparedness",
+        "a public display of group feelings (usually of a political nature)",
+        "proof by a process of argument or a series of proposition proving an asserted conclusion",
+        "a visual presentation showing how something works"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "market",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/56e1627f8a65e25092e7dfae/1471463891105-TM5D0G79NKQNDD7GLJXR/image-asset.png",
+        "https://www.grandviewresearch.com/static/img/research/us-virtual-reality-market-size.png",
+        "https://cdn.shopify.com/s/files/1/0375/7149/3947/files/smartmarket-stempel1_60df79f3-8597-4628-85c0-0475683b5431_300x300.png",
+        "https://newzoo.com/wp-content/uploads/2017/04/esports-market-report-chart.png",
+        "https://gourmetmarket.nl/wp-content/uploads/2020/12/LogotilburgGM.png"
+      ],
+      "definitions": [
+        "the world of commercial activity where goods and services are bought and sold",
+        "the customers for a particular product or service",
+        "a marketplace where groceries are sold",
+        "the securities markets in the aggregate",
+        "an area in a town where a public mercantile establishment is set up"
+      ]
+    },
+    {
+      "id": "home",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go-home-2.svg/1200px-Go-home-2.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Home-icon.svg/2048px-Home-icon.svg.png",
+        "https://s3-eu-west-1.amazonaws.com/zkn/files/df172fd7066470da8c916409ba3f75c4.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABajVV54Z0yXvIDzrA3hPAm6UAxTjm9xPYG0NfkeRky2wjDbVDEmX-vKnRx00rWSvsAGCrsXy2UxenzhVYnVNGx3Bzs7FsErHOOq7.png",
+        "https://www.somfy.nl/common/img/library///700x350/15-smart-home.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "hallway",
+      "image_urls": [
+        "https://design-tips.floorplanner.com/wp-content/uploads/2021/02/95450991_project_1_first_floor_first_design_20210212093236.png",
+        "https://cdn0.iconfinder.com/data/icons/interior-furniture-volume-2/256/HALLWAY-512.png",
+        "https://hallway-strapijs-us-east-1-assets.s3.amazonaws.com/Hallway_Logo_Large_Transparent_Text_150c4bada5.png",
+        "https://images.squarespace-cdn.com/content/v1/5d45669751d1320001b1f5af/1606123859850-SKEAAHNT2UXKHI6YMWFE/image-asset.png",
+        "https://ourhousenowahome.com/wp-content/uploads/2016/02/hallway-transormation-collage.png"
+      ],
+      "definitions": [
+        "an interior passage or corridor onto which rooms open"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://www.microsinternetdiensten.nl/resources/uploads/2017/06/Office365.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    }
+  ]
+}

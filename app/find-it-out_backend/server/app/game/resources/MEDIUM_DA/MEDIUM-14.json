@@ -1,0 +1,240 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "microwave",
+      "image_urls": [
+        "https://www.electrolux.com.my/globalassets/appliances/mwo/my/ems3087x/ems3087x-front-700x700.png",
+        "https://www.beko.com/content/dam/brunei-bn-aem/brunei-bn-aemProductCatalog/product-images/8850413200-MGC20100S/8850413200-LO1-20190827-145124.png",
+        "https://www.ifbappliances.com/media/catalog/product/cache/a96f5e352a9941ad6b2c6bd82f558c4a/3/0/30frc2_30l_rotisserie_convection_microwave_fv_4.png",
+        "https://www.ipib.it/utenti/ipib_it/cache/_pics/0/0/5442_a7ffc3f6c4d9efbe32e6d52e77907ec3_t.png",
+        "https://www.ifbappliances.com/media/catalog/product/2/0/20sc2_20l_convection_microwave_fv_4.png"
+      ],
+      "definitions": [
+        "a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data",
+        "kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food"
+      ]
+    },
+    {
+      "id": "tray",
+      "image_urls": [
+        "https://sgdentalshop.com/wp-content/uploads/2020/05/Asiga-build-tray-Pro-4K.png",
+        "https://www.secretjardin.com/wp-content/uploads/2019/10/WATER-TRAY-1.png",
+        "https://res-3.cloudinary.com/christofle/s--qSKqKd8X--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/R/e/Rectangular_20tray_20_20Malmaison_20_20Silver_20plated_04200720000101_T_1.png",
+        "https://res-5.cloudinary.com/christofle/s---nnLPZJk--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/T/r/Tray_2020x16_20cm_20Graffiti_20_20Silver_20plated_04200416000001_STQP.png",
+        "https://cdn.shopify.com/s/files/1/3008/1030/products/virginia-boys-kitchens-serving-tray-20-x-15-inch-rectangular-walnut-wood-serving-and-coffee-table-tray-with-handles-made-in-usa-walnut-wood-11694691811364_900x.png"
+      ],
+      "definitions": [
+        "an open receptacle for holding or displaying or serving articles or food"
+      ]
+    },
+    {
+      "id": "stove",
+      "image_urls": [
+        "https://www.cadacinternational.com/media/catalog/product/cache/5d451a7c2706e3178632db9d96f08f78/2/0/202p0-10_2-cook_2_pro_stove_1__2.png",
+        "https://www.winningappliances.com.au/public/images/product/wfg617sa/external/Westinghouse-WFG617SA-Freestanding-Gas-Oven-Stove-Hero-standard.png",
+        "https://media.croma.com/image/upload/v1605329188/Croma%20Assets/Small%20Appliances/Stoves%20Cooktops/Images/8995748577310.png",
+        "https://5.imimg.com/data5/CS/CG/MY-910175/double-burner-lpg-stove-500x500.png",
+        "https://blackdragon.tech/fukuda/wp-content/uploads/2017/11/FES27C-front-white.png"
+      ],
+      "definitions": [
+        "a kitchen appliance used for cooking food",
+        "any heating apparatus"
+      ]
+    },
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/2241/original/bruin-bed-king-1-brosa-design.png",
+        "https://productimages.mybobs.com/20061773/20061773_hero_wide.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00220/56101515SD00220_01_500x500.png",
+        "https://essentialhome.eu/images/products/thumbnails/upholstery/minelli-bed-qv.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "freezer",
+      "image_urls": [
+        "https://desmark.com.ph/desmark/wp-content/uploads/2020/07/FUJ_CHESTFREEZER_FC-15-ADF-1.png",
+        "https://cdn-static-toshiba.midea.com/me/Toshiba-2.0-Product-Images---Feature-Images/Refrigerators/Chest-Freezer/37-CR-A295/CR-A295-1.png",
+        "https://www.eco-fridge.co.uk/wp-content/uploads/GLF150-trans.png",
+        "https://www.beko.com/content/dam/nigeria-ng-aem/nigeria-ng-aemProductCatalog/product-images/8141410003-BCF-1111-UK/BCF1111-Closed.png",
+        "https://www.beko.com/content/dam/brunei-bn-aem/brunei-bn-aemProductCatalog/product-images/7509420047-CF1100APW/7509420047-LO1-20170608-102415.png"
+      ],
+      "definitions": [
+        "electric refrigerator (trade name Deepfreeze) in which food is frozen and stored for long periods of time"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/p/1/p1050533_copy_1.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/p/i/piccola_credenza_antica_luigi_filippo_cappuccina_in_noce_dell_800.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/WC7-Gothic-Shelf-supplement-CMYK-e1548620297499.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/p/h/phpqkzqmn_copy.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_WFL-OFFCUB.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "toilet",
+      "image_urls": [
+        "https://images.zeald.com/ic/kohler/4176761578/KIMG_TLT_STS%20-%20Reach_BTW_5233A-0_ADJ_1000x1000.png",
+        "https://images.zeald.com/ic/englefieldau/1188523257/Milano_QC%20QR_Flat%20button_1000x1000.png",
+        "https://niagaracorp.com/wp-content/uploads/2016/10/original-df-elong-side.png",
+        "https://www.dometic.com/externalassets/dometic-300_9108765624_45343.png",
+        "https://www.americanstandard.ca/-/media/sites/asus/images/products/toilets/colony-het-elongated-12-inch-rough-in-128-gpf-toilet_221ca104/silo/221ca104020-colony-right-height-elongated-toilet.png"
+      ],
+      "definitions": [
+        "a room or building equipped with one or more toilets",
+        "a plumbing fixture for defecation and urination",
+        "misfortune resulting in lost effort or money",
+        "the act of dressing and preparing yourself"
+      ]
+    },
+    {
+      "id": "blender",
+      "image_urls": [
+        "https://services.electrolux-medialibrary.com/118ed4c0ee6546f4a7684c7fef8c985aNrZmYkM861d1f/view/WS_PN/PSEEBD200PS0001P.png",
+        "https://www.scarlett-europe.com/upload/resize_cache/iblock/721/1000_1500_1/SC_HB42F54_all.png",
+        "https://www.beko.com/content/dam/brunei-bn-aem/brunei-bn-aemProductCatalog/product-images/8834023200-TBN7802X-UK/8834023200-LO1-20190910-112216.png",
+        "https://rgv.it/389-product/cover-industrial-blender.png",
+        "https://cdn.shopify.com/s/files/1/0489/8376/9247/products/BEAST_B10---Black---Empty---PNG24---1000px-Inter_1000x.png"
+      ],
+      "definitions": [
+        "an electrically powered mixer with whirling blades that mix or chop or liquefy foods"
+      ]
+    },
+    {
+      "id": "toaster",
+      "image_urls": [
+        "https://www.waringcommercialproducts.com/files/products/wct702-waring-toaster-main_preview.png",
+        "https://www.scarlett-europe.com/upload/resize_cache/iblock/6f5/1000_1500_1/SC_TM11006_1.png",
+        "https://www.beko.com/content/dam/brunei-bn-aem/brunei-bn-aemProductCatalog/product-images/8836623200-TAM6201I/8836623200-LO1-20180226-111928.png",
+        "https://assets.products-live.ao.com/Images/e88ee2cb-94c8-4ec9-89c7-c43c4d0bca67/1280x1280/TAT7201GB_WH_01.png",
+        "https://www.beko.com/content/dam/brunei-bn-aem/brunei-bn-aemProductCatalog/product-images/8836613200-TAM4201B/8836613200-LO1-20180815-165656.png"
+      ],
+      "definitions": [
+        "someone who proposes a toast; someone who drinks to the health of success of someone or some venture",
+        "a kitchen appliance (usually electric) for toasting bread"
+      ]
+    },
+    {
+      "id": "kettle",
+      "image_urls": [
+        "https://www.scarlett-europe.com/upload/resize_cache/iblock/cfd/1000_1500_1/SC_EK21S80.png",
+        "https://www.beko.com/content/dam/brunei-bn-aem/brunei-bn-aemProductCatalog/product-images/8836583200-WKM4226B/8836583200-LO1-20180815-165018.png",
+        "https://www.electrolux.com.sg/globalassets/appliances/electric-kettles/eek3505-left-1500x1500.png",
+        "https://www.ifbappliances.com/media/catalog/product/cache/f6d60de4095a6e5204f81c04aa5b766f/d/i/digital_kettle_front_view_5.png",
+        "https://ecg-electro.eu/wp-content/uploads/2020/07/rk_2080_glass_1-230x300.png"
+      ],
+      "definitions": [
+        "a metal pot for stewing or boiling; usually has a lid",
+        "the quantity a kettle will hold",
+        "(geology) a hollow (typically filled by a lake) that results from the melting of a mass of ice trapped in glacial deposits",
+        "a large hemispherical brass or copper percussion instrument with a drumhead that can be tuned by adjusting the tension on it"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://www.esperiri.com/wp-content/uploads/prodotti/rim-aba-wal/rimadesio-abacus.png",
+        "https://www.esperiri.com/wp-content/uploads/prodotti/bof-ant-wal/boffi-walk-in-closet.png",
+        "https://www.esperiri.com/wp-content/uploads/prodotti/por-dre-wal/porro-dressing-room.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "dishwasher",
+      "image_urls": [
+        "https://assets.products-live.ao.com/Images/3b04f8b6-21ae-4ea4-a435-ee4ef70f3385/1280x1280/Bosch_SPS4HKW45G_WH_048.png",
+        "https://storage.beko.co.uk/blomberg2018products/large/Blomberg_Dishwasher_LDF42240W_White_AngledFullyOpen.png",
+        "https://www.ifbappliances.com/media/catalog/product/cache/a96f5e352a9941ad6b2c6bd82f558c4a/n/e/neptune_vx_12place_setting_dishwasher_fv_1.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/FDPC4221AS-HOV.png",
+        "https://www.maytag.com/content/maytagv2/en_us/kitchen/dishwashers-and-compactors/_jcr_content/root/main/responsivegrid/gridlayout/mainImg.img.png"
+      ],
+      "definitions": [
+        "a machine for washing dishes",
+        "someone who washes dishes"
+      ]
+    },
+    {
+      "id": "door",
+      "image_urls": [
+        "https://www.thedoorsdepot.com/product-logos/originals/188404_Trieste-Interio-Honey-oak-door.png",
+        "https://5.imimg.com/data5/TO/QB/NS/SELLER-23260062/polished-plywood-door-500x500.png",
+        "https://www.soundboxacoustic.com/wp-content/uploads/2019/08/g45m-acoustic-door.png",
+        "https://static.wixstatic.com/media/2cd43b_531fea2a0bdd4887bd04ff51f66d7991~mv2_d_1857_2791_s_2.png",
+        "https://www.formedoor.it/wp-content/uploads/2020/01/formedoor-pannelli-serie3000-modello-3.04-anteprima-1-300x300.png"
+      ],
+      "definitions": [
+        "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+        "the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close",
+        "anything providing a means of access (or escape)",
+        "a structure where people live or work (usually ordered along a street or road)",
+        "a room that is entered via a door"
+      ]
+    },
+    {
+      "id": "fridge",
+      "image_urls": [
+        "https://www.winningappliances.com.au/public/images/product/srf719dls/external/719L-Samsung-4-Door-Fridge-SRF719DLS-Hero-Image-standard.png",
+        "https://cdn11.bigcommerce.com/s-npke0f4fvr/images/stencil/1280x1280/products/4591/15946/WQE6060SB_Westinghouse_French_Door_Fridge__30906.1594105873.png",
+        "https://assets.products-live.ao.com/Images/41374523-f2f7-438e-a9a3-4363ad829bfc/1280x1280/rs50n3513sl_si_samsung_aff_03.png",
+        "https://masons.co.za/wp-content/uploads/2018/11/hisense-fridge-H630TI-WD.png",
+        "https://www.beko.com/content/dam/nigeria-ng-aem/nigeria-ng-aemProductCatalog/product-images/8141310020-BAC530-UK/BAC-530.png"
+      ],
+      "definitions": [
+        "a refrigerator in which the coolant is pumped around by an electric motor"
+      ]
+    },
+    {
+      "id": "sink",
+      "image_urls": [
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/2/PR11899BI11133_11128001_PREMIUM_1C_SZ1.png",
+        "https://www.schock.de/_Resources/Persistent/6ef1bf87a03691e692fc36b124322d0aee199a50/Inspiration-N-175Y-GNE-topview-1000x661.png",
+        "https://crownappliances.com.pk/wp-content/uploads/2021/01/CR-6045-min-1.png",
+        "https://www.mrdirectint.com/media/products/sink/2718/product/main.1000.png",
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/PR11617BI20811_10125004_BE_34_37_1B_SZ1.png"
+      ],
+      "definitions": [
+        "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe",
+        "(technology) a process that acts to absorb or remove energy or a substance from a system",
+        "a depression in the ground communicating with a subterranean passage (especially in limestone) and formed by solution or by collapse of a cavern roof",
+        "a covered cistern; waste water and sewage flow into it"
+      ]
+    },
+    {
+      "id": "oven",
+      "image_urls": [
+        "https://media3.bosch-home.com/Product_Shots/1600x900/MCSA02401843_HBJ558YS0T_BuiltInOven_Bosch_STP_EVO_def.png",
+        "https://www.steel-cucine.com/content/uploads/steel/2015/10/Genesi_60x90-sabbia.png",
+        "https://www.electrolux.com.sg/globalassets/appliances/oven/eot38mxc/eot38mxc--frontview-700x700.png",
+        "https://media.croma.com/image/upload/v1605166678/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/8937882648606.png",
+        "https://www.stimasrl.com/wp-content/uploads/2020/12/Forno-pizza-stima-vp1-768x444.png"
+      ],
+      "definitions": [
+        "kitchen appliance used for baking or roasting"
+      ]
+    }
+  ]
+}

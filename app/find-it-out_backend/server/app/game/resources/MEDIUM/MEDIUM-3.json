@@ -1,0 +1,245 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "speaker",
+      "image_urls": [
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3c54ef02/JBL_FlipEssential_Hero_005_x1.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/speakers/z607/gallery/z607-gallery-1.png",
+        "https://www.jbl.nl/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwdd875131/JBL_PartyBox_100_Hero_0057.png",
+        "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/bose_home_speaker_500/product_silo_images/bose_home_speaker_500_triple_black_EC_hero.psd/jcr:content/renditions/cq5dam.web.320.320.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/speakers/computer-speakers/z313/gallery/z313-gallery-1.png"
+      ],
+      "definitions": [
+        "someone who expresses in language; someone who talks (especially someone who delivers a public speech or someone especially garrulous)",
+        "electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance",
+        "the presiding officer of a deliberative assembly"
+      ]
+    },
+    {
+      "id": "basement",
+      "image_urls": [
+        "https://www.ussu.co.uk/events/PublishingImages/50762604_1050380401812311_3411702263645732864_n.png",
+        "https://www.albodeuren.nl/wp-content/uploads/2018/03/Basement_Modern.png",
+        "https://www.mybasementdoctor.com/wp-content/uploads/2019/11/bd-logo-1.png",
+        "https://www.finishedbasementsplus.com/wp-content/uploads/2019/09/FPB-Logo-1024x537.png",
+        "https://escaperoomthegame.com/images/nl-NL/basement-logo.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "the ground floor facade or interior in Renaissance architecture"
+      ]
+    },
+    {
+      "id": "program",
+      "image_urls": [
+        "https://www.theprojectgroup.com/blog/en/wp-content/uploads/sites/2/2020/03/1-4.png",
+        "https://d2k0ddhflgrk1i.cloudfront.net/TUDelft/Onderwijs/Opleidingen/Master/MSc_Design_for_Interaction/DfI%20Programme%20sep2019.png",
+        "https://programbuilder.edu.au/sites/default/files/2019-10/Full-Program_0%20%283%29.png",
+        "https://www.eduployment.nl/wp-content/uploads/2019/11/191114-Scheme-1-Certified-nurses-program-EN-1.png",
+        "https://www.delta-n.nl/wp-content/uploads/2019/11/DevOps-ProgramCycle5.png"
+      ],
+      "definitions": [
+        "a series of steps to be carried out or goals to be accomplished",
+        "a system of projects or services intended to meet a public need",
+        "a radio or television show",
+        "a document stating the aims and principles of a political party",
+        "an announcement of the events that will occur as part of a theatrical or sporting event",
+        "an integrated course of academic studies",
+        "(computer science) a sequence of instructions that a computer can interpret and execute",
+        "a performance (or series of performances) at a public presentation"
+      ]
+    },
+    {
+      "id": "computer",
+      "image_urls": [
+        "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1200px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gnome-computer.svg/1200px-Gnome-computer.svg.png",
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.072-pc.nl/wp-content/uploads/2015/11/computer-apkn.png",
+        "https://www.paradigit.nl/media/825734/computer-gaming-bto.png"
+      ],
+      "definitions": [
+        "a machine for performing calculations automatically",
+        "an expert at calculation (or at operating calculating machines)"
+      ]
+    },
+    {
+      "id": "elevator",
+      "image_urls": [
+        "https://www.nidec.com/-/media/www-nidec-com/technology/scenes/commercial/elevator/img/img_elevator_01en.png",
+        "https://www.zemiceurope.com/media/wysiwyg/casestudies/elevatorsystem/elevatorweighingcabin2.png",
+        "https://altrex.com/assets/cache/liftmachinekamerladder-zml-12_9191_700x840.png",
+        "https://www.toshiba-elevator.co.jp/elv/infoeng/common2020/img/products/doubledeck/p-01.png",
+        "https://www.toshiba-elevator.co.jp/elv/infoeng/common2020/img/technology/doubledeck/p-01.png"
+      ],
+      "definitions": [
+        "lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building",
+        "the airfoil on the tailplane of an aircraft that makes it ascend or descend"
+      ]
+    },
+    {
+      "id": "concert",
+      "image_urls": [
+        "https://weekendvanderomantischemuziek.nl/usr-uploads/images/2021/maanlicht-concert-logo-wit.png",
+        "https://eurovisioninconcert.nl/wordpress/wp-content/uploads/2021/02/logo_EIC_2022-wit2.png",
+        "https://cdn.mycreativeshop.com/images/templates/2966/music-concert-tri-fold-brochure-template-3361-trans-thumb.png",
+        "https://www.gervos.com/wp-content/uploads/CD-Ger-Vos-Live-in-Concert-2019.png",
+        "https://images.squarespace-cdn.com/content/v1/5f86ae7f6296dc3fbb849a80/1603114389845-HX2AT4I0DZLC56IQMZ2D/logo33.png"
+      ],
+      "definitions": [
+        "a performance of music by players or singers not involving theatrical staging"
+      ]
+    },
+    {
+      "id": "music",
+      "image_urls": [
+        "https://pbs.twimg.com/profile_images/1642161716/music_logo_400x400.png",
+        "https://lyfnaction.org/wp-content/uploads/2021/01/img-01.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Treble_a.svg/1200px-Treble_a.svg.png",
+        "https://music.apple.com/assets/logo/onboarding_appicon_fy2020-a73295f8bd8a992de61f052b44e84f49.png",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/DELUXE_MUSIC_Logo_2019.png"
+      ],
+      "definitions": [
+        "an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner",
+        "any agreeable (pleasing and harmonious) sounds",
+        "musical activity (singing or whistling etc.)",
+        "(music) the sounds produced by singers or musical instruments (or reproductions of such sounds)",
+        "punishment for one's actions"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "television",
+      "image_urls": [
+        "https://smart-cover.co.uk/wp-content/themes/Smart%20Cover/page-templates/images/tvcvr-right.png",
+        "https://ec.europa.eu/energy/sites/default/files/eepf_labels/assets/images/eepf_labels_tv_icon_big.png",
+        "https://images.selency.com/1858e1b1-30f3-4a73-8d3a-c424ec2f8fd0/continental-television-edifice-on-foot-tulip_original.png",
+        "https://images-fe.ssl-images-amazon.com/images/I/71a%2BGOb1izL.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/CN/QD/AL/76732024/android-television-500x500.png"
+      ],
+      "definitions": [
+        "broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs",
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "id": "microwave",
+      "image_urls": [
+        "https://www.electrolux.com.sg/globalassets/appliances/mwo/ems3087x-700x700-cropped.png",
+        "https://www.ifbappliances.com/media/catalog/product/2/0/20sc2_20l_convection_microwave_fv_4.png",
+        "https://www.voltasbeko.com/media/catalog/product/m/c/mc23bsd_1.png",
+        "https://www.winningappliances.com.au/public/images/product/sa34mx/external/Smeg-SA34MX-34L-Microwave-Oven-with-Grill-1000w-Hero-Image-standard.png",
+        "https://media.croma.com/image/upload/f_auto,q_auto,d_Croma%20Assets:no-product-image.jpg,h_260,w_260/v1605128699/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/8941290553374.png"
+      ],
+      "definitions": [
+        "a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data",
+        "kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food"
+      ]
+    },
+    {
+      "id": "opera",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+        "https://img.ashampoo.com/images/products/partner0115/boxshot.png"
+      ],
+      "definitions": [
+        "a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes",
+        "a commercial browser",
+        "a building where musical dramas are performed"
+      ]
+    },
+    {
+      "id": "electricity",
+      "image_urls": [
+        "https://energyeducation.ca/wiki/images/d/d9/Incandescent_Light_Bulb.png",
+        "https://www.coolkidfacts.com/wp-content/uploads/2015/09/electricity-facts.png",
+        "https://static-00.iconduck.com/assets.00/electricity-icon-358x512-ksv02jk5.png",
+        "https://static.wikia.nocookie.net/civilization/images/b/b4/Electricity_%28Civ6%29.png",
+        "https://images.hydroreview.com/wp-content/uploads/2020/12/power-towers-5807194_1280.png"
+      ],
+      "definitions": [
+        "a physical phenomenon associated with stationary or moving electrons and protons",
+        "energy made available by the flow of electric charge through a conductor",
+        "keen and shared excitement"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "silence",
+      "image_urls": [
+        "https://www.e-milers.com/media/image/0e/9e/94/logo-silence.png",
+        "https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABaQzf5nDA-niE3XpliPjrpJRLPbTeWvU3voX5noTbgqHckuBbc1V11b1YZfD8pY5JErvMNAZ3CH_4aBwzRgCo8-yJxnQezrrzG5o.png",
+        "https://www.silence.eco/wp-content/uploads/2020/05/s02-gris.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABf_Rr8o2lYr9l_1nur3cRQX5KmKmyF8zgD_7VRG52FijO30KHmszYDcjTUwtz71aQRwsWKosiggwtHXqjRJmsLUZXmCZfaychp7-R_cPPNLHfvsSSPmC4SLMxhTbaAm1-iOR6kBdeXyjZvN9bfFsQjSo1TcyvawVOmwRYGp-oYrnFw.png",
+        "https://www.silence.eco/wp-content/uploads/2020/05/s02-ls-empresas.png"
+      ],
+      "definitions": [
+        "the state of being silent (as when no one is speaking)",
+        "the absence of sound",
+        "a refusal to speak when expected",
+        "the trait of keeping things secret"
+      ]
+    },
+    {
+      "id": "lamp",
+      "image_urls": [
+        "https://res-2.cloudinary.com/m2-circa-lighting/image/upload/c_limit,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/s/p/sp3022habnp_10.png",
+        "https://www.lamp123.nl/data/upload/Shop/images/eglo-ledlamp-standaard-4w-11691-wwwlamp123nl.png",
+        "https://images.selency.com/bef91b39-9929-4a66-948c-3745cfe657d7/lamp-to-be-installed-in-alabaster_original.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Floorlamp/image-thumb__1835__height_500/paper-floor-lamp-big.png",
+        "https://www.ricebyrice.com/media/25590/lamp-tatrgo_2.png"
+      ],
+      "definitions": [
+        "an artificial source of visible illumination",
+        "a piece of furniture holding one or more electric light bulbs"
+      ]
+    },
+    {
+      "id": "theater",
+      "image_urls": [
+        "https://d2zr9w65gdacs9.cloudfront.net/34120/tr-logo-aubergine-rgb1496167546logo1570193843logo.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/afas-theater-afbeelding%20algemeen2.png",
+        "https://zirkzee.nl/wp-content/uploads/2020/01/logo_pstheater.png",
+        "https://theaterbabelrotterdam.nl/wp-content/uploads/2018/04/2731B29E-098E-4F9E-96C9-86C045740438@lonnewennekendonk.nl_-300x206.png",
+        "https://www.theaterwalhalla.nl/wp-content/uploads/2018/03/wal.png"
+      ],
+      "definitions": [
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "the art of writing and producing plays",
+        "a region in which active military operations are in progress"
+      ]
+    }
+  ]
+}

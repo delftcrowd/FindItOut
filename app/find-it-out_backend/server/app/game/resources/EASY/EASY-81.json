@@ -1,0 +1,120 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "burrow",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5540b78ce4b0792c8c744a64/1590413466891-79N1YX0TC7MUP9SGC350/HumanBurrow_012.png",
+        "https://static.wikia.nocookie.net/zt2downloadlibrary/images/7/79/Rabbit_Burrow_%28Ulquiorra%29.png",
+        "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1495156228/kjmcjzqnadcnrzk3kmcs.png",
+        "https://www.bopets.eu/wp-content/uploads/2020/07/p24468-hac-hacafph06086-afp-dig-it-tree-trunk-burrow-s-with-2-cute-toys-1.png",
+        "https://hyperledger.github.io/burrow/assets/burrow.png"
+      ],
+      "definitions": [
+        "a hole made by an animal, usually for shelter"
+      ]
+    },
+    {
+      "id": "underground",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Underground.svg/1200px-Underground.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Underground.svg/1260px-Underground.svg.png",
+        "https://brandslogos.com/wp-content/uploads/images/large/london-underground-logo-black-and-white-1.png",
+        "https://liquipedia.net/commons/images/7/7c/Salt_Mine_Underground.png",
+        "https://www.amsterdamunderground.org/sites/all/themes/au_theme/logo.png"
+      ],
+      "definitions": [
+        "a secret group organized to overthrow a government or occupation force",
+        "an electric railway operating below the surface of the ground (usually in a city)"
+      ]
+    },
+    {
+      "id": "fly",
+      "image_urls": [
+        "https://knoxpest.com/sites/default/files/styles/primary__800x400_/public/flies.png",
+        "https://www.phantasialand.de/files/uploads/themenpark/images/sommer/berlin/fly/ga-fly-logo-01.png",
+        "https://www.pctonline.com/fileuploads/publications/18/issues/103703/articles/images/AdobeStock_185442295_fmt.png",
+        "https://fly-cd.com/images/airplane-1.png",
+        "https://whyfiles.org/wp-content/uploads/2015/11/fruitfly_diagram.png"
+      ],
+      "definitions": [
+        "two-winged insects characterized by active flight",
+        "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent",
+        "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth",
+        "(baseball) a hit that flies up in the air",
+        "fisherman's lure consisting of a fishhook decorated to look like an insect"
+      ]
+    },
+    {
+      "id": "marmoset",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/zt2downloadlibrary/images/f/f9/Pygmy_Marmoset_%28Ulquiorra%29.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/9/9e/Common_Marmoset.png",
+        "https://pixy.org/src/129/1299536.png",
+        "https://www.pettittsadventurepark.co.uk/wp-content/uploads/2020/07/marmoset-1.png",
+        "https://marmoset.cs.umd.edu/images/marmoset.png"
+      ],
+      "definitions": [
+        "small soft-furred South American and Central American monkey with claws instead of nails"
+      ]
+    },
+    {
+      "id": "france",
+      "image_urls": [
+        "https://www.canyonstore.eu/belgium/wp-content/uploads/2016/08/FranceFlag_svg_400x400.png",
+        "https://www.rabobank.com/en/images/frankrijk.png",
+        "https://www.epspermits.com/wp-content/uploads/2020/01/frankrijk.png",
+        "https://www.mio.com/nl_nl/shop/media/catalog/product/cache/53/image/500x500/9df78eab33525d08d6e5fb8d27136e95/f/r/france_1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kingdom_of_France_%281789%29.svg/250px-Kingdom_of_France_%281789%29.svg.png"
+      ],
+      "definitions": [
+        "a republic in western Europe; the largest country wholly in Europe",
+        "French writer of sophisticated novels and short stories (1844-1924)"
+      ]
+    },
+    {
+      "id": "dictionary",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/I/61kzIB9vF0L.png",
+        "https://chambers.co.uk/wp-content/uploads/2016/09/Chambers-Dic-HB.png",
+        "https://img.alicdn.com/i3/2362617753/O1CN01Xz54J4278vI0ZVPxw_!!2362617753.png",
+        "https://chambers.co.uk/wp-content/uploads/2016/09/Chambers-CW-Dic-PB-202x300.png",
+        "https://www.udpglobal.com/sites/default/files/dictionary.png"
+      ],
+      "definitions": [
+        "a reference book containing an alphabetical list of words with information about them"
+      ]
+    },
+    {
+      "id": "colorado",
+      "image_urls": [
+        "https://oedit.colorado.gov/sites/coedit/files/styles/carousel_images/public/co-mountains-edited-sky-copy-1530x858.png",
+        "https://archives.colorado.gov/sites/archives/files/styles/large_thumbnail_450x450_/public/shutterstock_136762484-GreetingsPostcard.png",
+        "https://www.coloradocharlie.nl/wp-content/uploads/logo-colorado-charlie-paars.png",
+        "https://www.projectcanary.com/wp-content/uploads/2021/03/CSULogoOG.png",
+        "https://inv.assets.sincrod.com/ChromeColorMatch/us/TRANSPARENT_cc_2022CHT350007_01_1280_G9K.png"
+      ],
+      "definitions": [
+        "a state in west central United States in the Rocky Mountains",
+        "a river in Texas; flows southeast into the Gulf of Mexico",
+        "an important river in the southwestern United States; rises in the Rocky Mountains of northern Colorado and flows southwest through Utah into Arizona (where it flows through the Grand Canyon) and then southward through the southern tip of Nevada, then forming the border between California and Arizona and finally into Mexico where it empties into the Gulf of California; the main source of water in the southwestern United States"
+      ]
+    },
+    {
+      "id": "wilderness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/wilderness-a2c574200cd8ac2d3628c06b9e7c7f436681a98e.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQBHx96_Eps-PJq2a9Ej6LjiBuy_ySxuOy6IZW0h0O6QATmcMSNYkLEdI2e0Uk6k-mzRxP3qT4adKGzvH0Ks4KvquoNzzzq4c6H_N6mw8HLwFr3wMPVo-7qWRaz4WRxJLByRFLzC0O20h6DfQuXv6KOUvwgUgH75_4egMVR0dJYx-Q.png",
+        "https://www.mypigeonforge.com/wp-content/uploads/2018/01/Wilderness-Wildlife-Week-horizontal-logo.jpg15.png",
+        "https://www.spellenhuis.nl/media/catalog/product/cache/1/image/420x420/9df78eab33525d08d6e5fb8d27136e95/2/g/2gpkg5peeybgt5qm2rd267d6dmd7rhtm.png",
+        "https://wpresort.com/wp-content/uploads/2020/03/Wilderness-Presidential-Resort-Emblem-png8-500.png"
+      ],
+      "definitions": [
+        "(politics) a state of disfavor",
+        "a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War",
+        "a wild and uninhabited area left in its natural condition",
+        "a bewildering profusion"
+      ]
+    }
+  ]
+}

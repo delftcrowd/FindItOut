@@ -1,0 +1,141 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "machine",
+      "image_urls": [
+        "https://www.leadertw.com/images/index/index_03.png",
+        "https://www.lifefitness.nl/resource/blob/922892/caa2157a20aff85a077b5484d3ad792e/download-copy-data.png",
+        "https://uploads-ssl.webflow.com/5b3f717e2cf0be79e30a6626/5dd6915927f59870a754ec3c_bewerkingscenter.png",
+        "https://www.mushcomb.nl/files/head-filling-machine-premium/1-head-filling-machine-premium-medium.png",
+        "https://static.wikia.nocookie.net/phobia/images/3/34/CroyBilt-Mini-Pleating-Machine.png"
+      ],
+      "definitions": [
+        "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks",
+        "an efficient person",
+        "an intricate organization that accomplishes its goals efficiently",
+        "a device for overcoming resistance at one point by applying force at some other point",
+        "a group that controls the activities of a political party",
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine"
+      ]
+    },
+    {
+      "id": "barn",
+      "image_urls": [
+        "https://barnpros.com/wp-content/uploads/2020/02/BP_Home_Barns_O-575x0-c-default.png",
+        "https://www.restaurant-cadeaucard.nl/content/media/text/11640/original/56751.png",
+        "https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png",
+        "https://www.thebarnsporthealth.nl/wp-content/uploads/2019/06/personaltraining-badhoevedorp.nl-logo.png",
+        "https://static.wikia.nocookie.net/hayday/images/7/73/Barn_Broken.png"
+      ],
+      "definitions": [
+        "an outlying farm building for storing grain or animal feed and housing farm animals",
+        "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+      ]
+    },
+    {
+      "id": "party",
+      "image_urls": [
+        "https://www.party-time.nl/wp-content/uploads/2019/10/party2.png",
+        "https://www.meermediabereik.nl/wp-content/uploads/2015/09/Party-logo.png",
+        "https://the-party.nl/wp-content/uploads/2020/12/tponlineannouncement-539x303.png",
+        "https://the-party.nl/wp-content/uploads/2020/08/Duh-Events-The-Party-Logo.png",
+        "https://www.party-time.nl/wp-content/uploads/revslider/homeslider/homeslider_doos_met_bubble-min.png"
+      ],
+      "definitions": [
+        "an organization to gain political power",
+        "a group of people gathered together for pleasure",
+        "a band of people associated temporarily in some activity",
+        "an occasion on which people can assemble for social interaction and entertainment",
+        "a person involved in legal proceedings"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png",
+        "https://www.072-pc.nl/wp-content/uploads/2020/06/Microsoft-Office-365-072-PC.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    },
+    {
+      "id": "bar",
+      "image_urls": [
+        "https://www.cornelisrotterdam.nl/wp-content/uploads/2019/10/logo-cornelis-kitchen-bar-web-4.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw39b2c12a/JBL_Bar_2.0_All-In-One_Front_1605x1605.png",
+        "https://www.bardoamsterdam.nl/wp-content/uploads/2019/06/Logo-Bar-Do%CC%81.png",
+        "https://www.barbotanique.nl/images/logo-barbotanique-2020.png",
+        "https://www.barbrutal.nl/wp-content/uploads/2019/01/bar-brutal-site-logo.png"
+      ],
+      "definitions": [
+        "a room or establishment where alcoholic drinks are served over a counter",
+        "a counter where you can obtain food or drink",
+        "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+        "musical notation for a repeating pattern of musical beats",
+        "an obstruction (usually metal) placed at the top of a goal",
+        "the act of preventing",
+        "(meteorology) a unit of pressure equal to a million dynes per square centimeter",
+        "a submerged (or partly submerged) ridge in a river or along a shore",
+        "the body of individuals qualified to practice law in a particular jurisdiction",
+        "a narrow marking of a different color or texture from the background",
+        "a block of solid substance (such as soap or wax)",
+        "a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War",
+        "a horizontal rod that serves as a support for gymnasts as they perform exercises",
+        "a heating element in an electric fire",
+        "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried"
+      ]
+    },
+    {
+      "id": "museum",
+      "image_urls": [
+        "https://chabotmuseum.nl/wp-content/themes/chabotmuseum-18-11-2017/assets/img/logo.png",
+        "https://www.museumvanloon.nl/graphics/Museum_Van_Loon.png",
+        "https://www.amsterdammuseum.nl/sites/default/files/logo.png",
+        "https://www.diamondmuseum.com/wp-content/uploads/2018/01/home-imaage-8.png",
+        "https://www.dutchmuseums.com/img/mjkdef.png"
+      ],
+      "definitions": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value"
+      ]
+    },
+    {
+      "id": "telephone",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Black_telephone_icon_from_DejaVu_Sans.svg/2560px-Black_telephone_icon_from_DejaVu_Sans.svg.png",
+        "https://d1e00ek4ebabms.cloudfront.net/production/b18f700e-8b69-49c6-87e2-f9dae12578c5.png",
+        "https://blog.pitsco.com/hs-fs/hubfs/Blog%20Images/Telephone-Wireless-1366-0419.png",
+        "https://static-00.iconduck.com/assets.00/telephone-emoji-512x442-9q99uzi2.png",
+        "https://5.imimg.com/data5/QZ/XT/DO/SELLER-53553741/for-caller-id-landline-telephone-gf40-500x500.png"
+      ],
+      "definitions": [
+        "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+        "transmitting speech at a distance"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "light",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Light-wave.svg/360px-Light-wave.svg.png",
+        "https://lightinternational.nl/media/uploads/en/blocks/1/thumb/corvo_pendel_1.png",
+        "https://static.wixstatic.com/media/2cd43b_6ece8045e7ef489ab6417c465d8696a4~mv2.png",
+        "https://damadlichtstudio.nl/wp-content/uploads/2020/09/Moooi-Random-Light-ll-hanglamp-Medium-Wit.png",
+        "https://elho.xcdn.nl/RM1100,1100,C_OQ70/plant-light-care-8711904334413p1png/plant_light_care_8711904334413.p1.png"
+      ],
+      "definitions": [
+        "(physics) electromagnetic radiation that can produce a visual sensation",
+        "any device serving as a source of illumination",
+        "a particular perspective or aspect of a situation",
+        "the quality of being luminous; emitting or reflecting light",
+        "an illuminated area",
+        "a condition of spiritual awareness; divine illumination",
+        "the visual effect of illumination on objects or scenes as created in pictures",
+        "a person regarded very fondly",
+        "having abundant light or illumination",
+        "mental understanding as an enlightening experience",
+        "merriment expressed by a brightness or gleam or animation of countenance",
+        "public awareness",
+        "a divine presence believed by Quakers to enlighten and guide the soul",
+        "a visual warning signal",
+        "a device for lighting or igniting fuel or charges or fires"
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Love/Love%20Dining/image-thumb__29114__width_1200/Love-Dining-Natural-Wood-beige-no-background.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Nut/Nut%20Dining/image-thumb__30199__width_1200/Nut-Dining-Chair-Red-Brown-grey-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__width_1200/monster-chair-indigo-denim-with-arms.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "universe",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2016%2F06%2FObservable_universe_logarithmic_illustration.png",
+        "https://images.theconversation.com/files/301116/original/file-20191111-194633-1hal3qv.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/universe-27e98be8dcee446934a63f2e0ab8bba493692257.png"
+      ],
+      "definitions": [
+        "everything that exists anywhere",
+        "(statistics) the entire aggregation of items from which samples can be drawn",
+        "everything stated or assumed in a given discussion"
+      ]
+    },
+    {
+      "id": "hope",
+      "image_urls": [
+        "https://nl.hope-xxl.com/assets/images/logo.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUyHW2ognzgJ22zhiSMJCuHc_fE78vW0dPXAKX2pe484YZ0lHlIFXpJukDk7lD_j5uHy-V4v7QRIVCIz-wOhfpe7FPehRhpCO1qt.png",
+        "https://www.placesofhope.nl/site/templates/img/hope.png",
+        "https://www.newhope.nu/wp-content/uploads/2017/10/logo-New-Hope.png",
+        "https://media.swipepages.com/2021/3/hope-movement_logo_2020.png"
+      ],
+      "definitions": [
+        "a specific instance of feeling hopeful",
+        "the general feeling that some desire will be fulfilled",
+        "grounds for feeling hopeful about the future",
+        "someone (or something) on which expectations are centered",
+        "United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)",
+        "one of the three Christian virtues"
+      ]
+    },
+    {
+      "id": "sun",
+      "image_urls": [
+        "https://solarsystem.nasa.gov/system/basic_html_elements/11561_Sun.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/golden-tan-max-after-sun-lotion-125-ml.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/3614224838553_sun-beauty-body_sun-beauty-velvet-milk-spf30-75ml-tube.png",
+        "https://www.etos.nl/on/demandware.static/-/Sites-etos-master-catalog/default/dwe338e5f7/images/120093432/120093432_MCM_PACK_1136912.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw3e4e7ece/images/120395588/120395588_MCM_PACK_1040619.png"
+      ],
+      "definitions": [
+        "the star that is the source of light and heat for the planets in the solar system",
+        "the rays of the sun",
+        "a person considered as a source of warmth or energy or glory etc",
+        "any star around which a planetary system revolves",
+        "first day of the week; observed as a day of rest and worship by most Christians"
+      ]
+    },
+    {
+      "id": "attic",
+      "image_urls": [
+        "https://energycodeace.com/site/custom/public/reference-ace-2016/ImagesExt/image6738_15.png",
+        "https://hintzebelts.com/wp-content/uploads/2017/09/atticboardset.png",
+        "https://www.datocms-assets.com/38021/1617972282-attic-splash-570.png",
+        "https://www.stira.com/wp-content/uploads/2021/03/2png.png",
+        "https://d2zrc47ziwc8va.cloudfront.net/images/eas/Efficient-Attic-Solution.png"
+      ],
+      "definitions": [
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+        "informal terms for a human head",
+        "(architecture) a low wall at the top of the entablature; hides the roof"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    }
+  ]
+}

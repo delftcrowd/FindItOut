@@ -1,0 +1,251 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "wilderness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/wilderness-a2c574200cd8ac2d3628c06b9e7c7f436681a98e.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQBHx96_Eps-PJq2a9Ej6LjiBuy_ySxuOy6IZW0h0O6QATmcMSNYkLEdI2e0Uk6k-mzRxP3qT4adKGzvH0Ks4KvquoNzzzq4c6H_N6mw8HLwFr3wMPVo-7qWRaz4WRxJLByRFLzC0O20h6DfQuXv6KOUvwgUgH75_4egMVR0dJYx-Q.png",
+        "https://www.mypigeonforge.com/wp-content/uploads/2018/01/Wilderness-Wildlife-Week-horizontal-logo.jpg15.png",
+        "https://www.spellenhuis.nl/media/catalog/product/cache/1/image/420x420/9df78eab33525d08d6e5fb8d27136e95/2/g/2gpkg5peeybgt5qm2rd267d6dmd7rhtm.png",
+        "https://wpresort.com/wp-content/uploads/2020/03/Wilderness-Presidential-Resort-Emblem-png8-500.png"
+      ],
+      "definitions": [
+        "(politics) a state of disfavor",
+        "a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War",
+        "a wild and uninhabited area left in its natural condition",
+        "a bewildering profusion"
+      ]
+    },
+    {
+      "id": "commercial",
+      "image_urls": [
+        "https://vimeoblog.imgix.net/sites/7/2021/03/marketing-side-by-side.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/commercial-5aebad7948649cba2faceea6cfe2c0ad47be3631.png",
+        "https://www.if-tv.nl/wp-content/uploads/2021/04/image002-e1618584390257.png",
+        "https://i0.wp.com/spekkoperfilms.com/wp-content/uploads/2020/06/Filmen-commercial-site.png",
+        "https://www.vandoorne.com/globalassets/iconen/paars/vandoorne-iconen_mono-duo_fc_commercial-contracten-procedures-kopie-7.png"
+      ],
+      "definitions": [
+        "a commercially sponsored ad on radio or television"
+      ]
+    },
+    {
+      "id": "sloth",
+      "image_urls": [
+        "https://slothconservation.b-cdn.net/wp-content/uploads/2020/07/Sloth_SloCo-1.png",
+        "https://static-00.iconduck.com/assets.00/sloth-emoji-496x512-jo6zmnfa.png",
+        "https://blog.careerangels.eu/wp-content/uploads/2014/09/2RAZEM.png",
+        "https://www.aiunau.org/wp-content/uploads/2021/08/new-sloth-day-eng-1.png",
+        "https://www.zoo-rostock.de/files/bilder/tierseiten/faultier/faultier-zeichnung.png"
+      ],
+      "definitions": [
+        "a disinclination to work or exert yourself",
+        "any of several slow-moving arboreal mammals of South America and Central America; they hang from branches back downward and feed on leaves and fruits",
+        "apathy and inactivity in the practice of virtue (personified as one of the deadly sins)"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "magazine",
+      "image_urls": [
+        "https://www.editoo.nl/wp-content/uploads/2021/05/magazinemaken.png",
+        "https://www.chipfotomagazine.nl/app/uploads/sites/5/2018/06/chip-foto-magazine-1024x888.png",
+        "https://www.magezino.nl/wp-content/uploads/2020/08/magazine-maken.png",
+        "https://images.studentendrukwerk.nl/sdw/nl/1f7319b097e4c/magazines/magazine-druk-480.png",
+        "https://www.chapeaumagazine.com/wp-content/uploads/2020/04/magazineadverteren.png"
+      ],
+      "definitions": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+        "product consisting of a paperback periodic publication as a physical object",
+        "a business firm that publishes magazines",
+        "a light-tight supply chamber holding the film and supplying it for exposure as required",
+        "a storehouse (as a compartment on a warship) where weapons and ammunition are stored",
+        "a metal frame or container holding cartridges; can be inserted into an automatic gun"
+      ]
+    },
+    {
+      "id": "woods",
+      "image_urls": [
+        "https://woodsbrasserie.nl/wp-content/uploads/2020/01/Logo-2020-Woods-met-boom-klein.png",
+        "https://woodsprinsenbeek.nl/wp-content/uploads/2021/03/210310_WOODS_Logo-website.png",
+        "https://www.woodswonen.nl/wp-content/uploads/2021/04/woods-wonen.png",
+        "https://woodsprinsenbeek.nl/wp-content/uploads/2021/03/210310_WOODS_Logo-website_Footer-300x300.png",
+        "https://woodsbrasserie.nl/wp-content/uploads/2020/01/Logo-2020-Woods-met-boom-klein-300x192.png"
+      ],
+      "definitions": [
+        "the hard fibrous lignified substance under the bark of trees",
+        "the trees and other plants in a large densely wooded area",
+        "United States film actress (1938-1981)",
+        "English conductor (1869-1944)",
+        "English writer of novels about murders and thefts and forgeries (1814-1887)",
+        "United States painter noted for works based on life in the Midwest (1892-1942)",
+        "any wind instrument other than the brass instruments",
+        "a golf club with a long shaft used to hit long shots; originally made with a wooden head"
+      ]
+    },
+    {
+      "id": "encyclopedia",
+      "image_urls": [
+        "https://books.britannica.com/wp-content/uploads/2021/04/Encyclo-US_3D-Britannica-template-medium-1-1164x1536.png",
+        "https://worldchristianresearch.files.wordpress.com/2015/08/wce-2.png",
+        "https://www.worldbookonline.com/training/look-inside/assets/images/wbe-2022.png",
+        "https://getintopc.com/wp-content/uploads/2013/12/44-h_main-w.png",
+        "https://global-uploads.webflow.com/5de14733d41c9b578bb9bd65/5f55d0a6f06083a23a208064_ubam--encyclopedias-for-kids.png"
+      ],
+      "definitions": [
+        "a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty"
+      ]
+    },
+    {
+      "id": "cage",
+      "image_urls": [
+        "https://images.selency.com/6d90b6ec-55df-47d7-a74a-5ad8c788ce46/wood-and-metal-cage_original.png",
+        "https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12193.png",
+        "https://www.nihonsport.nl/wp-content/uploads/2020/08/FL-OCT1.png",
+        "https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12192.png",
+        "https://www.weverducre.com/pim/COSTA%202.1%20CAGE/image-thumb__442705__lightbox/COSTA-2.1-CAGE-BLACK.png"
+      ],
+      "definitions": [
+        "an enclosure made or wire or metal bars in which birds or animals can be kept",
+        "something that restricts freedom as a cage restricts movement",
+        "United States composer of avant-garde music (1912-1992)",
+        "the net that is the goal in ice hockey",
+        "a movable screen placed behind home base to catch balls during batting practice"
+      ]
+    },
+    {
+      "id": "forest",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5dc2252c8c1cfd4ef90243c4/1574549437077-OEJUJ1HBEIZCG91WL67V/title-art-forest.png",
+        "https://outdoor-forest.nl/wp-content/uploads/2019/12/outdoor-forest-logo-dark-xs.png",
+        "https://forforest.net/wp-content/uploads/2020/10/Logo-Men%C3%BC_Sticky-header-01.png",
+        "https://endnightgames.com/sites/default/files/images/games/forest-logo.png",
+        "https://www.forestsoftheworld.org/files/International.forestsoftheworld.org/Goals%20and%20strategies/2021-03-16%20FoW%20ToC%20illustrated.png"
+      ],
+      "definitions": [
+        "the trees and other plants in a large densely wooded area",
+        "land that is covered with trees and shrubs"
+      ]
+    },
+    {
+      "id": "lake",
+      "image_urls": [
+        "https://media.matoketours.nl/wordpress/large/Lake-Mutanda-2-b9b43473.png",
+        "https://austinot.com/wp-content/uploads/2021/07/Lake-LBJ.png",
+        "https://drawinghowtos.com/wp-content/uploads/2020/02/lake-07.png",
+        "https://berenkuil.com/wp-content/uploads/2017/10/vliegvisvijver.png",
+        "https://ivins.recdesk.com/RecDeskPortal/Portals/222/lake.png"
+      ],
+      "definitions": [
+        "a body of (usually fresh) water surrounded by land",
+        "a purplish red pigment prepared from lac or cochineal",
+        "any of numerous bright translucent organic pigments"
+      ]
+    },
+    {
+      "id": "dictionary",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/I/61kzIB9vF0L.png",
+        "https://chambers.co.uk/wp-content/uploads/2016/09/Chambers-Dic-HB.png",
+        "https://img.alicdn.com/i3/2362617753/O1CN01Xz54J4278vI0ZVPxw_!!2362617753.png",
+        "https://www.udpglobal.com/sites/default/files/dictionary.png",
+        "https://cdn.shopify.com/s/files/1/1353/9793/products/C011_300x300.png"
+      ],
+      "definitions": [
+        "a reference book containing an alphabetical list of words with information about them"
+      ]
+    },
+    {
+      "id": "stream",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Microsoft_Stream.svg/1200px-Microsoft_Stream.svg.png",
+        "https://www.elgato.com/themes/custom/smalcode/image/products/stream-deck-xl/hero-panel/stream-deck-xl.png",
+        "https://www.elgato.com/themes/custom/smalcode/image/products/stream-deck-mobile/hero-hand.png",
+        "https://docs.microsoft.com/nl-nl/stream/media/stream-classic-migration/apps-storage-extensions-self-stream-alone.png",
+        "https://www.elgato.com/sites/default/files/2019-05/stream-deck-xl-top-left.png"
+      ],
+      "definitions": [
+        "a natural body of running water flowing on or under the earth",
+        "dominant course (suggestive of running water) of successive events or ideas",
+        "the act of flowing or streaming; continuous progression",
+        "something that resembles a flowing stream in moving continuously",
+        "a steady flow of a fluid (usually from natural causes)"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://www.cityhotel.nl/wp-content/uploads/2019/02/City-Hotel-logo.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "universe",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2016%2F06%2FObservable_universe_logarithmic_illustration.png",
+        "https://images.theconversation.com/files/301116/original/file-20191111-194633-1hal3qv.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/scale-of-universe_v4bhso.png"
+      ],
+      "definitions": [
+        "everything that exists anywhere",
+        "(statistics) the entire aggregation of items from which samples can be drawn",
+        "everything stated or assumed in a given discussion"
+      ]
+    },
+    {
+      "id": "suburbs",
+      "image_urls": [
+        "https://ariespaans.nl/uploads/images/suburbs.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Inner.melbourne.suburbs.svg/400px-Inner.melbourne.suburbs.svg.png",
+        "https://i.redd.it/jnumakb2c3t51.png",
+        "https://m-tv.imgix.net/4843b8fc0a0622acf1ceb82916b5f6dbb4410079af60771f8909bbbc91f2c769.png",
+        "https://the-suburbs.co.uk/wp-content/uploads/2020/04/250418-Logo-CropTW2.png"
+      ],
+      "definitions": [
+        "a residential district located on the outskirts of a city"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "dishes",
+      "image_urls": [
+        "https://homesweethomeonline.nl/Files/10/191000/191105/ProductPhotos/MaxContent/1389600516.png",
+        "https://cdn.shopify.com/s/files/1/2245/7875/products/9a12da8e7415ddb037490fc89faa2024_fc207735-53fc-4a96-94e5-3aae2e0696c2_900x.png",
+        "https://www.meraki-onlineshop.nl/Files/10/277000/277941/ProductPhotos/MaxContent/1681265146.png",
+        "https://images.selency.com/1e19c5e9-8429-4d9e-b573-12f0927c87ec/pair-of-art-deco-dishes_original.png",
+        "https://static.wikia.nocookie.net/animalcrossing/images/9/9b/NH-Furniture-Golden_dishes.png"
+      ],
+      "definitions": [
+        "a piece of dishware normally used as a container for holding or serving food",
+        "a particular item of prepared food",
+        "the quantity that a dish will hold",
+        "a very attractive or seductive looking woman",
+        "directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation",
+        "an activity that you like or at which you are superior"
+      ]
+    },
+    {
+      "id": "drawer",
+      "image_urls": [
+        "https://www.godrejinterio.com/imagestore/B2C/56101516SD00018/56101516SD00018_01_500x500.png",
+        "https://www.directaviation.aero/IManager/Media/127991/1999111/EN/reg/aluflite-atlas-superlight-drawer.png",
+        "https://images.selency.com/c695ccb0-19fd-47ff-90c2-de53f4a890bc/english-drawer-dresser_original.png",
+        "https://www.decorist.com/static/finds/product_images/full_size/243098-alex-drawer-unit-white.e360c12997079c8f179f2e9426cb779d.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/02/CD6-shadow-edge-on-left.png"
+      ],
+      "definitions": [
+        "a boxlike container in a piece of furniture; made so as to slide in and out",
+        "the person who writes a check or draft instructing the drawee to pay someone else",
+        "an artist skilled at drawing"
+      ]
+    },
+    {
+      "id": "window",
+      "image_urls": [
+        "https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/blt2a0992f947b24569/5e5eb94fb6214773cb3d32bc/0_0.png",
+        "https://aw930cdnprdcd.azureedge.net/-/media/andersenwindows/images/help-me-choose/200-series-double-hung-interior.png",
+        "https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/bltfed8abbef9d24cf8/5e5eb67c0e9fc664291ccafe/0_0.png",
+        "https://www.truframe.co.uk/wp-content/uploads/2019/12/Casement_new.png",
+        "https://aw930cdnprdcd.azureedge.net/-/media/andersenwindows/images/ideas-and-inspiration/home-style-library/design-tool-intros/cape-cod-1.png"
+      ],
+      "definitions": [
+        "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air",
+        "a transparent opening in a vehicle that allow vision out of the sides or back; usually is capable of being opened",
+        "a transparent panel (as of an envelope) inserted in an otherwise opaque material",
+        "an opening that resembles a window in appearance or function",
+        "the time period that is considered best for starting or finishing something",
+        "a pane of glass in a window",
+        "an opening in a wall or screen that admits light and air and through which customers can be served",
+        "(computer science) a rectangular part of a computer screen that contains a display different from the rest of the screen"
+      ]
+    },
+    {
+      "id": "pantry",
+      "image_urls": [
+        "https://www.thepantry.nl/wordpress/wp-content/uploads/Restaurant-The-Pantry-Amsterdam-logo-400X150.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594809742327-8QUZ2V0P4WFNZ4DHKSDY/maison_haven_organizers_style_sheet_PANTRY-ZONES.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594891146867-RI1QTHHZR9747T6GKY3H/maison-haven-style-sheet-pantry-main+copy.png",
+        "https://i2.wp.com/www.thedesignconfidential.com/wp-content/uploads/final_20.png",
+        "https://www.mwtoolboxqld.com.au/wp-content/uploads/2021/08/MW-Canopy-Pantry-Main.png"
+      ],
+      "definitions": [
+        "a small storeroom for storing foods or wines"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "books",
+      "image_urls": [
+        "https://hollandbooks.nl/wp-content/uploads/2018/01/books.png",
+        "https://londonbooks.eu/wp-content/uploads/2021/03/VintageStudy-GNTAUS-768x667.png",
+        "https://bulkbooks.com/assets/spree/frontend/parallax/home-p-back-d632f485ae844ad12f0e0d6b87f052e644e41b4b7f47f0e400095e19323a2645.png",
+        "https://www.spl.org/Seattle-Public-Library/images/icons/online-resources/icons_115x115_1-18_books-reading.png",
+        "https://emojipedia-us.s3.amazonaws.com/source/skype/289/books_1f4da.png"
+      ],
+      "definitions": [
+        "a written work or composition that has been published (printed on pages bound together)",
+        "physical objects consisting of a number of pages bound together",
+        "a compilation of the known facts regarding something or someone",
+        "a written version of a play or other dramatic composition; used in preparing for a performance",
+        "a record in which commercial accounts are recorded",
+        "a collection of playing cards satisfying the rules of a card game",
+        "a collection of rules or prescribed standards on the basis of which decisions are made",
+        "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+        "the sacred writings of the Christian religions",
+        "a major division of a long written composition",
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "id": "backpack",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/John-Backpack-Midi-Black-Back_1024x1024.png",
+        "https://www.nixon.com/on/demandware.static/-/Sites-masterCatalog_Nixon/default/dwa17349ad/products/C3025-000-view1.png",
+        "https://image01.oneplus.net/ebp/202012/22/1-m00-1e-ac-rb8bwl_hxzaaqkeraaratr4jfa8896.png",
+        "https://static.nike.com/a/images/t_default/bf773f53-e74f-4248-89cc-1f4d0992acae/sb-rpm-skate-backpack-nmcTDs.png",
+        "https://www.barts.eu/img/240/427/resize/3/7/3779_mountain-backpack_13_1.png"
+      ],
+      "definitions": [
+        "a bag carried by a strap on your back or shoulder"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "sink",
+      "image_urls": [
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/2/PR11899BI11133_11128001_PREMIUM_1C_SZ1.png",
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/PR11617BI20811_10125004_BE_34_37_1B_SZ1.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpr02254_tif.png",
+        "https://crownappliances.com.pk/wp-content/uploads/2021/01/CR-6045-min-1.png",
+        "https://www.dometic.com/externalassets/dometic-va8000-series-sink_37458.png"
+      ],
+      "definitions": [
+        "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe",
+        "(technology) a process that acts to absorb or remove energy or a substance from a system",
+        "a depression in the ground communicating with a subterranean passage (especially in limestone) and formed by solution or by collapse of a cavern roof",
+        "a covered cistern; waste water and sewage flow into it"
+      ]
+    },
+    {
+      "id": "glass",
+      "image_urls": [
+        "https://www.rijksmuseumshop.nl/media/image/62/b3/91/12118_f.png",
+        "https://anna-nina.imgix.net/spree/products/14506/huge/Wine_Glass_Cobalt_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/14497/huge/Bubble_Water_Glass_Sea_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/14505/huge/Wine_Glass_Sea_Blue_edited.png",
+        "https://catalog.depa.eu/static/uploads/pictures/large/DEPA_150331.png"
+      ],
+      "definitions": [
+        "a brittle transparent solid with irregular atomic structure",
+        "a container made of glass for holding liquids while drinking",
+        "the quantity a glass will hold",
+        "a small refracting telescope",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant",
+        "a mirror; usually a ladies' dressing mirror",
+        "glassware collectively"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "dishwasher",
+      "image_urls": [
+        "https://assets.products-live.ao.com/Images/8738d376-ca9c-4df7-b51c-85badbdbe1c1/1280x1280/16609815_SMS6EDI02G_STP_def_0.png",
+        "https://storage.beko.co.uk/blomberg2018products/large/Blomberg_Dishwasher_LDF42240W_White_AngledFullyOpen.png",
+        "https://images.ctfassets.net/gtq5kcq8pjem/V7YqbiJJ568Ypi3iaQoCl/870669f515e86106963d5a55409b3d3d/Dishwasher-Nieuw-Image_1.png",
+        "https://assets.products-live.ao.com/Images/6deec93c-9ba2-4451-ae4e-a434876ba7ae/1280x1280/HV520E40UK_BK_hisense_dishwasher_01a.png",
+        "https://www.voltasbeko.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/7/6/7611009177_df14s3.png"
+      ],
+      "definitions": [
+        "a machine for washing dishes",
+        "someone who washes dishes"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c2d1217b40b9d0b0efaa79a/1560190011772-WGBWIOCBI971QK8HXCPD/BespokeDesign-FloorGuys.png",
+        "https://www.plugwise.com/wp-content/uploads/2020/11/Floor-1100@2x.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://www.kinderboeken.nl/wp-content/uploads/sites/52/2020/07/De-regels-van-Floor-Marjon-Hoffman-Nancy-Koot.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    }
+  ]
+}

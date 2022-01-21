@@ -1,0 +1,121 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "entertainment",
+      "image_urls": [
+        "https://www.wwentertainment.nl/img/wwentertainment-logo.png",
+        "https://viaportrotterdam.com/wp-content/uploads/2020/03/Via-Entertainment-logo.png",
+        "https://www.entertainmentholding.nl/wp-content/uploads/2019/10/entertainment-holding-logo-1024-witruimte.png",
+        "https://www.stipentertainment.nl/Portals/_default/Skins/Customer/img/stip-entertainment-logo.png",
+        "https://diamond-entertainment.nl/wp-content/uploads/2019/07/logo.png"
+      ],
+      "definitions": [
+        "an activity that is diverting and that holds the attention"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://www.town.nl/parkned.png",
+        "https://www.tokofthetown.com/wp-content/uploads/2019/06/TOK-OF-THE-TOWN_Tekengebied-1.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    },
+    {
+      "id": "motel",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Motel_One_logo.svg/1200px-Motel_One_logo.svg.png",
+        "https://www.postvillepinesmotel.com/wp-content/uploads/2020/01/header-logo.png",
+        "https://static.wikia.nocookie.net/simpsonstappedout/images/a/ae/Cartoon_Motel.png",
+        "https://cdn-icons-png.flaticon.com/512/831/831460.png",
+        "https://static.wikia.nocookie.net/simpsonstappedout/images/5/54/Sleep-Eazy_Motel.png"
+      ],
+      "definitions": [
+        "a motor hotel"
+      ]
+    },
+    {
+      "id": "train",
+      "image_urls": [
+        "https://www.skeletontech.com/hs-fs/hubfs/trains.png",
+        "https://dinnertrain.eu/wp-content/uploads/2019/01/Logo-Klein.png",
+        "https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/8/86/Electric_Locomotive.png",
+        "https://cdn-icons-png.flaticon.com/512/2767/2767400.png",
+        "https://media-cdn.dovetailgames.com/2021/082021/08/TSW2-RH-DTL-Assets3.png"
+      ],
+      "definitions": [
+        "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+        "a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding",
+        "a procession (of wagons or mules or camels) traveling together in single file",
+        "a series of consequences wrought by an event",
+        "piece of cloth forming the long back section of a gown that is drawn along the floor",
+        "wheelwork consisting of a connected set of rotating gears by which force is transmitted or motion or torque is changed"
+      ]
+    },
+    {
+      "id": "hotel",
+      "image_urls": [
+        "https://media.hrs.com/media/image/01/99/b7/hotel-dummy.png",
+        "https://www.thejames.nl/images/logo-the-james-gold.png",
+        "https://www.wijck.com/upload/producten/1024x1024/hotel-new-york-lijst15009154163.png",
+        "https://www.hotelfreeland.com/images/logo-hotel-freeland-full-white.png",
+        "https://www.thebudgethotel.nl/wp-content/uploads/2021/04/the-budget-hotel-diap-def.png"
+      ],
+      "definitions": [
+        "a building where travelers can pay for lodging and meals and other services"
+      ]
+    },
+    {
+      "id": "wedding",
+      "image_urls": [
+        "https://whatawonderfulwedding.nl/wp-content/uploads/2020/03/what-a-wonderful-wedding.png",
+        "https://www.jimdo.com/static/c4e8e6e4d1dbcbfde85d54227dd9685f/21dd8/picture.png",
+        "https://cdn.chowsangsang.com/eshop/hk/newweb/collection/2021/wedding/kv01_mobile.png",
+        "https://static.showit.co/1200/DmdiN1rsRoGPZE8inKX5ZQ/122969/honeybee_weddings_winter_wedding-100.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABactul89A47zMsHq8nvh7vTPNIKnRRSUC5QYJ6VJ25f-JSHPySxx8qz7dzUXlmj1BpRrGwWfCAM2Er7kK-dz8Z-5eu5Kfh5Arua5.png"
+      ],
+      "definitions": [
+        "the social event at which the ceremony of marriage is performed",
+        "the act of marrying; the nuptial ceremony",
+        "a party of people at a wedding"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/nPT3vS4AklWXg39tTeiah/a110333e41cfb94c85f8de782a45ccf0/retailrepositioning-e6ed62bb181d46b19c0e770fcdd73be8-800-800.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "farm",
+      "image_urls": [
+        "https://www.peoplesfarm.nl/img/custom/logo@2x.png",
+        "https://e-farm.com/media/image/09/55/a6/e-farm_logo_RGB_web.png",
+        "https://farmsoil.xyz/images/farm.png",
+        "https://www.northseafarmers.org/public/infographic-and-logos/image-thumb__1697__news-item_auto_f3bfcd6f1971ea6dfc0bef64e3322b8a/Graphic-seaweed-farm-in-wind-park.png",
+        "https://voormijndier.nl/media/catalog/product/cache/d072b27be797d16006e9907ad518b616/8/7/8714857101545_1.png"
+      ],
+      "definitions": [
+        "workplace consisting of farm buildings and cultivated land as a unit"
+      ]
+    }
+  ]
+}

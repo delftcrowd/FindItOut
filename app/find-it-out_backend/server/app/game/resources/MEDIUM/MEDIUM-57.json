@@ -1,0 +1,263 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "airplane",
+      "image_urls": [
+        "https://cdn2.iconfinder.com/data/icons/user-interface-180/128/User-Interface-172-512.png",
+        "https://www.rawshorts.com/freeicons/wp-content/uploads/2017/01/Travel-pict-airplane.png",
+        "https://lezebre.lu/images/detailed/13/avion-deco-2.png",
+        "https://www.utf8icons.com/character_image/9992-airplane.png",
+        "https://static.wikia.nocookie.net/sqmegapolis/images/6/6a/Passenger_Airplane_Construction.png"
+      ],
+      "definitions": [
+        "an aircraft that has a fixed wing and is powered by propellers or jets"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "detroit",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5a2ecc84f43b551b2900229b/1533219236536-U3HORI8PNI47EUBB9MC1/pd-logo-new-mack-house-v6-simple-green.png",
+        "https://www.urbanista.com/media/catalog/product/cache/6c07725d11cf11164242a71cef72688e/3/1/31927_1_1.png",
+        "https://c9669.cloudnet.cloud/media/wysiwyg/URBANISTA/product_blocks/D-Detroit_Detail_High.png",
+        "https://images.squarespace-cdn.com/content/v1/587e242ad1758eda63647b14/1554839259824-KTDQJSSCXCPP2KIK4QF7/Logo-Greening-30Years-Color.png",
+        "https://detroitfuturecity.com/wp-content/themes/DFC/images/Detroit-Future-City_black.png"
+      ],
+      "definitions": [
+        "the largest city in Michigan and a major Great Lakes port; center of the United States automobile industry; located in southeastern Michigan on the Detroit river across from Windsor"
+      ]
+    },
+    {
+      "id": "human",
+      "image_urls": [
+        "https://itis.swiss/assets/images/Virtual-Population/_resampled/ResizedImageWzYwMCwzNzdd/vip-overview-final-s2.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201_Elements_of_the_Human_Body.02.svg/300px-201_Elements_of_the_Human_Body.02.svg.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://innerbody.imgix.net/SK-Female-Anterior_1.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "heaven",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2545/2545674.png",
+        "https://static.wikia.nocookie.net/gods_and_demons/images/f/f9/Heaven.png",
+        "https://img1.picmix.com/output/stamp/normal/3/8/3/8/1298383_1a2e1.png",
+        "https://images.squarespace-cdn.com/content/v1/5db729e666d5206f322b3c21/1572900991692-U06JUG0RPI0NC63NDJJJ/Webp.net-resizeimage.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/heaven.png"
+      ],
+      "definitions": [
+        "any place of complete bliss and delight and peace",
+        "the abode of God and the angels"
+      ]
+    },
+    {
+      "id": "airport",
+      "image_urls": [
+        "https://s28477.pcdn.co/wp-content/uploads/2017/07/Schiphol_logo.svg_-1024x380.png",
+        "https://www.inform-software.com/fileadmin/user_upload/inform-world/INFORMWELT-Airport.png",
+        "https://naco.nl/smart-aviation/images/passenger.png",
+        "https://www.swarco.com/sites/default/files/public/airport800.png",
+        "https://uploads-ssl.webflow.com/5bc87d66e1f40410cb03fe2f/603805bfb4ce0884ec3deaae_forum%20icon.png"
+      ],
+      "definitions": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    },
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/2241/original/bruin-bed-king-1-brosa-design.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "birds",
+      "image_urls": [
+        "https://www.lynxeds.com/wp-content/uploads/2020/06/All_the_Birds_of_the_World_cover_transp.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Birdmorphology.svg/300px-Birdmorphology.svg.png",
+        "https://www.allaboutbirds.org/guide/images/shape/icon-blackbirds.png",
+        "https://www.birdingplaces.eu/images/bird_placeholder.png",
+        "https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/4/45/Non_Flying_Bird.png"
+      ],
+      "definitions": [
+        "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+        "the flesh of a bird or fowl (wild or domestic) used as food",
+        "informal terms for a (young) woman",
+        "a cry or noise made to express displeasure or contempt",
+        "badminton equipment consisting of a ball of cork or rubber with a crown of feathers"
+      ]
+    },
+    {
+      "id": "couch",
+      "image_urls": [
+        "https://d2ftqzf4nsbvwq.cloudfront.net/wp-content/uploads/www.slaapbanken.nl/2021/04/Slaapbank-Fiona-3.png",
+        "https://www.royaldesign.nl/wp-content/uploads/2019/05/bryck-bank-zitzak-3.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/TheSofaThreeSeater-Birch_Default_Post_1200x.png",
+        "https://productimages.mybobs.com/20066733014/20066733014_hero_wide.png",
+        "https://5starfurniture.co.za/wp-content/uploads/2021/02/lola.png"
+      ],
+      "definitions": [
+        "an upholstered seat for more than one person",
+        "a flat coat of paint or varnish used by artists as a primer",
+        "a narrow bed on which a patient lies during psychiatric or psychoanalytic treatment"
+      ]
+    },
+    {
+      "id": "doorway",
+      "image_urls": [
+        "https://www.doorwaycommunity.org/images/open%20doortransx2388x760.png",
+        "https://cdn1.iconfinder.com/data/icons/architecture-24/512/door-entrance-architecture-doorway-home-512.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/70457/doorway-clipart-xl.png",
+        "https://lhp-public-images.s3.amazonaws.com/sso/owtzllboSTxfkfLeZmUD8qNfUMxV0V7OOzG6mvHk.png",
+        "https://cdn1.iconfinder.com/data/icons/burglar-robber-plunderer/500/asp230_19_security_door_doorway_entrance_exit_gate_entry-512.png"
+      ],
+      "definitions": [
+        "the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close"
+      ]
+    },
+    {
+      "id": "castle",
+      "image_urls": [
+        "https://www.wrebbit3dpuzzle.com/wp-content/uploads/2020/05/Camelot.png",
+        "https://castle-experience.com/wp-content/uploads/2019/01/cropped-castle-experience-kasteel-te-huur-1.png",
+        "https://castlequiz.mobi/static/images/local/castle-with-clouds/castle-with-clouds.png",
+        "https://www.wrebbit3dpuzzle.com/wp-content/uploads/2020/05/Neuschwanstein.png",
+        "https://static.wikia.nocookie.net/forgeofempires/images/4/43/Castle_System_Lvl_15.png"
+      ],
+      "definitions": [
+        "a large and stately mansion",
+        "a large building formerly occupied by a ruler and fortified against attack",
+        "(chess) the piece that can move any number of unoccupied squares in a direction parallel to the sides of the chessboard",
+        "interchanging the positions of the king and a rook"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "homes",
+      "image_urls": [
+        "https://www.baerz.com/thumb/m/images/logo-top.png",
+        "https://www.kanvihomes.com/hs-fs/hubfs/edmonton-home-builder-kanvi-homes-building-infill-homes-in-mature-communties-1.png",
+        "https://legendhomeshouston.com/sites/default/files/home_header/camellia-home4.png",
+        "https://unitedhomes.eu/wp-content/uploads/2016/03/logo_UH.png",
+        "https://www.cozyhomes.nl/content/cms_image/757-Logo_Cozy-Homes.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "home",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go-home-2.svg/1200px-Go-home-2.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Home-icon.svg/2048px-Home-icon.svg.png",
+        "https://s3-eu-west-1.amazonaws.com/zkn/files/df172fd7066470da8c916409ba3f75c4.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABajVV54Z0yXvIDzrA3hPAm6UAxTjm9xPYG0NfkeRky2wjDbVDEmX-vKnRx00rWSvsAGCrsXy2UxenzhVYnVNGx3Bzs7FsErHOOq7.png",
+        "https://www.somfy.nl/common/img/library///700x350/15-smart-home.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "skyscraper",
+      "image_urls": [
+        "https://i.pinimg.com/originals/4e/42/44/4e42443bc52ba12695863f0a751f0a23.png",
+        "https://static.wikia.nocookie.net/sqmegapolis/images/d/d9/Skyscraper_Ship_L3.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTuQnfmQ1AxworWsWT_mKRF4K5mTAd5XcTPtC9BAtxAWW2maq_AouJXQktqX6xqcvadwPwdsDYXCldcP0GC5F_X8ctW_JNA6YDT-.png",
+        "https://brickitecture.eu/____impro/1/images/skyscraper-collection/petronas-towers/Box-Skyscraper-Collection-Petronas-Towers.png",
+        "https://www.freeiconspng.com/thumbs/skyscraper-icon/skyscraper-icon-png-4.png"
+      ],
+      "definitions": [
+        "a very tall building with many stories"
+      ]
+    },
+    {
+      "id": "wings",
+      "image_urls": [
+        "https://3ljjx93exbpx2s9vza2fsnn1-wpengine.netdna-ssl.com/wp-content/uploads/2019/09/Logo-50x50-without-airport_Tekengebied-1.png",
+        "https://www.euro-poultry.com/hs-fs/hubfs/Grillede%20BBQ%20wings_cropped.png",
+        "https://rotterdamcharityclub.nl/wp-content/uploads/2019/05/wings-hotel-logo.png",
+        "https://3ljjx93exbpx2s9vza2fsnn1-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/Kleuren-wit-logo.png",
+        "https://www.euro-poultry.com/hs-fs/hubfs/Grillede%20Smoky%20BBQ%20wings_cropped.png"
+      ],
+      "definitions": [
+        "a movable organ for flying (one of a pair)",
+        "one of the horizontal airfoils on either side of the fuselage of an airplane",
+        "a stage area out of sight of the audience",
+        "a unit of military aircraft",
+        "the side of military or naval formation",
+        "a hockey player stationed in a forward position on either side",
+        "(in flight formation) a position to the side and just to the rear of another aircraft",
+        "a group within a political party or legislature or other organization that holds distinct views or has a particular function",
+        "the wing of a fowl",
+        "a barrier that surrounds the wheels of a vehicle to block splashing water or mud",
+        "an addition that extends a main building"
+      ]
+    }
+  ]
+}

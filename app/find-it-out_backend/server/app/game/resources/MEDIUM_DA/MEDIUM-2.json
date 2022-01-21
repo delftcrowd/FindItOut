@@ -1,0 +1,299 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "walls",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0314/0213/1589/products/CD_1000x_1ef4fd75-52ab-4b45-b487-b45dce26690e_1000x.png",
+        "https://cdn.shopify.com/s/files/1/0314/0213/1589/products/LT-Smiley-walls-hoodie-back_2stroke_1024x1024@2x.png",
+        "https://cdn.shopify.com/s/files/1/0314/0213/1589/products/LT-smiley-walls-hoodie-front_wstroke_1000x.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Map_of_ancient_Rome.svg/250px-Map_of_ancient_Rome.svg.png",
+        "https://firstcycling.com/img/rider/2021/45352.png"
+      ],
+      "definitions": [
+        "an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure",
+        "anything that suggests a wall in structure or function or effect",
+        "(anatomy) a layer (a lining or membrane) that encloses a structure",
+        "a difficult or awkward situation",
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+        "a layer of material that encloses space",
+        "a masonry fence (as around an estate or garden)",
+        "an embankment built around a space for defensive purposes"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "image_urls": [
+        "https://www.cabasse.com/wp-content/uploads/2020/05/Alcyone-in-ceiling-3-4-roundF-600x450.png",
+        "https://cdn.shopify.com/s/files/1/1955/8109/products/rusttile1_530x@2x.png",
+        "https://5.imimg.com/data5/RX/XR/MY-50421838/concealed-light-for-false-ceiling-500x500.png",
+        "https://cdn2.dansfancity.com//content/images/thumbs/0015124_sunrise-56-in-satin-steel-uplight-ceiling-fan.png",
+        "https://www.fujitsu-general.com/shared/g-eu/img-0000-split-floor-ceiling-top-01.png"
+      ],
+      "definitions": [
+        "the overhead upper surface of a covered space",
+        "(meteorology) altitude of the lowest layer of clouds",
+        "an upper limit on what is allowed",
+        "maximum altitude at which a plane can fly (under specified conditions)"
+      ]
+    },
+    {
+      "id": "bar",
+      "image_urls": [
+        "https://www.sadef4restaurants.it/pub/media/catalog/category/25-bar-cocktail.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/video-conferencing/rally-bar/gallery/graphite-1-v2.png",
+        "https://cdn.vega-direct.com/media/image/3d/98/e6/accessori-bar-vega.png",
+        "https://menu.beautybararona.it/admin/data/img/uploads/images/logo-beautybar_web.png",
+        "https://www.hermessnack.it/wp-content/uploads/2020/06/BAR_TEATROnero_small.png"
+      ],
+      "definitions": [
+        "a room or establishment where alcoholic drinks are served over a counter",
+        "a counter where you can obtain food or drink",
+        "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+        "musical notation for a repeating pattern of musical beats",
+        "an obstruction (usually metal) placed at the top of a goal",
+        "the act of preventing",
+        "(meteorology) a unit of pressure equal to a million dynes per square centimeter",
+        "a submerged (or partly submerged) ridge in a river or along a shore",
+        "the body of individuals qualified to practice law in a particular jurisdiction",
+        "a narrow marking of a different color or texture from the background",
+        "a block of solid substance (such as soap or wax)",
+        "a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War",
+        "a horizontal rod that serves as a support for gymnasts as they perform exercises",
+        "a heating element in an electric fire",
+        "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried"
+      ]
+    },
+    {
+      "id": "arm",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Human_arm_bones_diagram.svg/1184px-Human_arm_bones_diagram.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arm_logo_2017.svg/1280px-Arm_logo_2017.svg.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/arm-1.png",
+        "https://www.tecnologix.it/pub/media/catalog/product/cache/3b6f3fbe42cec9070da002fb247dc6fc/a/r/arm_logo.png",
+        "https://cdn.shopify.com/s/files/1/0096/9926/2560/products/md_6511_elitecompressionsleeve_blk_back_7de477a5-7b13-480c-a772-e79569f4bab9_2000x.png"
+      ],
+      "definitions": [
+        "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+        "any projection that is thought to resemble a human arm",
+        "any instrument or instrumentality used in fighting or hunting",
+        "the part of an armchair or sofa that supports the elbow and forearm of a seated person",
+        "a division of some larger or more complex organization",
+        "the part of a garment that is attached at the armhole and that provides a cloth covering for the arm"
+      ]
+    },
+    {
+      "id": "fingers",
+      "image_urls": [
+        "https://dynasplint.com/wp-content/uploads/2019/11/Hand-Fingers.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/60859/hands-fingers-clipart-md.png",
+        "https://emojigraph.org/media/joypixels/pinched-fingers-medium-skin-tone_1f90c-1f3fd.png",
+        "https://img.icons8.com/ios/452/two-fingers--v1.png",
+        "https://image.flaticon.com/icons/png/512/2142/2142424.png"
+      ],
+      "definitions": [
+        "any of the terminal members of the hand (sometimes excepting the thumb)",
+        "the length of breadth of a finger used as a linear measure",
+        "one of the parts of a glove that provides covering for a finger or thumb"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.guardianroofs.com/wp-content/uploads/2020/11/What-Is-a-Composition-Roof-1.png",
+        "https://www.metalsales.us.com/wp-content/uploads/2020/08/pic2a-1024x720.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://www.silcartcorp.com/publicImages/SILCARTCORP/1_roofing.png",
+        "https://www.atlasroofing.com/media/images/original/5319.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "room",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/FR_ASSET_IMG_FR_PRO_DARK.png",
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/open-meeting-room-pro-white-v1.png",
+        "https://visionhotel.it/wp-content/uploads/2020/04/A_CLASSIC_ROOM-1.png",
+        "https://www.bebmarenostrum.it/en/images/IMG_3731.png",
+        "https://i1.wp.com/www.evoroom.it/wp-content/uploads/2021/05/EvoRoom_logo_mob.png"
+      ],
+      "definitions": [
+        "an area within a building enclosed by walls and floor and ceiling",
+        "space for movement",
+        "opportunity for",
+        "the people who are present in a room"
+      ]
+    },
+    {
+      "id": "hand",
+      "image_urls": [
+        "https://www.factsonhand.com/images/1/hand-nodules@3x_1113x1020.png",
+        "https://raiseyourhand.globalpartnership.org/assets/img/final_hand.png",
+        "https://bresciagiovani.it/wp-content/uploads/2018/04/hand-1925875_1280.png",
+        "https://img.icons8.com/cotton/2x/hand--v3.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hand.svg/1200px-Hand.svg.png"
+      ],
+      "definitions": [
+        "the (prehensile) extremity of the superior limb",
+        "a hired laborer on a farm or ranch",
+        "something written by hand",
+        "ability",
+        "a position given by its location to the side of an object",
+        "the cards held in a card game by a given player at any given time",
+        "one of two sides of an issue",
+        "a rotating pointer on the face of a timepiece",
+        "a unit of length equal to 4 inches; used in measuring horses",
+        "a member of the crew of a ship",
+        "a card player in a game of bridge",
+        "a round of applause to signify approval",
+        "terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos); - Springfield (Mass.) Union",
+        "physical assistance"
+      ]
+    },
+    {
+      "id": "neck",
+      "image_urls": [
+        "https://2pybk2la9r-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/72-neck_anatomy-1-1024x747.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Musculi_coli_base.svg/440px-Musculi_coli_base.svg.png",
+        "https://smhttp-ssl-65481.nexcesscdn.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/p/spidi_neck_gp.png",
+        "https://2pybk2la9r-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/73-neck-lymph_nodes-crop-2.png",
+        "https://www.prada.com/content/dam/pradanux_products/U/UMB/UMB258/1ZJXF014C/UMB258_1ZJX_F014C_S_212_SLF.png"
+      ],
+      "definitions": [
+        "the part of an organism (human or animal) that connects the head to the rest of the body",
+        "a narrow elongated projecting strip of land",
+        "a cut of meat from the neck of an animal",
+        "a narrow part of an artifact that resembles a neck in position or form",
+        "an opening in a garment for the neck of the wearer; a part of the garment near the wearer's neck"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://www.ceramicarondine.it/media/filer_public/04/47/044745c6-a2ba-484b-95f4-1836f70a33a3/3.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://thefloorstorenm.com/wp-content/uploads/2018/05/tile.png",
+        "https://thefloorstorenm.com/wp-content/uploads/2018/05/stone.png",
+        "https://macwoods.com/wp-content/uploads/2020/09/whatyourtype.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    },
+    {
+      "id": "window",
+      "image_urls": [
+        "https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/blt2a0992f947b24569/5e5eb94fb6214773cb3d32bc/0_0.png",
+        "https://aw930cdnprdcd.azureedge.net/-/media/andersenwindows/images/help-me-choose/200-series-double-hung-interior.png",
+        "https://www.harveywindows.com/images/librariesprovider2/hoverlay-product-widget/tribute-interior-v2e6f8675c-62e6-44d4-8870-1dc8e70d4d4f.png",
+        "https://lirp.cdn-website.com/4e632f5d/dms3rep/multi/opt/Windows-B+%26+B-Bridgetown-002-640w.png",
+        "https://aw930cdnprdcd.azureedge.net/-/media/andersenwindows/images/help-me-choose/100-series-picture-interior.png"
+      ],
+      "definitions": [
+        "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air",
+        "a transparent opening in a vehicle that allow vision out of the sides or back; usually is capable of being opened",
+        "a transparent panel (as of an envelope) inserted in an otherwise opaque material",
+        "an opening that resembles a window in appearance or function",
+        "the time period that is considered best for starting or finishing something",
+        "a pane of glass in a window",
+        "an opening in a wall or screen that admits light and air and through which customers can be served",
+        "(computer science) a rectangular part of a computer screen that contains a display different from the rest of the screen"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://www.ceramicarondine.it/media/filer_public/4f/e9/4fe93158-103c-47b5-9e86-1059ecdc82b4/volcano.png",
+        "https://www.binns.ca/wp-content/uploads/2018/07/Mica_Ash_Lifestyle.png",
+        "https://www.compellinghomes.com/hs-fs/hubfs/Circular%20Blog%20Imagery/Timeless%20Bathroom%20Designs/Accent%20Texture%20-%20Timeless%20Bathroom%20Design%20Ideas%20for%20Your%202021%20Remodel%20%7C%20Compelling%20Homes.png",
+        "https://www.compellinghomes.com/hs-fs/hubfs/Circular%20Blog%20Imagery/Timeless%20Bathroom%20Designs/Subway%20tile.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "deck",
+      "image_urls": [
+        "https://cdn.cloudflare.steamstatic.com/steamdeck/images/steamdeck_photo_skus.png",
+        "https://www.elgato.com/themes/custom/smalcode/image/products/stream-deck-xl/hero-panel/stream-deck-xl.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Parts_of_a_truss_bridge.svg/1200px-Parts_of_a_truss_bridge.svg.png",
+        "https://www.elgato.com/sites/default/files/2019-05/stream-deck-xl-top-left.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ship_diagram-numbers.svg/220px-Ship_diagram-numbers.svg.png"
+      ],
+      "definitions": [
+        "any of various platforms built into a vessel",
+        "street name for a packet of illegal drugs",
+        "a pack of 52 playing cards",
+        "a porch that resembles the deck on a ship"
+      ]
+    },
+    {
+      "id": "finger",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emoji_u1f595.svg/220px-Emoji_u1f595.svg.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/62_large.png",
+        "https://cdn3.iconfinder.com/data/icons/hand-signs/432/middle-finger-alt-512.png",
+        "https://static.wikia.nocookie.net/themightyb/images/c/c7/Finger.png",
+        "https://static.thenounproject.com/png/250132-200.png"
+      ],
+      "definitions": [
+        "any of the terminal members of the hand (sometimes excepting the thumb)",
+        "the length of breadth of a finger used as a linear measure",
+        "one of the parts of a glove that provides covering for a finger or thumb"
+      ]
+    },
+    {
+      "id": "tower",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/leaning-tower-of-pisa-with-background.png",
+        "https://thermaltake.azureedge.net/pub/media/wysiwyg/key3/db/products/case/tower_100/pic2_l.png",
+        "https://static.wikia.nocookie.net/ageofempires/images/2/26/Towers_prev_aoe2.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/64452/leaning-tower-of-pisa-clipart-md.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/castle-tower.png"
+      ],
+      "definitions": [
+        "a structure taller than its diameter; can stand alone or be attached to a larger building",
+        "anything that approximates the shape of a column or tower",
+        "a powerful small boat designed to pull or push larger ships"
+      ]
+    },
+    {
+      "id": "leg",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/Gray1240.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/77157/leg-clipart-md.png",
+        "https://www.gymequip.eu/wp-content/uploads/2015/10/Leg-Extension-Leg-Curl-Machine-M8-4.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/leg.png",
+        "https://www.lifefitnessemea.com/resource/blob/664882/0d1762269724ed1afe1eaecf8d30ceb6/life-fitness-axiom-series-leg-extension-full-shroud-op-le--data.png"
+      ],
+      "definitions": [
+        "a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle",
+        "a structure in animals that is similar to a human leg and used for locomotion",
+        "one of the supports for a piece of furniture",
+        "a part of a forked or branching shape",
+        "the limb of an animal used for food",
+        "a prosthesis that replaces a missing leg",
+        "a cloth covering consisting of the part of a pair of trousers that covers a person's leg",
+        "(nautical) the distance traveled by a sailing vessel on a single tack",
+        "a section or portion of a journey or course"
+      ]
+    }
+  ]
+}

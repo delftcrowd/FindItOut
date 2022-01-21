@@ -1,0 +1,132 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "aircraft",
+      "image_urls": [
+        "https://airbus-h.assetsadobe2.com/is/image/content/dam/channel-specific/website-/products-and-services/aircraft/header/aircraft-families/content-navigation/Content_Navigation_ACJ320neo.png",
+        "https://airbus-h.assetsadobe2.com/is/image/content/dam/channel-specific/website-/products-and-services/aircraft/header/aircraft-families/content-navigation/Content_Navigation_A300-600F.png",
+        "https://d2k0ddhflgrk1i.cloudfront.net/LR/Subsites/Flying%20V/Mei2019/FlyingV_Front.png",
+        "https://d2k0ddhflgrk1i.cloudfront.net/LR/Subsites/Flying%20V/Mei2019/FlyingV_Left.png",
+        "https://gogetair-aircraft.com/wp-content/uploads/2020/12/Model-2-1-1.png"
+      ],
+      "definitions": [
+        "a vehicle that can fly"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "mexico",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MEX_orthographic.svg/260px-MEX_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mexico_%28orthographic_projection%29.svg/266px-Mexico_%28orthographic_projection%29.svg.png",
+        "https://beachsoccer.com/wp-content/uploads/flags/mex.png",
+        "https://www.giz.de/static/en/media/Mexico_flag.png",
+        "https://www.hollandhousemexico.com/app/uploads/sites/16/2020/10/HHM20_Mexico-Macroeconomic.png"
+      ],
+      "definitions": [
+        "a republic in southern North America; became independent from Spain in 1810"
+      ]
+    },
+    {
+      "id": "battle",
+      "image_urls": [
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABesIcjCOwu-mwgun_UY2eZ_WkD0Imuh2_7B0bG1NMSyfbJKoCwLTe9k70UV82HG76ewUnyqeuW2HcudHCuaRGrEiST3szEMedU0W2J_ktRwF6M37O8BvpOMzvRPAXGUIFuQ74ewE5GNxe2dKTw8nzAHb9rw2K3jy3-TQTXwFHUqStQ.png",
+        "https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/bltf115e2a60d67650c/5fb7ea229fbb9857903d992e/FreeGames_Image.png",
+        "https://static.rapido.com/cms/sites/20/2021/07/23093500/Blizzard-Battlenet_Card-LL.png",
+        "https://www.pokemonunited.nl/wp-content/uploads/Sword_Shield_-_Battle_Styles_logo-1024x338.png",
+        "https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSecueVqRjLxon6rfFRKbmtvfeVv2s5m0U7QWqN7P2pU68Xl8Ac2mzCx4K-6ndcIq8LBB82AEEedZjyxSucT4IXU_n88g20uC_HY.png"
+      ],
+      "definitions": [
+        "a hostile meeting of opposing military forces in the course of a war",
+        "an energetic attempt to achieve something",
+        "an open clash between two opposing groups (or individuals); --Thomas Paine"
+      ]
+    },
+    {
+      "id": "human",
+      "image_urls": [
+        "https://itis.swiss/assets/images/Virtual-Population/_resampled/ResizedImageWzYwMCwzNzdd/vip-overview-final-s2.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201_Elements_of_the_Human_Body.02.svg/300px-201_Elements_of_the_Human_Body.02.svg.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "band",
+      "image_urls": [
+        "https://www.summerland.nl/wp-content/uploads/Alleen_netjes.png",
+        "https://www.summerland.nl/wp-content/uploads/alleen_stoer.png",
+        "https://image.oppo.com/content/dam/oppo/product-asset-library/accessory/band/band-sport/v4/index/assets/chunk1-img2-2560.png",
+        "https://assets-global.website-files.com/5f15b505dd58c1501a49d387/5f20daa0fd0beff19e65fde9_Band-Protocol.png",
+        "https://www.epica.nl/band/band-1c.png"
+      ],
+      "definitions": [
+        "an unofficial association of people or groups",
+        "instrumentalists not including string players",
+        "a stripe or stripes of contrasting color",
+        "an adornment consisting of a strip of a contrasting color or material",
+        "a group of musicians playing popular music for dancing",
+        "a range of frequencies between two limits",
+        "a thin flat strip of flexible material that is worn around the body or one of the limbs (especially to decorate the body)",
+        "a cord-like tissue connecting two larger parts of an anatomical structure",
+        "jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger",
+        "a driving belt in machinery",
+        "a thin flat strip or loop of flexible material that goes around or over something else, typically to hold it together or as a decoration",
+        "a strip of material attached to the leg of a bird to identify it (as in studies of bird migration)",
+        "a restraint put around something to hold it together"
+      ]
+    },
+    {
+      "id": "factory",
+      "image_urls": [
+        "https://betterfuturefactory.com/wp-content/uploads/2020/05/Better-Future-Factory-Logo-2020-website-header.png",
+        "https://ambitionit.nl/wp-content/uploads/2020/07/SmartFactory-AmbitionIT.png",
+        "https://girnetwork.com/wp-content/uploads/revslider/factory.png",
+        "https://betterfuturefactory.com/wp-content/uploads/2020/09/Better-Future-Factory-Logo-2020-white.png",
+        "https://www.image-factory.org/wp-content/uploads/2019/07/logo-black.png"
+      ],
+      "definitions": [
+        "a plant consisting of one or more buildings with facilities for manufacturing"
+      ]
+    },
+    {
+      "id": "doctor",
+      "image_urls": [
+        "https://photos.healthgrades.com/homeimages/find-a-doctor.png",
+        "https://www.doctorcare.ca/wp-content/uploads/2021/05/header-homepage-cropped.png",
+        "https://www.allwayshealthpartners.org/ALL/media/AllwaysMedia/New%20photography/Men/MD%20(with%20and%20without%20patients)/2019138_Allways_Day4_MaleDoctorWritingOnTablet_0439_Final.png",
+        "https://d33wubrfki0l68.cloudfront.net/313534c303c9e212a82bd28bde722fe3b884581e/b03e0/assets/images/banner_docx2.png",
+        "https://newassets.apollo247.com/doctors/b972ba8b-1138-4710-9676-33313b65c7a8.png"
+      ],
+      "definitions": [
+        "a licensed medical practitioner",
+        "(Roman Catholic Church) a title conferred on 33 saints who distinguished themselves through the orthodoxy of their theological teaching",
+        "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+        "a person who holds Ph.D. degree (or the equivalent) from an academic institution"
+      ]
+    }
+  ]
+}

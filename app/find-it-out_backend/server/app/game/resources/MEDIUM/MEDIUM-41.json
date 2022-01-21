@@ -1,0 +1,251 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "basement",
+      "image_urls": [
+        "https://www.ussu.co.uk/events/PublishingImages/50762604_1050380401812311_3411702263645732864_n.png",
+        "https://www.albodeuren.nl/wp-content/uploads/2018/03/Basement_Modern.png",
+        "https://www.mybasementdoctor.com/wp-content/uploads/2019/11/bd-logo-1.png",
+        "https://www.finishedbasementsplus.com/wp-content/uploads/2019/09/FPB-Logo-1024x537.png",
+        "https://escaperoomthegame.com/images/nl-NL/basement-logo.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "the ground floor facade or interior in Renaissance architecture"
+      ]
+    },
+    {
+      "id": "mouse",
+      "image_urls": [
+        "https://resource.logitechg.com/w_1000,c_limit,q_auto,f_auto,dpr_auto/d_transparent.gif/content/dam/gaming/en/products/pro-gaming-mouse/pro-wired-mouse-rgb-hero-new.png",
+        "https://thermaltake.azureedge.net/pub/media/wysiwyg/key3/img/L20rgbmouse/aa.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/mice/m190-wireless-mouse/m190-wireless-mouse-blue-gallery-01.png",
+        "https://resource.logitech.com/w_420,h_420,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/m557/gallery/m557-grey-gallery-1.png",
+        "https://resource.logitechg.com/w_1000,c_limit,q_auto,f_auto,dpr_auto/d_transparent.gif/content/dam/products/gaming/gaming-mice/g305-lightspeed-wireless-gaming-mouse/g304-g305-lightspeed-wireless-gaming-mouse21.png"
+      ],
+      "definitions": [
+        "any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails",
+        "a swollen bruise caused by a blow to the eye",
+        "person who is quiet or timid",
+        "a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad"
+      ]
+    },
+    {
+      "id": "outside",
+      "image_urls": [
+        "https://www.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png",
+        "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0648392b-f957-41de-99eb-16c1c98465ca_621x597.png",
+        "https://www.outsidebrand.co/wp-content/uploads/2020/09/Black-Logo.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/outside-dfa613493274c050ffd66b46aa56cd48ddf3a2ee.png",
+        "https://outsidehoutentuin.nl/wp-content/uploads/2020/09/Outside-beeldmerk.png"
+      ],
+      "definitions": [
+        "the region that is outside of something",
+        "the outer side or surface of something"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png",
+        "https://www.hillhouttuinhout.nl/images/180x180/r/products/8711471201873_1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "attic",
+      "image_urls": [
+        "https://energycodeace.com/site/custom/public/reference-ace-2016/ImagesExt/image6738_15.png",
+        "https://hintzebelts.com/wp-content/uploads/2017/09/atticboardset.png",
+        "https://www.datocms-assets.com/38021/1617972282-attic-splash-570.png",
+        "https://d2zrc47ziwc8va.cloudfront.net/images/eas/Efficient-Attic-Solution.png",
+        "https://h7y7d6g6.rocketcdn.me/wp-content/uploads/2018/12/KORE-Loft-Insulated-Attic-Flooring-System-3D-Product.png"
+      ],
+      "definitions": [
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+        "informal terms for a human head",
+        "(architecture) a low wall at the top of the entablature; hides the roof"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "sewer",
+      "image_urls": [
+        "https://dpwgp4ihve3a0.cloudfront.net/-/media/project/event-sites/aquatech/news/2020/aqd_sewer_work_720x400.png",
+        "https://support.tygron.com/w/images/a/ac/Sewer_model_new.png",
+        "https://www.nuflowstlouis.com/wp-content/uploads/2016/11/sewer.png",
+        "https://marvel-b1-cdn.bc0a.com/f00000000141557/www.ndspro.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/1/1/111cs.png",
+        "https://www.911sewerspecialists.com/assets/mainstages/mainstage-v2-img.png"
+      ],
+      "definitions": [
+        "a waste pipe that carries away sewage or surface water",
+        "someone who sews",
+        "misfortune resulting in lost effort or money"
+      ]
+    },
+    {
+      "id": "boxes",
+      "image_urls": [
+        "https://www.paardekooper.nl/static/uploads/pictures/normal/377320.png",
+        "https://www.paardekooper.nl/static/uploads/pictures/normal/378138.png",
+        "https://www.paardekooper.nl/static/uploads/pictures/normal/383264.png",
+        "https://thepackagingpeople.com.au/wp-content/uploads/2020/06/2020-TPP-PACK-BOX-SML-NK-PRINT-copy.png",
+        "https://static.cdn.packhelp.com/wp-content/uploads/2019/10/06151150/ecommerce-delivery-box-packhelp-kva.png"
+      ],
+      "definitions": [
+        "a (usually rectangular) container; may have a lid",
+        "private area in a theater or grandstand where a small group can watch the performance",
+        "the quantity contained in a box",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a rectangular drawing",
+        "evergreen shrubs or small trees",
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+        "the driver's seat on a coach",
+        "separate partitioned area in a public place for a few people",
+        "a blow with the hand (usually on the ear)"
+      ]
+    },
+    {
+      "id": "cellar",
+      "image_urls": [
+        "https://www.cellar33.nl/wp-content/uploads/2019/11/product_placeholder-min.png",
+        "https://airsource.co.uk/static/cellar2/img/search-n-sort-mob%402x.png",
+        "https://images.vivino.com/thumbs/maI-HAyKRHGACeSFl4wTgQ_pb_x600.png",
+        "https://static.whiskybase.com/storage/whiskies/1/8/0369/312054-normal.png",
+        "https://images.vivino.com/thumbs/FCm5JhOvQK-abOyZszXa4Q_pl_375x500.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "an excavation where root vegetables are stored",
+        "storage space where wines are stored"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "disneyland",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/disney/images/a/ad/Disneyland.png",
+        "https://d118pfm5xh6r9q.cloudfront.net/images/d/disneylandparis_9.png",
+        "https://disneydrive.be/wp-content/uploads/2018/03/Disneyland_Paris_logo.svg-1-1024x289.png",
+        "https://www.discoverthemagic.nl/images/footer-discoverthemagic.png",
+        "https://static.wikia.nocookie.net/disney/images/9/96/Disneyland_Paris.png"
+      ],
+      "definitions": [
+        "an amusement park in Anaheim created in 1955 by Walt Disney"
+      ]
+    },
+    {
+      "id": "sugar",
+      "image_urls": [
+        "https://tereos.com/app/uploads/2018/07/sucre-1-1559x770-c-default.png",
+        "https://sc04.alicdn.com/kf/UTB82I0TupPJXKJkSahV760yzFXaP.png",
+        "https://assets.website-files.com/5db1a94b0cf70d833a4a34e9/5f32967f56ed5a376f75ea9d_arengasugar-small.png",
+        "https://cdn.shopify.com/s/files/1/0504/5600/2723/products/organic-cane-sugar-bulk_1440x1600.png",
+        "https://www.tastyme.nl/image/cache/catalog/tastyme/suikerbakkerspoeder-5kg-tasty-me-500x500.png"
+      ],
+      "definitions": [
+        "a white crystalline carbohydrate used as a sweetener and preservative",
+        "an essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain",
+        "informal terms for money"
+      ]
+    },
+    {
+      "id": "container",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://images.ctfassets.net/gc5htdx4kcus/4OHleWuGTa6mdbSbicT5ur/d2424e4d0ac10b83ac4d47c86d01b5c5/22G1_20FT_Standaard_new_blue_Corner_shadow.png",
+        "https://www.unifeeder.com/hubfs/Container%20equipment%20on%20website%20-%2040ft%20HC-1.png"
+      ],
+      "definitions": [
+        "any object that can be used to hold things (especially a large metal boxlike object of standardized dimensions that can be loaded from one form of transport to another)"
+      ]
+    }
+  ]
+}

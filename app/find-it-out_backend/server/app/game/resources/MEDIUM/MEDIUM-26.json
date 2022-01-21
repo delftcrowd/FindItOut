@@ -1,0 +1,240 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "people",
+      "image_urls": [
+        "https://www.people-payment.nl/wp-content/uploads/2019/05/people-paymentfavicon-512x512px.png",
+        "https://acadal.com/wp-content/uploads/2019/12/poeple-led-growth.png",
+        "https://epeople.nl/wp-content/uploads/2016/08/slide-epeople.png",
+        "https://www.mendonpeople.nl/userfiles/mendonpeople.nl/images/Logo-Mendon%20People%20PNG.png",
+        "https://peopleintouch.com/wp-content/uploads/2019/11/logo-people-intouch.png"
+      ],
+      "definitions": [
+        "(plural) any group of human beings (men or women or children) collectively",
+        "the body of citizens of a state or country",
+        "members of a family line",
+        "the common people generally"
+      ]
+    },
+    {
+      "id": "buildings",
+      "image_urls": [
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://images.squarespace-cdn.com/content/v1/5b113545ee17595a184efefb/1535374097981-6RD22HNEMFNT2XJAIEWA/BHFT_KeyArt.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png",
+        "https://cdn-icons-png.flaticon.com/512/2942/2942149.png",
+        "https://fleenorsecurity.com/wp-content/uploads/2016/12/wifi-buildings.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "conference",
+      "image_urls": [
+        "https://one-conference.nl/uploads/21402040_ECP_One-conference-2021.png",
+        "https://conference.issa.nl/sites/default/files/ISSA_Conference.png",
+        "https://www.eden-online.org/wp-content/uploads/2021/01/madrid_website_header_madrid-news-transparent-01.png",
+        "https://www.iaoms.org/IAOMS/assets/File/IAOMS-Virtual-Conference-logo.png",
+        "https://www.idlo.int/sites/default/files/images/SDG16%20Conference%20News%20Updates_1.png"
+      ],
+      "definitions": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+        "an association of sports teams that organizes matches for its members",
+        "a discussion among participants who have an agreed (serious) topic"
+      ]
+    },
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "internet",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/0636adf0e6404bb38bb8b3293a418411/d5b717b1b43e4cd482c3b160b9751c64.png",
+        "https://www.glasvezelinternetaanbieding.nl/wp-content/uploads/2018/04/glasvezel-internet-rotterdam.png",
+        "https://www.tele2.nl/Tele2/media/images/Tele2/thuis/internet-tv-bellen/shop/internet-abonnement-1.png",
+        "https://internetvergelijken.org/wp-content/uploads/2019/04/internetentvicon-2.png",
+        "https://www.delta.nl/media/2612/laptop-alleen-internet-wifi.png"
+      ],
+      "definitions": [
+        "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "wedding",
+      "image_urls": [
+        "https://www.jimdo.com/static/c4e8e6e4d1dbcbfde85d54227dd9685f/21dd8/picture.png",
+        "https://cdn.chowsangsang.com/eshop/hk/newweb/collection/2021/wedding/kv01_mobile.png",
+        "https://static.showit.co/1200/DmdiN1rsRoGPZE8inKX5ZQ/122969/honeybee_weddings_winter_wedding-100.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABactul89A47zMsHq8nvh7vTPNIKnRRSUC5QYJ6VJ25f-JSHPySxx8qz7dzUXlmj1BpRrGwWfCAM2Er7kK-dz8Z-5eu5Kfh5Arua5.png",
+        "https://cdn.shopify.com/s/files/1/0528/9567/8657/files/Wedding_round_a34997f1-d3cd-41f5-9521-dbb0af57238e_480x480.png"
+      ],
+      "definitions": [
+        "the social event at which the ceremony of marriage is performed",
+        "the act of marrying; the nuptial ceremony",
+        "a party of people at a wedding"
+      ]
+    },
+    {
+      "id": "mansion",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Woodland_Mansion.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYQ-GTxxxZ7kslapdva47P6VoFkaWXEMvbM4cWDcmUryAwWdJNbj-8NqaidhrRySh2VmpYwMyaixyQqiweCkVg_V40oj3Km5nMRU.png",
+        "https://www.kelcha.nl/wp-content/uploads/2020/08/Playmobil-70361-Avontuur-in-Mystery-Mansion-1-1.png",
+        "https://cdn.shopify.com/s/files/1/2361/1783/products/Speelkamer-op-wit-leeg-angle_1000x.png",
+        "https://www.bluemansionhotel.com/images/Blue-Mansion-logo-transparent.png"
+      ],
+      "definitions": [
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "a large and imposing house"
+      ]
+    },
+    {
+      "id": "classroom",
+      "image_urls": [
+        "https://www.clanbeat.com/wp-content/uploads/2021/04/Google-Classroom.png",
+        "https://www.woodridge68.org/cms/lib/IL01904677/Centricity/Domain/360/classroom.png",
+        "https://www.wvr.ac.uk/wp-content/uploads/2020/03/Google-Classroom-Icon-300x204.png",
+        "https://www.fujitsu.com/hk/imagesgig5/Icon_classroom_tcm137-3749856_tcm137-2750236-32.png",
+        "https://3.files.edl.io/dd2e/20/12/03/213020-0b484f5a-fc96-499c-bc55-537acedcfac2.png"
+      ],
+      "definitions": [
+        "a room in a school where lessons take place"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://global-uploads.webflow.com/5ee2074bd5264569f2a3a32f/5f58f409db9a88529bf05059_LY01_top_view_transparent_background.png",
+        "https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "opera",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+        "https://img.ashampoo.com/images/products/partner0115/boxshot.png"
+      ],
+      "definitions": [
+        "a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes",
+        "a commercial browser",
+        "a building where musical dramas are performed"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "audience",
+      "image_urls": [
+        "https://owl.excelsior.edu/wp-content/uploads/sites/2/h5p/content/27/images/file-5c75666a6f7d0.png",
+        "https://videommerce.com/wp-content/uploads/2020/09/target-audience.png",
+        "https://www.sesync.org/sites/default/files/who-are-your-audiences.png",
+        "https://www.24hourtranslation.com/wp-content/uploads/2017/01/audience-analysis.png",
+        "https://images.saymedia-content.com/.image/t_share/MTc0NDM3MzI5Njk0OTU5MjM4/to-what-degree-should-you-consider-your-audience-when-writing.png"
+      ],
+      "definitions": [
+        "a gathering of spectators or listeners at a (usually public) performance",
+        "the part of the general public interested in a source of information or entertainment",
+        "an opportunity to state your case and be heard",
+        "a conference (usually with someone important)"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://bankinter.moneytown.es/images/city_home.png",
+        "https://www.town.nl/parkned.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    },
+    {
+      "id": "theater",
+      "image_urls": [
+        "https://d2zr9w65gdacs9.cloudfront.net/34120/tr-logo-aubergine-rgb1496167546logo1570193843logo.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/afas-theater-afbeelding%20algemeen2.png",
+        "https://zirkzee.nl/wp-content/uploads/2020/01/logo_pstheater.png",
+        "https://theaterbabelrotterdam.nl/wp-content/uploads/2018/04/2731B29E-098E-4F9E-96C9-86C045740438@lonnewennekendonk.nl_-300x206.png",
+        "https://www.theaterwalhalla.nl/wp-content/uploads/2018/03/wal.png"
+      ],
+      "definitions": [
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "the art of writing and producing plays",
+        "a region in which active military operations are in progress"
+      ]
+    },
+    {
+      "id": "cinema",
+      "image_urls": [
+        "https://www.customertalk.nl/resources/uploads/bestanden/_1200x630_crop_center-center/Beleving-bioscoop.png",
+        "https://public-cinema.com/wp-content/uploads/2017/10/logo_cmyk.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Netherlands_film_clapperboard.svg/1200px-Netherlands_film_clapperboard.svg.png",
+        "https://public-cinema.com/wp-content/uploads/2017/10/logo_diap.png",
+        "https://d3n8a8pro7vhmx.cloudfront.net/themes/52cd960b01925b6d0e000002/attachments/original/1505860695/logo.png"
+      ],
+      "definitions": [
+        "a medium that disseminates moving pictures",
+        "a theater where films are shown"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "michigan",
+      "image_urls": [
+        "https://www.michigannature.org/images/img_library/crp/96-6-8-issue.png",
+        "https://www.bls.gov/regions/midwest/images/18782.png",
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566497203534-IP8F83WR5AWBNVFFG2VF/Michigan.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/hotspots.png",
+        "https://www.smartstartinc.com/michigan/wp-content/uploads/sites/26/2015/05/Smart-Start-Michigan-Outline.png"
+      ],
+      "definitions": [
+        "a midwestern state in north central United States in the Great Lakes region",
+        "the 3rd largest of the Great Lakes; the largest freshwater lake entirely within the United States borders",
+        "a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card"
+      ]
+    },
+    {
+      "id": "steakhouse",
+      "image_urls": [
+        "https://restoranto.com/wp-content/uploads/2018/09/Steak-1200x600.png",
+        "https://www.alargentino.nl/current/local/runtime/images/500x288/steakhouse_restaurant_la_argentino_black_right.png",
+        "https://static.takeaway.com/images/restaurants/nl/OROO0QR1/logo_465x320.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/NR0OO05/logo_465x320.png",
+        "https://static.takeaway.com/images/restaurants/nl/N13R1NR/logo_465x320.png"
+      ],
+      "definitions": [
+        "a restaurant that specializes in steaks"
+      ]
+    },
+    {
+      "id": "wine",
+      "image_urls": [
+        "https://images.vivino.com/thumbs/kva3VdkBSiCCdIi-NmBvDQ_pb_x960.png",
+        "https://images.vivino.com/thumbs/YkSzafCbQfmjxkQ21MRzYA_pb_x960.png",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ed/WINE-logo.png",
+        "https://s3.amazonaws.com/barefootwine.co.uk/production/lets-get-barefoot_0_0.png",
+        "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1593198859-1lrffpnfskqdmrbpzxofhq-pb-600x600-1593198839.png"
+      ],
+      "definitions": [
+        "fermented juice (of grapes especially)",
+        "a red as dark as red wine"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "maine",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566487302777-1QH95OD6OQRA8H2RRRMQ/Maine.png",
+        "https://www.maine.gov/sos/kids/themes/kids/images/colorcounties.png",
+        "https://www.maine.edu/wp-content/uploads/sites/1/2020/06/campusmapnames_with_Law.png",
+        "https://vlagblog.files.wordpress.com/2021/03/maine-zegel-1.png",
+        "https://www.integratedecosystemassessment.noaa.gov/sites/default/files/inline-images/GOM_GB_WHITE%20%281%29_0.png"
+      ],
+      "definitions": [
+        "a state in New England"
+      ]
+    },
+    {
+      "id": "utah",
+      "image_urls": [
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_9-23.png",
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_9-9-21.png",
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_8-26.png",
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_9-16.png",
+        "https://coronavirus.utah.gov/wp-content/uploads/Utah_Counties_8-5.png"
+      ],
+      "definitions": [
+        "a state in the western United States; settled in 1847 by Mormons led by Brigham Young"
+      ]
+    },
+    {
+      "id": "texas",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Texas_flag_map.svg/1200px-Texas_flag_map.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag-map_of_Texas.svg/1200px-Flag-map_of_Texas.svg.png",
+        "https://schreiner.edu/wp-content/uploads/Departments/The-Texas-Center/The-Texas-Center-Logo-WebSU.png",
+        "https://poweringtexas.com/wp-content/uploads/2018/10/powering-texas-icon.png",
+        "https://is-birdcast-wordpress-prod-s3.s3.amazonaws.com/wp-content/uploads/Tim-Wallace-Light-with-control-for-population-TX-v1.png"
+      ],
+      "definitions": [
+        "the second largest state; located in southwestern United States on the Gulf of Mexico"
+      ]
+    },
+    {
+      "id": "florida",
+      "image_urls": [
+        "https://www.bls.gov/regions/southeast/images/18771.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-12/hotspots.png",
+        "https://floridasbdc.org/wp-content/uploads/2020/05/All-Region-Logos-12-1.png",
+        "https://www.isjl.org/uploads/2/4/2/2/24228391/florida-all-14_orig.png",
+        "https://authenticflorida.com/wp-content/uploads/2021/07/FloridaMapRegions_20210723.png"
+      ],
+      "definitions": [
+        "a state in southeastern United States between the Atlantic and the Gulf of Mexico; one of the Confederate states during the American Civil War"
+      ]
+    }
+  ]
+}

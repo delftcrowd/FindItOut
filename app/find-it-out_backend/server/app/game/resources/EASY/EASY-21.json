@@ -1,0 +1,134 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "australia",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Australia_with_AAT_%28orthographic_projection%29.svg/250px-Australia_with_AAT_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Australia_stub.svg/2290px-Australia_stub.svg.png",
+        "https://www.mio.com/en_eu/shop/media/catalog/product/cache/49/image/600x315/9df78eab33525d08d6e5fb8d27136e95/a/u/australia.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Australia_on_the_globe_%28Antarctic_claims_hatched%29_%28Oceania_centered%29_with_borders.svg/1200px-Australia_on_the_globe_%28Antarctic_claims_hatched%29_%28Oceania_centered%29_with_borders.svg.png",
+        "https://gisgeography.com/wp-content/uploads/2017/11/Australia-Map-Simple.png"
+      ],
+      "definitions": [
+        "a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony",
+        "the smallest continent; between the South Pacific and the Indian Ocean"
+      ]
+    },
+    {
+      "id": "cage",
+      "image_urls": [
+        "https://images.selency.com/8718881f-eecd-4a59-a9d7-d5c8ec38101d/ancient-wooden-bird-cage_original.png",
+        "https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12193.png",
+        "https://www.nihonsport.nl/wp-content/uploads/2020/08/FL-OCT1.png",
+        "https://images.selency.com/a8dbb339-385c-4339-a3eb-9edaa147c23e/ancient-bird-cage_original.png",
+        "https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12192.png"
+      ],
+      "definitions": [
+        "an enclosure made or wire or metal bars in which birds or animals can be kept",
+        "something that restricts freedom as a cage restricts movement",
+        "United States composer of avant-garde music (1912-1992)",
+        "the net that is the goal in ice hockey",
+        "a movable screen placed behind home base to catch balls during batting practice"
+      ]
+    },
+    {
+      "id": "hole",
+      "image_urls": [
+        "https://cdn.sera.de/fileadmin/user_upload/articlepictures/16734-04001942523653a001bqx0101.png",
+        "https://images.csmonitor.com/csm/2014/07/0730-Siberia-hole-mystery.png",
+        "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABffcH4z-Wq2yvVB8t_hOpdUJSF4ms37nraVsp0NxeHpWn7Lc7b7rpPoLtgHg64tBCMeEeR8IMCMY2SKkX6IRZ90Vbl36DBdnV4qp.png",
+        "https://www.landgoedbergvliet.nl/files/hole_overview/31461/hole-5.png",
+        "https://www.landgoedbergvliet.nl/files/hole_overview/31452/hole-2.png"
+      ],
+      "definitions": [
+        "an opening into or through something",
+        "an opening deliberately made in or through something",
+        "one playing period (from tee to green) on a golf course",
+        "an unoccupied space",
+        "a depression hollowed out of solid matter",
+        "a fault",
+        "informal terms for a difficult situation",
+        "informal terms for the mouth"
+      ]
+    },
+    {
+      "id": "india",
+      "image_urls": [
+        "https://www.rabobank.com/en/images/india.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/IND/hotspots.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dc/Indian_Subcontinent_%28orthographic_projection%29.png",
+        "https://www.ibef.org/images/india-map-yellow.png",
+        "https://www.worldatlas.com/r/w1200/upload/37/ef/b7/indian-subcontinent-map.png"
+      ],
+      "definitions": [
+        "a republic in the Asian subcontinent in southern Asia; second most populous country in the world; achieved independence from the United Kingdom in 1947"
+      ]
+    },
+    {
+      "id": "bank",
+      "image_urls": [
+        "https://habufa-res.cloudinary.com/t_n/m/80c1632b4cc7017be0536518408bddbd.png",
+        "https://www.home67.nl/pub/media/catalog/product/cache/2b7d68530ed4c8eff0260aa6ec3f5663/r/s/rs1967_banksam_2.5_oker.png",
+        "https://www.harvink.nl/imgsrc/880/440//user/img/harvink-bank-forum1.png",
+        "https://kieveen.nl/wp-content/uploads/2020/08/Iris-bank.png",
+        "https://i2.wp.com/cornewonen.nl/wp-content/uploads/2020/06/Fermo-hoek.png"
+      ],
+      "definitions": [
+        "sloping land (especially the slope beside a body of water)",
+        "a financial institution that accepts deposits and channels the money into lending activities",
+        "a long ridge or pile",
+        "an arrangement of similar objects in a row or in tiers",
+        "a supply or stock held in reserve for future use (especially in emergencies)",
+        "the funds held by a gambling house or the dealer in some gambling games",
+        "a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force",
+        "a container (usually with a slot in the top) for keeping money at home",
+        "a building in which the business of banking transacted",
+        "a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)"
+      ]
+    },
+    {
+      "id": "lemur",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Ring-Tailed-Lemur----General-Animal-Primate-Madagascar-Secondary.png",
+        "https://static.wikia.nocookie.net/fanon/images/6/6a/White-headed_lemur.png",
+        "https://www.lemurconservationnetwork.org/wordpress/wp-content/uploads/2020/08/Illustration-Collared-Brown-Lemur.png",
+        "https://s2.coinmarketcap.com/static/img/coins/200x200/9142.png",
+        "https://images.vectorhq.com/images/previews/b1a/ring-tailed-lemur-psd-446818.png"
+      ],
+      "definitions": [
+        "large-eyed arboreal prosimian having foxy faces and long furry tails"
+      ]
+    },
+    {
+      "id": "wilderness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/wilderness-a2c574200cd8ac2d3628c06b9e7c7f436681a98e.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQBHx96_Eps-PJq2a9Ej6LjiBuy_ySxuOy6IZW0h0O6QATmcMSNYkLEdI2e0Uk6k-mzRxP3qT4adKGzvH0Ks4KvquoNzzzq4c6H_N6mw8HLwFr3wMPVo-7qWRaz4WRxJLByRFLzC0O20h6DfQuXv6KOUvwgUgH75_4egMVR0dJYx-Q.png",
+        "https://www.mypigeonforge.com/wp-content/uploads/2018/01/Wilderness-Wildlife-Week-horizontal-logo.jpg15.png",
+        "https://www.spellenhuis.nl/media/catalog/product/cache/1/image/420x420/9df78eab33525d08d6e5fb8d27136e95/2/g/2gpkg5peeybgt5qm2rd267d6dmd7rhtm.png",
+        "https://wpresort.com/wp-content/uploads/2020/03/Wilderness-Presidential-Resort-Emblem-png8-500.png"
+      ],
+      "definitions": [
+        "(politics) a state of disfavor",
+        "a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War",
+        "a wild and uninhabited area left in its natural condition",
+        "a bewildering profusion"
+      ]
+    },
+    {
+      "id": "desert",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/ks2-desert-landscape.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Sahara-Desert--Terrain-Hot-Geography-KS2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/desert-habitat.png",
+        "https://i.pinimg.com/originals/4b/45/6c/4b456c02c9ab0835d9f97482f95a2873.png",
+        "https://www.elcidtour.com/wp-content/uploads/2020/11/Picture4.png"
+      ],
+      "definitions": [
+        "arid land with little or no vegetation",
+        "(usually plural) a person's deservingness of or entitlement to reward or punishment"
+      ]
+    }
+  ]
+}

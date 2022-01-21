@@ -1,0 +1,258 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "meeting",
+      "image_urls": [
+        "https://agilescrumgroup.nl/wp-content/uploads/sprint-planning-meeting-e1608804051883.png",
+        "https://blogs.fireflies.ai/content/images/2021/07/feat-min-1.png",
+        "https://meetingroom.io/wp-content/uploads/2019/05/Company-Meetings.png",
+        "https://cms.ratemymeeting.co/storage/uploads/2020/07/02/5efe007fad3e8homepage-meeting.png",
+        "https://www.zohowebstatic.com/sites/default/files/meeting/home/zm-mobile-banner.png"
+      ],
+      "definitions": [
+        "a formally arranged gathering",
+        "a small informal social gathering",
+        "a casual or unexpected convergence",
+        "the social act of assembling for some common purpose",
+        "the act of joining together as one",
+        "a place where things merge or flow together (especially rivers)"
+      ]
+    },
+    {
+      "id": "gentleman",
+      "image_urls": [
+        "https://static.ah.nl/static/gall/img_270184_Gall_500.png",
+        "https://www.givenchybeauty.com/on/demandware.static/-/Sites-givenchy-beauty-master/default/dw3949fd5b/images/P007306/3274872376465_P007306_GENTLEMAN_ORIGINAL_EDT_100ML_a_0.png",
+        "https://www.givenchybeauty.com/on/demandware.static/-/Sites-givenchy-beauty-master/default/dw47a10453/images/P011091/3274872423008_P011091_GIVENCHY-GENTLEMAN_EAU-DE-TOILETTE-INTENSE_78_9_100ML_a_0.png",
+        "https://www.tissotwatches.com/media/catalog/product/cache/aaadd316e453df5b08f7f4246fad1a9c/T/1/T127.410.16.051.00_R_1.png",
+        "https://www.parfumerie.nl/media/catalog/product/cache/6f1cf5e3727dd2f9a27a7da3b88e9abc/3/2/3274872368026_p007085_gentleman_18_edp_100ml_a_0.png"
+      ],
+      "definitions": [
+        "a man of refinement",
+        "a manservant who acts as a personal attendant to his employer"
+      ]
+    },
+    {
+      "id": "club",
+      "image_urls": [
+        "https://joindeclub.com/wp-content/uploads/2019/06/favicon-e1561455337982.png",
+        "https://mk0sportcentrumv82tx.kinstacdn.com/wp-content/uploads/elementor/thumbs/De-Club_logo_rgb-oj12d7idpl27c2l96dzswrue4zvu0tzr2kdnp5p730.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwe0738f59/JBL_CLUB_ONE_Product%20Photo_HERO.png",
+        "https://my.pocketmenu.nl/uploads/files/websites/the-oyster-club/logo(1).png",
+        "https://rum-club.nl/wp-content/uploads/2019/02/cropped-logorumclub-600x244.png"
+      ],
+      "definitions": [
+        "a team of professional baseball players who play and travel together",
+        "a formal association of people with similar interests",
+        "stout stick that is larger at one end",
+        "a building that is occupied by a social club",
+        "golf equipment used by a golfer to hit a golf ball",
+        "a playing card in the minor suit that has one or more black trefoils on it",
+        "a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink"
+      ]
+    },
+    {
+      "id": "encyclopedia",
+      "image_urls": [
+        "https://books.britannica.com/wp-content/uploads/2021/04/Encyclo-US_3D-Britannica-template-medium-1-1164x1536.png",
+        "https://worldchristianresearch.files.wordpress.com/2015/08/wce-2.png",
+        "https://www.worldbookonline.com/training/look-inside/assets/images/wbe-2022.png",
+        "https://getintopc.com/wp-content/uploads/2013/12/44-h_main-w.png",
+        "https://global-uploads.webflow.com/5de14733d41c9b578bb9bd65/5f55d0a6f06083a23a208064_ubam--encyclopedias-for-kids.png"
+      ],
+      "definitions": [
+        "a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "europe",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/1200px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Europe_orthographic_Caucasus_Urals_boundary.svg/220px-Europe_orthographic_Caucasus_Urals_boundary.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg/220px-Europe_orthographic_Caucasus_Urals_boundary_%28with_borders%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Mainland_Europe_%28orthographic_projection%29.svg/1200px-Mainland_Europe_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Blank_map_of_Europe_%28with_disputed_regions%29.svg/2560px-Blank_map_of_Europe_%28with_disputed_regions%29.svg.png"
+      ],
+      "definitions": [
+        "the 2nd smallest continent (actually a vast peninsula of Eurasia); the British use `Europe' to refer to all of the continent except the British Isles",
+        "an international organization of European countries formed after World War II to reduce trade barriers and increase cooperation among its members",
+        "the nations of the European continent collectively"
+      ]
+    },
+    {
+      "id": "movie",
+      "image_urls": [
+        "https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQPXcsigx_FfDV682YZkwhLg7Ff7aJzxCO7fDhMIz4Zog0ppvVWSPeYIt3u-Cv1FlnhZJqoi4TXffVOk4DafRpGOKXEWaENv5PWD.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQtnLjMiizz4dsBV-VtM2_KewG0lsL8jgnLoh5hVNeEbLNc7RYp6AoO8Tc_1BrkhUM9mtQ6v89TWdpWJhC3ArqKpmmD6TPg9PGle.png",
+        "https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSq1Pc3cOkgS9IMBFkFICmyPQuC81jgEWrX7ZFdAz8K6RvAA-Vi20TwgLfcJisl0A_htSqTqUc8Zew9YQz8ukFXPwvX2tD3NmUwH.png",
+        "https://dx35vtwkllhj9.cloudfront.net/paramountpictures/paw-patrol-the-movie/images/regions/us/tt.png",
+        "https://cdn.webshopapp.com/shops/2090/themes/153089/assets/logo.png"
+      ],
+      "definitions": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+      ]
+    },
+    {
+      "id": "game",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Video-Game-Controller-Icon-IDV-green.svg/2048px-Video-Game-Controller-Icon-IDV-green.svg.png",
+        "https://assets-global.website-files.com/5b97a7fe64609fa421504d43/60f04378e1e5dc8736fa53d2_Client-Image-Mockup-Mixed-Left.png",
+        "https://www.arcadehotel.nl/wp-content/uploads/2020/04/AH_PromotionLocalsTPaper_Newsletter_1128x800pxWidth_200318.png",
+        "https://thewitcher.com/build/images/witcher3/console-lite-2712b1a4.png",
+        "https://www.plex.tv/wp-content/uploads/2021/01/image-gaming-devices-glow-1440x998.png"
+      ],
+      "definitions": [
+        "a contest with rules to determine a winner",
+        "a single play of a sport or other contest",
+        "an amusement or pastime",
+        "animal hunted for food or sport",
+        "(tennis) a division of play during which one player serves",
+        "(games) the score at a particular point or the score needed to win",
+        "the flesh of wild animals that is used for food",
+        "a secret scheme to do something (especially something underhand or illegal)",
+        "the game equipment needed in order to play a particular game",
+        "your occupation or line of work",
+        "frivolous or trifling behavior"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5df20135260107019ff99900/1578328159952-CLFJE7ZHZ9T8XWEC68GC/The+Church+of+England+logo+Version+1.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "class",
+      "image_urls": [
+        "https://www.class.com/wp-content/uploads/2021/02/Class_BOZ.png",
+        "https://techcrunch.com/wp-content/uploads/2021/02/Class-for-Zoom-Attendance-.png",
+        "https://class.me/img/homepage/classes.png",
+        "https://theclassof2020.org/wp-content/uploads/2017/07/class2020_logo.png",
+        "https://images.squarespace-cdn.com/content/v1/5fd94d4e3d899d48cf71319b/3c788650-8128-4ef7-b3a3-905b79140a68/CLASS_WORKMARK_MIDNIGHT_V2.png"
+      ],
+      "definitions": [
+        "a collection of things sharing a common attribute",
+        "a body of students who are taught together",
+        "people having the same social, economic, or educational status",
+        "education imparted in a series of lessons or meetings",
+        "a league ranked by quality",
+        "a body of students who graduate together",
+        "(biology) a taxonomic group containing one or more orders",
+        "elegance in dress or behavior"
+      ]
+    },
+    {
+      "id": "suit",
+      "image_urls": [
+        "https://ydbrand.imgix.net/YD/Products/19ASUX04_BLK_1.png",
+        "https://d1fufvy4xao6k9.cloudfront.net/feed/img/man_suit2/219541/2021_SS_278A0139-1_recolor_small.png",
+        "https://stitchandtie.com/content/images/thumbs/0001753_slate-blue-suit-by-allure-men_652.png",
+        "https://d2w9m16hs9jc37.cloudfront.net/dimg/blog/2021/05/2416_small.png",
+        "https://www.stephanh.com/wp-content/uploads/2016/04/IMG_Rotor_Suit_men_ROUGE_face-1.png"
+      ],
+      "definitions": [
+        "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+        "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+        "(slang) a businessman dressed in a business suit",
+        "a man's courting of a woman; seeking the affections of a woman (usually with the hope of marriage)",
+        "a petition or appeal made to a person of superior status or rank",
+        "playing card in any of four sets of 13 cards in a pack; each set has its own symbol and color"
+      ]
+    },
+    {
+      "id": "throne",
+      "image_urls": [
+        "https://www.shagcarpetprops.com/v/vspfiles/photos/12507-2.png",
+        "https://www.shagcarpetprops.com/v/vspfiles/photos/12441-2.png",
+        "https://static.wikia.nocookie.net/fallout/images/2/23/Throne-NukaWorld.png",
+        "https://intheevent.com/wp-content/uploads/2015/12/Santa-Chair-copy.png",
+        "https://cdn.shopify.com/s/files/1/1542/8765/products/gkiHtlgA_jpeg_grande.png"
+      ],
+      "definitions": [
+        "the chair of state for a monarch, bishop, etc.",
+        "a plumbing fixture for defecation and urination",
+        "the position and power of an exalted person (a sovereign or bishop) who is entitled to sit in a chair of state on ceremonial occasions"
+      ]
+    },
+    {
+      "id": "knowledge",
+      "image_urls": [
+        "https://turbulentflux.com/wp-content/uploads/2020/09/20200831_Data_Information_Knowledge.png",
+        "https://heranet.info/assets/uploads/2018/02/knowledge-translation-exchange.png",
+        "https://nathanworks.com/wp-content/uploads/2010/11/brain_KnowledgeTypes.png",
+        "https://www.knowledgesolution.nl/wp-content/uploads/2021/06/KS-Flex-Logo-1024x473.png",
+        "https://knowledgeagency.com/wp-content/uploads/2019/01/cropped-KVC-Triangle-FNL_RGB_07-1.png"
+      ],
+      "definitions": [
+        "the psychological result of perception and learning and reasoning"
+      ]
+    },
+    {
+      "id": "clothing",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0088/0685/8848/files/hoofding_webshop-01_1750x.png",
+        "https://mediacache5.select-sport.com/d5/13/9eaf-21a0-4e7f-9b85-0b3e337c8ee2/baselayer.png",
+        "https://www.bankvogue.com/wp-content/uploads/2019/12/used-clothes-main.png",
+        "https://cdn.shopify.com/s/files/1/0497/3284/5735/files/LOGO_FINAL_700x.png",
+        "https://149364146.v2.pressablecdn.com/wp-content/uploads/2020/04/templates-1.png"
+      ],
+      "definitions": [
+        "a covering designed to be worn on a person's body"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.thegardenstore.nl/wp-content/uploads/2021/01/The-Garden-Store-Tuin-Interieur-Plantstyling-projects-frame.png",
+        "https://elho.xcdn.nl/RM200,200,C_OQ70/light-garden-leaf-green-1731900236000c1png/light_garden_leaf_green_1731900236000.c1.png",
+        "https://www.decoaction.nl/pub/media/catalog/product/cache/700x700/wandbord-englisch-flower-garden.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    },
+    {
+      "id": "university",
+      "image_urls": [
+        "https://webster.nl/_resources/images/webster-leiden-logo.png",
+        "https://www.ru.nl/publish/pages/732676/best-traditional-university-rgb-1.png",
+        "https://webster.nl/_resources/images/webster-leiden-logo-white.png",
+        "https://features.york.ac.uk/who-we-are/assets/vvJikmK4Yz/uoy-logo-stacked-shield-pms432-800x369.png",
+        "https://www.isunet.edu/wp-content/uploads/2019/10/LOGO_ISU_Darkblue.png"
+      ],
+      "definitions": [
+        "the body of faculty and students at a university",
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+      ]
+    }
+  ]
+}

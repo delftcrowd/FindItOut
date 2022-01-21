@@ -1,0 +1,113 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "boat",
+      "image_urls": [
+        "https://arctic-boats.com/stuff/file/i1_dark_blue.png",
+        "https://cobaltboats.com/wp-content/uploads/2021/03/R8outboard-SimilarModels.png",
+        "https://www.gerrisboats.com/wp-content/uploads/2021/03/GerrisBoat-34-1024x573.png",
+        "https://www.verme.it/wpsite/wp-content/uploads/2021/04/GerrisBoat-sketch-1024x836.png",
+        "https://www.evoyachts.com/wp-content/themes/evo/media/home/product-01.png"
+      ],
+      "definitions": [
+        "a small vessel for travel on water",
+        "a dish (often boat-shaped) for serving gravy or sauce"
+      ]
+    },
+    {
+      "id": "sailboat",
+      "image_urls": [
+        "https://app.jeanneau.com/static/media/image/layout/hd/cbaeb1732f34dd9bc55c215de6f81bf5.png",
+        "https://img.over-blog-kiwi.com/2/08/64/70/20190519/ob_c75941_c08d4560-662e-4da4-bfc9-11ff679ffe83.png",
+        "https://pegasus-yachts.com/wp-content/uploads/2021/03/MicrosoftTeams-image-9-1-1.png",
+        "https://static.thenounproject.com/png/453090-200.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/71254/sailboat-clipart-md.png"
+      ],
+      "definitions": [
+        "a small sailing vessel; usually with a single mast"
+      ]
+    },
+    {
+      "id": "canoe",
+      "image_urls": [
+        "https://www.grabner.com/wp-content/uploads/2021/01/grabner-adventure-sl-2021_01.png",
+        "https://varuste.net/tiedostot/1/kuva/tuote/600/12841041.png",
+        "https://www.canoeandkayakdirect.com/wp-content/uploads/2018/03/1032-WEBSITE-ALL-PNG.png",
+        "https://cdn.shopify.com/s/files/1/0066/9653/4068/products/Prospector17KevAngleSIMSAND.png",
+        "https://cdn.shopify.com/s/files/1/0418/9883/6120/products/Polyester_Polaris_FrontQuarterUpright-2_530x@2x.png"
+      ],
+      "definitions": [
+        "small and light boat; pointed at both ends; propelled with a paddle"
+      ]
+    },
+    {
+      "id": "yacht",
+      "image_urls": [
+        "https://www.absoluteyachts.com/web/app/uploads/2016/11/Absolute-Yachts-58Fly-Render.png",
+        "https://www.absoluteyachts.com/web/app/uploads/2021/05/Absolute-Yachts-60Fly-Render.png",
+        "https://www.tuttobarche.it/magazine/wp-content/uploads/sites/2/2017/04/Launch-Home-aka-Project-Nov-1280x720.png",
+        "https://www.sunreef-yachts.com/img/pages/yachts/power-100/power-100-render.png",
+        "https://cdn-bogep.nitrocdn.com/qSrxAGotbGdLjevqGLfvbhIHlxDBzoje/assets/static/optimized/rev-962ddf3/wp-content/themes/ragnar/assets/img/12345.png"
+      ],
+      "definitions": [
+        "an expensive vessel propelled by sail or power and used for cruising or racing"
+      ]
+    },
+    {
+      "id": "sled",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/sled-emoji.png",
+        "https://www.gymequip.eu/wp-content/uploads/Prowler-Sled-Z07-1.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/78391/sled-clipart-xl.png",
+        "https://www.snowservice.it/wp-content/uploads/2020/03/slitta.png",
+        "https://sc04.alicdn.com/kf/HTB11pQAbbSYBuNjSspi760NzpXaJ.png"
+      ],
+      "definitions": [
+        "a vehicle mounted on runners and pulled by horses or dogs; for transportation over snow"
+      ]
+    },
+    {
+      "id": "jeep",
+      "image_urls": [
+        "https://www.jeep-official.it/content/dam/jeep/crossmarket/model/Renegade-80th-Anniversary/ICE/figurini/Jeep_Renegade_80th_876_carbonblack_565x330.png",
+        "https://www.jeep.ch/content/dam/jeep/crossmarket/model/Wrangler_4xe_modelpage-2021/Overview/configs/80th/jeep_wrangler_4xe_overview_configurator_80anniversario_black_565x330.png",
+        "https://www.jeep-official.it/content/dam/jeep/crossmarket/vehiclesfirstlevelexpanded/figurini/4xe/Jeep-wrangler_4xe_296x197.png",
+        "https://www.jeep-official.it/content/dam/jeep/crossmarket/new-renegade-2019/Overview/02_colorizer/01_Trims/limited/monocolor/Limited_296.png",
+        "https://www.jeep-official.it/content/dam/jeep/crossmarket/model/wrangler-JL/trims-2d/sahara/465/monotone/4d/465/jeep-wrangler-my21-sahara-2d-sarge-green.png"
+      ],
+      "definitions": [
+        "a car suitable for traveling over rough terrain"
+      ]
+    },
+    {
+      "id": "bike",
+      "image_urls": [
+        "https://www.ghost-bikes.com/fileadmin/user_upload/ghostbikes_2019/HYBRIDE/LANES/86SC1002_PY18_SQUARE_CROSS_1-8_AL_U_IRIDIUMSILVER_JETBLACK_STARWHITE.png",
+        "https://www.ghost-bikes.com/fileadmin/_processed_/8/c/csm_ghost-bikes-Riot-Trail-essential-black-black-45_38d9fe71b8.png",
+        "https://www.canyon.com/on/demandware.static/-/Sites-canyon-master/default/dw0a62c29a/images/full/Full_2021_/2021/Full_2021_grail-cf-slx-8-etab_2720_bu-bk_P5.png",
+        "https://cdn.shopify.com/s/files/1/0903/4494/files/evil-insurgent-tranny-hero_640x.png",
+        "https://www.sadlerbike.it/assets/img/Roma.png"
+      ],
+      "definitions": [
+        "a motor vehicle with two wheels and a strong frame",
+        "a wheeled vehicle that has two wheels and is moved by foot pedals"
+      ]
+    },
+    {
+      "id": "raft",
+      "image_urls": [
+        "https://www.raftingrepublic.com/img/raft-da-sopra-2.png",
+        "https://cdn.shopify.com/s/files/1/0729/2837/products/12663_af7b3735-aad1-4814-a420-052a0c1b2e97_1024x1024.png",
+        "https://raft-game.com/____impro/1/onewebmedia/Logo_w_Glow.png",
+        "https://cdn.shopify.com/s/files/1/0251/7843/9726/products/ALPACKA-RANGER-CEDAR-SB-CF.png",
+        "https://www.grabner.com/wp-content/uploads/2017/11/invader.png"
+      ],
+      "definitions": [
+        "a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers",
+        "(often followed by `of') a large number or amount or extent",
+        "a foundation (usually on soft ground) consisting of an extended layer of reinforced concrete"
+      ]
+    }
+  ]
+}

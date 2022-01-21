@@ -1,0 +1,125 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "exhaustion",
+      "image_urls": [
+        "https://cdn2.iconfinder.com/data/icons/sleepless-night-flat/64/fatigue-nap-slumber-tired-exhaustion-512.png",
+        "https://cdn0.iconfinder.com/data/icons/sleepless-night/64/fatigue-nap-slumber-tired-exhaustion-512.png",
+        "https://image.flaticon.com/icons/png/512/3654/3654703.png",
+        "https://peagreenphysio.files.wordpress.com/2014/08/officev2.png",
+        "https://cdn.icon-icons.com/icons2/2362/PNG/512/tiredness_sick_exhaustion_tried_covid_sleep_sleeping_icon_143392.png"
+      ],
+      "definitions": [
+        "extreme fatigue",
+        "serious weakening and loss of energy",
+        "the act of exhausting something entirely"
+      ]
+    },
+    {
+      "id": "boredom",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/boredom-c3811101f0109518ce286dc582c24013bc3feec9.png",
+        "https://www.fisher401k.com/sites/default/files/media_library/Boredom%20at%20Work%20800px.png",
+        "https://globalsymbols.com/uploads/production/image/imagefile/19702/17_19703_574efae9-08f8-405b-a8c8-6b53c20e9af2.png",
+        "https://www.theoriginofemotions.com/uploads/1/7/1/4/17142502/1139501_orig.png",
+        "https://cdn3.iconfinder.com/data/icons/miscellaneous-72-line/128/perturbation_disorganizat_worried_sadness_derangement_boredom_dispirited_stress_upset_thinking_-512.png"
+      ],
+      "definitions": [
+        "the feeling of being bored by something tedious"
+      ]
+    },
+    {
+      "id": "cleanliness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/cleanliness-f268787b71a53daa60498cb61278514f1bd5ec09.png",
+        "https://cdn1.iconfinder.com/data/icons/cleaning-contempo-volume-1/256/Cleanliness-512.png",
+        "https://purple.ai/wp-content/uploads/2020/11/venue-compliance-768x481.png",
+        "https://cdn-icons-png.flaticon.com/512/1718/1718299.png",
+        "https://cdn3.iconfinder.com/data/icons/cleaning-kinetic-vol-1/256/Cleanliness-512.png"
+      ],
+      "definitions": [
+        "the habit of keeping free of superficial imperfections",
+        "diligence in keeping clean"
+      ]
+    },
+    {
+      "id": "joy",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.joy-events.nl/wp-content/themes/outlaw/inc/assets/img/logo-joy.png",
+        "https://www.winkelhartroden.nl/wp-content/uploads/2019/01/Logo-Joy-mode.png"
+      ],
+      "definitions": [
+        "the emotion of great happiness",
+        "something or someone that provides a source of happiness"
+      ]
+    },
+    {
+      "id": "allergies",
+      "image_urls": [
+        "https://cdn.the-scientist.com/assets/articleNo/66105/aImg/32599/food-allergy-microbiome-t.png",
+        "https://www.bergerhenryent.com/wp-content/uploads/coronavirus-vs-allergies.png",
+        "https://cdn2.hubspot.net/hub/5993629/hubfs/hero-top-image.png",
+        "https://www.wincloveprobiotics.com/sites/default/files/headerpics/allergy_eczema_hayfever_allergic_rhinitis-01_0.png",
+        "https://www.stopallergie.ch/wp-content/uploads/2017/04/stopallergie-logo-2.png"
+      ],
+      "definitions": [
+        "hypersensitivity reaction to a particular allergen; symptoms can vary greatly in intensity"
+      ]
+    },
+    {
+      "id": "headache",
+      "image_urls": [
+        "https://www.sensbeweegtje.nl/wp-content/uploads/2020/07/triggerpoints-hoofdpijn-e1594985071568.png",
+        "https://www.worcester-chiro.co.uk/wp-content/uploads/2020/05/headaches-trigger-points-358x267.png",
+        "https://infinitewellness.org/wp-content/uploads/2015/06/headache.png",
+        "https://www.tylenol.ca/sites/tylenol_ca/files/head.png",
+        "https://www.embodyhealth.nl/wp-content/uploads/2019/09/HEADACHES-types-vector.png"
+      ],
+      "definitions": [
+        "something or someone that causes anxiety; a source of unhappiness",
+        "pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs"
+      ]
+    },
+    {
+      "id": "arguments",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Argument_terminology_used_in_logic_%28en%29.svg/400px-Argument_terminology_used_in_logic_%28en%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Graham%27s_Hierarchy_of_Disagreement.svg/440px-Graham%27s_Hierarchy_of_Disagreement.svg.png",
+        "https://betterdev.blog/app/uploads/2020/09/command-line-arguments-ls.png",
+        "https://www.brighton-hove.gov.uk/sites/default/files/2020-05/arguments-are-like-fire.png",
+        "https://trickle.app/wp-content/uploads/2019/03/1414px-Graham27s_Hierarchy_of_Disagreement.svg_.png"
+      ],
+      "definitions": [
+        "a fact or assertion offered as evidence that something is true",
+        "a contentious speech act; a dispute where there is strong disagreement",
+        "a discussion in which reasons are advanced for and against some proposition or proposal",
+        "a summary of the subject or plot of a literary work or play or movie",
+        "(computer science) a reference or value that is passed to a function, procedure, subroutine, command, or program",
+        "a variable in a logical or mathematical expression whose value determines the dependent variable; if f(x)=y, x is the independent variable",
+        "a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://www.cityrotterdam.com/wp-content/uploads/2015/10/pelgrimsvaderkerk.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Love/Love%20Dining/image-thumb__29114__width_1200/Love-Dining-Natural-Wood-beige-no-background.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Nut/Nut%20Dining/image-thumb__30199__width_1200/Nut-Dining-Chair-Red-Brown-grey-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__width_1200/monster-chair-indigo-denim-with-arms.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "detroit",
+      "image_urls": [
+        "https://www.urbanista.com/media/catalog/product/cache/6c07725d11cf11164242a71cef72688e/3/1/31927_1_1.png",
+        "https://c9669.cloudnet.cloud/media/wysiwyg/URBANISTA/product_blocks/D-Detroit_Detail_High.png",
+        "https://images.squarespace-cdn.com/content/v1/587e242ad1758eda63647b14/1554839259824-KTDQJSSCXCPP2KIK4QF7/Logo-Greening-30Years-Color.png",
+        "https://detroitfuturecity.com/wp-content/themes/DFC/images/Detroit-Future-City_black.png",
+        "https://a.espncdn.com/i/teamlogos/ncaa/500/2174.png"
+      ],
+      "definitions": [
+        "the largest city in Michigan and a major Great Lakes port; center of the United States automobile industry; located in southeastern Michigan on the Detroit river across from Windsor"
+      ]
+    },
+    {
+      "id": "jail",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/2070/PNG/512/jail_icon_126169.png",
+        "https://cdn-icons-png.flaticon.com/512/1685/1685853.png",
+        "https://assets.website-files.com/6005e7e461f4ba3355a5d5b1/600b00c9c739b6d9140f308d_Icon%20Jail%20260.png",
+        "https://static.thenounproject.com/png/55081-200.png",
+        "https://www.nicepng.com/png/full/4-42502_jail-transparent-png-jail-png.png"
+      ],
+      "definitions": [
+        "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)"
+      ]
+    },
+    {
+      "id": "human",
+      "image_urls": [
+        "https://itis.swiss/assets/images/Virtual-Population/_resampled/ResizedImageWzYwMCwzNzdd/vip-overview-final-s2.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201_Elements_of_the_Human_Body.02.svg/300px-201_Elements_of_the_Human_Body.02.svg.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "workplace",
+      "image_urls": [
+        "https://techcrunch.com/wp-content/uploads/2016/10/04_workplace_homepage_desktop.png",
+        "https://g-workplace.com/application/files/2116/0215/7685/illustration-2020at2x.png",
+        "https://www.servicenow.nl/content/dam/servicenow-assets/public/en-us/images/background/safe-workplace-medium-marquee.png",
+        "https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-workplacebyfacebook.png",
+        "https://venturebeat.com/wp-content/uploads/2016/12/07_Workplace_Group_Desktop-1-e1481072961504.png"
+      ],
+      "definitions": [
+        "a place where work is done"
+      ]
+    },
+    {
+      "id": "elevator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.nidec.com/-/media/www-nidec-com/technology/scenes/commercial/elevator/img/img_elevator_01en.png",
+        "https://www.zemiceurope.com/media/wysiwyg/casestudies/elevatorsystem/elevatorweighingcabin2.png",
+        "https://altrex.com/assets/cache/liftmachinekamerladder-zml-12_9191_700x840.png"
+      ],
+      "definitions": [
+        "lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building",
+        "the airfoil on the tailplane of an aircraft that makes it ascend or descend"
+      ]
+    }
+  ]
+}

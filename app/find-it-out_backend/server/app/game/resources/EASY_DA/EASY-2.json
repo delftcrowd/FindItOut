@@ -1,0 +1,120 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "grapefruit",
+      "image_urls": [
+        "https://www.natureandmore.com/sites/www.natureandmore.com/files/styles/zijbalk/public/product/thumb/grapefruit_kopieeren.png",
+        "https://www.mammarancia.com/wp-content/uploads/2021/01/pompelmo_mammarancia.png",
+        "https://www.wintersweetz.com/wp-content/uploads/2017/02/grapefruit-300x243.png",
+        "https://fbi.org.il/wp-content/uploads/2019/05/grapefruit.png",
+        "https://www.delmonte.com/sites/default/files/_%20Overview-images-RedGrapefruitNSA64oz-SunFresh.png"
+      ],
+      "definitions": [
+        "citrus tree bearing large round edible fruit having a thick yellow rind and juicy somewhat acid pulp",
+        "large yellow fruit with somewhat acid juicy pulp; usual serving consists of a half"
+      ]
+    },
+    {
+      "id": "prune",
+      "image_urls": [
+        "https://www.boeschbodenspies.com/wp-content/uploads/2017/08/prune.png",
+        "https://www.californiaprunes.net/wp-content/uploads/2019/10/bowl.png",
+        "https://www.bordeaux.com/wp-content/uploads/2018/02/Prune-sechee-1-1.png",
+        "https://www.brandsworld.com.my/content/dam/brands/malaysia/product-details/innershine/prune-essence/brands-innershine-prune-essence-product-img-@2x-newbottle.fw.png",
+        "https://www.princes.co.uk/content/images/products-pack/mobile/a66846_pittedprunesj_290g_3d.png"
+      ],
+      "definitions": [
+        "dried plum"
+      ]
+    },
+    {
+      "id": "avocado",
+      "image_urls": [
+        "https://www.siciliaavocado.it/public/componenti/407/f1/AvocadoSfondobianco12bacon.png",
+        "https://www.siciliaavocado.it/public/componenti/49/f1/vendita-avocado-sicilia.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/avocat_196052669-e1477390960453.png",
+        "https://static1.buchi.com/sites/default/files/styles/content_large/public/application-note-images/avocado-937459_1280.png",
+        "https://zeroco2.eco/wp-content/uploads/2020/09/Avocado.png"
+      ],
+      "definitions": [
+        "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed",
+        "tropical American tree bearing large pulpy green fruits"
+      ]
+    },
+    {
+      "id": "plum",
+      "image_urls": [
+        "https://www.unacoa.it/wp-content/uploads/2020/02/unacoa-susine-450x450-1.png",
+        "https://cdn.shopify.com/s/files/1/1488/2350/products/All_Red.png",
+        "https://qbfruit.com/wp-content/uploads/2018/04/bg_prugna.png",
+        "https://pics.clipartpng.com/Plum_PNG_Clip_Art-3115.png",
+        "https://www.lifefood.eu/media/catalog/product/cache/5/image/265x/9df78eab33525d08d6e5fb8d27136e95/en/Blog/2019/11-November/Plums/alexandra-kikot-mjP6MQz834E-unsplash-2-400-400.png"
+      ],
+      "definitions": [
+        "any of several trees producing edible oval fruit having a smooth skin and a single hard stone",
+        "any of numerous varieties of small to medium-sized round or oval fruit having a smooth skin and a single pit",
+        "a highly desirable position or assignment"
+      ]
+    },
+    {
+      "id": "raspberry",
+      "image_urls": [
+        "https://billsberryfarm.com/wp-content/uploads/2020/08/raspberry.png",
+        "https://berrypeople.co.uk/wp-content/uploads/2020/05/raspberry@3x.png",
+        "https://www.santorsola.com/2020/wp-content/uploads/2020/06/lampone-big.png",
+        "https://www.unipi.technology/upload/Case%20studies/Smarthome%20s%20RPi/rpi4.png",
+        "https://berryworld.imgix.net/consumerAssets/Raspberry-Custom.png"
+      ],
+      "definitions": [
+        "woody brambles bearing usually red but sometimes black or yellow fruits that separate from the receptacle when ripe and are rounder and smaller than blackberries",
+        "red or black edible aggregate berries usually smaller than the related blackberries",
+        "a cry or noise made to express displeasure or contempt"
+      ]
+    },
+    {
+      "id": "cherry",
+      "image_urls": [
+        "https://www.santorsola.com/2020/wp-content/uploads/2020/06/ciliegia-big.png",
+        "https://www.boeschbodenspies.com/wp-content/uploads/2017/08/cherry.png",
+        "https://static.wixstatic.com/media/2cd43b_4dfa25c96f064793ad2ac3e5a7b453fb~mv2.png",
+        "https://cdn.shopify.com/s/files/1/2283/1973/products/04-qeeboo-cherry-lamp-by-nika-zupanc--red_1024x1024.png",
+        "https://cdn.farmjournal.com/s3fs-public/1920-600-banner-cherries-ripe.png"
+      ],
+      "definitions": [
+        "wood of any of various cherry trees especially the black cherry",
+        "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood",
+        "a red fruit with a single hard stone",
+        "a red the color of ripe cherries"
+      ]
+    },
+    {
+      "id": "banana",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bananas.svg/2560px-Bananas.svg.png",
+        "https://delmonteeurope.com/media/europe/products/fresh-market/fruits/delmonte-banana.png",
+        "https://blog.giallozafferano.it/ricettagourmet/wp-content/uploads/2016/11/Quante-calorie-ha-una-banana-e1478856212493.png",
+        "https://netbanana.it/wp-content/uploads/2021/06/banana-singola-netb.png",
+        "https://www.chiquita.com/wp-content/uploads/2020/12/Un-Peel_a_masterpiece_Chiquita_Artist_Stickers_mobile.png"
+      ],
+      "definitions": [
+        "any of several tropical and subtropical treelike herbs of the genus Musa having a terminal crown of large entire leaves and usually bearing hanging clusters of elongated fruits",
+        "elongated crescent-shaped yellow fruit with soft sweet flesh"
+      ]
+    },
+    {
+      "id": "pear",
+      "image_urls": [
+        "https://www.gisymbol.com/wp-content/uploads/2017/08/Australian-Pears-600x600.png",
+        "https://static.wikia.nocookie.net/dayz_gamepedia/images/b/b0/Pear.png",
+        "https://bio-trading.it/wp-content/uploads/2018/08/pera-2.png",
+        "https://www.isolabio.com/wp-content/uploads/2019/04/succo_pera_200ml_it-600x600.png",
+        "https://qbfruit.com/wp-content/uploads/2018/04/bg_pera.png"
+      ],
+      "definitions": [
+        "sweet juicy gritty-textured fruit available in many varieties",
+        "Old World tree having sweet gritty-textured juicy fruit; widely cultivated in many varieties"
+      ]
+    }
+  ]
+}

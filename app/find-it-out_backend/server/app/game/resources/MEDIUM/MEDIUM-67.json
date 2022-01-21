@@ -1,0 +1,258 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "basement",
+      "image_urls": [
+        "https://www.ussu.co.uk/events/PublishingImages/50762604_1050380401812311_3411702263645732864_n.png",
+        "https://www.albodeuren.nl/wp-content/uploads/2018/03/Basement_Modern.png",
+        "https://www.mybasementdoctor.com/wp-content/uploads/2019/11/bd-logo-1.png",
+        "https://www.finishedbasementsplus.com/wp-content/uploads/2019/09/FPB-Logo-1024x537.png",
+        "https://escaperoomthegame.com/images/nl-NL/basement-logo.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "the ground floor facade or interior in Renaissance architecture"
+      ]
+    },
+    {
+      "id": "shower",
+      "image_urls": [
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__apa00466_tif.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpb01278_tif.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpu70923_tif.png",
+        "https://www.clage.com/en/Mediacenter/2df45244f09369e16ea3f9117ca45157/MBX-Shower.png",
+        "https://images.zeald.com/ic/englefieldnz/3953371097/5625A-VS-CP.png"
+      ],
+      "definitions": [
+        "a plumbing fixture that sprays water over you",
+        "washing yourself by standing upright under water sprayed from a nozzle",
+        "a brief period of precipitation",
+        "a sudden downpour (as of tears or sparks etc) likened to a rain shower",
+        "someone who organizes an exhibit for others to see",
+        "a party of friends assembled to present gifts (usually of a specified kind) to a person"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "trunk",
+      "image_urls": [
+        "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c650956/images/large/83280654_1.png",
+        "https://images.selency.com/8c0f5e70-9a9c-4637-896d-399043953445/wooden-travel-trunk_original.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/h/a/harrow_medium_trunk-old_saddle_black_copy.png",
+        "https://images.selency.com/1ac2d1fd-4c06-43db-9872-9c6bf586aeb0/old-mail-trunk-in-zinc-sheathed-95-x-55-x-50-travel-trunk-liner-1900-1920_original.png",
+        "https://cdn11.bigcommerce.com/s-6gssxq8qcf/products/12962/images/21427/Olive_Seward_Trunk_1__44698.1621449166.386.513.png"
+      ],
+      "definitions": [
+        "the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber",
+        "luggage consisting of a large strong case used when traveling or for storage",
+        "the body excluding the head and neck and limbs",
+        "compartment in an automobile that carries luggage or shopping or tools",
+        "a long flexible snout as of an elephant"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "bottle",
+      "image_urls": [
+        "https://www.rohnisch.com/on/demandware.static/-/Sites-rohnisch-catalog/default/dw84580a23/Hi-res/110513_S126_P1.png",
+        "https://www.casall.com/storage/64D592134AAC067F381F0FDAF5D9F5681B9F3FD084EA33F132E3F34A202265AF/f3d5b444d72b49628bf8fd8b80e59ca7/png/media/f140d539edb4460c832415d2ee687d92/1-64040807.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/043001_A.png",
+        "https://bottleup.com/wp-content/uploads/2021/01/Bottle-pink-418x1600.png",
+        "https://cdn11.bigcommerce.com/s-ddskwahltf/images/stencil/1000x1000/products/121/535/SS-CY0001-001_Water_Bottle__35927.1591898350.png"
+      ],
+      "definitions": [
+        "a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped",
+        "the quantity contained in a bottle",
+        "a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children"
+      ]
+    },
+    {
+      "id": "pantry",
+      "image_urls": [
+        "https://www.thepantry.nl/wordpress/wp-content/uploads/Restaurant-The-Pantry-Amsterdam-logo-400X150.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594809742327-8QUZ2V0P4WFNZ4DHKSDY/maison_haven_organizers_style_sheet_PANTRY-ZONES.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594891146867-RI1QTHHZR9747T6GKY3H/maison-haven-style-sheet-pantry-main+copy.png",
+        "https://i2.wp.com/www.thedesignconfidential.com/wp-content/uploads/final_20.png",
+        "https://www.mwtoolboxqld.com.au/wp-content/uploads/2021/08/MW-Canopy-Pantry-Main.png"
+      ],
+      "definitions": [
+        "a small storeroom for storing foods or wines"
+      ]
+    },
+    {
+      "id": "den",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/hypixel-skyblock/images/2/23/Spider%27s_Den.png",
+        "https://cdn-assets.alltrails.com/static-map/production/at-map/25205102/trail-netherlands-south-holland-den-haag-rotterdam-at-map-25205102-1623135857-414x200-2.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/016633_A.png",
+        "https://static.wikia.nocookie.net/dont-starve-game/images/1/17/Rock_Den.png",
+        "https://www.arttri.be/wp-content/uploads/2021/02/DB_product.png"
+      ],
+      "definitions": [
+        "the habitation of wild animals",
+        "a hiding place; usually a remote place used by outlaws",
+        "a unit of 8 to 10 cub scouts",
+        "a room that is comfortable and secluded"
+      ]
+    },
+    {
+      "id": "sink",
+      "image_urls": [
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/2/PR11899BI11133_11128001_PREMIUM_1C_SZ1.png",
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/PR11617BI20811_10125004_BE_34_37_1B_SZ1.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpr02254_tif.png",
+        "https://crownappliances.com.pk/wp-content/uploads/2021/01/CR-6045-min-1.png",
+        "https://www.dometic.com/externalassets/dometic-va8000-series-sink_37458.png"
+      ],
+      "definitions": [
+        "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe",
+        "(technology) a process that acts to absorb or remove energy or a substance from a system",
+        "a depression in the ground communicating with a subterranean passage (especially in limestone) and formed by solution or by collapse of a cavern roof",
+        "a covered cistern; waste water and sewage flow into it"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "home",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go-home-2.svg/1200px-Go-home-2.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Home-icon.svg/2048px-Home-icon.svg.png",
+        "https://s3-eu-west-1.amazonaws.com/zkn/files/df172fd7066470da8c916409ba3f75c4.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABajVV54Z0yXvIDzrA3hPAm6UAxTjm9xPYG0NfkeRky2wjDbVDEmX-vKnRx00rWSvsAGCrsXy2UxenzhVYnVNGx3Bzs7FsErHOOq7.png",
+        "https://www.somfy.nl/common/img/library///700x350/15-smart-home.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "jar",
+      "image_urls": [
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw953883ce/images/120527860/120527860_MCM_PACK_150516.png",
+        "https://www.bierglazen-fabriek.nl/wp-content/uploads/2018/03/drinking-jar-71-cl-set-van-12-12426.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw116bec09/images/120527771/120527771_MCM_PACK_150532.png",
+        "https://www.candlewarmers.com/cache/PRODUCTIMAGE4018MAR.png",
+        "https://www.oasisfloral.co.uk/media/catalog/product/cache/73fdfc624587e8942c64b15b96a5e275/4/5/45-03255_group_new_hailey_clear_and_green.png"
+      ],
+      "definitions": [
+        "a vessel (usually cylindrical) with a wide mouth and without handles",
+        "the quantity contained in a jar",
+        "a sudden jarring impact"
+      ]
+    },
+    {
+      "id": "groceries",
+      "image_urls": [
+        "https://izooqadmin.izooq.com/public/uploads/1624679603.png",
+        "https://www.groceriesinaboxbonaire.com/wp-content/uploads/2016/11/dinner-logo-final-1.png",
+        "https://www.zasket.in/img/groceries.png",
+        "https://cdn1.iconfinder.com/data/icons/family-68/512/grocery-shopping-bag-store-groceries-512.png",
+        "https://kumbadirect.com/wp-content/uploads/2021/07/KUMBADIRECT.CO-GROCERIES-HAMPERS-450x450.png"
+      ],
+      "definitions": [
+        "a marketplace where groceries are sold",
+        "(usually plural) consumer goods sold by a grocer"
+      ]
+    }
+  ]
+}

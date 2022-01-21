@@ -1,0 +1,117 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "river",
+      "image_urls": [
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfYG-2JJ4qmETgedI9xVH_RRlenov2GTkvXiweQVdKfeRTXqrRxrJZ4tCN_8RMtWJsI9RAqkmPmWNAvFGgu4X_4aLpQ_UDWYspUfOt_PwXeD6DOryFsOEhTI6Vvw0Su9WX7HSONSfCn9e9tJmcpxosfk9Qy4lkHJOdcR4aXDzatC_Q.png",
+        "https://www.nps.gov/miss/images/watershed.png",
+        "https://riveramsterdam.com/wp-content/uploads/2018/11/RIVER-AMS-LOGO.png",
+        "https://cpw.state.co.us/PublishingImages/LandWater/Riverwatch/River-Watch-logo.png",
+        "https://ohioriverfdn.org/wp-content/uploads/OhioRiverWatershed.png"
+      ],
+      "definitions": [
+        "a large natural stream of water (larger than a creek)"
+      ]
+    },
+    {
+      "id": "captivity",
+      "image_urls": [
+        "https://freedomwishorg.files.wordpress.com/2019/03/6289550_orig1.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/captive-826c18b26d33f3e8a956876399a154f16b8b4f5c.png",
+        "https://cdn.shopify.com/s/files/1/1882/8385/products/paradise-systems-comic-captivity-xiang-yata-interior-1_1296x_47d18838-9431-4047-bac7-1ff6887e3544_530x@2x.png",
+        "https://www.takepart.com/sites/default/files/captive_menu.png",
+        "https://cdn.shopify.com/s/files/1/1882/8385/products/paradise-systems-comic-captivity-xiang-yata-interior-2_1296x_8315137b-ff76-4d8a-ba83-1e61e569c53e_530x@2x.png"
+      ],
+      "definitions": [
+        "the state of being imprisoned",
+        "the state of being a slave; --Shakespeare"
+      ]
+    },
+    {
+      "id": "lizard",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_960,f_auto/10140482_den8mp.png",
+        "https://static.wikia.nocookie.net/greenhell_gamepedia_en/images/8/81/Caiman_lizard.png"
+      ],
+      "definitions": [
+        "relatively long-bodied reptile with usually two pairs of legs and a tapering tail",
+        "a man who idles about in the lounges of hotels and bars in search of women who would support him"
+      ]
+    },
+    {
+      "id": "desert",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/ks2-desert-landscape.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Sahara-Desert--Terrain-Hot-Geography-KS2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/desert-habitat.png",
+        "https://i.pinimg.com/originals/4b/45/6c/4b456c02c9ab0835d9f97482f95a2873.png",
+        "https://www.elcidtour.com/wp-content/uploads/2020/11/Picture4.png"
+      ],
+      "definitions": [
+        "arid land with little or no vegetation",
+        "(usually plural) a person's deservingness of or entitlement to reward or punishment"
+      ]
+    },
+    {
+      "id": "tropics",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b0/World_map_indicating_tropics_and_subtropics.png",
+        "https://www.angelo.edu/faculty/mdixon/ManEnvironment/arctictemperatetropical.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Koppen-Geiger_Map_A_present.svg/330px-Koppen-Geiger_Map_A_present.svg.png",
+        "https://cdn-ckamg.nitrocdn.com/wbIHtgDhQINwSLUkJQgZJjvFOHZxQkvr/assets/static/optimized/rev-45ed29e/wp-content/uploads/2016/11/0001-7-1.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/tropics.png"
+      ],
+      "definitions": [
+        "either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the Torrid Zone or tropics"
+      ]
+    },
+    {
+      "id": "china",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag-map_of_the_People%27s_Republic_of_China.svg/1200px-Flag-map_of_the_People%27s_Republic_of_China.svg.png",
+        "https://www.ictmagazine.nl/wp-content/uploads/2018/02/china-kaart-en-vlag-ineen-720x340.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/CHN_orthographic.svg/220px-CHN_orthographic.svg.png",
+        "https://static.warthunder.com/upload/image/!%202021%20NEWS/09%20September/ChinaDay/huabiao_decal_1_538a7912f96d0eec89ccb8a41ac14246.png",
+        "https://www.thechinaguide.com/statics/images/china-map.png"
+      ],
+      "definitions": [
+        "a communist nation that covers a vast territory in eastern Asia; the most populous country in the world",
+        "high quality porcelain originally made only in China",
+        "a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong",
+        "dishware made of high quality porcelain"
+      ]
+    },
+    {
+      "id": "encyclopedia",
+      "image_urls": [
+        "https://books.britannica.com/wp-content/uploads/2021/04/Encyclo-US_3D-Britannica-template-medium-1-1164x1536.png",
+        "https://worldchristianresearch.files.wordpress.com/2015/08/wce-2.png",
+        "https://www.worldbookonline.com/training/look-inside/assets/images/wbe-2022.png",
+        "https://getintopc.com/wp-content/uploads/2013/12/44-h_main-w.png",
+        "https://global-uploads.webflow.com/5de14733d41c9b578bb9bd65/5f55d0a6f06083a23a208064_ubam--encyclopedias-for-kids.png"
+      ],
+      "definitions": [
+        "a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2020/12/Romantic-garden.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2019/08/Hello-Garden-Waar-te-koop.png",
+        "https://cdn.shopify.com/s/files/1/1257/7487/products/edn-smallgarden-hero-basil-front-shopify_dba28422-4eeb-4039-821a-4d2551b531f5_2048x.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "water",
+      "image_urls": [
+        "https://www.hatenboer-neptunus.nl/fileadmin/_processed_/4/4/csm_20.10.10_Hadex-FoodGrade-Drinking-Water-Disinfectant_64fb64caef.png",
+        "https://www.carlsberggroup.com/media/42520/cg_sr2020_illustration_ttz_single_1200x1200_web-08.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9d/Water.png",
+        "https://cdn.shopify.com/s/files/1/0051/7262/5477/products/FW_2021_1000ml_900x900_3acaa56d-6493-46d6-b941-f84ea7670dce_grande.png",
+        "https://149362216.v2.pressablecdn.com/wp-content/uploads/2019/06/05_WaterGlass_Pour_Transparent_Shadow_Straight.png"
+      ],
+      "definitions": [
+        "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent",
+        "the part of the earth's surface covered with water (such as a river or lake or ocean)",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "a facility that provides a source of water",
+        "liquid excretory product",
+        "a liquid necessary for the life of most animals and plants"
+      ]
+    },
+    {
+      "id": "bridge",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Golden-Gate-Bridge.svg/700px-Golden-Gate-Bridge.svg.png",
+        "https://www.midasoft.com/hubfs/2019-MIDAS-RENEWAL/conventional_bridge.png",
+        "https://bridges2000.com/wp-content/uploads/2021/06/BRIDGES2000-Oplossingen-Bruggen-brug.png",
+        "https://www.jansonbridging.co.uk/images/content/products/402/image_5f208ce808janson_bridging_jpb_traffic_normal.png",
+        "https://tbli.nl/wp-content/uploads/2020/04/cropped-Thebrigdelearninginterventions-1.png"
+      ],
+      "definitions": [
+        "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+        "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+        "something resembling a bridge in form or function",
+        "the hard ridge that forms the upper part of the nose",
+        "any of various card games based on whist for four players",
+        "a wooden support that holds the strings up",
+        "a denture anchored to teeth on either side of missing teeth",
+        "the link between two lenses; rests on the nose",
+        "an upper deck where a ship is steered and the captain stands"
+      ]
+    },
+    {
+      "id": "sink",
+      "image_urls": [
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/2/PR11899BI11133_11128001_PREMIUM_1C_SZ1.png",
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/PR11617BI20811_10125004_BE_34_37_1B_SZ1.png",
+        "https://www.elkay.com/content/dam/elkay2/web/imgs5/DSE13322/DSE13322_image_main.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpr02254_tif.png",
+        "https://www.dometic.com/externalassets/dometic-va8000-series-sink_37458.png"
+      ],
+      "definitions": [
+        "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe",
+        "(technology) a process that acts to absorb or remove energy or a substance from a system",
+        "a depression in the ground communicating with a subterranean passage (especially in limestone) and formed by solution or by collapse of a cavern roof",
+        "a covered cistern; waste water and sewage flow into it"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://www.houseofbeta.nl/app/uploads/2020/09/HoB-logo-cmyk-staand.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "toilet",
+      "image_urls": [
+        "https://www.vanwalraven.com/media/products/616151.png",
+        "https://images.zeald.com/ic/englefieldnz/3857879627/Milano_QC%20QR_Flat%20button_1000x1000.png",
+        "https://images.zeald.com/ic/kohlerau/1516415331/IMG_TLT_ST_Parliamant%20BTW_1000x1000.png",
+        "https://spatoilet.com/site-spatoilet/storage/files/2663/spatoilet-vrijstaand.350x0-is.png",
+        "https://frissebips.nl/wp-content/uploads/2019/10/TOTO_Washlet_TCF801CG_Frissebips.png"
+      ],
+      "definitions": [
+        "a room or building equipped with one or more toilets",
+        "a plumbing fixture for defecation and urination",
+        "misfortune resulting in lost effort or money",
+        "the act of dressing and preparing yourself"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    },
+    {
+      "id": "jar",
+      "image_urls": [
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw953883ce/images/120527860/120527860_MCM_PACK_150516.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw116bec09/images/120527771/120527771_MCM_PACK_150532.png",
+        "https://www.candlewarmers.com/cache/PRODUCTIMAGE4018MAR.png",
+        "https://www.oasisfloral.co.uk/media/catalog/product/cache/73fdfc624587e8942c64b15b96a5e275/4/5/45-03255_group_new_hailey_clear_and_green.png",
+        "https://www.nutella.com/nl/sites/nutella20_nl/files/styles/scale_width_475/public/2020-09/de-nutella-pot-leeg-glas.png"
+      ],
+      "definitions": [
+        "a vessel (usually cylindrical) with a wide mouth and without handles",
+        "the quantity contained in a jar",
+        "a sudden jarring impact"
+      ]
+    },
+    {
+      "id": "moon",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/2486/3224/files/PL_jpg_30a24c90-8bb6-4ff1-85c7-baa43f4d0131_grande.png",
+        "https://nineplanets.org/wp-content/uploads/2019/09/moon.png",
+        "https://moonx.app/images/moon1.png",
+        "https://914230.smushcdn.com/2260515/wp-content/uploads/2021/06/RS-Header-Moon_840px_3.png",
+        "https://images-na.ssl-images-amazon.com/images/I/81ZzL0Pmz9L.png"
+      ],
+      "definitions": [
+        "the natural satellite of the Earth",
+        "any object resembling a moon",
+        "the period between successive new moons (29.531 days)",
+        "the light of the Moon",
+        "United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)",
+        "any natural satellite of a planet"
+      ]
+    }
+  ]
+}

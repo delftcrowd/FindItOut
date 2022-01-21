@@ -1,0 +1,258 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "skate",
+      "image_urls": [
+        "https://www.kidsproof.nl/blog_images/Rotterdam/Te-gekke-skateplekken-in-de-regio-Rotterdam0.png",
+        "https://cdn.shopify.com/s/files/1/0048/6242/files/bont-ice-skate.png",
+        "https://www.roller.riedellskates.com/UserFiles/Images/Products//XLarge/Roller/riedell-dart-group-blkaq-2021-XL.png",
+        "https://skate-dump.com/static/images/themes/koolesport/img-skate-dump/fast.092af2ce.png",
+        "https://www.skatedance.nl/wp-content/uploads/2018/11/skateverhuurx2.png"
+      ],
+      "definitions": [
+        "sports equipment that is worn on the feet to enable the wearer to glide along and to be propelled by the alternate actions of the legs",
+        "large edible rays having a long snout and thick tail with pectoral fins continuous with the head; swim by undulating the edges of the pectoral fins"
+      ]
+    },
+    {
+      "id": "dance",
+      "image_urls": [
+        "https://activesafe.ca/wp-content/uploads/2018/04/dancer-completed-01.png",
+        "https://images.squarespace-cdn.com/content/v1/5f364b4110bb4202f7ee856b/1600160087581-R4J7LTHBLIUAENZL2Q3O/Dance+Valley+logo+2020+-+transparant.png",
+        "https://dancer-strong.com/wp-content/uploads/2020/09/ballet-dancer.png",
+        "https://www.dolstradancecentre.nl/wp-content/uploads/2020/08/Dolstra-Dance-Centre-logo-met-dansers-zwart-wit-homepage-Vooropleiding-Talent-School.png",
+        "https://www.dance-skills.nl/wp-content/uploads/dancehiphop.png"
+      ],
+      "definitions": [
+        "an artistic form of nonverbal communication",
+        "a party of people assembled for dancing",
+        "taking a series of rhythmical steps (and movements) in time to music",
+        "a party for social dancing"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "person",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/1674/PNG/512/person_110935.png",
+        "https://cargonaut.nl/wp-content/uploads/2019/06/person-icon-silhouette-png-0.png",
+        "https://freeyourmindexperience.com/wp-content/uploads/person-icon-person-icon-clipart-image-from-our-icon-clipart-category-9-500x500.png",
+        "https://static-00.iconduck.com/assets.00/person-icon-486x512-eeiy7owm.png",
+        "https://www.freeiconspng.com/thumbs/human-icon-png/white-person-icon-png-people-black-icon-png-persons-12.png"
+      ],
+      "definitions": [
+        "a human being",
+        "a human body (usually including the clothing)",
+        "a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party"
+      ]
+    },
+    {
+      "id": "elevator",
+      "image_urls": [
+        "https://www.nidec.com/-/media/www-nidec-com/technology/scenes/commercial/elevator/img/img_elevator_01en.png",
+        "https://www.zemiceurope.com/media/wysiwyg/casestudies/elevatorsystem/elevatorweighingcabin2.png",
+        "https://altrex.com/assets/cache/liftmachinekamerladder-zml-12_9191_700x840.png",
+        "https://www.toshiba-elevator.co.jp/elv/infoeng/common2020/img/products/doubledeck/p-01.png",
+        "https://www.toshiba-elevator.co.jp/elv/infoeng/common2020/img/technology/doubledeck/p-01.png"
+      ],
+      "definitions": [
+        "lifting device consisting of a platform or cage that is raised and lowered mechanically in a vertical shaft in order to move people from one floor to another in a building",
+        "the airfoil on the tailplane of an aircraft that makes it ascend or descend"
+      ]
+    },
+    {
+      "id": "class",
+      "image_urls": [
+        "https://www.class.com/wp-content/uploads/2021/02/Class_BOZ.png",
+        "https://techcrunch.com/wp-content/uploads/2021/02/Class-for-Zoom-Attendance-.png",
+        "https://class.me/img/homepage/classes.png",
+        "https://theclassof2020.org/wp-content/uploads/2017/07/class2020_logo.png",
+        "https://images.squarespace-cdn.com/content/v1/5fd94d4e3d899d48cf71319b/3c788650-8128-4ef7-b3a3-905b79140a68/CLASS_WORKMARK_MIDNIGHT_V2.png"
+      ],
+      "definitions": [
+        "a collection of things sharing a common attribute",
+        "a body of students who are taught together",
+        "people having the same social, economic, or educational status",
+        "education imparted in a series of lessons or meetings",
+        "a league ranked by quality",
+        "a body of students who graduate together",
+        "(biology) a taxonomic group containing one or more orders",
+        "elegance in dress or behavior"
+      ]
+    },
+    {
+      "id": "museum",
+      "image_urls": [
+        "https://chabotmuseum.nl/wp-content/themes/chabotmuseum-18-11-2017/assets/img/logo.png",
+        "https://www.museumvanloon.nl/graphics/Museum_Van_Loon.png",
+        "https://www.amsterdammuseum.nl/sites/default/files/logo.png",
+        "https://www.diamondmuseum.com/wp-content/uploads/2018/01/home-imaage-8.png",
+        "https://www.dutchmuseums.com/img/mjkdef.png"
+      ],
+      "definitions": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value"
+      ]
+    },
+    {
+      "id": "music",
+      "image_urls": [
+        "https://pbs.twimg.com/profile_images/1642161716/music_logo_400x400.png",
+        "https://lyfnaction.org/wp-content/uploads/2021/01/img-01.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Treble_a.svg/1200px-Treble_a.svg.png",
+        "https://music.apple.com/assets/logo/onboarding_appicon_fy2020-a73295f8bd8a992de61f052b44e84f49.png",
+        "https://upload.wikimedia.org/wikipedia/commons/2/26/DELUXE_MUSIC_Logo_2019.png"
+      ],
+      "definitions": [
+        "an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner",
+        "any agreeable (pleasing and harmonious) sounds",
+        "musical activity (singing or whistling etc.)",
+        "(music) the sounds produced by singers or musical instruments (or reproductions of such sounds)",
+        "punishment for one's actions"
+      ]
+    },
+    {
+      "id": "war",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABS20-qCwjFfAqjmqhKgbrFocFMAu4mn91dOdXfuBnga9SpwgkqndM9qEGu4Efo0iDRB5twLYBtooSBepCq0UHjBiytkfB62sIpn_.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdBXIsf7XKzSRbMsyNJLnWP3W2LOdPHxZaVqN_txZeTQv7tsrRwKVFjf7yYoAZ3j57b5G18Ch0TJw7o2dmhlSWGSSkN8EYHrS4pG.png",
+        "https://www.eur.nl/sites/corporate/files/styles/responsive_w550/public/2020-03/stage_of_war_logo.png",
+        "https://liquipedia.net/commons/images/0/02/TeamWaR.png",
+        "https://images.squarespace-cdn.com/content/v1/5c9a37bc29f2cc36500cb161/1554313263882-UTBTII9794XN0950Q1KQ/this+is+war+logo.png"
+      ],
+      "definitions": [
+        "the waging of armed conflict against an enemy",
+        "a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply",
+        "an active struggle between competing entities",
+        "a concerted campaign to end something that is injurious"
+      ]
+    },
+    {
+      "id": "mind",
+      "image_urls": [
+        "https://wijzijnmind.nl/bundles/clientwebsite/images/mind_corporate/vertical_logo.png",
+        "https://mindplatform.nl/bundles/clientwebsite/images/mind_platform/vertical_logo.png",
+        "https://wisemindproject.eu/wp-content/uploads/2020/04/WiseMind_Logo_PNG.png",
+        "https://imlounge.nl/wp-content/uploads/2017/07/mind-logo-1.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/with-this-in-mind-aaca645e516bf7591e2da1675e4512f0ddb9472f.png"
+      ],
+      "definitions": [
+        "that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason",
+        "recall or remembrance",
+        "an opinion formed by judging something",
+        "an important intellectual",
+        "attention",
+        "your intention; what you intend to do",
+        "knowledge and intellectual ability"
+      ]
+    },
+    {
+      "id": "opera",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+        "https://img.ashampoo.com/images/products/partner0115/boxshot.png"
+      ],
+      "definitions": [
+        "a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes",
+        "a commercial browser",
+        "a building where musical dramas are performed"
+      ]
+    },
+    {
+      "id": "good",
+      "image_urls": [
+        "https://ane4bf-datap1.s3-eu-west-1.amazonaws.com/wmocms/s3fs-public/ckeditor/files/good_practice_2_0.png",
+        "https://goodpointagency.com/wp-content/uploads/2020/01/Logo_Mobile@2x.png",
+        "https://www.forgood.eco/wp-content/uploads/2017/12/forgood-logo-light-2.png",
+        "https://www.good.nl/good-goodbv/_Layout/img/og-goodbv.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABa8Rux2gy7MYqZosOBeE4W5vLL2rantFkKq95st3JTpyqbmIwEAlxtfuWF81zUL6RbX_OxCZw-Oft2IKPnWti2bIi-5HwFssQI1N.png"
+      ],
+      "definitions": [
+        "benefit",
+        "moral excellence or admirableness",
+        "that which is pleasing or valuable or useful",
+        "articles of commerce"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "confusion",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/2418/PNG/512/confusion_confused_bewildered_intricate_ambivalent_disorganized_icon_146773.png",
+        "https://mathanxiety.com/wp-content/uploads/2021/01/confused-01.png",
+        "https://cdn-icons-png.flaticon.com/512/1476/1476223.png",
+        "https://cdn-icons-png.flaticon.com/512/2622/2622292.png",
+        "https://cdn4.iconfinder.com/data/icons/artificial-intelligence-114/25/Confused_Mind-512.png"
+      ],
+      "definitions": [
+        "disorder resulting from a failure to behave predictably",
+        "a mental state characterized by a lack of clear and orderly thought and behavior",
+        "a feeling of embarrassment that leaves you confused",
+        "an act causing a disorderly combination of elements with identities lost and distinctions blended",
+        "a mistake that results from taking one thing to be another"
+      ]
+    },
+    {
+      "id": "germany",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/German_Empire_1914.svg/220px-German_Empire_1914.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/EU-Germany_%28orthographic_projection%29.svg/220px-EU-Germany_%28orthographic_projection%29.svg.png",
+        "https://gisgeography.com/wp-content/uploads/2017/10/Germany-Map.png",
+        "https://www.epspermits.com/wp-content/uploads/2020/01/duitsland.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/COVID-19_Germany_-_Cases_per_capita.svg/325px-COVID-19_Germany_-_Cases_per_capita.svg.png"
+      ],
+      "definitions": [
+        "a republic in central Europe; split into East Germany and West Germany after World War II and reunited in 1990"
+      ]
+    },
+    {
+      "id": "carnival",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0247/8476/4981/files/logo-new_640x.png",
+        "https://images.squarespace-cdn.com/content/v1/6049e94ea35ba05f50849c2f/1615458822673-2ZSR8RI0L73SUE9ZIFPF/Asset+1%404x.png",
+        "https://huddscarnival.com/wp-content/uploads/2019/05/Hudds-Carnival-Generic-Logo-01.png",
+        "https://www.springville.org/art-city-days/wp-content/blogs.dir/19/files/2020/02/SV_artcitydays_2color-red.png",
+        "https://www.bahamascarnival.com/image/catalog/LOGO/BC_logo_NEW%20PINK.png"
+      ],
+      "definitions": [
+        "a festival marked by merrymaking and processions",
+        "a frenetic disorganized (and often comic) disturbance suggestive of a large public entertainment",
+        "a traveling show; having sideshows and rides and games of skill etc."
+      ]
+    }
+  ]
+}

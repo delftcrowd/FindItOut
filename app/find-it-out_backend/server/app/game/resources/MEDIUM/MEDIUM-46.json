@@ -1,0 +1,243 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "mouse",
+      "image_urls": [
+        "https://resource.logitechg.com/w_1000,c_limit,q_auto,f_auto,dpr_auto/d_transparent.gif/content/dam/gaming/en/products/pro-gaming-mouse/pro-wired-mouse-rgb-hero-new.png",
+        "https://thermaltake.azureedge.net/pub/media/wysiwyg/key3/img/L20rgbmouse/aa.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/mice/m190-wireless-mouse/m190-wireless-mouse-blue-gallery-01.png",
+        "https://resource.logitech.com/w_420,h_420,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/m557/gallery/m557-grey-gallery-1.png",
+        "https://resource.logitechg.com/w_1000,c_limit,q_auto,f_auto,dpr_auto/d_transparent.gif/content/dam/products/gaming/gaming-mice/g305-lightspeed-wireless-gaming-mouse/g304-g305-lightspeed-wireless-gaming-mouse21.png"
+      ],
+      "definitions": [
+        "any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails",
+        "a swollen bruise caused by a blow to the eye",
+        "person who is quiet or timid",
+        "a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad"
+      ]
+    },
+    {
+      "id": "bowl",
+      "image_urls": [
+        "https://www.shinzo.nl/wp-content/uploads/2020/11/pokebowl-sake.png",
+        "https://www.shinzo.nl/wp-content/uploads/2020/11/pokebowl-tori.png",
+        "https://www.matthewsstudio.ca/wp-content/uploads/2020/07/Black-Ash-Round-Bowl-Traditional-Edge-1-1.png",
+        "https://sushiexpress.lt/wp-content/uploads/2018/10/B2.-Sake-poke-bowl.png",
+        "https://bylassen.com/wp-content/uploads/2021/06/21002_pack.png"
+      ],
+      "definitions": [
+        "a round vessel that is open at the top; used chiefly for holding food or liquids",
+        "a concave shape with an open top",
+        "a dish that is round and open at the top for serving foods",
+        "the quantity contained in a bowl",
+        "a large structure for open-air sports or entertainments",
+        "a large ball with finger holes used in the sport of bowling",
+        "a wooden ball (with flattened sides so that it rolls on a curved course) used in the game of lawn bowling",
+        "a small round container that is open at the top for holding tobacco",
+        "the act of rolling something (as the ball in bowling)"
+      ]
+    },
+    {
+      "id": "porch",
+      "image_urls": [
+        "https://i.pinimg.com/originals/8f/cc/98/8fcc983ef3dbc51f6193218d2d4806ae.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/06/full-2.png",
+        "https://www.pinuphouses.com/wp-content/uploads/cabin-with-screened-porch-plans.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/05/wall-mounted-2.png",
+        "https://images.squarespace-cdn.com/content/v1/537d02bae4b03c36028df3c0/1474580906337-Z2J6H0MP2JNODOG26GQT/3D+FRONT+OF+LARGE+OAK+PORCH+WITH+JOWL+POSTS.png"
+      ],
+      "definitions": [
+        "a structure attached to the exterior of a building often forming a covered entrance"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png",
+        "https://www.hillhouttuinhout.nl/images/180x180/r/products/8711471201873_1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "greenhouse",
+      "image_urls": [
+        "https://www.greenhousemag.com/fileuploads/publications/15/issues/103678/articles/images/Greenhouse_fmt.png",
+        "https://www-shelterlogic.com.imgeng.in/shop/media/catalog/product/cache/a6a9ddd7aa1f70bfa069e95fce2d143c/7/0/70652.png",
+        "https://greenhousemarketeers.com/wp-content/uploads/2018/12/Logo-Greenhouse-Marketeers.png",
+        "https://www.chopni.com/image/cache/sellers/103471/92284_3bd5baaa92f58914cfb2ed162cf14dff-740x740.png",
+        "https://www.logiqs.nl/wp-content/uploads/2021/05/Greenhouse-pic.png"
+      ],
+      "definitions": [
+        "a building with glass walls and roof; for the cultivation and exhibition of plants under controlled conditions"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "trash",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/ramotion/512/Trash.png",
+        "https://static.macupdate.com/products/8214/l/trash-it-logo.png",
+        "https://www.eastpikeland.org/vertical/Sites/%7B3F7567AD-BA35-41A6-9117-FD7892D5A0DA%7D/uploads/Trashcan.png",
+        "https://bubblebinz.com/wp-content/uploads/2020/05/empty-clean-trash.png",
+        "https://www.toter.com/sites/default/files/2021-05/can-5_1.png"
+      ],
+      "definitions": [
+        "worthless material that is to be disposed of",
+        "worthless people",
+        "nonsensical talk or writing",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "pot",
+      "image_urls": [
+        "https://elho.xcdn.nl/RM1100,1100,C_OQ70/tomato-pot-33-cm-living-black-8711904331634p1png/tomato_pot_33_cm_living_black_8711904331634.p1.png",
+        "https://elho.xcdn.nl/RB400,400,C_OQ70/green-basics-growpot-40cm-mild-terrap1png/green_basics_growpot_40cm_mild_terra.p1.png",
+        "https://www.mepal.com/nl/351/0/0/1/ffffff00/d211cb1d/e5ab303a5a8ff2600535ad0b2c02672c9314b50f28542ee5df6e753ee6ec2a42/kies-de-pot-die-bij-je-past.png",
+        "https://www.amsterdamflowers.nl/pub/media/catalog/product/cache/d7c861e5118db161566914bb2814317a/g/r/groene-plan-inclusief-pot.png",
+        "https://www.kookwinkel.nl/media/catalog/product/cache/0996428dee9fed3db5de728090eadc5d/c/r/crock-pot_cr052_slowcooker_4_7_liter_2_.png"
+      ],
+      "definitions": [
+        "metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid",
+        "a plumbing fixture for defecation and urination",
+        "the quantity contained in a pot",
+        "a container in which plants are cultivated",
+        "(often followed by `of') a large number or amount or extent",
+        "the cumulative amount involved in a game (such as poker)",
+        "slang for a paunch",
+        "a resistor with three terminals, the third being an adjustable center terminal; used to adjust voltages in radios and TV sets",
+        "street names for marijuana"
+      ]
+    },
+    {
+      "id": "dishwasher",
+      "image_urls": [
+        "https://assets.products-live.ao.com/Images/8738d376-ca9c-4df7-b51c-85badbdbe1c1/1280x1280/16609815_SMS6EDI02G_STP_def_0.png",
+        "https://storage.beko.co.uk/blomberg2018products/large/Blomberg_Dishwasher_LDF42240W_White_AngledFullyOpen.png",
+        "https://images.ctfassets.net/gtq5kcq8pjem/V7YqbiJJ568Ypi3iaQoCl/870669f515e86106963d5a55409b3d3d/Dishwasher-Nieuw-Image_1.png",
+        "https://assets.products-live.ao.com/Images/6deec93c-9ba2-4451-ae4e-a434876ba7ae/1280x1280/HV520E40UK_BK_hisense_dishwasher_01a.png",
+        "https://www.voltasbeko.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/7/6/7611009177_df14s3.png"
+      ],
+      "definitions": [
+        "a machine for washing dishes",
+        "someone who washes dishes"
+      ]
+    },
+    {
+      "id": "disneyland",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/disney/images/a/ad/Disneyland.png",
+        "https://d118pfm5xh6r9q.cloudfront.net/images/d/disneylandparis_9.png",
+        "https://disneydrive.be/wp-content/uploads/2018/03/Disneyland_Paris_logo.svg-1-1024x289.png",
+        "https://www.discoverthemagic.nl/images/footer-discoverthemagic.png",
+        "https://static.wikia.nocookie.net/disney/images/9/96/Disneyland_Paris.png"
+      ],
+      "definitions": [
+        "an amusement park in Anaheim created in 1955 by Walt Disney"
+      ]
+    },
+    {
+      "id": "toilet",
+      "image_urls": [
+        "https://www.vanwalraven.com/media/products/616151.png",
+        "https://images.zeald.com/ic/englefieldnz/3857879627/Milano_QC%20QR_Flat%20button_1000x1000.png",
+        "https://images.zeald.com/ic/kohlerau/1516415331/IMG_TLT_ST_Parliamant%20BTW_1000x1000.png",
+        "https://spatoilet.com/site-spatoilet/storage/files/2663/spatoilet-vrijstaand.350x0-is.png",
+        "https://frissebips.nl/wp-content/uploads/2019/10/TOTO_Washlet_TCF801CG_Frissebips.png"
+      ],
+      "definitions": [
+        "a room or building equipped with one or more toilets",
+        "a plumbing fixture for defecation and urination",
+        "misfortune resulting in lost effort or money",
+        "the act of dressing and preparing yourself"
+      ]
+    }
+  ]
+}

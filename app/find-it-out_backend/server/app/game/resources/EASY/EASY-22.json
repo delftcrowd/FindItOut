@@ -1,0 +1,118 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "burrow",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5540b78ce4b0792c8c744a64/1590413466891-79N1YX0TC7MUP9SGC350/HumanBurrow_012.png",
+        "https://static.wikia.nocookie.net/zt2downloadlibrary/images/7/79/Rabbit_Burrow_%28Ulquiorra%29.png",
+        "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1495156228/kjmcjzqnadcnrzk3kmcs.png",
+        "https://www.bopets.eu/wp-content/uploads/2020/07/p24468-hac-hacafph06086-afp-dig-it-tree-trunk-burrow-s-with-2-cute-toys-1.png",
+        "https://hyperledger.github.io/burrow/assets/burrow.png"
+      ],
+      "definitions": [
+        "a hole made by an animal, usually for shelter"
+      ]
+    },
+    {
+      "id": "swamp",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/valheim/images/d/d4/Biome_swamp.png",
+        "https://static.wikia.nocookie.net/valheim/images/d/d4/Biome_swamp.png",
+        "https://s2.coinmarketcap.com/static/img/coins/200x200/9082.png",
+        "https://okeswamp.org/wp-content/uploads/2021/03/OSPA-Logo.png",
+        "https://assets.leaguestat.com/echl/logos/52.png"
+      ],
+      "definitions": [
+        "low land that is seasonally flooded; has more woody plants than a marsh and better drainage than a bog",
+        "a situation fraught with difficulties and imponderables"
+      ]
+    },
+    {
+      "id": "underground",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Underground.svg/1200px-Underground.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Underground.svg/1260px-Underground.svg.png",
+        "https://brandslogos.com/wp-content/uploads/images/large/london-underground-logo-black-and-white-1.png",
+        "https://liquipedia.net/commons/images/7/7c/Salt_Mine_Underground.png",
+        "https://www.amsterdamunderground.org/sites/all/themes/au_theme/logo.png"
+      ],
+      "definitions": [
+        "a secret group organized to overthrow a government or occupation force",
+        "an electric railway operating below the surface of the ground (usually in a city)"
+      ]
+    },
+    {
+      "id": "trees",
+      "image_urls": [
+        "https://treesforall.nl/app/themes/treesforall/dist/images/beschermer_900.png",
+        "https://www.ebben.nl/files/images/580x360/boomkwekerij-ebben-planten-fout-goed-en.png",
+        "https://hotelsfortrees.com/wp-content/uploads/2021/04/ngo2-ho3me-pic5.png",
+        "https://images.squarespace-cdn.com/content/v1/5b461598e74940f2e54b02b3/1541258072246-RIJ5RNUECT1AQIC2UXS4/LOGO_GOED_Normal_Size.png",
+        "https://images-na.ssl-images-amazon.com/images/I/713PNcxxEPL.png"
+      ],
+      "definitions": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+        "a figure that branches from a single root",
+        "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+      ]
+    },
+    {
+      "id": "marmoset",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/zt2downloadlibrary/images/f/f9/Pygmy_Marmoset_%28Ulquiorra%29.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/9/9e/Common_Marmoset.png",
+        "https://pixy.org/src/129/1299536.png",
+        "https://www.pettittsadventurepark.co.uk/wp-content/uploads/2020/07/marmoset-1.png",
+        "https://marmoset.cs.umd.edu/images/marmoset.png"
+      ],
+      "definitions": [
+        "small soft-furred South American and Central American monkey with claws instead of nails"
+      ]
+    },
+    {
+      "id": "france",
+      "image_urls": [
+        "https://www.canyonstore.eu/belgium/wp-content/uploads/2016/08/FranceFlag_svg_400x400.png",
+        "https://www.rabobank.com/en/images/frankrijk.png",
+        "https://www.epspermits.com/wp-content/uploads/2020/01/frankrijk.png",
+        "https://www.mio.com/nl_nl/shop/media/catalog/product/cache/53/image/500x500/9df78eab33525d08d6e5fb8d27136e95/f/r/france_1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kingdom_of_France_%281789%29.svg/250px-Kingdom_of_France_%281789%29.svg.png"
+      ],
+      "definitions": [
+        "a republic in western Europe; the largest country wholly in Europe",
+        "French writer of sophisticated novels and short stories (1844-1924)"
+      ]
+    },
+    {
+      "id": "mountains",
+      "image_urls": [
+        "https://mountainsflame.nl/wp-content/uploads/2019/10/Mountainsflame-logo.png",
+        "https://i.pinimg.com/originals/2a/00/84/2a0084395045a7613ab1efa7ee069fd5.png",
+        "https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/mountains-2766-14039-550x550.png",
+        "https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/website/uploaded/ks1-mount-taranaki-new-zealand-mountain-landscape-peak-colour-rgb-1583146682.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/high-mountain.png"
+      ],
+      "definitions": [
+        "a land mass that projects well above its surroundings; higher than a hill",
+        "(often followed by `of') a large number or amount or extent"
+      ]
+    },
+    {
+      "id": "wilderness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/wilderness-a2c574200cd8ac2d3628c06b9e7c7f436681a98e.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQBHx96_Eps-PJq2a9Ej6LjiBuy_ySxuOy6IZW0h0O6QATmcMSNYkLEdI2e0Uk6k-mzRxP3qT4adKGzvH0Ks4KvquoNzzzq4c6H_N6mw8HLwFr3wMPVo-7qWRaz4WRxJLByRFLzC0O20h6DfQuXv6KOUvwgUgH75_4egMVR0dJYx-Q.png",
+        "https://www.mypigeonforge.com/wp-content/uploads/2018/01/Wilderness-Wildlife-Week-horizontal-logo.jpg15.png",
+        "https://www.spellenhuis.nl/media/catalog/product/cache/1/image/420x420/9df78eab33525d08d6e5fb8d27136e95/2/g/2gpkg5peeybgt5qm2rd267d6dmd7rhtm.png",
+        "https://wpresort.com/wp-content/uploads/2020/03/Wilderness-Presidential-Resort-Emblem-png8-500.png"
+      ],
+      "definitions": [
+        "(politics) a state of disfavor",
+        "a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War",
+        "a wild and uninhabited area left in its natural condition",
+        "a bewildering profusion"
+      ]
+    }
+  ]
+}

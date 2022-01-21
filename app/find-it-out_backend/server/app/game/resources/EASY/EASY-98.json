@@ -1,0 +1,125 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "store",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Microsoft_Store.svg/1200px-Microsoft_Store.svg.png",
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "canada",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/1200px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/350px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canada_on_the_globe_%28North_America_centered%29.svg/1200px-Canada_on_the_globe_%28North_America_centered%29.svg.png",
+        "https://www.rabobank.com/en/images/canada.png",
+        "https://www.startupcan.ca/wp-content/themes/startup-canada/assets/img/canada-map.png"
+      ],
+      "definitions": [
+        "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+      ]
+    },
+    {
+      "id": "beaver",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/beaver.png",
+        "https://www.yourconcept.nl/site/wp-content/uploads/2019/10/beaver-builder-wordpress.png",
+        "https://static.wikia.nocookie.net/fallout/images/6/6e/FO76_creature_radbeaver.png",
+        "https://pleistocenegenomicscom.files.wordpress.com/2020/02/beaver-4292308_960_720.png",
+        "https://d3sujgifhk94se.cloudfront.net/wp-content/uploads/2019/11/04100341/Beaver-with-logs-1.png"
+      ],
+      "definitions": [
+        "the soft brown fur of the beaver",
+        "a native or resident of Oregon",
+        "a full beard",
+        "a man's hat with a tall crown; usually covered with silk or with beaver fur",
+        "a movable piece of armor on a medieval helmet used to protect the lower face",
+        "a hat made with the fur of a beaver (or similar material)",
+        "large semiaquatic rodent with webbed hind feet and a broad flat tail; construct complex dams and underwater lodges"
+      ]
+    },
+    {
+      "id": "egypt",
+      "image_urls": [
+        "https://beachsoccer.com/wp-content/uploads/2021/06/EGYPT.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Egyptian-Coffin-Mask-Tutankhamun---Ancient-Egypt-USA-KS2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_Egypt_%28Official%29.svg/1200px-Coat_of_arms_of_Egypt_%28Official%29.svg.png",
+        "https://afrobarometer.org/sites/default/files/country_images/country-egypt-continent.png",
+        "https://i.pinimg.com/originals/49/7d/a1/497da12f3139b216bf556c0639ae9b4b.png"
+      ],
+      "definitions": [
+        "a republic in northeastern Africa known as the United Arab Republic until 1971; site of an ancient civilization that flourished from 2600 to 30 BC",
+        "an ancient empire to the west of Israel; centered on the Nile River and ruled by a Pharaoh; figured in many events described in the Old Testament"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/nPT3vS4AklWXg39tTeiah/a110333e41cfb94c85f8de782a45ccf0/retailrepositioning-e6ed62bb181d46b19c0e770fcdd73be8-800-800.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "excavation",
+      "image_urls": [
+        "https://serbu.ca/wp-content/uploads/2018/10/excavator.png",
+        "https://dukeconst.com/wp-content/uploads/2019/03/mining-trctr.png",
+        "https://abccivilgroup.com.au/app/uploads/2019/02/Bulk-Earth-Works-waypoint.png",
+        "https://www.seatools.com/wp-content/uploads/2016/12/Deep-Water-Excavation-Grab-GES-Specifications-and-Features.png",
+        "https://www.kmuexcavating.com/wp-content/uploads/2020/07/FUMI7597.png"
+      ],
+      "definitions": [
+        "the act of digging",
+        "the site of an archeological exploration",
+        "a hole in the ground made by excavating",
+        "the act of extracting ores or coal etc from the earth"
+      ]
+    },
+    {
+      "id": "montana",
+      "image_urls": [
+        "https://tiogatours.nl/dynamic/img/amerika/montana/seal.6.b958.png",
+        "https://mt.gov/images/mtmap.png",
+        "https://cdn.werkenmetmerken.nl/img/Montana_Gold_5-t-500x333.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/QR11N/logo_465x320.png",
+        "https://montana-glass.com/wp-content/uploads/2018/01/logo.png"
+      ],
+      "definitions": [
+        "a state in northwestern United States on the Canadian border"
+      ]
+    },
+    {
+      "id": "desert",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/ks2-desert-landscape.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Sahara-Desert--Terrain-Hot-Geography-KS2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/desert-habitat.png",
+        "https://i.pinimg.com/originals/4b/45/6c/4b456c02c9ab0835d9f97482f95a2873.png",
+        "https://www.elcidtour.com/wp-content/uploads/2020/11/Picture4.png"
+      ],
+      "definitions": [
+        "arid land with little or no vegetation",
+        "(usually plural) a person's deservingness of or entitlement to reward or punishment"
+      ]
+    }
+  ]
+}

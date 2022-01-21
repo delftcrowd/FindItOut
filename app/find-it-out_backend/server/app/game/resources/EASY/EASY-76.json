@@ -1,0 +1,125 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "michigan",
+      "image_urls": [
+        "https://www.michigannature.org/images/img_library/crp/96-6-8-issue.png",
+        "https://www.bls.gov/regions/midwest/images/18782.png",
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566497203534-IP8F83WR5AWBNVFFG2VF/Michigan.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/hotspots.png",
+        "https://www.smartstartinc.com/michigan/wp-content/uploads/sites/26/2015/05/Smart-Start-Michigan-Outline.png"
+      ],
+      "definitions": [
+        "a midwestern state in north central United States in the Great Lakes region",
+        "the 3rd largest of the Great Lakes; the largest freshwater lake entirely within the United States borders",
+        "a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card"
+      ]
+    },
+    {
+      "id": "warehouse",
+      "image_urls": [
+        "https://cdn0.it4profit.com/files/27/warehouse.png",
+        "https://www.critical-environment.com/images/applications/Distribution-warehouse-695x461.png",
+        "https://static.wikia.nocookie.net/bigbusiness/images/e/e8/Warehouse.png",
+        "https://techhq.com/wp-content/uploads/2019/07/shutterstock_396462703-copy-3.png",
+        "https://gndsolutions.in/wp-content/uploads/2021/02/5f514154ae91755a40a26192_warehouse-inside-the-warehouse-internal.png"
+      ],
+      "definitions": [
+        "a storehouse for goods and merchandise"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://de-garage.com/wp-content/uploads/2020/03/logo_degaragewebsite.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "attic",
+      "image_urls": [
+        "https://energycodeace.com/site/custom/public/reference-ace-2016/ImagesExt/image6738_15.png",
+        "https://hintzebelts.com/wp-content/uploads/2017/09/atticboardset.png",
+        "https://www.datocms-assets.com/38021/1617972282-attic-splash-570.png",
+        "https://www.stira.com/wp-content/uploads/2021/03/2png.png",
+        "https://d2zrc47ziwc8va.cloudfront.net/images/eas/Efficient-Attic-Solution.png"
+      ],
+      "definitions": [
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+        "informal terms for a human head",
+        "(architecture) a low wall at the top of the entablature; hides the roof"
+      ]
+    },
+    {
+      "id": "storage",
+      "image_urls": [
+        "https://ets-rotterdam.nl/image/home/home2.png",
+        "https://www.supermicro.com/sites/default/files/2021-07/Top-loading.png",
+        "https://www.infortrend.com/Content/img/products/ds-prod-mirror.png",
+        "https://www.supermicro.com/sites/default/files/2021-07/Front-and-Rear.png",
+        "https://koma.com/sites/default/files/productsheet/Asset%2015_1.png"
+      ],
+      "definitions": [
+        "the act of storing something",
+        "a depository for goods",
+        "the commercial enterprise of storing goods and materials",
+        "(computer science) the process of storing information in a computer memory or on a magnetic tape or disk",
+        "an electronic memory device",
+        "depositing in a warehouse"
+      ]
+    },
+    {
+      "id": "factory",
+      "image_urls": [
+        "https://betterfuturefactory.com/wp-content/uploads/2020/05/Better-Future-Factory-Logo-2020-website-header.png",
+        "https://ambitionit.nl/wp-content/uploads/2020/07/SmartFactory-AmbitionIT.png",
+        "https://girnetwork.com/wp-content/uploads/revslider/factory.png",
+        "https://betterfuturefactory.com/wp-content/uploads/2020/09/Better-Future-Factory-Logo-2020-white.png",
+        "https://www.image-factory.org/wp-content/uploads/2019/07/logo-black.png"
+      ],
+      "definitions": [
+        "a plant consisting of one or more buildings with facilities for manufacturing"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2020/12/Romantic-garden.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2019/08/Hello-Garden-Waar-te-koop.png",
+        "https://cdn.shopify.com/s/files/1/1257/7487/products/edn-smallgarden-hero-basil-front-shopify_dba28422-4eeb-4039-821a-4d2551b531f5_2048x.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "happiness",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/6054658e1836cc4e4e13b0a5/1616144265312-OFWOC1EPGMWL9WKM9LJC/Your+Happiness+logo+900.png",
+        "https://media.creativemornings.com/uploads/theme/image/4/2013-01-happiness.png",
+        "https://www.stickerop.nl/files/cache/3bde99a62576ae7f5604cd86981cd582-f4872/0020230-muursticker-tekst-Happiness-01.png",
+        "https://www.zomerenkeuning.nl/wp-content/uploads/2020/07/het-dorpje-happiness.png",
+        "https://www.babymassagehappiness.nl/wp-content/uploads/2020/07/happiness-logo-1.png"
+      ],
+      "definitions": [
+        "state of well-being characterized by emotions ranging from contentment to intense joy",
+        "emotions experienced when in a state of well-being"
+      ]
+    },
+    {
+      "id": "injuries",
+      "image_urls": [
+        "https://www.coreconcepts.com.sg/wp-content/uploads/sports-red-1.png",
+        "https://www.rookieroad.com/img/basketball/10-most-common-basketball-injuries.png",
+        "https://www.healthhub.sg/sites/assets/Assets/Programs/project-injury-hub/inner/images/measures-Infographic.png",
+        "https://www.accidentclaimsadvice.org.uk/wp-content/uploads/2017/12/injuries-to-body.png",
+        "https://www.rookieroad.com/img/fencing/5-most-common-fencing-injuries.png"
+      ],
+      "definitions": [
+        "any physical damage to the body caused by violence or accident or fracture etc.",
+        "an accident that results in physical damage or hurt",
+        "a casualty to military personnel resulting from combat",
+        "an act that causes someone or something to receive physical damage",
+        "wrongdoing that violates another's rights and is unjustly inflicted"
+      ]
+    },
+    {
+      "id": "anger",
+      "image_urls": [
+        "https://static.tvtropes.org/pmwiki/pub/images/inside_out_anger_fullbody.png",
+        "https://static.wikia.nocookie.net/insideout/images/d/d6/ANGER_Fullbody_Render.png",
+        "https://static.wikia.nocookie.net/disney-infinity/images/3/3f/Anger.png",
+        "https://images.ctfassets.net/v3n26e09qg2r/3R736sggdiOugoMGwAgqeq/d2ed52cc62c87e3cd836f2530079b50d/hs_character_stressed_1__1_.png",
+        "https://cdn4.iconfinder.com/data/icons/yellow-emoji-set/100/yellow-21-512.png"
+      ],
+      "definitions": [
+        "a strong emotion; a feeling that is oriented toward some real or supposed grievance",
+        "the state of being angry",
+        "belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)"
+      ]
+    },
+    {
+      "id": "stress",
+      "image_urls": [
+        "https://www.izz.nl/sites/default/files/styles/dynamic_content_image/public/mainimage/IZZ_De%20Zorg_01_21_p1819_stress.png",
+        "https://www.ggzingeest.nl/app/uploads/fly-images/736/StressInGeest-670x0-c.png",
+        "https://www.yourbrainbalance.com/wp-content/uploads/elementor/thumbs/Stress-afbeelding-1-oun1y8w75x61w3f1mo9j5d4glgwtthertezr3q3svw.png",
+        "https://www.mijnkwartier.nl/img/sidebar-img-1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Stress_strain_ductile.svg/473px-Stress_strain_ductile.svg.png"
+      ],
+      "definitions": [
+        "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)",
+        "(psychology) a state of mental or emotional strain or suspense",
+        "special emphasis attached to something",
+        "difficulty that causes worry or emotional tension; ; - R.J.Samuelson",
+        "(physics) force that produces strain on a physical body"
+      ]
+    },
+    {
+      "id": "accomplishment",
+      "image_urls": [
+        "https://cdn2.iconfinder.com/data/icons/business-line-color-strawberry-economy/512/goal-512.png",
+        "https://static.thenounproject.com/png/3405535-200.png",
+        "https://cdn-icons-png.flaticon.com/512/1482/1482296.png",
+        "https://cdn2.iconfinder.com/data/icons/start-business-management-1/512/1-512.png",
+        "https://cdn-icons-png.flaticon.com/512/1156/1156050.png"
+      ],
+      "definitions": [
+        "the action of accomplishing something",
+        "an ability that has been acquired by training"
+      ]
+    },
+    {
+      "id": "enemies",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/enemies-205dd9e66b150a5e0fedf13dd22f363fd0f3edd6.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdYN8L00vDfeqBOXTflBP_cNnPSO7VTLhAs8ojErxB5ejHiKkXpOFYG_eZfoXtKhO4i7P_hFLPgjgBHL27ygxuUFezTzr824tf6Z.png",
+        "https://opengameart.org/sites/default/files/platformer_enemies.png",
+        "https://opengameart.org/sites/default/files/10_basic_xbrz_upscale_x4.png",
+        "https://www.kidsworldfun.com/images/story-contest/2016-2/bullying-boys.png"
+      ],
+      "definitions": [
+        "an opposing military force",
+        "an armed adversary (especially a member of an opposing military force)",
+        "any hostile group of people",
+        "a personal enemy"
+      ]
+    },
+    {
+      "id": "argument",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Argument_terminology_used_in_logic_%28en%29.svg/400px-Argument_terminology_used_in_logic_%28en%29.svg.png",
+        "https://assets.junioreinstein.nl/images/articles/begrijpend_lezen/1310/signaalwoorden_argument.png",
+        "https://wellness.usask.ca/images/articles/communication-argument.png",
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/3033/2018/05/24135743/CW-OER-Issue-Argument-Defintion-300x185.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/argument-9e3c240495099322fd1b48d5d71b05eff98762ee.png"
+      ],
+      "definitions": [
+        "a fact or assertion offered as evidence that something is true",
+        "a contentious speech act; a dispute where there is strong disagreement",
+        "a discussion in which reasons are advanced for and against some proposition or proposal",
+        "a summary of the subject or plot of a literary work or play or movie",
+        "(computer science) a reference or value that is passed to a function, procedure, subroutine, command, or program",
+        "a variable in a logical or mathematical expression whose value determines the dependent variable; if f(x)=y, x is the independent variable",
+        "a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning"
+      ]
+    },
+    {
+      "id": "fight",
+      "image_urls": [
+        "https://www.gazeburt.co.nz/wp-content/uploads/2018/04/fight-2954705_960_720.png",
+        "https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfOH9eRD_8Yef1W9zpman5os-gygBvAFzuvQwr-qm_j64F9atCT2Zj6I6-Y2xg8l438mQLMPA-IVz8etN6oX-ra48xTtTfF4gx1J.png",
+        "https://cdn2.iconfinder.com/data/icons/fighter-fighting-attacking-poses/354/fight-003-512.png",
+        "https://bigfightweekend.com/wp-content/uploads/2019/02/Big_Fight_Weekend_Big.png",
+        "https://www.fightclubhuizen.nl/wp-content/uploads/2019/01/Logo-Fight-Club-Huizen-Groot.png"
+      ],
+      "definitions": [
+        "a hostile meeting of opposing military forces in the course of a war",
+        "the act of fighting; any contest or struggle",
+        "an aggressive willingness to compete",
+        "an intense verbal dispute",
+        "a boxing or wrestling match"
+      ]
+    },
+    {
+      "id": "battle",
+      "image_urls": [
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABesIcjCOwu-mwgun_UY2eZ_WkD0Imuh2_7B0bG1NMSyfbJKoCwLTe9k70UV82HG76ewUnyqeuW2HcudHCuaRGrEiST3szEMedU0W2J_ktRwF6M37O8BvpOMzvRPAXGUIFuQ74ewE5GNxe2dKTw8nzAHb9rw2K3jy3-TQTXwFHUqStQ.png",
+        "https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/bltf115e2a60d67650c/5fb7ea229fbb9857903d992e/FreeGames_Image.png",
+        "https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSecueVqRjLxon6rfFRKbmtvfeVv2s5m0U7QWqN7P2pU68Xl8Ac2mzCx4K-6ndcIq8LBB82AEEedZjyxSucT4IXU_n88g20uC_HY.png",
+        "https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/blt636d76fd9e08aa95/5fd7dfd5c34a7345d04cfac7/ConnectImage_EnUS.png",
+        "https://cdn.armadabattle.com/img/logos/logo.png"
+      ],
+      "definitions": [
+        "a hostile meeting of opposing military forces in the course of a war",
+        "an energetic attempt to achieve something",
+        "an open clash between two opposing groups (or individuals); --Thomas Paine"
+      ]
+    },
+    {
+      "id": "defeat",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2021/03/defeat-532003f5717c0a5df35ea55a312c5d935b2b251d.png",
+        "https://images.squarespace-cdn.com/content/v1/59a8304337c5812192fe8b64/1572922892716-ZI400RPCKPAWBCDP4RWK/DEFEAT_LOG0.png",
+        "https://static.thenounproject.com/png/3118536-200.png",
+        "https://cdn3.iconfinder.com/data/icons/study-education-9/96/defeat_medal-512.png",
+        "https://cdn3.iconfinder.com/data/icons/miscellaneous-112-solid/128/defeat_challenge_strategy_chess_final_game_play_sport_strategies_achievement-512.png"
+      ],
+      "definitions": [
+        "an unsuccessful ending to a struggle or contest",
+        "the feeling that accompanies an experience of being thwarted in attaining your goals"
+      ]
+    },
+    {
+      "id": "tension",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tension_figure.svg/350px-Tension_figure.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/5512de8ae4b008b879006a52/1578910613415-AP86FGH415R016KMH7SF/tension-tg-icon%2Btext-red.png",
+        "https://grammartop.com/wp-content/uploads/2021/03/tension-082c1b18b80dc7ce24181478cc067791abfb7c7d.png",
+        "https://static.thenounproject.com/png/195947-200.png",
+        "https://www.jpe-innovations.com/wp-content/uploads/Beam-theory-tension-compression-and-shear-1.png"
+      ],
+      "definitions": [
+        "(psychology) a state of mental or emotional strain or suspense",
+        "the physical condition of being stretched or strained",
+        "a balance between and interplay of opposing elements or tendencies (especially in art or literature)",
+        "(physics) a stress that produces an elongation of an elastic physical body",
+        "feelings of hostility that are not manifest",
+        "the action of stretching something tight"
+      ]
+    },
+    {
+      "id": "competing",
+      "image_urls": [
+        "https://szyniszewski.net/wp-content/uploads/2020/05/competing-fig1-1.png",
+        "https://vincentvaneekhout.files.wordpress.com/2010/01/competingvaluesframeworkbycameronandquinn.png",
+        "https://cdn4.iconfinder.com/data/icons/business-elements-line/128/competing-interests_conflict_opposite_incompatible_compete_sideways_compatibility_competition_arrow_-512.png",
+        "https://blog.cdemi.io/content/images/2016/12/Competing-Consumer-Pattern-min.png",
+        "https://cdn3.iconfinder.com/data/icons/business-elements/64/09_competing_interests-512.png"
+      ],
+      "definitions": []
+    },
+    {
+      "id": "aggression",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/57530523f850829dde1dc031/1564667219466-TIBQF9LKH91SOQIJQ6JT/ipa.png",
+        "https://www.coalitionfortheicc.org/sites/default/files/styles/column/public/noun_688835_0.png",
+        "https://dementiacare.com.my/wp-content/uploads/2021/06/angry-2.png",
+        "https://www.living-democracy.com/wp-content/uploads/2018/09/aggression-inner-main-1.png",
+        "https://www.coalitionfortheicc.org/sites/default/files/styles/column/public/noun_15302.png"
+      ],
+      "definitions": [
+        "a disposition to behave aggressively",
+        "a feeling of hostility that arouses thoughts of attack",
+        "violent action that is hostile and usually unprovoked",
+        "the act of initiating hostilities",
+        "deliberately unfriendly behavior"
+      ]
+    },
+    {
+      "id": "sweat",
+      "image_urls": [
+        "https://soccerstore.azureedge.net/0-0-65726.png",
+        "https://cdn.shopify.com/s/files/1/1564/6971/t/1/assets/sweat-logo-pink-1688x328.png",
+        "https://www.america-today.com/on/demandware.static/-/Sites-at-master-catalog/default/dwccf3f204/images/product/sweat-shorts-men-grey-1142002310-225-f.png",
+        "https://www.gong-galaxy.com/wp-content/uploads/2021/09/VISSLA-SWEAT-SHIRTS-GO-FAST-ECO-CREW-GONGWEAR-01-1500-324x324.png",
+        "https://www.america-today.com/on/demandware.static/-/Sites-at-master-catalog/default/dw6dec13a9/images/product/sweat-shorts-side-strip-girls-black-4142002042-102-f.png"
+      ],
+      "definitions": [
+        "salty fluid secreted by sweat glands",
+        "agitation resulting from active worry",
+        "condensation of moisture on a cold surface",
+        "use of physical or mental energy; hard work"
+      ]
+    },
+    {
+      "id": "effort",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2021/03/effort-e5c857754d3ce1bd8120658b5c9619006c4a0d79.png",
+        "https://effort.lehre.hwr-berlin.de/assets/images/navbar/Logo_Effort_klein-removebg-preview.png",
+        "https://cdn-icons-png.flaticon.com/512/1006/1006524.png",
+        "https://cdn-icons-png.flaticon.com/512/1006/1006575.png",
+        "https://efforthuisvesting.nl/wp-content/uploads/2015/12/Effort-Huisvesting_logo_HD.png"
+      ],
+      "definitions": [
+        "earnest and conscientious activity intended to do or accomplish something",
+        "use of physical or mental energy; hard work",
+        "a notable achievement",
+        "a series of actions advancing a principle or tending toward a particular end"
+      ]
+    },
+    {
+      "id": "death",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/The_death.svg/1200px-The_death.svg.png",
+        "https://static.wikia.nocookie.net/darksiders/images/4/4a/Death_Render.png",
+        "https://static.wikia.nocookie.net/runescape2/images/b/ba/Harold_Death_Esquire.png",
+        "https://acourseindying.com/wp-content/uploads/2020/12/20-1024x1024.png",
+        "https://discworld.com/management/wp-content/uploads/2019/10/discworld-death-death-of-rats-1-e1585580903664-400x400.png"
+      ],
+      "definitions": [
+        "the event of dying or departure from life",
+        "the permanent end of all life functions in an organism or part of an organism",
+        "the absence of life or state of being dead",
+        "the time when something ends",
+        "the time at which life ends; continuing until dead",
+        "the personification of death",
+        "a final state",
+        "the act of killing"
+      ]
+    }
+  ]
+}

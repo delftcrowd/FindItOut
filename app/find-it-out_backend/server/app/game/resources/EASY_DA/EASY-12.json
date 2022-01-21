@@ -1,0 +1,121 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "vulture",
+      "image_urls": [
+        "https://easydraweverything.com/wp-content/uploads/2019/08/vulture_step_00.png",
+        "https://static.wikia.nocookie.net/ancestors_gamepedia_en/images/e/e4/Cinereous_Vulture_%28Aegypius_monachus%29.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/77114/vulture-clipart-md.png",
+        "https://www.nicepng.com/png/full/228-2281834_vulture-vulture-png.png",
+        "https://i1.wp.com/prwildlife.org/wp-content/uploads/2018/05/widget_lucy.png"
+      ],
+      "definitions": [
+        "any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion",
+        "someone who attacks in search of booty"
+      ]
+    },
+    {
+      "id": "pigeon",
+      "image_urls": [
+        "https://www.thone.be/imagecache/pigeon/pigeonmedium/8780e556c79383b356df705e50df53c0.png",
+        "https://i.pinimg.com/originals/94/bf/46/94bf4688afb29285258710c2d8d63e26.png",
+        "https://www.cleankill.co.uk/sites/default/files/styles/pest/public/2019-04/pigeon.png",
+        "https://i.pinimg.com/originals/4c/87/86/4c87869592b4f01bd1247e882b30df27.png",
+        "https://www.thone.be/imagecache/pigeon/pigeonmedium/b533d5c98006ac5d32ddadb28bdb9206.png"
+      ],
+      "definitions": [
+        "wild and domesticated birds having a heavy body and short legs"
+      ]
+    },
+    {
+      "id": "hawk",
+      "image_urls": [
+        "https://cdn.emojidex.com/emoji/seal/hawk.png",
+        "https://static.wikia.nocookie.net/grimdawn_gamepedia_en/images/5/54/Hawk_Constellation_Icon.png",
+        "https://static.wikia.nocookie.net/nanatsu-no-taizai/images/e/e3/Hawk_Anime_Season_3_Design.png",
+        "https://cdn4.iconfinder.com/data/icons/birds-tt/48/Animals_Birds_Artboard_15-512.png",
+        "https://www.hawkpumps.com/media/cache/462x274_inset/images/homepage-pompe-hawk.png"
+      ],
+      "definitions": [
+        "diurnal bird of prey typically having short rounded wings and a long tail",
+        "an advocate of an aggressive policy on foreign relations",
+        "a square board with a handle underneath; used by masons to hold or carry mortar"
+      ]
+    },
+    {
+      "id": "pelican",
+      "image_urls": [
+        "https://i.pinimg.com/originals/d4/b1/fc/d4b1fcfbb918e193dd80dfceca949091.png",
+        "https://life-pelicans.com/wp-content/uploads/sites/8/2020/02/cropped-Pelican-way-of-LIFE-icon-socials.png",
+        "https://shop.westerndigital.com/content/dam/store/en-us/assets/products/accessories/g-speed-shuttle-pelican-case/gallery/g-speed-shuttle-pelican-case-ev-module-emptya-hr.png",
+        "https://pelicancommunications.co.uk/wp-content/uploads/2019/09/hero-carousel-min-1000x800.png",
+        "https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/pelican-bird-8038-16765-300x300.png"
+      ],
+      "definitions": [
+        "large long-winged warm-water seabird having a large bill with a distensible pouch for fish"
+      ]
+    },
+    {
+      "id": "falcon",
+      "image_urls": [
+        "https://www.dassaultfalcon.com/PublishingImages/IMAGES/Aircraft/Layer/10X-1.png",
+        "https://www.dassaultfalcon.com/PublishingImages/IMAGES/Aircraft/Layer/8X-1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Falcon9_rocket_family.svg/1200px-Falcon9_rocket_family.svg.png",
+        "https://algowatt.com/wp-content/uploads/2018/02/FALCON-Logo.png",
+        "https://www.climbingtechnology.com/wp-content/uploads/2015/06/FALCON-7V793035.png"
+      ],
+      "definitions": [
+        "diurnal birds of prey having long pointed powerful wings adapted for swift flight"
+      ]
+    },
+    {
+      "id": "duck",
+      "image_urls": [
+        "https://www.romeduckstore.it/wp-content/uploads/2020/05/paperella-di-gomma-gialla-classica2.png",
+        "https://milanduckstore.com/wp-content/uploads/2019/05/rainbow-duck.png",
+        "https://mk0culverduckguu41sc.kinstacdn.com/wp-content/uploads/2020/11/duck-animate-2-500x500.png",
+        "https://www.romeduckstore.it/wp-content/uploads/2020/05/paperella-di-gomma-bianca3.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/oca-sagdec012953-.png"
+      ],
+      "definitions": [
+        "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs",
+        "(cricket) a score of nothing by a batsman",
+        "flesh of a duck (domestic or wild)",
+        "a heavy cotton fabric of plain weave; used for clothing and tents"
+      ]
+    },
+    {
+      "id": "eagle",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Bald-Eagle.png",
+        "https://emojipedia-us.s3.amazonaws.com/source/skype/289/eagle_1f985.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/aquila.png",
+        "https://mounteagle.org/wp-content/uploads/2020/12/low-angle-view-white-tailed-eagle-flying-sunlight-blue-sky-hokkaido-japan.png",
+        "https://static.wikia.nocookie.net/angrybirds/images/a/a9/ABMovie_Mighty_Eagle.png"
+      ],
+      "definitions": [
+        "any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight",
+        "(golf) a score of two strokes under par on a hole",
+        "a former gold coin in the United States worth 10 dollars",
+        "an emblem representing power"
+      ]
+    },
+    {
+      "id": "kite",
+      "image_urls": [
+        "https://www.rexlondon.com/sites/dotcom.pleasetest.co.uk/files/styles/product_main/public/24412_3.png",
+        "https://cdn11.bigcommerce.com/s-qc7qegnorm/images/stencil/1280x1280/products/3009/2583/5060028380817-Stunt-kite__44815.1596793220.png",
+        "https://kite-agency.com/new-kite/wp-content/uploads/2020/05/Website-Header_img-dreapta-2.png",
+        "https://www.f-one.world/app/uploads/2020/03/DIABLO-V5-PREVIEW-LOWDEF-unsmushed-450x450.png",
+        "https://www.eleveightkites.com/wp-content/uploads/2021/03/RSV5-Dark.png"
+      ],
+      "definitions": [
+        "a bank check that has been fraudulently altered to increase its face value",
+        "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
+        "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
+        "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+      ]
+    }
+  ]
+}

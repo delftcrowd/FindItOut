@@ -1,0 +1,145 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "room",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/FR_ASSET_IMG_FR_PRO_DARK.png",
+        "https://floorplanner.com/static/img/redesign/home/header-image.png",
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/open-meeting-room-pro-white-v1.png",
+        "https://cedreo.com/uploads/us_livingroom_05_3d_v3_huaa719323ddab429104a35d392eab66b0_333429_1920x0_resize_lanczos_2.png",
+        "https://www.thekitefinca.com/wp-content/uploads/2020/12/bed.png"
+      ],
+      "definitions": [
+        "an area within a building enclosed by walls and floor and ceiling",
+        "space for movement",
+        "opportunity for",
+        "the people who are present in a room"
+      ]
+    },
+    {
+      "id": "backyard",
+      "image_urls": [
+        "https://backyarddesign.nl/wp-content/uploads/2021/03/Backyard-Website-Icon.png",
+        "https://writingexplained.org/wp-content/uploads/backyard-versus-back-yard.png",
+        "https://f.hubspotusercontent30.net/hubfs/17432/add-a-sauna-for-backyard-retreat.png",
+        "https://backyardgardenshow.com.au/images/Backyard-and-Garden-Show-Garden.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Backyard.png"
+      ],
+      "definitions": [
+        "the grounds in back of a house"
+      ]
+    },
+    {
+      "id": "home",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go-home-2.svg/1200px-Go-home-2.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Home-icon.svg/2048px-Home-icon.svg.png",
+        "https://s3-eu-west-1.amazonaws.com/zkn/files/df172fd7066470da8c916409ba3f75c4.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABajVV54Z0yXvIDzrA3hPAm6UAxTjm9xPYG0NfkeRky2wjDbVDEmX-vKnRx00rWSvsAGCrsXy2UxenzhVYnVNGx3Bzs7FsErHOOq7.png",
+        "https://www.somfy.nl/common/img/library///700x350/15-smart-home.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "cat",
+      "image_urls": [
+        "https://www.hillspet.nl/content/dam/pim/hills/nl_nl/sd/dry/sp-feline-science-plan-sterilised-cat-young-adult-chicken-dry-productShot_500.png",
+        "https://images-na.ssl-images-amazon.com/images/I/71+mDoHG4mL.png",
+        "https://medicalpetshirts.com/wp-content/uploads/sites/5/%C2%A9-MPS-ANNOTATED-IMAGE-PROTECTIVE-BODY-SHIRT.CAT-01-V01.2019.png",
+        "https://avalonpetfood.com/wp-content/uploads/2020/04/Avalon-Optimal-Cat-V2-web2.png",
+        "https://jngnposwzs-flywheel.netdna-ssl.com/wp-content/uploads/2019/05/Transparent-OrangeWhiteCat-764x1024.png"
+      ],
+      "definitions": [
+        "feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats",
+        "an informal term for a youth or man",
+        "a spiteful woman gossip",
+        "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant",
+        "a whip with nine knotted cords",
+        "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work",
+        "any of several large cats typically able to roar and living in the wild",
+        "a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis"
+      ]
+    },
+    {
+      "id": "rug",
+      "image_urls": [
+        "https://hkliving.nl/media/39199/ttk3063-lr_d_01.png",
+        "https://images.selency.com/306f4a30-cf03-438b-b4b9-a5f711b6ac7a/beautiful-rug-rbati_original.png",
+        "https://cdn.shopify.com/s/files/1/1496/0124/products/Ellsworth_10x8_f87a5242-70e3-4ca9-9f0b-dde5c9b12d17_x700.png",
+        "https://images.selency.com/a53dfdf8-408e-4269-b81b-84a3b44dc027/scandinavian-20th-century-modern-rya-rug-svangsta-slottsmatta-sweden-190-x-140-cm-75-x-55-in_original.png",
+        "https://cdn.shopify.com/s/files/1/1496/0124/products/Conway_Hand_Woven_Rug_3x5_d46f8a4e-b3db-4d83-a4f8-718448a9bb45_x700.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c2d1217b40b9d0b0efaa79a/1560189605756-BH618E93G02XZ5TEGK61/Parket-FloorGuys.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://thefloorstorenm.com/wp-content/uploads/2018/05/tile.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://www.tonone.com/media/89/55/0d/1604916935/bolt%20floor%20long%202%20arm%20lw.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    },
+    {
+      "id": "nature",
+      "image_urls": [
+        "https://www.fromnature2you.com/wp-content/uploads/logo-fromnature-transparant.png",
+        "https://we-are-nature.nl/wp-content/uploads/2019/02/wearenature-logo.png",
+        "https://natureforlife.world/wp-content/uploads/2018/02/LOGO4.png",
+        "https://www.natureskins.nl/wp-content/uploads/2019/11/nature_skins_logo_web.png",
+        "https://www.fromnature2you.com/wp-content/uploads/fromnature-tak-1.png"
+      ],
+      "definitions": [
+        "the essential qualities or characteristics by which something is recognized",
+        "a causal agent creating and controlling things in the universe",
+        "the natural physical world including plants and animals and landscapes etc.",
+        "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions",
+        "a particular type of thing"
+      ]
+    },
+    {
+      "id": "trouble",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5caa8b9e809d8e64e388b186/1558347693039-1YXXPSOC1X3VPZ9SR97T/Trouble_logo_yellow1.png",
+        "https://images.squarespace-cdn.com/content/v1/5caa8b9e809d8e64e388b186/1558347693039-1YXXPSOC1X3VPZ9SR97T/Trouble_logo_yellow1.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZhKBph6n8-EBppzfnvUn29KQnfKCTosmPwscgvcjoI3mtMEfk8nNGVNXk14-tt6EnFdRJXPfWtUw1SD2nB5M3IC4Y1NjvPyWoZ5.png",
+        "https://images.squarespace-cdn.com/content/v1/5c0714f2b40b9d1bd887c614/1600113128998-SCHNO8RGWR5KCWK07I01/Trouble_combologo_purple.png",
+        "https://static.wikia.nocookie.net/logopedia/images/b/bc/Trouble_logo_1997.png"
+      ],
+      "definitions": [
+        "a source of difficulty",
+        "an angry disturbance",
+        "an event causing distress or pain",
+        "an effort that is inconvenient",
+        "a strong feeling of anxiety",
+        "an unwanted pregnancy"
+      ]
+    }
+  ]
+}

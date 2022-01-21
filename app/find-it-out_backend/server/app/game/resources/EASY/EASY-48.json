@@ -1,0 +1,135 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "cellar",
+      "image_urls": [
+        "https://www.cellar33.nl/wp-content/uploads/2019/11/product_placeholder-min.png",
+        "https://airsource.co.uk/static/cellar2/img/search-n-sort-mob%402x.png",
+        "https://images.vivino.com/thumbs/maI-HAyKRHGACeSFl4wTgQ_pb_x600.png",
+        "https://static.whiskybase.com/storage/whiskies/1/8/0369/312054-normal.png",
+        "https://images.vivino.com/thumbs/FCm5JhOvQK-abOyZszXa4Q_pl_375x500.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "an excavation where root vegetables are stored",
+        "storage space where wines are stored"
+      ]
+    },
+    {
+      "id": "staircase",
+      "image_urls": [
+        "https://www.mea-group.com/de/wp-content/uploads/sites/3/2021/01/mea-treppenbausatz-typ-2-1-gelaender-768x768.png",
+        "https://vbstaircases.com/wp-content/uploads/2019/10/32-zonder.png",
+        "https://www.datocms-assets.com/19065/1598276853-eurostairsprial-staircase-736x950.png",
+        "https://vbstaircases.com/wp-content/uploads/2020/05/200511-Apollolaan-Nisa.png",
+        "https://www.canal.eu.com/wp-content/uploads/sites/2/2016/09/folded-staircase-3-1.png"
+      ],
+      "definitions": [
+        "a way of access (upward and downward) consisting of a set of steps"
+      ]
+    },
+    {
+      "id": "person",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/1674/PNG/512/person_110935.png",
+        "https://cargonaut.nl/wp-content/uploads/2019/06/person-icon-silhouette-png-0.png",
+        "https://freeyourmindexperience.com/wp-content/uploads/person-icon-person-icon-clipart-image-from-our-icon-clipart-category-9-500x500.png",
+        "https://static-00.iconduck.com/assets.00/person-icon-486x512-eeiy7owm.png",
+        "https://www.freeiconspng.com/thumbs/human-icon-png/white-person-icon-png-people-black-icon-png-persons-12.png"
+      ],
+      "definitions": [
+        "a human being",
+        "a human body (usually including the clothing)",
+        "a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://www.houseofbeta.nl/app/uploads/2020/09/HoB-logo-cmyk-staand.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "palace",
+      "image_urls": [
+        "https://palace-gieten.nl/wp-content/uploads/2019/12/cropped-Palace-logo-1.png",
+        "https://palacehotel.nl/wp-content/uploads/2020/12/logo-palace-hotel-noordwij-new.png",
+        "https://d2zr9w65gdacs9.cloudfront.net/57628/pp-logo-2020-resort-rgb1599553800logo.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/O1NQN031/logo_465x320.png",
+        "https://static.wikia.nocookie.net/forgeofempires/images/c/c9/Palace.png"
+      ],
+      "definitions": [
+        "a large and stately mansion",
+        "the governing group of a kingdom",
+        "a large ornate exhibition hall",
+        "official residence of an exalted person (as a sovereign)"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "mansion",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/5d/Woodland_Mansion.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYQ-GTxxxZ7kslapdva47P6VoFkaWXEMvbM4cWDcmUryAwWdJNbj-8NqaidhrRySh2VmpYwMyaixyQqiweCkVg_V40oj3Km5nMRU.png",
+        "https://www.kelcha.nl/wp-content/uploads/2020/08/Playmobil-70361-Avontuur-in-Mystery-Mansion-1-1.png",
+        "https://cdn.shopify.com/s/files/1/2361/1783/products/Speelkamer-op-wit-leeg-angle_1000x.png",
+        "https://www.bluemansionhotel.com/images/Blue-Mansion-logo-transparent.png"
+      ],
+      "definitions": [
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "a large and imposing house"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "door",
+      "image_urls": [
+        "https://www.thedoorsdepot.com/product-logos/originals/188404_Trieste-Interio-Honey-oak-door.png",
+        "https://5.imimg.com/data5/TO/QB/NS/SELLER-23260062/polished-plywood-door-500x500.png",
+        "https://www.soundboxacoustic.com/wp-content/uploads/2019/08/g45m-acoustic-door.png",
+        "https://www.fiorebanisteria.com/wp-content/uploads/2015/05/1.png",
+        "https://static.wixstatic.com/media/2cd43b_531fea2a0bdd4887bd04ff51f66d7991~mv2_d_1857_2791_s_2.png"
+      ],
+      "definitions": [
+        "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+        "the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close",
+        "anything providing a means of access (or escape)",
+        "a structure where people live or work (usually ordered along a street or road)",
+        "a room that is entered via a door"
+      ]
+    },
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://productimages.mybobs.com/20061773/20061773_hero_wide.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00220/56101515SD00220_01_500x500.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/3945/original/light/Caledonia-Queen-Size-Bed-Frame_Light-8.png",
+        "https://s3.eu-west-1.amazonaws.com/openreply-poltronafrau/prod/poltronafrau/catalog/product/f/r/frau-0203_cmyk__newcard.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "carpet",
+      "image_urls": [
+        "https://www.fatboy.com/assets/image/000/000/124/fatboy-non-flying-carpets-paprika.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/a/n/antico_tappeto_malayer.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/p/h/phpbzuwir-removebg-preview.png",
+        "https://www.fatboy.com/assets/image/000/000/118/fatboy-non-flying-carpets-dont-step.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/h/e/hereke1_copy.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)",
+        "a natural object that resembles or suggests a carpet"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://i1.wp.com/designeddecor.com/wp-content/uploads/2018/06/Big-Impact-Bedroom-Changes-6-Simple.png",
+        "https://i0.wp.com/wyethprintgallery.com/wp-content/uploads/2016/10/MasterBedroom.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/At-Home-Rooms-Master-Bedroom-Re-used-KS1.png",
+        "https://javateakindo.com/wp-content/uploads/2020/09/French-Bedroom-Sets-Lucio.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "curtains",
+      "image_urls": [
+        "https://www.dometic.com/ui/productimages/42/94/dometic_tf---curtains-drapes_64294_11.png",
+        "https://i1.wp.com/www.spiffyspools.com/wp-content/uploads/2021/03/Mfx0Wts.png",
+        "https://www.decorist.com/static/cache-thumbnail/93/09/930987e49a2c4fabec744ccbf03ca255.png",
+        "https://www.soliday.eu/fileadmin/user_upload/produkte/outdoor_vorhaenge/section1/outdoor_vorhaenge_4-crop-u64935.png",
+        "https://www.decorist.com/static/finds/product_images/full_size/283134-campa-extra-wide-solid-blackout-thermal-rod-pocket-single-curtain-panel.a7bbccf2b3df0a07d913194d6cf75e9d.png"
+      ],
+      "definitions": [
+        "hanging cloth used as a blind (especially for a window)",
+        "any barrier to communication or vision"
+      ]
+    },
+    {
+      "id": "wall",
+      "image_urls": [
+        "https://fast-house.co.uk/wp-content/uploads/2019/09/Internal-Wall-Panel-1.png",
+        "https://www.blupura.com//contrib/uploads/wall.png",
+        "https://www.lombardo.it/media/images/product/ago_wall_01.png",
+        "https://www.geoplastglobal.com/wp-content/uploads/2018/11/Wall-Y.png",
+        "https://www.miniforms.com/images/foto/prodotti/slider/ozz-wall-639886210310253.png"
+      ],
+      "definitions": [
+        "an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure",
+        "anything that suggests a wall in structure or function or effect",
+        "(anatomy) a layer (a lining or membrane) that encloses a structure",
+        "a difficult or awkward situation",
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+        "a layer of material that encloses space",
+        "a masonry fence (as around an estate or garden)",
+        "an embankment built around a space for defensive purposes"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/p/1/p1050533_copy_1.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/p/i/piccola_credenza_antica_luigi_filippo_cappuccina_in_noce_dell_800.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/WC7-Gothic-Shelf-supplement-CMYK-e1548620297499.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_WFL-OFFCUB.png",
+        "https://images.selency.com/68571b6e-dbfc-4c74-bded-24ccb2165e9e/cupboard_original.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "sofa",
+      "image_urls": [
+        "https://www.flexform.it/sites/default/files/styles/four_blocks/public/images/composition/romeo_300x250_00.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/TheSofaThreeSeater-Birch_Default_Post_1200x.png",
+        "https://www.zanotta.it/ContentsFiles/1-PNG_FLAMINGO(1).png",
+        "https://media.bonaldo.com/wp-content/uploads/2020/05/22141318/Structure-ego-sofa-divano-2sedute-263x95x85.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Love/Love%20Sofa%20Highback/image-thumb__1674__width_1200/Love-sofa-highback-2017feb-1.png"
+      ],
+      "definitions": [
+        "an upholstered seat for more than one person"
+      ]
+    }
+  ]
+}

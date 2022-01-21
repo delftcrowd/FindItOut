@@ -1,0 +1,141 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "michigan",
+      "image_urls": [
+        "https://www.michigannature.org/images/img_library/crp/96-6-8-issue.png",
+        "https://www.bls.gov/regions/midwest/images/18782.png",
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566497203534-IP8F83WR5AWBNVFFG2VF/Michigan.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/hotspots.png",
+        "https://www.smartstartinc.com/michigan/wp-content/uploads/sites/26/2015/05/Smart-Start-Michigan-Outline.png"
+      ],
+      "definitions": [
+        "a midwestern state in north central United States in the Great Lakes region",
+        "the 3rd largest of the Great Lakes; the largest freshwater lake entirely within the United States borders",
+        "a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://www.cityrotterdam.com/wp-content/uploads/2015/10/pelgrimsvaderkerk.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "homes",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.baerz.com/thumb/m/images/logo-top.png",
+        "https://www.kanvihomes.com/hs-fs/hubfs/edmonton-home-builder-kanvi-homes-building-infill-homes-in-mature-communties-1.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "bar",
+      "image_urls": [
+        "https://www.cornelisrotterdam.nl/wp-content/uploads/2019/10/logo-cornelis-kitchen-bar-web-4.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw39b2c12a/JBL_Bar_2.0_All-In-One_Front_1605x1605.png",
+        "https://www.bardoamsterdam.nl/wp-content/uploads/2019/06/Logo-Bar-Do%CC%81.png",
+        "https://www.barbotanique.nl/images/logo-barbotanique-2020.png",
+        "https://www.barbrutal.nl/wp-content/uploads/2019/01/bar-brutal-site-logo.png"
+      ],
+      "definitions": [
+        "a room or establishment where alcoholic drinks are served over a counter",
+        "a counter where you can obtain food or drink",
+        "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+        "musical notation for a repeating pattern of musical beats",
+        "an obstruction (usually metal) placed at the top of a goal",
+        "the act of preventing",
+        "(meteorology) a unit of pressure equal to a million dynes per square centimeter",
+        "a submerged (or partly submerged) ridge in a river or along a shore",
+        "the body of individuals qualified to practice law in a particular jurisdiction",
+        "a narrow marking of a different color or texture from the background",
+        "a block of solid substance (such as soap or wax)",
+        "a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War",
+        "a horizontal rod that serves as a support for gymnasts as they perform exercises",
+        "a heating element in an electric fire",
+        "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried"
+      ]
+    },
+    {
+      "id": "love",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drawn_love_hearts.svg/2483px-Drawn_love_hearts.svg.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYV3o_Kib_F31h3_w2REKaFZMvq9slAJvaJI6ViLTTR4mhFw1lnak905WqWRmAMMn64KjZcLgtFmf-1H0Ad3mGmkqgQA0TcsEsrV5tuayNDKiRTgKkmwORxIgB8kHalUw37aFGVgTV7--B16qoOemC638qSDRK_2Hfoqjf0EgqFh7Q.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABS5OxQ7P8eoMWbP4aco53d0y8-KlorggWcurTiQ0PyzK8k8RX0D-zRwHNboDO8V0ulA7ZIXX0cXHvw1to20Xduoon6kJMDf02DYE.png",
+        "https://lovepostnl.nl/wp-content/uploads/2020/07/Logo_LovePostNL_Website.png"
+      ],
+      "definitions": [
+        "a strong positive emotion of regard and affection",
+        "any object of warm affection or devotion",
+        "a beloved person; used as terms of endearment",
+        "a deep feeling of sexual desire and attraction",
+        "a score of zero in tennis or squash",
+        "sexual activities (often including sexual intercourse) between two people"
+      ]
+    },
+    {
+      "id": "jail",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/2070/PNG/512/jail_icon_126169.png",
+        "https://cdn-icons-png.flaticon.com/512/1685/1685853.png",
+        "https://assets.website-files.com/6005e7e461f4ba3355a5d5b1/600b00c9c739b6d9140f308d_Icon%20Jail%20260.png",
+        "https://static.thenounproject.com/png/55081-200.png",
+        "https://www.nicepng.com/png/full/4-42502_jail-transparent-png-jail-png.png"
+      ],
+      "definitions": [
+        "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)"
+      ]
+    },
+    {
+      "id": "human",
+      "image_urls": [
+        "https://itis.swiss/assets/images/Virtual-Population/_resampled/ResizedImageWzYwMCwzNzdd/vip-overview-final-s2.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201_Elements_of_the_Human_Body.02.svg/300px-201_Elements_of_the_Human_Body.02.svg.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://huson.nl/new/wp-content/uploads/2019/10/logo-huson-300x300.png",
+        "https://restaurant-yolo.com/wp-content/uploads/2020/06/YOLO-logo-transparent.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/03/Logo_allure_DEF.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    }
+  ]
+}

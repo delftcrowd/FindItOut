@@ -1,0 +1,245 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "wall",
+      "image_urls": [
+        "https://www.hofbogen.nl/wp-content/uploads/2017/10/pink-wall.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Cobblestone_Wall_JE2_BE2.png",
+        "https://www.wall-stack.com/wp-content/uploads/2019/03/WallStack-Modular-Partition-Wall-System-principle-02.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/Deepslate_Tile_Wall_JE2.png",
+        "https://www.weverducre.com/pim/BOX%20WALL%20OUTDOOR%202.0/image-thumb__951978__lightbox/Box-2.0-740148A_.png"
+      ],
+      "definitions": [
+        "an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure",
+        "anything that suggests a wall in structure or function or effect",
+        "(anatomy) a layer (a lining or membrane) that encloses a structure",
+        "a difficult or awkward situation",
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+        "a layer of material that encloses space",
+        "a masonry fence (as around an estate or garden)",
+        "an embankment built around a space for defensive purposes"
+      ]
+    },
+    {
+      "id": "outside",
+      "image_urls": [
+        "https://www.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png",
+        "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0648392b-f957-41de-99eb-16c1c98465ca_621x597.png",
+        "https://www.outsidebrand.co/wp-content/uploads/2020/09/Black-Logo.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/outside-dfa613493274c050ffd66b46aa56cd48ddf3a2ee.png",
+        "https://outsidehoutentuin.nl/wp-content/uploads/2020/09/Outside-beeldmerk.png"
+      ],
+      "definitions": [
+        "the region that is outside of something",
+        "the outer side or surface of something"
+      ]
+    },
+    {
+      "id": "antarctica",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/266px-Antarctica_%28orthographic_projection%29.svg.png",
+        "https://www.delta.tudelft.nl/sites/default/files/images/antarctica4.png",
+        "https://i.redd.it/sjkbveoixod61.png",
+        "https://www.blackstonefootwear.com/media/catalog/product/cache/03f314a5078338a88d04dd412c71f555/r/m/rm51_anta_202.png",
+        "https://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Antarctica-icon.png"
+      ],
+      "definitions": [
+        "an extremely cold continent at the south pole almost entirely below the Antarctic Circle; covered by an ice cap up to 13,000 feet deep"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png",
+        "https://www.hillhouttuinhout.nl/images/180x180/r/products/8711471201873_1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "corner",
+      "image_urls": [
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/ORO1N1N1/logo_465x320.png",
+        "https://my.pocketmenu.nl/uploads/files/websites/the-corner-amsterdam/logo.png",
+        "https://static.takeaway.com/images/restaurants/nl/QO5N7PO/logo_465x320.png",
+        "https://static.takeaway.com/images/restaurants/nl/N7PQRRO/logo_465x320.png",
+        "https://www.woutmonseurs.nl/wp-content/uploads/2018/03/corner4.png"
+      ],
+      "definitions": [
+        "a place off to the side of an area",
+        "the point where two lines meet or intersect",
+        "an interior angle formed by two meeting walls",
+        "the intersection of two streets",
+        "the point where three areas or surfaces meet or intersect",
+        "a small concavity",
+        "a temporary monopoly on a kind of commercial trade",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a projecting part where two sides or edges meet",
+        "a remote area",
+        "(architecture) solid exterior angle of a building; especially one formed by a cornerstone"
+      ]
+    },
+    {
+      "id": "museum",
+      "image_urls": [
+        "https://chabotmuseum.nl/wp-content/themes/chabotmuseum-18-11-2017/assets/img/logo.png",
+        "https://www.museumvanloon.nl/graphics/Museum_Van_Loon.png",
+        "https://www.amsterdammuseum.nl/sites/default/files/logo.png",
+        "https://www.diamondmuseum.com/wp-content/uploads/2018/01/home-imaage-8.png",
+        "https://www.dutchmuseums.com/img/mjkdef.png"
+      ],
+      "definitions": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value"
+      ]
+    },
+    {
+      "id": "pantry",
+      "image_urls": [
+        "https://www.thepantry.nl/wordpress/wp-content/uploads/Restaurant-The-Pantry-Amsterdam-logo-400X150.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594809742327-8QUZ2V0P4WFNZ4DHKSDY/maison_haven_organizers_style_sheet_PANTRY-ZONES.png",
+        "https://images.squarespace-cdn.com/content/v1/5b02d88050a54f765ecfce7b/1594891146867-RI1QTHHZR9747T6GKY3H/maison-haven-style-sheet-pantry-main+copy.png",
+        "https://i2.wp.com/www.thedesignconfidential.com/wp-content/uploads/final_20.png",
+        "https://www.mwtoolboxqld.com.au/wp-content/uploads/2021/08/MW-Canopy-Pantry-Main.png"
+      ],
+      "definitions": [
+        "a small storeroom for storing foods or wines"
+      ]
+    },
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.okfurniture.co.za/pub/media/catalog/product/cache/ab3edb4731da54330576b76350a9ecde/2/1/212489.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.cupapizarras.com/wp-content/uploads/2019/09/roof-parts.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://sunstruction.nl/png/systems/roof-hooks.png",
+        "https://www.atlasroofing.com/media/images/original/5319.png",
+        "https://www.mg-bouw.com/wp-content/uploads/2020/05/Meuwissen-AlkReflex-Roof-1.7-Wand-dak-buitenzijde-20210727.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    }
+  ]
+}

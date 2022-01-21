@@ -1,0 +1,133 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "spoon",
+      "image_urls": [
+        "https://res-5.cloudinary.com/christofle/s--nGuWagfE--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/D/e/Dessert_20spoon_20Malmaison_20_20Sterling_20silver_01418014000101_F_2_1.png",
+        "https://res-1.cloudinary.com/christofle/s--LOGsl3-u--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/S/e/Serving_20spoon_20Malmaison_20_20Silver_20plated_00018006000101_STQ_1_1.png",
+        "https://bocca.nl/wp-content/uploads/Spoon_01.png",
+        "https://www.rijksmuseumshop.nl/media/image/d7/95/62/rijksmuseum_11022019-23.png",
+        "https://res-3.cloudinary.com/christofle/s--DRwMvGBi--/c_limit,dpr_2.0,f_auto,h_500,q_auto,w_500/media/catalog/product/C/r/Cream_20soup_20spoon_20Albi_20_20Silver_20plated_00021001000101_F_2_1.png"
+      ],
+      "definitions": [
+        "a piece of cutlery with a shallow bowl-shaped container and a handle; used to stir or serve or take up food",
+        "as much as a spoon will hold",
+        "formerly a golfing wood with an elevated face"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://www.robertthomashomes.com/wp-content/uploads/2020/04/At-Home-Kitchen-1.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Microsoft_Store.svg/1200px-Microsoft_Store.svg.png",
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "home",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Go-home-2.svg/1200px-Go-home-2.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Home-icon.svg/2048px-Home-icon.svg.png",
+        "https://s3-eu-west-1.amazonaws.com/zkn/files/df172fd7066470da8c916409ba3f75c4.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABajVV54Z0yXvIDzrA3hPAm6UAxTjm9xPYG0NfkeRky2wjDbVDEmX-vKnRx00rWSvsAGCrsXy2UxenzhVYnVNGx3Bzs7FsErHOOq7.png",
+        "https://www.somfy.nl/common/img/library///700x350/15-smart-home.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "food",
+      "image_urls": [
+        "https://images.ctfassets.net/grb5fvwhwnyo/1sJpRsfp1RJI3AASMiOS1h/4421f71ab2cbdf50d1c960ebfcd02a39/P2.3_Page-SEO-Data.png",
+        "https://www.asiaexpressfood.nl/images/header/2019/Anuga_banner_2021_-_Bovenlaag.png",
+        "https://futurefoodgroup.nl/en/wp-content/uploads/sites/5/2020/09/LR_Vega_worst@0.33x-450x480.png",
+        "https://amlifestylemedicine.com/wp-content/uploads/2019/01/canada.png",
+        "https://www.rotterdamfoodcluster.com/content/themes/rfc/dist/assets/images/logo-rfc-extended.png"
+      ],
+      "definitions": [
+        "any substance that can be metabolized by an animal to give energy and build tissue",
+        "any solid substance (as opposed to liquid) that is used as a source of nourishment",
+        "anything that provides mental stimulus for thinking"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://huson.nl/new/wp-content/uploads/2019/10/logo-huson-300x300.png",
+        "https://restaurant-yolo.com/wp-content/uploads/2020/06/YOLO-logo-transparent.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/03/Logo_allure_DEF.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "bowl",
+      "image_urls": [
+        "https://www.shinzo.nl/wp-content/uploads/2020/11/pokebowl-tori.png",
+        "https://restaurant-hyh.nl/wp-content/uploads/E8259F9F-A316-4DE4-B699-B5F5E53EC6F8-removebg-preview.png",
+        "https://cdn.shopify.com/s/files/1/2281/6071/products/EF-SB-2-TA_PROD_1024x.png",
+        "https://www.matthewsstudio.ca/wp-content/uploads/2020/07/Black-Ash-Round-Bowl-Traditional-Edge-1-1.png",
+        "https://www.hawaiianpokebowl.eu/wp-content/uploads/2021/03/PNG-POKEBOWL.png"
+      ],
+      "definitions": [
+        "a round vessel that is open at the top; used chiefly for holding food or liquids",
+        "a concave shape with an open top",
+        "a dish that is round and open at the top for serving foods",
+        "the quantity contained in a bowl",
+        "a large structure for open-air sports or entertainments",
+        "a large ball with finger holes used in the sport of bowling",
+        "a wooden ball (with flattened sides so that it rolls on a curved course) used in the game of lawn bowling",
+        "a small round container that is open at the top for holding tobacco",
+        "the act of rolling something (as the ball in bowling)"
+      ]
+    }
+  ]
+}

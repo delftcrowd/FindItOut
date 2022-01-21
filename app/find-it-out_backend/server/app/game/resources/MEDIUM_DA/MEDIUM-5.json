@@ -1,0 +1,276 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "cannon",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cannon-diagram2.svg/800px-Cannon-diagram2.svg.png",
+        "https://www.cannon.com/wp-content/uploads/cannon_logo_medium.png",
+        "https://atlas.wiki.fextralife.com/file/Atlas/cannon_weapons_structures_atlas_mmo_wiki_guide-min.png",
+        "https://static.wikia.nocookie.net/arksurvivalevolved_gamepedia/images/a/a6/Cannon.png",
+        "https://cdn0.iconfinder.com/data/icons/crime-and-protection-icons/110/Cannon-512.png"
+      ],
+      "definitions": [
+        "a large artillery gun that is usually on wheels",
+        "heavy gun fired from a tank",
+        "(Middle Ages) a cylindrical piece of armor plate to protect the arm",
+        "heavy automatic gun fired from an airplane",
+        "lower part of the leg extending from the hock to the fetlock in hoofed mammals",
+        "a shot in billiards in which the cue ball contacts one object ball and then the other"
+      ]
+    },
+    {
+      "id": "grenade",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/miscreated/images/9/98/GrenadePickup_2048.png",
+        "https://cdn.shopify.com/s/files/1/0481/4159/8875/products/UK-Shaker-Green.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/M18_Grenade.svg/274px-M18_Grenade.svg.png",
+        "https://static.wikia.nocookie.net/play-rust/images/5/52/F1_Grenade_icon.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Schema_Grenade-en.svg/260px-Schema_Grenade-en.svg.png"
+      ],
+      "definitions": [
+        "a small explosive bomb thrown by hand or fired from a missile"
+      ]
+    },
+    {
+      "id": "hose",
+      "image_urls": [
+        "https://airpress.net/media/catalog/product/cache/2cf6a9e66210d431c6369e61c1eb52eb/4/3/4304211_2d_0001b.png",
+        "https://www.tooled-up.com/artwork/prodzoom/GH15R-12.V2_DFC0314936.png",
+        "https://www.manuli-hydraulics.com/wp-content/uploads/2019/07/SafeMaster-1080x605.png",
+        "https://www.flexbimec.com/wp-content/uploads/2019/10/287XX.png",
+        "https://www.aquahung.com/proimages/ps/IMG20190504104846_b.png"
+      ],
+      "definitions": [
+        "socks and stockings and tights collectively (the British include underwear)",
+        "man's close-fitting garment of the 16th and 17th centuries covering the legs and reaching up to the waist; worn with a doublet",
+        "a flexible pipe for conveying a liquid or gas"
+      ]
+    },
+    {
+      "id": "plate",
+      "image_urls": [
+        "https://www.frantoiomuraglia.it/prodotti/immagini/0/0/C/8264f306eea44f0265a6b222a4f07f36/1531990595_piatti-in-ceramica_1.png",
+        "https://cdn.shopify.com/s/files/1/2281/6071/t/161/assets/5ee3a36632ab--EF-CP-2-AO-COLL.png",
+        "https://cdn.shopify.com/s/files/1/1224/7992/products/Dinner_Plate_CUTOUT.png",
+        "https://m9v9r6h3.stackpathcdn.com/wp-content/uploads/2020/06/download-27.png",
+        "https://5.imimg.com/data5/AJ/RY/BF/SELLER-6219443/plate-kinardar-4--500x500.png"
+      ],
+      "definitions": [
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "a sheet of metal or wood or glass or plastic",
+        "a full-page illustration (usually on slick paper)",
+        "dish on which food is served or from which food is eaten",
+        "the quantity contained in a plate",
+        "a rigid layer of the Earth's crust that is believed to drift slowly",
+        "the thin under portion of the forequarter",
+        "a main course served on a plate",
+        "any flat platelike body structure or part",
+        "the positively charged electrode in a vacuum tube",
+        "a flat sheet of metal or glass on which a photographic image can be recorded",
+        "structural member consisting of a horizontal beam that provides bearing and anchorage",
+        "a shallow receptacle for collection in church",
+        "a metal sheathing of uniform thickness (such as the shield attached to an artillery piece to protect the gunners)",
+        "a dental appliance that artificially replaces missing teeth"
+      ]
+    },
+    {
+      "id": "pipe",
+      "image_urls": [
+        "https://www.acquageo.com/en/img/prodotti/tubi_pozzo/tubo_PVC_pozzi_artesiani.png",
+        "https://www.logstor.com/media/5976/sliding-_770x520.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/10/TN/ON/RN/13248269/cpvc-pipe-500x500.png",
+        "https://www.blupura.com//contrib/uploads/Nano-Silver-Pipe-1.png",
+        "https://www.kuzeyborugroup.com/32mm-pn-10-hdpe-pipe-hdpe-pipe-171-68-B.png"
+      ],
+      "definitions": [
+        "a tube with a small bowl at one end; used for smoking tobacco",
+        "a long tube made of metal or plastic that is used to carry water or oil or gas etc.",
+        "a hollow cylindrical shape",
+        "a tubular wind instrument",
+        "the flues and stops on a pipe organ"
+      ]
+    },
+    {
+      "id": "rocket",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/rocket-emji.png",
+        "https://www.arianespace.com/wp-content/uploads/2015/08/ariane5-small-2020.png",
+        "https://www.arianespace.com/wp-content/uploads/2015/08/soyouz-small-2020.png",
+        "https://www.rexlondon.com/sites/dotcom.pleasetest.co.uk/files/styles/product_main/public/space-age-rocket-pen-28560_2.png",
+        "https://assets.website-files.com/5c6ad5bdf7ece0f19a6c6596/5c6ad5bdf7ece05aa96c65e6_hero-04.png"
+      ],
+      "definitions": [
+        "any vehicle self-propelled by a rocket engine",
+        "a jet engine containing its own propellant and driven by reaction propulsion",
+        "erect European annual often grown as a salad crop to be harvested when young and tender",
+        "propels bright light high in the sky, or used to propel a lifesaving line or harpoon",
+        "sends a firework display high into the sky"
+      ]
+    },
+    {
+      "id": "gun",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/42/Thompson_nobg-1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/1/12/DD_Liberator.png",
+        "https://static.wikia.nocookie.net/objectmayhem/images/5/5a/Gun_OM.png",
+        "https://static.wikia.nocookie.net/objectmayhem/images/1/17/GunOMII_Ep_3.png",
+        "https://cdn.vox-cdn.com/uploads/chorus_asset/file/20909262/Glitchpop_Frenzy_Level_5_Variant_1_Blue__Level_4_SideView.png"
+      ],
+      "definitions": [
+        "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)",
+        "large but transportable armament",
+        "a person who shoots a gun (as regards their ability)",
+        "a professional killer who uses a gun",
+        "a hand-operated pump that resembles a pistol; forces grease into parts of a machine",
+        "a pedal that controls the throttle valve",
+        "the discharge of a firearm as signal or as a salute in military ceremonies"
+      ]
+    },
+    {
+      "id": "barrel",
+      "image_urls": [
+        "https://www.dressityourself.co.uk/wp-content/uploads/2020/05/Oak-Whiskey-Barrel-Hire-1.png",
+        "https://static.wikia.nocookie.net/atelierseries/images/4/47/A11_item_076.png",
+        "https://cdn.shopify.com/s/files/1/2709/4168/products/Barrel-BAR12OWG-DarkOakWood-NoLogo_2x.png",
+        "https://urbanbarrelcompany.com/wp-content/uploads/2021/06/ub-gator-slider.png",
+        "https://static.wikia.nocookie.net/animalcrossing/images/3/34/NH-DIY-Furniture-Barrel.png"
+      ],
+      "definitions": [
+        "a tube through which a bullet travels when a gun is fired",
+        "a cylindrical container that holds liquids",
+        "a bulging cylindrical shape; hollow with flat ends",
+        "the quantity that a barrel (of any size) will hold",
+        "any of various units of capacity"
+      ]
+    },
+    {
+      "id": "tank",
+      "image_urls": [
+        "https://eu-wotp.wgcdn.co/dcont/fb/image/tmb/m18_hellcat_tanopedia_icon_cut_300x.png",
+        "https://thedailybounce.net/wp-content/uploads/2020/08/GB106_Cobra.png",
+        "https://eu-wotp.wgcdn.co/static/5.92.1_29ca43/wotp_static/img/core/frontend/scss/common/blocks/about-technic/img/overlap/germany.png",
+        "https://static.wikia.nocookie.net/ultra/images/9/98/Dinosaur_Tank%282%29.png",
+        "https://cdn.actionbooker.io/media/sites/16/2019/08/06160016/tank-ireland.png"
+      ],
+      "definitions": [
+        "an enclosed armored military vehicle; has a cannon and moves on caterpillar treads",
+        "a large (usually metallic) vessel for holding gases or liquids",
+        "as much as a tank will hold",
+        "a freight car that transports liquids or gases in bulk",
+        "a cell for violent prisoners"
+      ]
+    },
+    {
+      "id": "wheel",
+      "image_urls": [
+        "https://snipstock.com/assets/cdn/png/ad18655608d4e3208c5f7d2eef9a1826.png",
+        "https://lightweight.info/fileadmin/_processed_/0/d/csm_Rundkurs_Flyout_f930801a79.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1010px-Plutchik-wheel.svg.png",
+        "https://evolutionbike.it/pub/media/catalog/product/cache/9a7f5d11d3fdb309eee2409db95d8c49/_/f/_f_w_fw_orw-set_1_1_35.png",
+        "https://momo.com/wp-content/uploads/2019/03/MOMO-Legend-Wheels-Thumbnail-1-750x750.png"
+      ],
+      "definitions": [
+        "a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)",
+        "a handwheel that is used for steering",
+        "forces that provide energy and direction",
+        "a circular helm to control the rudder of a vessel",
+        "game equipment consisting of a wheel with slots that is used for gambling; the wheel rotates horizontally and players bet on which slot the roulette ball will stop in",
+        "an instrument of torture that stretches or disjoints or mutilates victims",
+        "a wheeled vehicle that has two wheels and is moved by foot pedals"
+      ]
+    },
+    {
+      "id": "bolts",
+      "image_urls": [
+        "https://i.accu.co.uk/360/_APC/SEBF-A2-BL/0_14.png",
+        "https://i.accu.co.uk/360/_APC/SEBF-A2/0_14.png",
+        "https://www.climbingtechnology.com/wp-content/uploads/2015/07/Anchor-Bolt-12-4A106-110.png",
+        "https://www.paigntontools.co.uk/image/cache/catalog/categories/Nuts-Bolts-Washers/Carriage-Bolts/Carriage%20Bolt%20A2%20Stainless-1440x1440.png",
+        "https://www.tfc.eu.com/wp-content/uploads/2017/11/Hex-Head-Bolt_Transparent.png"
+      ],
+      "definitions": [
+        "a discharge of lightning accompanied by thunder",
+        "a sliding bar in a breech-loading firearm that ejects an empty cartridge and replaces it and closes the breech",
+        "the part of a lock that is engaged or withdrawn with a key",
+        "the act of moving with great haste",
+        "a roll of cloth or wallpaper of a definite length",
+        "a screw that screws into a nut to form a fastener",
+        "a sudden abandonment (as from a political party)"
+      ]
+    },
+    {
+      "id": "drill",
+      "image_urls": [
+        "https://www.flexpowertools.com/media/catalog/product/cache/1671d441f97fceb198eed690825ce72e/f/x/fx1171t-2b_flex_60nm_half_inch_drill_turbo_3q_down_21-0219_onwhite_550.png",
+        "https://pimdatacdn.bahco.com/media/sub978/16a8481bf607683f.png",
+        "https://greenworkstools.eu/sites/default/files/styles/product_hero_mobile_1x/public/2018-06/G24DD_2.png",
+        "https://www.skil.com/media/catalog/product/cache/903608ed68cc8897ffd07e2c8937e596/h/d/hd529501_main_skil_20vbl_hammer_drill_profile.png",
+        "https://cdn.harttools.com/product/bullet_feature_group_images/9d7d362b1a514069b42fbadcf0de2052.png"
+      ],
+      "definitions": [
+        "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
+        "similar to the mandrill but smaller and less brightly colored",
+        "systematic training by multiple repetitions",
+        "(military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms"
+      ]
+    },
+    {
+      "id": "pistol",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/e7/Glock_17-removebg-preview.png",
+        "https://vavqj34csem437aom2bekqda-wpengine.netdna-ssl.com/wp-content/uploads/2000/09/Pistols_Thumb_Five-seveN--537x425.png",
+        "https://www.beretta.com/assets/12/7/two-grid-92x.png",
+        "https://static.wikia.nocookie.net/fortnite_gamepedia/images/a/a2/Pistol.png",
+        "https://cdn11.bigcommerce.com/s-uufzxxrapg/images/stencil/1200x1800/products/428/993/AE4I7556__45300.1573254623.png"
+      ],
+      "definitions": [
+        "a firearm that is held and fired with one hand"
+      ]
+    },
+    {
+      "id": "screws",
+      "image_urls": [
+        "https://www.mustad.it/wp-content/uploads/2018/08/ico_vite_pvit_uni_tx_chromiting_600x300.png",
+        "https://www.mustad.it/wp-content/uploads/2018/07/ico_vite_autofilettante_tc_ph_zincata_bianca_600x300.png",
+        "https://res.cloudinary.com/the-deck-store/s--xqc_qCfT--/c_pad,dpr_1.0,f_auto,q_auto/media/catalog/product/b/i/big-timber-fs-tiny-head-finish-screws_1.png",
+        "https://www.dkceurope.com/computedimage/sottotesta-png.i30166-kiMNtwo-w466-h373-l1-q98-r1.png",
+        "https://res.cloudinary.com/the-deck-store/s--z5Bwuj8D--/c_pad,dpr_1.0,f_auto,q_auto/media/catalog/product/s/c/screw-products-stainless-steel-cdeck-composite-deck-screws.png"
+      ],
+      "definitions": [
+        "someone who guards prisoners",
+        "a simple machine of the inclined-plane type consisting of a spirally threaded cylindrical rod that engages with a similarly threaded hole",
+        "a propeller with several angled blades that rotates to push against water or air",
+        "a fastener with a tapered threaded shank and a slotted head",
+        "slang for sexual intercourse"
+      ]
+    },
+    {
+      "id": "rope",
+      "image_urls": [
+        "https://www.fitnessproject.it/wp-content/uploads/2019/05/POWER-ROPE.png",
+        "https://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/1567/45897/17c36fd68bb2feb97e96964729e2a198a4be1a9f__58662.1614881359.386.513.png",
+        "https://www.waldhausen.com/media/catalog/product/cache/3/image/1400x1600/9df78eab33525d08d6e5fb8d27136e95/50463/Shop/Artikel/5046364_47.png",
+        "https://www.liftingequipmentstore.com/userfiles/productimages/singlelegsofteyes23122019085519_lrg.png",
+        "https://pimdatacdn.bahco.com/media/sub177/1759d44de37c673f.png"
+      ],
+      "definitions": [
+        "a strong line",
+        "street names for flunitrazepan"
+      ]
+    },
+    {
+      "id": "rifle",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5a/Winchester_92_short_rifle_transparent.png",
+        "https://cdn3.volusion.com/kcks2.jk6t3/v/vspfiles/photos/01SIGNATURE-2.png",
+        "https://static.wikia.nocookie.net/fallout/images/3/32/Survivalist%27s_rifle_blown_up.png",
+        "https://intl.stoegerairguns.com/wp-content/uploads/2021/01/slide-01_airrifles.png",
+        "https://www.berettadefensetechnologies.com/sites/default/files/content/products/trg-m10-bolt-action-sniper-rifle-folding-rear-stock-green.png"
+      ],
+      "definitions": [
+        "a shoulder firearm with a long barrel and a rifled bore"
+      ]
+    }
+  ]
+}

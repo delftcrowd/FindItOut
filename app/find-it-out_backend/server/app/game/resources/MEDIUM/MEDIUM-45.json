@@ -1,0 +1,258 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "briefcase",
+      "image_urls": [
+        "https://www.st-dupont.com/media/catalog/product/cache/13/image/9df78eab33525d08d6e5fb8d27136e95/1/8/181100_17.png",
+        "https://cdn.shopify.com/s/files/1/2406/1713/products/cognac_travelteq_1_600x.png",
+        "https://www.prada.com/content/dam/pradanux_products/2/2VE/2VE008/2FADF0002/2VE008_2FAD_F0002_V_OOO_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/2/2VE/2VE366/2FADF0216/2VE366_2FAD_F0216_V_OOX_MDL.png",
+        "https://www.picard-lederwaren.de/out/pictures/master/product/1/4404001Office_1.png"
+      ],
+      "definitions": [
+        "a case with a handle; for carrying papers or files or books"
+      ]
+    },
+    {
+      "id": "synagogue",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://static.wikia.nocookie.net/scribblenauts/images/9/92/Synagogue.png",
+        "https://cdn.emojidex.com/emoji/seal/synagogue.png",
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://cdn.icon-icons.com/icons2/1448/PNG/512/42506synagogue_98941.png"
+      ],
+      "definitions": [
+        "(Judaism) the place of worship for a Jewish congregation"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://nvdpl.ca/sites/default/files/styles/slideshow/public/field/image/slideshow_images/Web_2020%20COVID-19_Get%20in%20touch_2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "notebook",
+      "image_urls": [
+        "https://octaevo.com/storage/uploads/4a02d3ac-6c2e-461e-9395-a6605297c12b/notebook-planner-grey-octaevo.png",
+        "https://creativeuseoftechnology.com/wp-content/uploads/2020/10/leren-notitieboekje-cognac-hervulbaar-gravering.png",
+        "https://cdn.shopify.com/s/files/1/0641/8323/products/Denik-Custom-Hardcover-Layflat-Notebook-Spine-Angle_1024x1024.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/55UNNPbCXSEFJYM70oVlRC/c2cc426b5d02e21fe71b74526954d97a/retailrepositioning-c493b08f1eb2d79988ba28f7a929124e-800-800.png",
+        "https://470833-1477561-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Family-foto-2-schaduw.png"
+      ],
+      "definitions": [
+        "a book with blank pages for recording notes or memoranda",
+        "a small compact portable computer"
+      ]
+    },
+    {
+      "id": "paper",
+      "image_urls": [
+        "https://www.paardekooper.nl/static/uploads/pictures/large/920505.png",
+        "https://studioproefschrift.nl/images/hvo.png",
+        "https://www.smurfitkappa.com/products-and-services/-/m/images/products-images-740x-740/paper-and-board/printing-and-writing-papers/bond_from_paper.png",
+        "https://media.smurfitkappa.com/-/m/images/page-hero-610-x-350/paper_and_board_.png",
+        "https://catalog.depa.eu/static/uploads/pictures/large/DEPA_554760.png"
+      ],
+      "definitions": [
+        "a material made of cellulose pulp derived mainly from wood or rags or certain grasses",
+        "an essay (especially one written as an assignment)",
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a medium for written communication",
+        "a scholarly article describing the results of observations or stating hypotheses",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher"
+      ]
+    },
+    {
+      "id": "map",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/%22Political_World%22_CIA_World_Factbook_map_2005.svg/2753px-%22Political_World%22_CIA_World_Factbook_map_2005.svg.png",
+        "https://mapawall.com/wp-content/uploads/2018/05/MapaWall-Stainless-Steel-world-map.png",
+        "https://www.maptiler.com/img/cloud/map-img.png",
+        "https://mapawall.com/wp-content/uploads/2018/08/MapaWall-Rosewood-without-borders-without-oil-with-shadow.png",
+        "https://www.wijck.com/upload/producten/1024x1024/wereld-papier15264703405.png"
+      ],
+      "definitions": [
+        "a diagrammatic representation of the earth's surface (or part of it)",
+        "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)"
+      ]
+    },
+    {
+      "id": "backpack",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/John-Backpack-Midi-Black-Back_1024x1024.png",
+        "https://www.nixon.com/on/demandware.static/-/Sites-masterCatalog_Nixon/default/dwa17349ad/products/C3025-000-view1.png",
+        "https://image01.oneplus.net/ebp/202012/22/1-m00-1e-ac-rb8bwl_hxzaaqkeraaratr4jfa8896.png",
+        "https://static.nike.com/a/images/t_default/bf773f53-e74f-4248-89cc-1f4d0992acae/sb-rpm-skate-backpack-nmcTDs.png",
+        "https://www.barts.eu/img/240/427/resize/3/7/3779_mountain-backpack_13_1.png"
+      ],
+      "definitions": [
+        "a bag carried by a strap on your back or shoulder"
+      ]
+    },
+    {
+      "id": "classroom",
+      "image_urls": [
+        "https://www.clanbeat.com/wp-content/uploads/2021/04/Google-Classroom.png",
+        "https://www.woodridge68.org/cms/lib/IL01904677/Centricity/Domain/360/classroom.png",
+        "https://www.wvr.ac.uk/wp-content/uploads/2020/03/Google-Classroom-Icon-300x204.png",
+        "https://www.fujitsu.com/hk/imagesgig5/Icon_classroom_tcm137-3749856_tcm137-2750236-32.png",
+        "https://3.files.edl.io/dd2e/20/12/03/213020-0b484f5a-fc96-499c-bc55-537acedcfac2.png"
+      ],
+      "definitions": [
+        "a room in a school where lessons take place"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "book",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/1200px-Open_book_nae_02.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png",
+        "https://www.printsimpleindia.com/wp-content/uploads/2020/09/book_guide_hero_books.png",
+        "https://cdn.shopify.com/s/files/1/0039/7282/5134/products/Racism_1_860x860.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Book_A_Drunkard%27s_Tale.png"
+      ],
+      "definitions": [
+        "a written work or composition that has been published (printed on pages bound together)",
+        "physical objects consisting of a number of pages bound together",
+        "a compilation of the known facts regarding something or someone",
+        "a written version of a play or other dramatic composition; used in preparing for a performance",
+        "a record in which commercial accounts are recorded",
+        "a collection of playing cards satisfying the rules of a card game",
+        "a collection of rules or prescribed standards on the basis of which decisions are made",
+        "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+        "the sacred writings of the Christian religions",
+        "a major division of a long written composition",
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "id": "atlas",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/F%C3%BAtbol_Club_Atlas.svg/1200px-F%C3%BAtbol_Club_Atlas.svg.png",
+        "https://www.kinheim.com/wp-content/uploads/Atlas-Europa-2020.png",
+        "https://images.squarespace-cdn.com/content/v1/5b3108bbe74940194b83f30f/1539082780536-4N1VL1WD9AOMUHBAVTI8/ATLAS+Square+Logo+2000px.png",
+        "https://www.atlassport.nl/wp-content/uploads/2020/12/Logo-Atlas-nieuw-juli-200x200.png",
+        "https://www.worldatlas.com/img/root.png"
+      ],
+      "definitions": [
+        "(Greek mythology) a Titan who was forced by Zeus to bear the sky on his shoulders",
+        "a collection of maps in book form",
+        "the 1st cervical vertebra",
+        "a figure of a man used as a supporting column"
+      ]
+    },
+    {
+      "id": "museum",
+      "image_urls": [
+        "https://chabotmuseum.nl/wp-content/themes/chabotmuseum-18-11-2017/assets/img/logo.png",
+        "https://www.museumvanloon.nl/graphics/Museum_Van_Loon.png",
+        "https://www.amsterdammuseum.nl/sites/default/files/logo.png",
+        "https://www.diamondmuseum.com/wp-content/uploads/2018/01/home-imaage-8.png",
+        "https://www.dutchmuseums.com/img/mjkdef.png"
+      ],
+      "definitions": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value"
+      ]
+    },
+    {
+      "id": "locker",
+      "image_urls": [
+        "https://www.extravert.nl/media/catalog/product/cache/4e0e8dddbe9004133677c5e78e61118a/e/x/extravert_tolix_locker_b2_high_glossy_varnish.png",
+        "https://www.extravert.nl/media/catalog/product/cache/678cc94c827db9a9f4e16074f41eb248/e/x/extravert_tolix_locker_b2_ral_shelves_05.png",
+        "https://www.extravert.nl/media/catalog/product/cache/1c062e74d2c3a447e4abf02e944439f7/e/x/extravert_tolix_locker_b2_ral_shelves_05.png",
+        "https://www.stokq.nl/demo/wp-content/uploads/2017/06/stokq-locker-kast-inzet-1.png",
+        "https://cdn.shopify.com/s/files/1/0174/2162/products/DYKE_DEAN_TOLIX_LOCKER_CABINET_PAINTED_f4856f5d-52d1-4d7b-b796-17f1b8c00201_grande_B2_STEEL_CABINET_TALL.png"
+      ],
+      "definitions": [
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "a fastener that locks or closes",
+        "a trunk for storing personal possessions; usually kept at the foot of a bed (as in a barracks)"
+      ]
+    },
+    {
+      "id": "pocket",
+      "image_urls": [
+        "https://www.afas.nl/portal-product/afas-pocket-afas-software/afas%20pocket%20app%20mob.png",
+        "https://klant.afas.nl/portal-themapagina/afaspocket/downloaden.png",
+        "https://teenage.engineering/_img/54a7557fc7530702005257b3_512.png",
+        "https://www.afas.nl/portal-product/afas-pocket-in-de-bouw-afas-software/afas%20pocket%20als%20bouwapp%20-%20mob.png",
+        "https://www.f-one.world/app/uploads/2020/03/Pocket-Foil-Carbon-110.png"
+      ],
+      "definitions": [
+        "a small pouch inside a garment for carrying small articles",
+        "an enclosed space",
+        "a supply of money",
+        "(bowling) the space between the headpin and the pins behind it on the right or left",
+        "a hollow concave shape made by removing something",
+        "a local region of low pressure or descending air that causes a plane to lose height suddenly",
+        "a small isolated group of people",
+        "(anatomy) saclike structure in any of various animals (as a marsupial or gopher or pelican)",
+        "an opening at the corner or on the side of a billiard table into which billiard balls are struck"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://www.microsinternetdiensten.nl/resources/uploads/2017/06/Office365.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    }
+  ]
+}

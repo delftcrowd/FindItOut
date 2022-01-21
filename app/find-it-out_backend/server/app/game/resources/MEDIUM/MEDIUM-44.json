@@ -1,0 +1,267 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "bread",
+      "image_urls": [
+        "https://www.foodspring.nl/media/wysiwyg/pdp/highlightmodule/170324-FS-OP-ProteinBread-Gluten-1-380px.png",
+        "https://www.breadsmith.com/wp-content/uploads/2015/09/Power-Bread.png",
+        "https://www.bensbakery.ca/sites/default/files/BC_501359_BEN_HolsumFresh_Wheat_570g_0720_straight.png",
+        "https://uploads-ssl.webflow.com/5f45d9112907997b48ce00ff/5fbb7ba7ff41deef3c8ecd38_Toasted%20Grain%20Sourdough_crop%2Bcompress.png",
+        "https://cdn.shopify.com/s/files/1/0249/9670/8405/products/SeededBread_NOPackaging_Badge_2048x2048.png"
+      ],
+      "definitions": [
+        "food made from dough of flour or meal and usually raised with yeast or baking powder and then baked",
+        "informal terms for money"
+      ]
+    },
+    {
+      "id": "clouds",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/252/252035.png",
+        "https://cdn1.iconfinder.com/data/icons/hawcons/32/700432-icon-20-clouds-512.png",
+        "https://www.freeiconspng.com/thumbs/real-clouds-png/real-clouds-png-9.png",
+        "https://cdn.shopify.com/s/files/1/2292/8687/products/NF_VINYL_01_1024x.png",
+        "https://cdn-icons-png.flaticon.com/512/414/414927.png"
+      ],
+      "definitions": [
+        "any collection of particles (e.g., smoke or dust) or gases that is visible",
+        "a visible mass of water or ice particles suspended at a considerable altitude",
+        "out of touch with reality",
+        "a cause of worry or gloom or trouble",
+        "suspicion affecting your reputation",
+        "a group of many things in the air or on the ground"
+      ]
+    },
+    {
+      "id": "jail",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/2070/PNG/512/jail_icon_126169.png",
+        "https://miscellanynews.org/wp-content/uploads/2019/02/prison_PNG46.png",
+        "https://cdn-icons-png.flaticon.com/512/1685/1685853.png",
+        "https://assets.website-files.com/6005e7e461f4ba3355a5d5b1/600b00c9c739b6d9140f308d_Icon%20Jail%20260.png",
+        "https://static.thenounproject.com/png/55081-200.png"
+      ],
+      "definitions": [
+        "a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "air",
+      "image_urls": [
+        "https://static.nike.com/a/images/t_default/358b5ffe-0704-4c5a-89fd-0fa5b2b1f99b/air-max-plus-iii-shoe-KFPSRr.png",
+        "https://ec.europa.eu/environment/air/cleaner_air/img/intro/bird1.png",
+        "https://static.nike.com/a/images/t_default/b5ae51b1-117c-4cf5-96be-e7c69e8ac4ff/air-more-uptempo-older-shoe-fH1t1H.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Air_%28shown%29_JE2.png",
+        "https://ec.europa.eu/environment/air/cleaner_air/img/intro/bird2.png"
+      ],
+      "definitions": [
+        "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
+        "the region above the ground",
+        "a distinctive but intangible quality surrounding a person or thing",
+        "a slight wind (usually refreshing)",
+        "the mass of air surrounding the Earth",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "a succession of notes forming a distinctive sequence",
+        "medium for radio and television broadcasting",
+        "travel via aircraft"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "alcohol",
+      "image_urls": [
+        "https://www.etos.nl/on/demandware.static/-/Sites-etos-master-catalog/default/dw8520d560/images/110321497/110321497_MCM_PACK_193489.png",
+        "https://www.heineken.com/media-eu/p0bazdia/heineken-00-bottle.png",
+        "https://www.volksgezondheidsmonitor.nl/upload/ps/1001_Alcohol_overview.png",
+        "https://cdn.werkenmetmerken.nl/img/alcohol_ket_orphi_farma-t-800x533.png",
+        "https://www.om.nl/binaries/large/content/gallery/om/content-afbeeldingen/verkeer/prioriteiten/verkeer-alcohol.png"
+      ],
+      "definitions": [
+        "a liquor or brew containing alcohol as the active agent",
+        "any of a series of volatile hydroxyl compounds that are made from hydrocarbons by distillation"
+      ]
+    },
+    {
+      "id": "dinner",
+      "image_urls": [
+        "https://digitalcampaignsstorage.blob.core.windows.net/change4life/production/uploads/ckeditor/pictures/296/content_Nutrition-collection-dinner.png",
+        "https://static.takeaway.com/images/restaurants/nl/N15O/logo_465x320.png",
+        "https://www.dinnerinmotion.nl/wp-content/uploads/2019/09/Logo-Dinner-in-Motion-White-Transparant-2000x2000.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/dinner-6894dde410af53ff882a2204a2a54bb01eca1327.png",
+        "https://thedinnerhub.com/images/app_preview_1_dinnerhub.png"
+      ],
+      "definitions": [
+        "the main meal of the day served in the evening or at midday",
+        "a party of people assembled to have dinner together"
+      ]
+    },
+    {
+      "id": "room",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/FR_ASSET_IMG_FR_PRO_DARK.png",
+        "https://floorplanner.com/static/img/redesign/home/header-image.png",
+        "https://cedreo.com/uploads/us_livingroom_05_3d_v3_huaa719323ddab429104a35d392eab66b0_333429_1920x0_resize_lanczos_2.png",
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/open-meeting-room-std-white-v1.png",
+        "https://roomfordiscussion.com/wp-content/themes/rfd/static/img/logo_black.png"
+      ],
+      "definitions": [
+        "an area within a building enclosed by walls and floor and ceiling",
+        "space for movement",
+        "opportunity for",
+        "the people who are present in a room"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://global-uploads.webflow.com/5ee2074bd5264569f2a3a32f/5f58f409db9a88529bf05059_LY01_top_view_transparent_background.png",
+        "https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "restaurants",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://oniku.nl/wp-content/uploads/2021/06/Web_Terras_Image.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "manual",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/1568/1568349.png",
+        "https://735730.smushcdn.com/1022758/wp-content/uploads/2020/09/new-comb-manual.png",
+        "https://www.helpandmanual.com/xplain/hmfrontbanner/hm8.png",
+        "https://kreisler-publications.nl/wp-content/uploads/2020/07/IATA-Airport-Handling-Manual-IATA-AHM-2021-600x683.png",
+        "https://static.thenounproject.com/png/1430557-200.png"
+      ],
+      "definitions": [
+        "a small handbook",
+        "(military) a prescribed drill in handling a rifle"
+      ]
+    },
+    {
+      "id": "balloon",
+      "image_urls": [
+        "https://www.bubblexl.com/pub/media/catalog/product/cache/733e717111d47e410b9f89bba1913b37/r/e/red_28_ballon_600x600.png",
+        "https://deugnietenco.nl/wp-content/uploads/2021/05/ballon-rood.png",
+        "https://static.wikia.nocookie.net/fortnite/images/2/22/Balloons_-_Item_-_Fortnite.png",
+        "https://uploads-ssl.webflow.com/60269060a909eabb7baad8c8/60537f06740eee6283c99392_Large-Pink-Balloon.png",
+        "https://mrballoontwente.nl/wp-content/uploads/2020/10/logo-MrBalloonBlackonWhite-5-e1604403264316.png"
+      ],
+      "definitions": [
+        "large tough nonrigid bag filled with gas or heated air",
+        "small thin inflatable rubber bag with narrow neck"
+      ]
+    },
+    {
+      "id": "bar",
+      "image_urls": [
+        "https://www.cornelisrotterdam.nl/wp-content/uploads/2019/10/logo-cornelis-kitchen-bar-web-4.png",
+        "https://www.jbl.nl/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw39b2c12a/JBL_Bar_2.0_All-In-One_Front_1605x1605.png",
+        "https://www.logitech.com/content/dam/logitech/en/products/video-conferencing/rally-bar/gallery/graphite-1-v2.png",
+        "https://www.barbotanique.nl/images/logo-barbotanique-2020.png",
+        "https://www.bardoamsterdam.nl/wp-content/uploads/2019/06/Logo-Bar-Do%CC%81.png"
+      ],
+      "definitions": [
+        "a room or establishment where alcoholic drinks are served over a counter",
+        "a counter where you can obtain food or drink",
+        "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+        "musical notation for a repeating pattern of musical beats",
+        "an obstruction (usually metal) placed at the top of a goal",
+        "the act of preventing",
+        "(meteorology) a unit of pressure equal to a million dynes per square centimeter",
+        "a submerged (or partly submerged) ridge in a river or along a shore",
+        "the body of individuals qualified to practice law in a particular jurisdiction",
+        "a narrow marking of a different color or texture from the background",
+        "a block of solid substance (such as soap or wax)",
+        "a portable .30 caliber automatic rifle operated by gas pressure and fed by cartridges from a magazine; used by United States troops in World War I and in World War II and in the Korean War",
+        "a horizontal rod that serves as a support for gymnasts as they perform exercises",
+        "a heating element in an electric fire",
+        "(law) a railing that encloses the part of the courtroom where the judges and lawyers sit and the case is tried"
+      ]
+    },
+    {
+      "id": "party",
+      "image_urls": [
+        "https://www.party-time.nl/wp-content/uploads/2019/10/party2.png",
+        "https://the-party.nl/wp-content/uploads/2020/12/tponlineannouncement-539x303.png",
+        "https://the-party.nl/wp-content/uploads/2020/08/Duh-Events-The-Party-Logo.png",
+        "https://www.party-time.nl/wp-content/uploads/revslider/homeslider/homeslider_doos_met_bubble-min.png",
+        "https://weekbladparty.nl/content/uploads/2020/03/032020-digitaallezen-hp.png"
+      ],
+      "definitions": [
+        "an organization to gain political power",
+        "a group of people gathered together for pleasure",
+        "a band of people associated temporarily in some activity",
+        "an occasion on which people can assemble for social interaction and entertainment",
+        "a person involved in legal proceedings"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    }
+  ]
+}

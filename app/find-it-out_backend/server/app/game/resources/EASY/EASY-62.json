@@ -1,0 +1,138 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "frogs",
+      "image_urls": [
+        "https://www.zillarules.com/-/media/Images/Zilla-NA/US/Pets/Caresheets/australianbluetreefrog.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_960,f_auto/Frog_Swimming-A_jzzubb_vgf2xr.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_640,f_auto/Frog_Swimming-C_gtkzjt_byr0ry.png",
+        "https://static.wikia.nocookie.net/harrypotter/images/6/6a/Chocolate-frog-lrg.png",
+        "https://static.wikia.nocookie.net/animalcrossing/images/2/26/Frog_nh.png"
+      ],
+      "definitions": [
+        "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+        "a person of French descent",
+        "a decorative loop of braid or cord"
+      ]
+    },
+    {
+      "id": "ground",
+      "image_urls": [
+        "https://lightlife.com/wp-content/uploads/2020/05/Img_OurFood_Ground_med_CA-1.png",
+        "https://www.uva.nl/binaries/_ht_1557240385793/cardmedium/content/gallery/faculteiten-en-diensten/fgw-met-restricties/disciplines/conservering/projecten/down-to-the-ground-logo.png",
+        "https://www.jennieo.com/wp-content/uploads/2019/10/image-product_lean-ground-turkey-roll-16oz-500x500-2.png",
+        "https://www.shakyground.nl/wp-content/uploads/2020/01/ShakyGround-logo-260x189-1.png",
+        "https://www.tyson.com/static/db3fdabc3b4fa366fe867bcfb905462e/03e29/tyson_ground_chicken_665x547.png"
+      ],
+      "definitions": [
+        "the solid part of the earth's surface",
+        "a rational motive for a belief or action",
+        "the loose soft material that makes up a large part of the land surface",
+        "a relation that provides the foundation for something",
+        "a position to be won or defended in battle (or as if in battle)",
+        "the part of a scene (or picture) that lies behind objects in the foreground",
+        "material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)",
+        "a relatively homogeneous percept extending back of the figure on which attention is focused",
+        "a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)",
+        "(art) the surface (as a wall or canvas) prepared to take the paint for a painting",
+        "the first or preliminary coat of paint or size applied to a surface"
+      ]
+    },
+    {
+      "id": "dust",
+      "image_urls": [
+        "https://www.nioz.nl/application/files/5616/1407/2191/64PE482-dust2021-sticker.png",
+        "https://cdn.staticcrate.com/stock-hd/effects/footagecrate-disintegration-dust-surface-1-prev-full.png",
+        "https://cdn.werkenmetmerken.nl/img/Kontakt-Chemie_Dust_Off_HF-t-500x333.png",
+        "https://www.pastglobalchanges.org/sites/default/files/download/docs/magazine/2014-2/images/Fig%201_Dust%20in%20climate_L_opt.png",
+        "https://product-images.weber.com/accessory-images/17614_Smoking-Dust-Beech_Side_REV.png"
+      ],
+      "definitions": [
+        "fine powdery material such as dry earth or pollen that can be blown about in the air",
+        "the remains of something that has been destroyed or broken up",
+        "free microscopic particles of solid material"
+      ]
+    },
+    {
+      "id": "carpet",
+      "image_urls": [
+        "https://www.fatboy.com/assets/image/000/000/124/fatboy-non-flying-carpets-paprika.png",
+        "https://www.fatboy.com/assets/image/000/000/118/fatboy-non-flying-carpets-dont-step.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/a98cbf61f86a5b05151eb960eb59bb35/i/t/it_s_a_wild_world_panther_baby_carpet_200x300_-1.png",
+        "https://images.selency.com/f7dc7262-5df5-437a-8155-0e5544bbbb34/oriental-carpet-240x340-cm-sky-blue_original.png",
+        "https://images.selency.com/6d84a671-d436-4e87-864e-f79ce798df82/small-colorful-old-carpet-150-x-70-cm_original.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)",
+        "a natural object that resembles or suggests a carpet"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://duluthlibrary.org/media/11866/homeimage2.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://huson.nl/new/wp-content/uploads/2019/10/logo-huson-300x300.png",
+        "https://restaurant-yolo.com/wp-content/uploads/2020/06/YOLO-logo-transparent.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/03/Logo_allure_DEF.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "corner",
+      "image_urls": [
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/ORO1N1N1/logo_465x320.png",
+        "https://my.pocketmenu.nl/uploads/files/websites/the-corner-amsterdam/logo.png",
+        "https://static.takeaway.com/images/restaurants/nl/QO5N7PO/logo_465x320.png",
+        "https://static.takeaway.com/images/restaurants/nl/N7PQRRO/logo_465x320.png",
+        "https://www.woutmonseurs.nl/wp-content/uploads/2018/03/corner4.png"
+      ],
+      "definitions": [
+        "a place off to the side of an area",
+        "the point where two lines meet or intersect",
+        "an interior angle formed by two meeting walls",
+        "the intersection of two streets",
+        "the point where three areas or surfaces meet or intersect",
+        "a small concavity",
+        "a temporary monopoly on a kind of commercial trade",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a projecting part where two sides or edges meet",
+        "a remote area",
+        "(architecture) solid exterior angle of a building; especially one formed by a cornerstone"
+      ]
+    },
+    {
+      "id": "windowsill",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/nuuline-fill-interior-home-decoration/150/home_decoration_interior-09-512.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/02/Windowsill-breeze-Scentsy-waxbar.png",
+        "https://www.comhan.com/sites/default/files/styles/type_smal/public/waterslagen_35sl_15deg_waterslag_35sl_190mm_w-image1.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/10/Scentsy-vloeibaar-wasmiddel-windowsill-breeze.png",
+        "https://www.seekpng.com/png/full/763-7631869_how-to-design-a-windowsill-flower-box-window.png"
+      ],
+      "definitions": [
+        "the sill of a window; the horizontal member at the bottom of the window frame"
+      ]
+    }
+  ]
+}

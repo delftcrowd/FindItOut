@@ -1,0 +1,128 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://i1.wp.com/designeddecor.com/wp-content/uploads/2018/06/Big-Impact-Bedroom-Changes-6-Simple.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25449111/ass_cat_img_25449114.png",
+        "https://cdn.furn.online/media/image/3534/bedroom-queen-style.png",
+        "https://www.singersl.com/sites/default/files/images/products/2020-02/SFU_LF-OREGON-BRS.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "party",
+      "image_urls": [
+        "https://www.party-time.nl/wp-content/uploads/2019/10/party2.png",
+        "https://www.meermediabereik.nl/wp-content/uploads/2015/09/Party-logo.png",
+        "https://the-party.nl/wp-content/uploads/2020/12/tponlineannouncement-539x303.png",
+        "https://the-party.nl/wp-content/uploads/2020/08/Duh-Events-The-Party-Logo.png",
+        "https://www.party-time.nl/wp-content/uploads/revslider/homeslider/homeslider_doos_met_bubble-min.png"
+      ],
+      "definitions": [
+        "an organization to gain political power",
+        "a group of people gathered together for pleasure",
+        "a band of people associated temporarily in some activity",
+        "an occasion on which people can assemble for social interaction and entertainment",
+        "a person involved in legal proceedings"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png",
+        "https://www.072-pc.nl/wp-content/uploads/2020/06/Microsoft-Office-365-072-PC.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    },
+    {
+      "id": "hotel",
+      "image_urls": [
+        "https://media.hrs.com/media/image/01/99/b7/hotel-dummy.png",
+        "https://www.thejames.nl/images/logo-the-james-gold.png",
+        "https://www.wijck.com/upload/producten/1024x1024/hotel-new-york-lijst15009154163.png",
+        "https://www.hotelfreeland.com/images/logo-hotel-freeland-full-white.png",
+        "https://www.thebudgethotel.nl/wp-content/uploads/2021/04/the-budget-hotel-diap-def.png"
+      ],
+      "definitions": [
+        "a building where travelers can pay for lodging and meals and other services"
+      ]
+    },
+    {
+      "id": "telephone",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Black_telephone_icon_from_DejaVu_Sans.svg/2560px-Black_telephone_icon_from_DejaVu_Sans.svg.png",
+        "https://d1e00ek4ebabms.cloudfront.net/production/b18f700e-8b69-49c6-87e2-f9dae12578c5.png",
+        "https://blog.pitsco.com/hs-fs/hubfs/Blog%20Images/Telephone-Wireless-1366-0419.png",
+        "https://static-00.iconduck.com/assets.00/telephone-emoji-512x442-9q99uzi2.png",
+        "https://5.imimg.com/data5/QZ/XT/DO/SELLER-53553741/for-caller-id-landline-telephone-gf40-500x500.png"
+      ],
+      "definitions": [
+        "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+        "transmitting speech at a distance"
+      ]
+    },
+    {
+      "id": "hospital",
+      "image_urls": [
+        "https://images.trafficsupply.nl/imgfill/800/800/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://ramboll.com/-/media/files/ramboll-fonden/h/hospital-icons3.png",
+        "https://drawinghowtos.com/wp-content/uploads/2020/01/hospital-08.png",
+        "https://photos.healthgrades.com/homeimages/find-a-hospital.png",
+        "https://s3-eu-west-2.amazonaws.com/our-hospital-gplxuktgwz/uploads/public/5f9/188/6c9/5f91886c95853399223385.png"
+      ],
+      "definitions": [
+        "a health facility where patients receive treatment",
+        "a medical institution where sick or injured people are given medical or surgical care"
+      ]
+    }
+  ]
+}

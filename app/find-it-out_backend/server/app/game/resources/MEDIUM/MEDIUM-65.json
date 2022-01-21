@@ -1,0 +1,244 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "work",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://cloud.topsite.nl/widbm/kantoor/20215/original-637_320x240_canvas.png",
+        "https://letsworknow.nl/wordpress/wp-content/uploads/2020/10/Lets-Work-Now-Logo-Blanco.png"
+      ],
+      "definitions": [
+        "activity directed toward making or doing something",
+        "a product produced or accomplished through the effort or activity or agency of a person or thing",
+        "the occupation for which you are paid",
+        "applying the mind to learning and understanding a subject (especially by reading)",
+        "(physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force",
+        "a place where work is done",
+        "the total output of a writer or artist (or a substantial part of it)"
+      ]
+    },
+    {
+      "id": "computer",
+      "image_urls": [
+        "https://wikiimg.tojsiabtv.com/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/1200px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gnome-computer.svg/1200px-Gnome-computer.svg.png",
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.072-pc.nl/wp-content/uploads/2015/11/computer-apkn.png",
+        "https://www.paradigit.nl/media/825734/computer-gaming-bto.png"
+      ],
+      "definitions": [
+        "a machine for performing calculations automatically",
+        "an expert at calculation (or at operating calculating machines)"
+      ]
+    },
+    {
+      "id": "england",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/England_national_football_team_crest.svg/1200px-England_national_football_team_crest.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/England_878.svg/220px-England_878.svg.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/England-flag-1.png",
+        "https://static.nike.com/a/images/t_default/83f10d5f-a080-4b44-896c-ce6d4a7d42e4/england-prestige-football-F3PlXV.png",
+        "https://cdn.statically.io/img/ultra-x.co/wp-content/uploads/2021/01/medal-icon-england-black.png"
+      ],
+      "definitions": [
+        "a division of the United Kingdom"
+      ]
+    },
+    {
+      "id": "canada",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/350px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/1200px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canada_on_the_globe_%28North_America_centered%29.svg/1200px-Canada_on_the_globe_%28North_America_centered%29.svg.png",
+        "https://www.rabobank.com/en/images/canada.png",
+        "https://www.startupcan.ca/wp-content/themes/startup-canada/assets/img/canada-map.png"
+      ],
+      "definitions": [
+        "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+      ]
+    },
+    {
+      "id": "maine",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566487302777-1QH95OD6OQRA8H2RRRMQ/Maine.png",
+        "https://www.maine.gov/sos/kids/themes/kids/images/colorcounties.png",
+        "https://www.maine.edu/wp-content/uploads/sites/1/2020/06/campusmapnames_with_Law.png",
+        "https://vlagblog.files.wordpress.com/2021/03/maine-zegel-1.png",
+        "https://www.integratedecosystemassessment.noaa.gov/sites/default/files/inline-images/GOM_GB_WHITE%20%281%29_0.png"
+      ],
+      "definitions": [
+        "a state in New England"
+      ]
+    },
+    {
+      "id": "valley",
+      "image_urls": [
+        "https://www.horecava.nl/wp-content/uploads/2020/06/product-1394668_35540.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Formation-Of-A-V-Shaped-Valley-4-V-Shaped-Valley---Geography-Land-Water-Rivers-KS3.png",
+        "https://www.fictionvalley.nl/images/logo.png",
+        "https://www.veluwe-valley.nl/images/logo-2017.png",
+        "https://logisticsvalleyhelpt.nl/wp-content/uploads/2020/03/cropped-LV_Logo_CMYK_Rivierenland-1.png"
+      ],
+      "definitions": [
+        "a long depression in the surface of the land that usually contains a river"
+      ]
+    },
+    {
+      "id": "michigan",
+      "image_urls": [
+        "https://www.michigannature.org/images/img_library/crp/96-6-8-issue.png",
+        "https://www.bls.gov/regions/midwest/images/18782.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/hotspots.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/risk_levels.png",
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566497203534-IP8F83WR5AWBNVFFG2VF/Michigan.png"
+      ],
+      "definitions": [
+        "a midwestern state in north central United States in the Great Lakes region",
+        "the 3rd largest of the Great Lakes; the largest freshwater lake entirely within the United States borders",
+        "a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://www.cityhotel.nl/wp-content/uploads/2019/02/City-Hotel-logo.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "bus",
+      "image_urls": [
+        "https://www.ebusco.com/wp-content/uploads/Ebusco-3.0-3.png",
+        "https://www.1cares.com/images/com/bus/en/bus-rotterdam-1.png",
+        "https://www.blue-bird.com/images/vision2.png",
+        "https://www.wabco-auto.com/WabcoWeb/Images/solution-domain/bus/wabco-bus-side.png",
+        "https://bydeurope.com/img/pdp-bus-model-18-bus.png"
+      ],
+      "definitions": [
+        "a vehicle carrying many passengers; used for public transport",
+        "the topology of a network whose components are connected by a busbar",
+        "an electrical conductor that makes a common connection between several circuits",
+        "a car that is old and unreliable"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    },
+    {
+      "id": "village",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/1/11/Savanna_Small_House_7.png",
+        "https://www.dreamvillage.nl/2019/lay/2019/landing-logo.png",
+        "https://fotovillage.nl/wp-content/uploads/2020/10/fotovillage-logo.png",
+        "https://welcometothevillage.nl/wp-content/themes/welcometothevillage/dist/img/wttv-18-juli.png",
+        "https://www.dreamvillage.nl/2019/lay/2019/logo-dreamvillage-400pxw.png"
+      ],
+      "definitions": [
+        "a community of people smaller than a town",
+        "a settlement smaller than a town",
+        "a mainly residential district of Manhattan; `the Village' became a home for many writers and artists in the 20th century"
+      ]
+    },
+    {
+      "id": "churchyard",
+      "image_urls": [
+        "https://naturalcutstone.co.uk/wp-content/uploads/2016/06/lidster_l67_nabressina_cross_peon_memorials_headstone_gravestone_york_stone_marble_granite_slate_monument_memorial_mason.png",
+        "https://naturalcutstone.co.uk/wp-content/uploads/2016/06/lidster_rl302_rustic_yorkstone_round_top_headstone_monument_carved_mason_memorial.png",
+        "https://images.squarespace-cdn.com/content/v1/59b810aabce1767c37747806/1536158496090-5OIXCBEEMH0JSY893QBC/Ploughman-Churchyard-1.png",
+        "https://www.houseofnames.com/dpreview/CHURCHYA/EN/Churchyard/family-crest-coat-of-arms.png",
+        "https://lirp.cdn-website.com/e12ea45e/dms3rep/multi/opt/churches-d0de87c5-640w.png"
+      ],
+      "definitions": [
+        "the yard associated with a church"
+      ]
+    },
+    {
+      "id": "yard",
+      "image_urls": [
+        "https://www.yard-indoorfarming.com/wp-content/uploads/2021/05/Yardpeterselke.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/041738_A.png",
+        "https://www.theyardhotel.nl/wp-content/uploads/2017/07/logo.png",
+        "https://images.squarespace-cdn.com/content/v1/5b621f7525bf02d42c9666d8/1533162506506-49XMESISZ94IDRXIHFKW/Main+Logo-03.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/093699_A.png"
+      ],
+      "definitions": [
+        "a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride",
+        "the enclosed land around a house or other building",
+        "a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings)",
+        "the cardinal number that is the product of 10 and 100",
+        "a unit of volume (as for sand or gravel)",
+        "a tract of land where logs are accumulated",
+        "an area having a network of railway tracks and sidings for storage and maintenance of cars and engines",
+        "a long horizontal spar tapered at the end and used to support and spread a square sail or lateen",
+        "an enclosure for animals (as chicken or livestock)"
+      ]
+    },
+    {
+      "id": "hallway",
+      "image_urls": [
+        "https://design-tips.floorplanner.com/wp-content/uploads/2021/02/95450991_project_1_first_floor_first_design_20210212093236.png",
+        "https://cdn0.iconfinder.com/data/icons/interior-furniture-volume-2/256/HALLWAY-512.png",
+        "https://hallway-strapijs-us-east-1-assets.s3.amazonaws.com/Hallway_Logo_Large_Transparent_Text_150c4bada5.png",
+        "https://images.squarespace-cdn.com/content/v1/5d45669751d1320001b1f5af/1606123859850-SKEAAHNT2UXKHI6YMWFE/image-asset.png",
+        "https://ourhousenowahome.com/wp-content/uploads/2016/02/hallway-transormation-collage.png"
+      ],
+      "definitions": [
+        "an interior passage or corridor onto which rooms open"
+      ]
+    },
+    {
+      "id": "skyscraper",
+      "image_urls": [
+        "https://i.pinimg.com/originals/4e/42/44/4e42443bc52ba12695863f0a751f0a23.png",
+        "https://static.wikia.nocookie.net/sqmegapolis/images/d/d9/Skyscraper_Ship_L3.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABTuQnfmQ1AxworWsWT_mKRF4K5mTAd5XcTPtC9BAtxAWW2maq_AouJXQktqX6xqcvadwPwdsDYXCldcP0GC5F_X8ctW_JNA6YDT-.png",
+        "https://brickitecture.eu/____impro/1/images/skyscraper-collection/petronas-towers/Box-Skyscraper-Collection-Petronas-Towers.png",
+        "https://www.freeiconspng.com/thumbs/skyscraper-icon/skyscraper-icon-png-4.png"
+      ],
+      "definitions": [
+        "a very tall building with many stories"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://www.microsinternetdiensten.nl/resources/uploads/2017/06/Office365.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    }
+  ]
+}

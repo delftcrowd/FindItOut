@@ -1,0 +1,268 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "harbor",
+      "image_urls": [
+        "https://goharbor.io/img/logos/harbor-icon-color.png",
+        "https://raw.githubusercontent.com/goharbor/website/master/docs/img/readme/harbor_logo.png",
+        "https://www.mirantis.com/wp-content/uploads/2019/07/harbor-logo-1.png",
+        "https://assets.website-files.com/5dd9926acd7d37f83d1b1da9/5ddc35b3c27a498aedca58c4_Harbor_Logo_White.png",
+        "https://harborfoodservice.com/uploads/docs/harbor_foodservice_logo_left_aligned_rgb.png"
+      ],
+      "definitions": [
+        "a sheltered port where ships can take on or discharge cargo",
+        "a place of refuge and comfort and security"
+      ]
+    },
+    {
+      "id": "river",
+      "image_urls": [
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfYG-2JJ4qmETgedI9xVH_RRlenov2GTkvXiweQVdKfeRTXqrRxrJZ4tCN_8RMtWJsI9RAqkmPmWNAvFGgu4X_4aLpQ_UDWYspUfOt_PwXeD6DOryFsOEhTI6Vvw0Su9WX7HSONSfCn9e9tJmcpxosfk9Qy4lkHJOdcR4aXDzatC_Q.png",
+        "https://www.nps.gov/miss/images/watershed.png",
+        "https://united-rivers.eu/wp-content/uploads/2020/07/united-rivers-32.png",
+        "https://cpw.state.co.us/PublishingImages/LandWater/Riverwatch/River-Watch-logo.png",
+        "https://ohioriverfdn.org/wp-content/uploads/OhioRiverWatershed.png"
+      ],
+      "definitions": [
+        "a large natural stream of water (larger than a creek)"
+      ]
+    },
+    {
+      "id": "boat",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/miscreated/images/6/6e/Fishing_boat_2048.png",
+        "https://smartlinerboat.com/index_htm_files/238524@2x.png",
+        "https://zsilt.nl/wp-content/uploads/2021/05/bootje-blauw-rgb.png",
+        "https://www.boatrental-giethoorn.eu/wp-content/uploads/2020/06/cropped-Boot-4-p-met-kussens-e1592467011913-1.png",
+        "https://tanaruz.boats/assets/images/better-for-planet.png"
+      ],
+      "definitions": [
+        "a small vessel for travel on water",
+        "a dish (often boat-shaped) for serving gravy or sauce"
+      ]
+    },
+    {
+      "id": "fly",
+      "image_urls": [
+        "https://knoxpest.com/sites/default/files/styles/primary__800x400_/public/flies.png",
+        "https://www.phantasialand.de/files/uploads/themenpark/images/sommer/berlin/fly/ga-fly-logo-01.png",
+        "https://www.pctonline.com/fileuploads/publications/18/issues/103703/articles/images/AdobeStock_185442295_fmt.png",
+        "https://fly-cd.com/images/airplane-1.png",
+        "https://whyfiles.org/wp-content/uploads/2015/11/fruitfly_diagram.png"
+      ],
+      "definitions": [
+        "two-winged insects characterized by active flight",
+        "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent",
+        "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth",
+        "(baseball) a hit that flies up in the air",
+        "fisherman's lure consisting of a fishhook decorated to look like an insect"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png",
+        "https://www.hillhouttuinhout.nl/images/180x180/r/products/8711471201873_1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "chicken",
+      "image_urls": [
+        "https://betterchickencommitment.com/static/e585f750632dcffec40cb1943b7c2638/a54c6/white-chicken-cutout-1.png",
+        "https://betterchickencommitment.com/static/c4c65646cd882eb3b25feba0144c9113/a54c6/white-chicken-cutout-2.png",
+        "https://static.takeaway.com/images/restaurants/nl/N1Q7NOR/logo_465x320.png",
+        "https://major-chicken.de/media/a3/fd/76/1611667472/majorchicken1.png",
+        "https://images.ctfassets.net/o19mhvm9a2cm/7vncTip0YUPHM6SttXHM4x/60ec9cfaef5e47ff2477a80a6fc11b74/Website_Chicken_Tenders_5PC.png"
+      ],
+      "definitions": [
+        "the flesh of a chicken used for food",
+        "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl",
+        "a person who lacks confidence, is irresolute and wishy-washy",
+        "a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops"
+      ]
+    },
+    {
+      "id": "pool",
+      "image_urls": [
+        "https://dutchreview.com/wp-content/uploads/rustig_leven.png",
+        "https://dutchreview.com/wp-content/uploads/Screenshot-2019-03-04-at-3.12.11-PM.png",
+        "https://dutchreview.com/wp-content/uploads/Screenshot-2019-03-05-at-12.46.09-PM.png",
+        "https://fiberglasspool4you.com/wp-content/uploads/2021/01/Pool4You-niecka-basenowa-KING-1024x469.png",
+        "https://cdn.toppy.nl/g/catalog/product/14168/800f600/27180018_poolnbox_sable_semi-enterree_3_pieds_resultaat.png"
+      ],
+      "definitions": [
+        "an excavation that is (usually) filled with water",
+        "a small lake",
+        "an organization of people or resources that can be shared",
+        "an association of companies for some definite purpose",
+        "any communal combination of funds",
+        "a small body of standing water (rainwater) or other liquid",
+        "the combined stakes of the betters",
+        "something resembling a pool of liquid",
+        "any of various games played on a pool table having 6 pockets"
+      ]
+    },
+    {
+      "id": "sink",
+      "image_urls": [
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/2/PR11899BI11133_11128001_PREMIUM_1C_SZ1.png",
+        "https://d7rh5s3nxmpy4.cloudfront.net/CMP1219/PR11617BI20811_10125004_BE_34_37_1B_SZ1.png",
+        "https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpr02254_tif.png",
+        "https://crownappliances.com.pk/wp-content/uploads/2021/01/CR-6045-min-1.png",
+        "https://www.dometic.com/externalassets/dometic-va8000-series-sink_37458.png"
+      ],
+      "definitions": [
+        "plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe",
+        "(technology) a process that acts to absorb or remove energy or a substance from a system",
+        "a depression in the ground communicating with a subterranean passage (especially in limestone) and formed by solution or by collapse of a cavern roof",
+        "a covered cistern; waste water and sewage flow into it"
+      ]
+    },
+    {
+      "id": "puddle",
+      "image_urls": [
+        "https://www.nicepng.com/png/full/15-152932_puddle-png-water-puddle-png.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/puddle-1.png",
+        "https://drawinghowtos.com/wp-content/uploads/2021/07/puddle-02.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/1325044/rain-puddle-clipart-xl.png",
+        "https://1.bp.blogspot.com/-e9ocNZ71sUs/Xr-tDJxmqYI/AAAAAAAADRE/LbP9hry6VcoRjZCp5RM3_CjQAoHsWjXIACLcBGAsYHQ/s1600/Artboard%2B1_1%25404x.png"
+      ],
+      "definitions": [
+        "a mixture of wet clay and sand that can be used to line a pond and that is impervious to water when dry",
+        "a small body of standing water (rainwater) or other liquid",
+        "something resembling a pool of liquid"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://global-uploads.webflow.com/5ee2074bd5264569f2a3a32f/5f58f409db9a88529bf05059_LY01_top_view_transparent_background.png",
+        "https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "medium",
+      "image_urls": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202105/1813/CNbsSsDsLrtgzs4MG3j29XCM.png",
+        "https://cdn.freebiesupply.com/images/large/2x/medium-icon-white-on-black.png",
+        "https://assets.biggreenegg.eu/app/uploads/2019/07/31162434/topimage-2019-19061-eggs-800x800-medium.png",
+        "https://www.etna-ct.nl/foto/1508/545/files/Bestanden/Productfotos/dorado_espresso_medium_smart_touch_black_front.png",
+        "https://cdn-icons-png.flaticon.com/512/174/174858.png"
+      ],
+      "definitions": [
+        "a means or instrumentality for storing or communicating information",
+        "the surrounding environment",
+        "an intervening substance through which signals can travel as a means for communication",
+        "(bacteriology) a nutrient substance (solid or liquid) that is used to cultivate micro-organisms",
+        "a liquid with which pigment is mixed by a painter",
+        "(biology) a substance in which specimens are preserved or displayed",
+        "an intervening substance through which something is achieved",
+        "a state that is intermediate between extremes; a middle position",
+        "someone who serves as an intermediary between the living and the dead",
+        "(usually plural) transmissions that are disseminated widely to the public",
+        "an occupation for which you are especially well suited"
+      ]
+    },
+    {
+      "id": "glass",
+      "image_urls": [
+        "https://www.rijksmuseumshop.nl/media/image/62/b3/91/12118_f.png",
+        "https://anna-nina.imgix.net/spree/products/14506/huge/Wine_Glass_Cobalt_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/14497/huge/Bubble_Water_Glass_Sea_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/14505/huge/Wine_Glass_Sea_Blue_edited.png",
+        "https://catalog.depa.eu/static/uploads/pictures/large/DEPA_150331.png"
+      ],
+      "definitions": [
+        "a brittle transparent solid with irregular atomic structure",
+        "a container made of glass for holding liquids while drinking",
+        "the quantity a glass will hold",
+        "a small refracting telescope",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant",
+        "a mirror; usually a ladies' dressing mirror",
+        "glassware collectively"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png",
+        "https://www.mystreet.org/media/791008/footpaths-roundel.png",
+        "https://images.squarespace-cdn.com/content/v1/5620ddc4e4b04789570e5fca/1519660057648-G5ZZEN43K2NMO3YOA5PS/SCNL-logo.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/cjfv6a9on0zlh0hqmireerr8r-moto-tyres-pilot-street-persp.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    },
+    {
+      "id": "water",
+      "image_urls": [
+        "https://www.carlsberggroup.com/media/42520/cg_sr2020_illustration_ttz_single_1200x1200_web-08.png",
+        "https://cdn.shopify.com/s/files/1/0051/7262/5477/products/FW_2021_1000ml_900x900_3acaa56d-6493-46d6-b941-f84ea7670dce_grande.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9d/Water.png",
+        "https://www.spa.nl/img/home/product-water-group.png",
+        "https://149362216.v2.pressablecdn.com/wp-content/uploads/2019/06/05_WaterGlass_Pour_Transparent_Shadow_Straight.png"
+      ],
+      "definitions": [
+        "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent",
+        "the part of the earth's surface covered with water (such as a river or lake or ocean)",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "a facility that provides a source of water",
+        "liquid excretory product",
+        "a liquid necessary for the life of most animals and plants"
+      ]
+    },
+    {
+      "id": "soup",
+      "image_urls": [
+        "https://res.cloudinary.com/general-mills/image/upload/q_auto,f_auto/annies/wp-content/uploads/2019/11/Organic-Meatball-Soup-with-Pasta-and-Vegetables.png",
+        "https://www.jacobsdouweegbertsprofessional.nl/siteassets/packshots/meer/soep/unox_cas_140ml_groente_rightangle_lr_v2.png",
+        "https://vinceandjoes.com/wp-content/uploads/2020/04/CHICKEN_NOODLE_SOUP_shutterstock_1041988957_clipped_rev_1.png",
+        "https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/heinzcouk/soup/product/images/Classic/Vegetable.png",
+        "https://www.jacobsdouweegbertsprofessional.nl/siteassets/packshots/meer/soep/unox_cas_140ml_erwt_rightangle_lr_v2.png"
+      ],
+      "definitions": [
+        "liquid food especially of meat or fish or vegetable stock often containing pieces of solid food",
+        "any composition having a consistency suggestive of soup",
+        "an unfortunate situation"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "rope",
+      "image_urls": [
+        "https://www.fitnessproject.it/wp-content/uploads/2019/05/POWER-ROPE.png",
+        "https://cdn.shopify.com/s/files/1/1493/2618/products/2851720083_media-02.png",
+        "https://cdn11.bigcommerce.com/s-qrqahjv4q5/images/stencil/1000w/products/1567/45897/17c36fd68bb2feb97e96964729e2a198a4be1a9f__58662.1614881359.386.513.png",
+        "https://www.waldhausen.com/media/catalog/product/cache/3/image/1400x1600/9df78eab33525d08d6e5fb8d27136e95/50463/Shop/Artikel/5046364_47.png",
+        "https://www.liftingequipmentstore.com/userfiles/productimages/singlelegsofteyes23122019085519_lrg.png"
+      ],
+      "definitions": [
+        "a strong line",
+        "street names for flunitrazepan"
+      ]
+    },
+    {
+      "id": "wheel",
+      "image_urls": [
+        "https://snipstock.com/assets/cdn/png/ad18655608d4e3208c5f7d2eef9a1826.png",
+        "https://lightweight.info/fileadmin/_processed_/0/d/csm_Rundkurs_Flyout_f930801a79.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/1010px-Plutchik-wheel.svg.png",
+        "https://evolutionbike.it/pub/media/catalog/product/cache/9a7f5d11d3fdb309eee2409db95d8c49/_/f/_f_w_fw_orw-set_1_1_35.png",
+        "https://momo.com/wp-content/uploads/2019/03/MOMO-Legend-Wheels-Thumbnail-1-750x750.png"
+      ],
+      "definitions": [
+        "a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)",
+        "a handwheel that is used for steering",
+        "forces that provide energy and direction",
+        "a circular helm to control the rudder of a vessel",
+        "game equipment consisting of a wheel with slots that is used for gambling; the wheel rotates horizontally and players bet on which slot the roulette ball will stop in",
+        "an instrument of torture that stretches or disjoints or mutilates victims",
+        "a wheeled vehicle that has two wheels and is moved by foot pedals"
+      ]
+    },
+    {
+      "id": "drill",
+      "image_urls": [
+        "https://www.flexpowertools.com/media/catalog/product/cache/1671d441f97fceb198eed690825ce72e/f/x/fx1171t-2b_flex_60nm_half_inch_drill_turbo_3q_down_21-0219_onwhite_550.png",
+        "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/389153-cordlessdrills-dewalt-dcd991p2.png",
+        "https://pimdatacdn.bahco.com/media/sub978/16a8481bf607683f.png",
+        "https://www.skil.com/media/catalog/product/cache/903608ed68cc8897ffd07e2c8937e596/h/d/hd529501_main_skil_20vbl_hammer_drill_profile.png",
+        "https://cdn.harttools.com/product/bullet_feature_group_images/9d7d362b1a514069b42fbadcf0de2052.png"
+      ],
+      "definitions": [
+        "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
+        "similar to the mandrill but smaller and less brightly colored",
+        "systematic training by multiple repetitions",
+        "(military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms"
+      ]
+    },
+    {
+      "id": "belt",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/2/2CM/2CM188/053F0216/2CM188_053_F0216_SLF.png",
+        "https://media2.bulgari.com/f_auto,q_auto/production/dw47141032/images/images/464911.png",
+        "https://media2.bulgari.com/f_auto,q_auto/production/dw226090d9/images/images/466646.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/1CN/1CN048/BV1F0002/1CN048_BV1_F0002_SLF.png",
+        "https://cdn.shopify.com/s/files/1/1011/1278/products/Belt_GunMetal_DeepStone_View01_420x420.png"
+      ],
+      "definitions": [
+        "endless loop of flexible material between two rotating shafts or pulleys",
+        "a band to tie or buckle around the body (usually at the waist)",
+        "an elongated region where a specific condition or characteristic is found",
+        "a vigorous blow",
+        "a path or strip (as cut by one course of mowing)",
+        "ammunition (usually of small caliber) loaded in flexible linked strips for use in a machine gun",
+        "the act of hitting vigorously"
+      ]
+    },
+    {
+      "id": "clamp",
+      "image_urls": [
+        "https://pimdatacdn.bahco.com/media/sub1009/16a85bd19ae6d53f.png",
+        "https://www.fittingservice.it/wp-content/uploads/2018/05/FS_601K.png",
+        "https://www.tama.com/common/product_artist_file/file/pen_MC66_00_01.png",
+        "https://pimdatacdn.bahco.com/media/sub314/1732dc2b7a6a0f3f.png",
+        "https://www.humboldtmfg.com/product-images/lrg/H-8002.png"
+      ],
+      "definitions": [
+        "a device (generally used by carpenters) that holds things firmly together"
+      ]
+    },
+    {
+      "id": "screws",
+      "image_urls": [
+        "https://www.mustad.it/wp-content/uploads/2018/06/ico_vite_autofilettante_flat_tc_ph_zincata_bianca_600x300.png",
+        "https://www.mustad.it/wp-content/uploads/2018/08/ico_vite_pvit_uni_tx_chromiting_600x300.png",
+        "https://www.mustad.it/wp-content/uploads/2018/07/ico_vite_autofilettante_tc_ph_zincata_bianca_600x300.png",
+        "https://res.cloudinary.com/the-deck-store/s--xqc_qCfT--/c_pad,dpr_1.0,f_auto,q_auto/media/catalog/product/b/i/big-timber-fs-tiny-head-finish-screws_1.png",
+        "https://www.dkceurope.com/computedimage/sottotesta-png.i30166-kiMNtwo-w466-h373-l1-q98-r1.png"
+      ],
+      "definitions": [
+        "someone who guards prisoners",
+        "a simple machine of the inclined-plane type consisting of a spirally threaded cylindrical rod that engages with a similarly threaded hole",
+        "a propeller with several angled blades that rotates to push against water or air",
+        "a fastener with a tapered threaded shank and a slotted head",
+        "slang for sexual intercourse"
+      ]
+    },
+    {
+      "id": "bolts",
+      "image_urls": [
+        "https://i.accu.co.uk/360/_APC/SEBF-A2-BL/0_14.png",
+        "https://i.accu.co.uk/360/_APC/SEBF-A2/0_14.png",
+        "https://www.climbingtechnology.com/wp-content/uploads/2015/07/Anchor-Bolt-12-4A106-110.png",
+        "https://www.paigntontools.co.uk/image/cache/catalog/categories/Nuts-Bolts-Washers/Carriage-Bolts/Carriage%20Bolt%20A2%20Stainless-1440x1440.png",
+        "https://www.tfc.eu.com/wp-content/uploads/2017/11/Hex-Head-Bolt_Transparent.png"
+      ],
+      "definitions": [
+        "a discharge of lightning accompanied by thunder",
+        "a sliding bar in a breech-loading firearm that ejects an empty cartridge and replaces it and closes the breech",
+        "the part of a lock that is engaged or withdrawn with a key",
+        "the act of moving with great haste",
+        "a roll of cloth or wallpaper of a definite length",
+        "a screw that screws into a nut to form a fastener",
+        "a sudden abandonment (as from a political party)"
+      ]
+    },
+    {
+      "id": "hose",
+      "image_urls": [
+        "https://airpress.net/media/catalog/product/cache/2cf6a9e66210d431c6369e61c1eb52eb/4/3/4304211_2d_0001b.png",
+        "https://www.tooled-up.com/artwork/prodzoom/GH15R-12.V2_DFC0314936.png",
+        "https://www.manuli-hydraulics.com/wp-content/uploads/2019/07/SafeMaster-1080x605.png",
+        "https://www.flexbimec.com/wp-content/uploads/2019/10/287XX.png",
+        "https://www.aquahung.com/proimages/ps/IMG20190504104846_b.png"
+      ],
+      "definitions": [
+        "socks and stockings and tights collectively (the British include underwear)",
+        "man's close-fitting garment of the 16th and 17th centuries covering the legs and reaching up to the waist; worn with a doublet",
+        "a flexible pipe for conveying a liquid or gas"
+      ]
+    }
+  ]
+}

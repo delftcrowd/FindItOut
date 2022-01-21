@@ -1,0 +1,141 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "cat",
+      "image_urls": [
+        "https://www.hillspet.nl/content/dam/pim/hills/nl_nl/sd/dry/sp-feline-science-plan-sterilised-cat-young-adult-chicken-dry-productShot_500.png",
+        "https://images-na.ssl-images-amazon.com/images/I/71+mDoHG4mL.png",
+        "https://medicalpetshirts.com/wp-content/uploads/sites/5/%C2%A9-MPS-ANNOTATED-IMAGE-PROTECTIVE-BODY-SHIRT.CAT-01-V01.2019.png",
+        "https://avalonpetfood.com/wp-content/uploads/2020/04/Avalon-Optimal-Cat-V2-web2.png",
+        "https://jngnposwzs-flywheel.netdna-ssl.com/wp-content/uploads/2019/05/Transparent-OrangeWhiteCat-764x1024.png"
+      ],
+      "definitions": [
+        "feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats",
+        "an informal term for a youth or man",
+        "a spiteful woman gossip",
+        "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant",
+        "a whip with nine knotted cords",
+        "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work",
+        "any of several large cats typically able to roar and living in the wild",
+        "a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis"
+      ]
+    },
+    {
+      "id": "rug",
+      "image_urls": [
+        "https://hkliving.nl/media/39199/ttk3063-lr_d_01.png",
+        "https://images.selency.com/306f4a30-cf03-438b-b4b9-a5f711b6ac7a/beautiful-rug-rbati_original.png",
+        "https://cdn.shopify.com/s/files/1/1496/0124/products/Ellsworth_10x8_f87a5242-70e3-4ca9-9f0b-dde5c9b12d17_x700.png",
+        "https://images.selency.com/a53dfdf8-408e-4269-b81b-84a3b44dc027/scandinavian-20th-century-modern-rya-rug-svangsta-slottsmatta-sweden-190-x-140-cm-75-x-55-in_original.png",
+        "https://cdn.shopify.com/s/files/1/1496/0124/products/Conway_Hand_Woven_Rug_3x5_d46f8a4e-b3db-4d83-a4f8-718448a9bb45_x700.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)"
+      ]
+    },
+    {
+      "id": "fleas",
+      "image_urls": [
+        "https://www.gardentech.com/-/media/Images/GardenTech-NA/US/pest-id/bug-pest/Flea.png",
+        "https://critterkill.co.uk/media/wysiwyg/critterkill/flea-life-cycle-01.png",
+        "https://www.raid.ng/~/media/raid/bugs/fleas/flea-top-v.png",
+        "https://www.harborroadvet.com/sites/site-6762/images/flea.tick2.png",
+        "https://cdn.shopify.com/s/files/1/0135/5150/1376/files/FleaLifeCycleDiagram_large.png"
+      ],
+      "definitions": [
+        "any wingless bloodsucking parasitic insect noted for ability to leap"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://www.houseofbeta.nl/app/uploads/2020/09/HoB-logo-cmyk-staand.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "bird",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/starwars/images/4/47/Porg_wings_Fathead.png",
+        "https://cdn-reichelt.de/bilder/web/xxl_ws/E910/TEV_60086_01.png",
+        "https://www.ricebyrice.com/media/22521/wrbir-lxc19i_1.png",
+        "https://extra.katwijk.nl/fileadmin/_processed_/b/5/csm_Grote_Stern-Vrijstaand_bdfafdaf1f.png",
+        "https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/4/45/Non_Flying_Bird.png"
+      ],
+      "definitions": [
+        "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+        "the flesh of a bird or fowl (wild or domestic) used as food",
+        "informal terms for a (young) woman",
+        "a cry or noise made to express displeasure or contempt",
+        "badminton equipment consisting of a ball of cork or rubber with a crown of feathers"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.cupapizarras.com/wp-content/uploads/2019/09/roof-parts.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://sunstruction.nl/png/systems/roof-hooks.png",
+        "https://www.mg-bouw.com/wp-content/uploads/2020/05/Meuwissen-AlkReflex-Roof-1.7-Wand-dak-buitenzijde-20210727.png",
+        "https://www.metalsales.us.com/wp-content/uploads/2020/08/pic2a-1024x720.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "carpet",
+      "image_urls": [
+        "https://www.fatboy.com/assets/image/000/000/124/fatboy-non-flying-carpets-paprika.png",
+        "https://www.fatboy.com/assets/image/000/000/118/fatboy-non-flying-carpets-dont-step.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/a98cbf61f86a5b05151eb960eb59bb35/i/t/it_s_a_wild_world_panther_baby_carpet_200x300_-1.png",
+        "https://images.selency.com/f7dc7262-5df5-437a-8155-0e5544bbbb34/oriental-carpet-240x340-cm-sky-blue_original.png",
+        "https://images.selency.com/6d84a671-d436-4e87-864e-f79ce798df82/small-colorful-old-carpet-150-x-70-cm_original.png"
+      ],
+      "definitions": [
+        "floor covering consisting of a piece of thick heavy fabric (usually with nap or pile)",
+        "a natural object that resembles or suggests a carpet"
+      ]
+    },
+    {
+      "id": "dog",
+      "image_urls": [
+        "https://cdn.codeblick.de/interquell-sb/1440x0/f/69110/1048x786/14c7621b83/129a5476-1-kopie-2.png",
+        "https://cdn.codeblick.de/interquell-sb/440x440/f/69110/480x480/c90b13149a/hd-vet-new-product-slider-packshots-sensible-11kg-300g.png",
+        "https://cdn.shopify.com/s/files/1/0128/0882/products/30lb_1024x1024.png",
+        "https://www.akcpetinsurance.com/res/akc/images/icons/home/home_dog.png",
+        "https://www.yarrah.com/en/wp-content/uploads/sites/10/2021/01/Banner-homepage-dry-food-products.png"
+      ],
+      "definitions": [
+        "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+        "a dull unattractive unpleasant girl or woman",
+        "informal term for a man",
+        "someone who is morally reprehensible",
+        "a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll",
+        "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward",
+        "metal supports for logs in a fireplace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "basement",
+      "image_urls": [
+        "https://www.ussu.co.uk/events/PublishingImages/50762604_1050380401812311_3411702263645732864_n.png",
+        "https://www.albodeuren.nl/wp-content/uploads/2018/03/Basement_Modern.png",
+        "https://www.mybasementdoctor.com/wp-content/uploads/2019/11/bd-logo-1.png",
+        "https://www.finishedbasementsplus.com/wp-content/uploads/2019/09/FPB-Logo-1024x537.png",
+        "https://escaperoomthegame.com/images/nl-NL/basement-logo.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "the ground floor facade or interior in Renaissance architecture"
+      ]
+    },
+    {
+      "id": "shed",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://leonard.nyc3.digitaloceanspaces.com/media/user_v1oz1Yz27j/2662/Customize%20yours%20Shed%20B-MBY1-1016-701-Metal.png",
+        "https://www.pinuphouses.com/wp-content/uploads/a-frame-shed-plans-1.png"
+      ],
+      "definitions": [
+        "an outbuilding with a single story; used for shelter or storage"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png",
+        "https://www.hillhouttuinhout.nl/images/180x180/r/products/8711471201873_1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "bicycle",
+      "image_urls": [
+        "https://mk0lekkerbikescoch3x.kinstacdn.com/wp-content/uploads/2021/06/LEKKER_Bikes_Jordaan_GT_ebike_Linen_Cream-450x360.png",
+        "https://velosophy.cc/wp-content/uploads/2019/05/190429-Velosophy-A-035-945x630.png",
+        "https://velosophy.cc/wp-content/uploads/2020/07/Ve%CC%81losophy-2-CA-945x630.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bicycle_diagram-en.svg/1200px-Bicycle_diagram-en.svg.png",
+        "https://www.bicycleretailer.com/sites/default/files/images/article/hp_dutch-pink_walpha.png"
+      ],
+      "definitions": [
+        "a wheeled vehicle that has two wheels and is moved by foot pedals"
+      ]
+    },
+    {
+      "id": "attic",
+      "image_urls": [
+        "https://energycodeace.com/site/custom/public/reference-ace-2016/ImagesExt/image6738_15.png",
+        "https://hintzebelts.com/wp-content/uploads/2017/09/atticboardset.png",
+        "https://www.datocms-assets.com/38021/1617972282-attic-splash-570.png",
+        "https://d2zrc47ziwc8va.cloudfront.net/images/eas/Efficient-Attic-Solution.png",
+        "https://h7y7d6g6.rocketcdn.me/wp-content/uploads/2018/12/KORE-Loft-Insulated-Attic-Flooring-System-3D-Product.png"
+      ],
+      "definitions": [
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+        "informal terms for a human head",
+        "(architecture) a low wall at the top of the entablature; hides the roof"
+      ]
+    },
+    {
+      "id": "room",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/FR_ASSET_IMG_FR_PRO_DARK.png",
+        "https://floorplanner.com/static/img/redesign/home/header-image.png",
+        "https://cedreo.com/uploads/us_livingroom_05_3d_v3_huaa719323ddab429104a35d392eab66b0_333429_1920x0_resize_lanczos_2.png",
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/open-meeting-room-std-white-v1.png",
+        "https://roomfordiscussion.com/wp-content/themes/rfd/static/img/logo_black.png"
+      ],
+      "definitions": [
+        "an area within a building enclosed by walls and floor and ceiling",
+        "space for movement",
+        "opportunity for",
+        "the people who are present in a room"
+      ]
+    },
+    {
+      "id": "cellar",
+      "image_urls": [
+        "https://www.cellar33.nl/wp-content/uploads/2019/11/product_placeholder-min.png",
+        "https://airsource.co.uk/static/cellar2/img/search-n-sort-mob%402x.png",
+        "https://images.vivino.com/thumbs/maI-HAyKRHGACeSFl4wTgQ_pb_x600.png",
+        "https://static.whiskybase.com/storage/whiskies/1/8/0369/312054-normal.png",
+        "https://images.vivino.com/thumbs/FCm5JhOvQK-abOyZszXa4Q_pl_375x500.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "an excavation where root vegetables are stored",
+        "storage space where wines are stored"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://global-uploads.webflow.com/5ee2074bd5264569f2a3a32f/5f58f409db9a88529bf05059_LY01_top_view_transparent_background.png",
+        "https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "warehouse",
+      "image_urls": [
+        "https://cdn0.it4profit.com/files/27/warehouse.png",
+        "https://www.epg.com/fileadmin/_processed_/f/8/csm_Warehouse_Management_System_LFS_4bb254a9c4.png",
+        "https://www.critical-environment.com/images/applications/Distribution-warehouse-695x461.png",
+        "https://static.wikia.nocookie.net/bigbusiness/images/e/e8/Warehouse.png",
+        "https://techhq.com/wp-content/uploads/2019/07/shutterstock_396462703-copy-3.png"
+      ],
+      "definitions": [
+        "a storehouse for goods and merchandise"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png",
+        "https://www.mystreet.org/media/791008/footpaths-roundel.png",
+        "https://images.squarespace-cdn.com/content/v1/5620ddc4e4b04789570e5fca/1519660057648-G5ZZEN43K2NMO3YOA5PS/SCNL-logo.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/cjfv6a9on0zlh0hqmireerr8r-moto-tyres-pilot-street-persp.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    },
+    {
+      "id": "water",
+      "image_urls": [
+        "https://www.carlsberggroup.com/media/42520/cg_sr2020_illustration_ttz_single_1200x1200_web-08.png",
+        "https://cdn.shopify.com/s/files/1/0051/7262/5477/products/FW_2021_1000ml_900x900_3acaa56d-6493-46d6-b941-f84ea7670dce_grande.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9d/Water.png",
+        "https://www.spa.nl/img/home/product-water-group.png",
+        "https://149362216.v2.pressablecdn.com/wp-content/uploads/2019/06/05_WaterGlass_Pour_Transparent_Shadow_Straight.png"
+      ],
+      "definitions": [
+        "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent",
+        "the part of the earth's surface covered with water (such as a river or lake or ocean)",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "a facility that provides a source of water",
+        "liquid excretory product",
+        "a liquid necessary for the life of most animals and plants"
+      ]
+    },
+    {
+      "id": "fun",
+      "image_urls": [
+        "https://www.funexperts.nl/user/themes/funexperts/images/logo_nl.png",
+        "https://fun-thrills.nl/wp-content/uploads/2020/08/Alle-logos-1.png",
+        "https://funcollectibles.com/wp-content/uploads/2020/06/Logo-Nieuw-C00.png",
+        "https://www.funinnederland.nl/wp-content/uploads/2021/01/Fun-in-Nederland-logo-bewerkt-100.png",
+        "https://www.fitenfunplaza.nl/images/popup/logo-fit-en-fun-plaza.png"
+      ],
+      "definitions": [
+        "activities that are enjoyable or amusing",
+        "verbal wit or mockery (often at another's expense but not to be taken seriously)",
+        "violent and excited activity",
+        "a disposition to find (or make) causes for amusement"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5df20135260107019ff99900/1578328159952-CLFJE7ZHZ9T8XWEC68GC/The+Church+of+England+logo+Version+1.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "university",
+      "image_urls": [
+        "https://webster.nl/_resources/images/webster-leiden-logo.png",
+        "https://www.ru.nl/publish/pages/732676/best-traditional-university-rgb-1.png",
+        "https://webster.nl/_resources/images/webster-leiden-logo-white.png",
+        "https://features.york.ac.uk/who-we-are/assets/vvJikmK4Yz/uoy-logo-stacked-shield-pms432-800x369.png",
+        "https://www.isunet.edu/wp-content/uploads/2019/10/LOGO_ISU_Darkblue.png"
+      ],
+      "definitions": [
+        "the body of faculty and students at a university",
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+      ]
+    },
+    {
+      "id": "box",
+      "image_urls": [
+        "https://www.mysteryboxkopen.nl/wp-content/uploads/2019/01/Mystery_Box_V01-e1548633735113.png",
+        "https://www.doggy-box.com/wp-content/themes/doggy-box/img/open-box.png",
+        "https://static.cdn.packhelp.com/wp-content/uploads/2021/05/05134118/Packhelp24945-1-1.png",
+        "https://kidspeakltd.com/wp-content/uploads/2016/04/folding-box.png",
+        "https://cdn.shopify.com/s/files/1/0300/7227/4989/files/box_logo_white_bg_300x300.png"
+      ],
+      "definitions": [
+        "a (usually rectangular) container; may have a lid",
+        "private area in a theater or grandstand where a small group can watch the performance",
+        "the quantity contained in a box",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a rectangular drawing",
+        "evergreen shrubs or small trees",
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+        "the driver's seat on a coach",
+        "separate partitioned area in a public place for a few people",
+        "a blow with the hand (usually on the ear)"
+      ]
+    }
+  ]
+}

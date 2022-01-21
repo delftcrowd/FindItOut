@@ -1,0 +1,124 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "spear",
+      "image_urls": [
+        "https://mcishop.azureedge.net/mciassets/w_5_0011737_authentics-celtic-spear_550.png",
+        "https://demonssouls.wiki.fextralife.com/file/Demons-Souls/winged_spear_weapons_demons_souls_remake_wiki_guide150px.png",
+        "https://static.wikia.nocookie.net/theforest_gamepedia/images/d/d3/UpgradedSpearFarket.png",
+        "https://static.wikia.nocookie.net/finalfantasy/images/d/df/Spear-ffvii-cid.png",
+        "https://mcishop.azureedge.net/mciassets/w_5_0079130_guardsman-larp-spear_550.png"
+      ],
+      "definitions": [
+        "a long pointed rod used as a tool or weapon",
+        "an implement with a shaft and barbed point used for catching fish"
+      ]
+    },
+    {
+      "id": "birch",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/5/59/Birch_Tree.png",
+        "https://www.dressityourself.co.uk/wp-content/uploads/2020/11/2m-Silver-Birch-Tree-Sincere-Floral.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/birch-tree-1.png",
+        "https://www.houstonplantsandgardenworld.com/wp-content/uploads/2017/04/river_birch.png",
+        "https://www.nps.gov/articles/images/paper-birch-seeds.png"
+      ],
+      "definitions": [
+        "hard close-grained wood of any of various birch trees; used especially in furniture and interior finishes and plywood",
+        "any betulaceous tree or shrub of the genus Betula having a thin peeling bark",
+        "a switch consisting of a twig or a bundle of twigs from a birch tree; used to hit people as punishment"
+      ]
+    },
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://productimages.mybobs.com/20061773/20061773_hero_wide.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00220/56101515SD00220_01_500x500.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/3945/original/light/Caledonia-Queen-Size-Bed-Frame_Light-8.png",
+        "https://s3.eu-west-1.amazonaws.com/openreply-poltronafrau/prod/poltronafrau/catalog/product/f/r/frau-0203_cmyk__newcard.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "pine",
+      "image_urls": [
+        "https://www.thegrove3d.com/wp-content/uploads/2017/12/ScotsPineTwigAlphaA.png",
+        "https://fioridibach.guna.it/images/fiori/pine.png",
+        "https://www.bergila.com/thumbnail/cf/f8/a8/1600670058/168efe3aa73d46de98642cb5b76cf600_800x800.png",
+        "https://treemontgomery.org/wp-content/uploads/2018/12/shortleaf-pine-render.png",
+        "https://treemontgomery.org/wp-content/uploads/2018/12/Eastern-White-old.png"
+      ],
+      "definitions": [
+        "a coniferous tree",
+        "straight-grained durable and often resinous white to yellowish timber of any of numerous trees of the genus Pinus"
+      ]
+    },
+    {
+      "id": "bayonet",
+      "image_urls": [
+        "https://www.extremaratio.com/media/catalog/product/cache/2/image/650x/040ec09b1e35df139433887a97daa66f/F/u/Fulcrum_Bayonet_EI_6.png",
+        "https://static.wikia.nocookie.net/callofduty/images/e/e0/Bayonet_menu_icon_WWII.png",
+        "https://cdn11.bigcommerce.com/s-ryntxdi/images/stencil/1280x1280/products/130/439/m9-bayonet-6220__74930.1618934156.png",
+        "https://static.wikia.nocookie.net/callofduty/images/7/78/Bayonet_US.png",
+        "https://oyster.ignimgs.com/mediawiki/apis.ign.com/battlefield-4/d/d3/BF4_Knife_Bayonet.png"
+      ],
+      "definitions": [
+        "a knife that can be fixed to the end of a rifle and used as a weapon"
+      ]
+    },
+    {
+      "id": "spade",
+      "image_urls": [
+        "https://www.avalonceltic.com/images/cms/menu/spada_comb.png",
+        "https://5.imimg.com/data5/BQ/RH/MY-15574019/cow-dung-spade-250x250.png",
+        "https://store.nzfarmsource.co.nz/system/product-images/images/000/012/606/main/203682.png",
+        "https://i2.wp.com/reges.store/wp-content/uploads/2019/04/spade-metallo-1mano.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Spade---Garden-Equipment-Digging-EYFS.png"
+      ],
+      "definitions": [
+        "a playing card in the major suit that has one or more black figures on it",
+        "a sturdy hand shovel that can be pushed into the earth with the foot"
+      ]
+    },
+    {
+      "id": "willow",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0011/4651/9637/products/1_willow_singlecover_digitaldownload_600x_73a3032f-edbc-4842-b84b-aa2e3f2f9deb_250x.png",
+        "https://fioridibach.guna.it/images/fiori/willow.png",
+        "https://static.wikia.nocookie.net/xilam/images/c/ca/Xilam_-_A_Kind_of_Magic_-_Willow_-_Character_Profile_Picture.png",
+        "https://www.bionera.com/sites/default/files/willowgrowth.png",
+        "https://static.wikia.nocookie.net/roblox-piggy-wikia/images/0/03/FactoryWillow.png"
+      ],
+      "definitions": [
+        "any of numerous deciduous trees and shrubs of the genus Salix",
+        "a textile machine having a system of revolving spikes for opening and cleaning raw textile fibers"
+      ]
+    },
+    {
+      "id": "broom",
+      "image_urls": [
+        "https://cdn11.bigcommerce.com/s-2ap7o05kzl/images/stencil/1280x1280/products/2078/3835/BROOM_FOR_KIDS__99098.1615483443.png",
+        "https://www.waangoo.com/content/images/thumbs/0030540_hard-bristle-broom-with-handle-fj-212_600.png",
+        "https://www.homeland.ie/media/image/d6/cd/75/Soft-Broom-Assorted-Colours_600x600.png",
+        "https://www.gedore.com/-/media/gedore/media-import/assets/product_images/funkenfrei/ged1753000s.png",
+        "https://www.nzbrush.co.nz/workspace/uploads/products/wire-broom-pxl.png"
+      ],
+      "definitions": [
+        "a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle",
+        "any of various shrubs of the genera Cytisus or Genista or Spartium having long slender branches and racemes of yellow flowers",
+        "common Old World heath represented by many varieties; low evergreen grown widely in the northern hemisphere"
+      ]
+    }
+  ]
+}

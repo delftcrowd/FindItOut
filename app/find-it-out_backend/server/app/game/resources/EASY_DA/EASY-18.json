@@ -1,0 +1,113 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "ox",
+      "image_urls": [
+        "https://yaytext.com/static/d1ae9c42f8dd4cccfbc739aecbe6c86b/31987/ox-emoji.png",
+        "https://cdn.icon-icons.com/icons2/1465/PNG/512/456ox_100765.png",
+        "https://static-00.iconduck.com/assets.00/ox-emoji-512x473-kppiqr85.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/9139/ox-clipart-xl.png",
+        "https://image.flaticon.com/icons/png/512/589/589168.png"
+      ],
+      "definitions": [
+        "an adult castrated bull of the genus Bos; especially Bos taurus",
+        "any of various wild bovines especially of the genera Bos or closely related Bibos"
+      ]
+    },
+    {
+      "id": "cougar",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/reddeadredemption/images/6/63/Puma.png",
+        "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/51/Taoyuan_Cougar_E-Sportlogo_square.png",
+        "https://www.travelhome.com/sites/travelhome/files/styles/rv_unit_carousel/public/2020-12/2021%2024rds_0.png",
+        "https://www.rvtravel.com/wp-content/uploads/2021/03/Cougar-355-floor-plan.png",
+        "https://f9prodcdn.azureedge.net/avatars/n702.png"
+      ],
+      "definitions": [
+        "large American feline resembling a lion"
+      ]
+    },
+    {
+      "id": "elephant",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/elephant-6.png",
+        "https://www.biovoices.eu/image_temp/516X516_516X516_04bc7008d41b0ab6f5b0ecec8635c3ae.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/8/81/African-Elephant-PNG-File-1-.png",
+        "https://naturalhistory.si.edu/sites/default/files/media/image/nmnh-cutout-template-henry-copy.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Elephants-near-Mount-Kilimanjaro--Scene-Animal-Landscape-Kenya-Africa-Newsroom-KS2.png"
+      ],
+      "definitions": [
+        "five-toed pachyderm",
+        "the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+      ]
+    },
+    {
+      "id": "bison",
+      "image_urls": [
+        "https://www.uplay.it/www.uplay.it_Bison--400x400.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/b/b1/American_bison.png",
+        "https://2e.aonprd.com/Images/Monsters/Bison.png",
+        "https://bisoncentral.com/wp-content/themes/FoundationPress/assets/images/nbalogo.png",
+        "https://bison-transport.eu/wp-content/uploads/2021/01/bison-project_logo.png"
+      ],
+      "definitions": [
+        "any of several large humped bovids having shaggy manes and large heads and short horns"
+      ]
+    },
+    {
+      "id": "caribou",
+      "image_urls": [
+        "https://www.protectthearctic.org/hubfs/shutterstock_61053184.png",
+        "https://i.pinimg.com/originals/57/da/3e/57da3e52874d89bdf2e95c5625daa960.png",
+        "https://dmtargets.com/wp-content/uploads/2016/01/Delta_Parts_Caribou_Head_16.png",
+        "https://aws.boone-crockett.org/s3fs-public/styles/9-col_636px/public/thumbnails/image/wr-mc-header.png",
+        "https://www.saq.com/media/catalog/product/1/0/10330214-1_1580595921.png"
+      ],
+      "definitions": [
+        "Arctic deer with large antlers in both sexes; called `reindeer' in Eurasia and `caribou' in North America"
+      ]
+    },
+    {
+      "id": "hyena",
+      "image_urls": [
+        "https://supergroweggs.com/wp-content/uploads/2014/10/animal-planet-super-grow-eggs-hyena-animal.png",
+        "https://i.pinimg.com/originals/e9/6d/8d/e96d8dda3e7cc3fa4bdc3ad550e65e77.png",
+        "https://static.wikia.nocookie.net/gems-of-war/images/2/22/Troop_Hyena.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Spotted-Hyena--Animal-Africa-SWAT-KS2.png",
+        "https://static.wikia.nocookie.net/animallica/images/8/8e/Spotted_Hyena_Light_Brown_M.png"
+      ],
+      "definitions": [
+        "doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion"
+      ]
+    },
+    {
+      "id": "elk",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/elk.png",
+        "https://aws.boone-crockett.org/s3fs-public/thumbnails/image/wr-aent-austad.png",
+        "https://static.wikia.nocookie.net/farcry/images/0/0a/Far_cry_primal_tall_elk.png",
+        "https://thebeerway.it/storage/beers_images/elk-61cento-american-amber-lager-61c0002f20.png",
+        "https://static.wikia.nocookie.net/reddeadredemption/images/7/7b/Uatapi.png"
+      ],
+      "definitions": [
+        "large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America",
+        "large North American deer with large much-branched antlers in the male",
+        "common deer of temperate Europe and Asia"
+      ]
+    },
+    {
+      "id": "camel",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CamelCase_new.svg/1200px-CamelCase_new.svg.png",
+        "https://www.color-name.com/wp-content/uploads/camel-animal.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/8/80/Camelll.png",
+        "https://www.stickersmurali.com/it/img/aspsp86-png/folder/products-detalle-png/adesivi-camel-2.png",
+        "https://www.africansafariwildlifepark.com/content/uploads/Bactrian-Camel1.png"
+      ],
+      "definitions": [
+        "cud-chewing mammal used as a draft or saddle animal in desert regions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "outside",
+      "image_urls": [
+        "https://www.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png",
+        "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0648392b-f957-41de-99eb-16c1c98465ca_621x597.png",
+        "https://www.outsidebrand.co/wp-content/uploads/2020/09/Black-Logo.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/outside-dfa613493274c050ffd66b46aa56cd48ddf3a2ee.png",
+        "https://outsidehoutentuin.nl/wp-content/uploads/2020/09/Outside-beeldmerk.png"
+      ],
+      "definitions": [
+        "the region that is outside of something",
+        "the outer side or surface of something"
+      ]
+    },
+    {
+      "id": "picture",
+      "image_urls": [
+        "https://api.members.fairwear.org/images/brand-logo/brand-logos/XB/AH/XBAHZv734cslayOAfGtgAbBBllpcDgQPKNLFHTUS.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/P/i/Picture-Party-speelmateriaal.png",
+        "https://cdn.icon-icons.com/icons2/1993/PNG/512/frame_gallery_image_images_photo_picture_pictures_icon_123209.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/P/i/Picture-Party.png",
+        "https://onepicture.com/images/onepicture-logo-sq-etgzf.png"
+      ],
+      "definitions": [
+        "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+        "graphic art consisting of an artistic composition made by applying paints to a surface",
+        "a clear and telling mental image",
+        "a situation treated as an observable object",
+        "illustrations used to decorate or explain a text",
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+        "the visible part of a television transmission",
+        "a graphic or vivid verbal description",
+        "a typical example of some state or quality",
+        "a representation of a person or scene in the form of a print or transparent slide or in digital format"
+      ]
+    },
+    {
+      "id": "canada",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/1200px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/350px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canada_on_the_globe_%28North_America_centered%29.svg/1200px-Canada_on_the_globe_%28North_America_centered%29.svg.png",
+        "https://www.rabobank.com/en/images/canada.png",
+        "https://www.startupcan.ca/wp-content/themes/startup-canada/assets/img/canada-map.png"
+      ],
+      "definitions": [
+        "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+      ]
+    },
+    {
+      "id": "mountain",
+      "image_urls": [
+        "https://www.mountainfilmalliance.org/wp-content/themes/iamf/images/mountains.png",
+        "https://i.pinimg.com/originals/50/df/a3/50dfa31fa16328c9cb56f27e2c503cbd.png",
+        "https://static.wikia.nocookie.net/valheim/images/7/78/Biome_mountain.png",
+        "https://www.un.org/sites/un2.un.org/files/mountain.png",
+        "https://static.wikia.nocookie.net/valheim/images/7/78/Biome_mountain.png"
+      ],
+      "definitions": [
+        "a land mass that projects well above its surroundings; higher than a hill",
+        "(often followed by `of') a large number or amount or extent"
+      ]
+    },
+    {
+      "id": "playground",
+      "image_urls": [
+        "https://mk0aps201827rulidqhi.kinstacdn.com/content/themes/adventureplaysystems/images/slide-img-1.png",
+        "https://sc04.alicdn.com/kf/UTB8pGKlDpfFXKJk43Ot760IPFXaq.png",
+        "https://www.misskatecuttables.com/uploads/shopping_cart/9194/large_playground2.png",
+        "https://www.aaplaygrounds.com/wp-content/uploads/2019/11/PS3-31891-3.png",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/50488315260574.560381994544b.png"
+      ],
+      "definitions": [
+        "an area where many people go for recreation",
+        "yard consisting of an outdoor area for children's play"
+      ]
+    },
+    {
+      "id": "pennsylvania",
+      "image_urls": [
+        "https://www.witf.io/wp-content/uploads/2018/11/Regions-of-PA-Map.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Pennsylvania_Governor_Election_Results_by_County%2C_2002.svg/1200px-Pennsylvania_Governor_Election_Results_by_County%2C_2002.svg.png",
+        "https://tiogatours.nl/dynamic/img/amerika/pennsylvania/seal.1768.0da7.png",
+        "https://www.pahighways.com/images/maps/pacountiesmap.png",
+        "https://www.pa.gov/wp-content/uploads/2018/11/open-data-pa-branding-footer-logo-white-2.png"
+      ],
+      "definitions": [
+        "a Mid-Atlantic state; one of the original 13 colonies",
+        "one of the British colonies that formed the United States",
+        "a university in Philadelphia, Pennsylvania"
+      ]
+    },
+    {
+      "id": "switzerland",
+      "image_urls": [
+        "https://grandtour.myswitzerland.com/nl/img/route/swiss_map.png",
+        "https://beachsoccer.com/wp-content/uploads/2021/06/SWITZERLAND.png",
+        "https://static.t-cdn.net/5da57ad6db7f757e793ebe1a/groups/5efb43b79f21d65f9c1253f4/5efb43b79f21d65f9c1253f4_91013.png",
+        "https://cdn-icons-png.flaticon.com/512/303/303196.png",
+        "https://pbs.twimg.com/profile_images/1395375477863424005/dC61Z5aR_400x400.png"
+      ],
+      "definitions": [
+        "a landlocked federal republic in central Europe"
+      ]
+    }
+  ]
+}

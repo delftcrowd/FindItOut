@@ -1,0 +1,136 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Church-2.png",
+        "https://www.church-footwear.com/content/dam/churchs_products/E/EEB/EEB003/9WFF0AAB/EEB003_9WF_F0AAB_F_000000_SLS.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cathedral_schematic_plan_en_vectorial.svg/500px-Cathedral_schematic_plan_en_vectorial.svg.png",
+        "https://www.church-footwear.com/content/dam/churchs_products/D/DX0/DX0001/9FGF0ABK/DX0001_9FG_F0ABK_SLS.png",
+        "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a9a38e38-a755-4279-9bbb-99c2b196cc8e.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "chapel",
+      "image_urls": [
+        "https://img.icons8.com/ios/452/chapel.png",
+        "https://static.wikia.nocookie.net/stronghold/images/a/a3/Chapel_Stronghold_Crusader.png",
+        "https://icons-for-free.com/iconfiles/png/512/+chapel-1319972672629614123.png",
+        "https://img.icons8.com/dotty/452/chapel.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/0/0d/Chapel.png"
+      ],
+      "definitions": [
+        "a place of worship that has its own altar",
+        "a service conducted in a place of worship that has its own altar"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.toronto.ca/wp-content/uploads/2021/04/8f7b-Multi-Tenant-Housing-Street-View-1024x338.png",
+        "https://www.roerohouse.com/wp-content/uploads/2020/06/ROERO_HOUSE_LOGO_mobile_color.png",
+        "https://www.roerohouse.com/wp-content/uploads/2020/03/icone-04.png",
+        "https://www.thehouseofvintage.it/wp-content/uploads/2018/05/Logo_bn.png",
+        "https://www.inhousesrls.com/wp-content/uploads/2019/11/logo-inhouse.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "cottage",
+      "image_urls": [
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19gApple-8450d87d8.png",
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19gFlower-09b6ffc2c.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Cottage-Colour.png",
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19d-41319cea2.png",
+        "https://www.giochigiachi.it/indi/_pics/1/7/TRF65006-2_21751_19182_t.png"
+      ],
+      "definitions": [
+        "a small house with a single story"
+      ]
+    },
+    {
+      "id": "gate",
+      "image_urls": [
+        "https://img.icons8.com/ios/452/front-gate-closed.png",
+        "https://www.linkcare.net/image/cache/data/Manufacturers/Linkcare/Bi-fold%20gate-700x700.png",
+        "https://a3m.eu/en/IMG/png/full-height-access-gate-550.png",
+        "https://p-trex.it/wp-content/uploads/2019/10/Cancello-Recinzione.png",
+        "https://static.thenounproject.com/png/7288-200.png"
+      ],
+      "definitions": [
+        "a movable barrier in a fence or wall",
+        "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+        "total admission receipts at a sports event",
+        "passageway (as in an air terminal) where passengers can embark or disembark"
+      ]
+    },
+    {
+      "id": "cathedral",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/anno1404guide/images/c/c9/Cathedral.png",
+        "https://www.lichfield-cathedral.org/templates/default/images/lichfield_cathedral.png",
+        "https://freepngimg.com/download/globe/42902-3-cathedral-photos-png-download-free.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/old-st-pauls-cathedral.png",
+        "https://www.wrebbit3dpuzzle.com/wp-content/uploads/2020/09/W3D-2020_Main.png"
+      ],
+      "definitions": [
+        "any large and important church",
+        "the principal Christian church building of a bishop's diocese"
+      ]
+    },
+    {
+      "id": "inn",
+      "image_urls": [
+        "https://www.innoliving.it/wp-content/uploads/2020/09/INN-774Blu-644x1030.png",
+        "https://static.wikia.nocookie.net/finalfantasy/images/e/ed/FFCCKing-InnArtwork.png",
+        "https://www.inn-veneto.it/wp-content/uploads/2018/11/logo_FA-IV.png",
+        "https://static.wikia.nocookie.net/forgeofempires/images/0/08/Inn.png",
+        "https://www.qualityinnnewrivergorge.com/files-sbbasic/ba_qualityinnnewriver_us/logo/_quality-inn-new-river-gorge-fayetteville-wv.png"
+      ],
+      "definitions": [
+        "a hotel providing overnight lodging for travelers"
+      ]
+    },
+    {
+      "id": "bridge",
+      "image_urls": [
+        "https://www.net-italia.com/wp-content/uploads/2020/06/ponte-brenta.png",
+        "https://www.midasoft.com/hubfs/2019-MIDAS-RENEWAL/conventional_bridge.png",
+        "https://www.allplan.com/fileadmin/user_upload/shared-files/products/engineering/bridge.png",
+        "https://bridgepartners.it/wp-content/uploads/2020/05/Bridge-A_Simplicity_Company.png",
+        "https://mydentalclubtt.com/wp-content/uploads/2021/06/dental-bridge-crowns-santa-ana-640x481.png"
+      ],
+      "definitions": [
+        "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+        "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+        "something resembling a bridge in form or function",
+        "the hard ridge that forms the upper part of the nose",
+        "any of various card games based on whist for four players",
+        "a wooden support that holds the strings up",
+        "a denture anchored to teeth on either side of missing teeth",
+        "the link between two lenses; rests on the nose",
+        "an upper deck where a ship is steered and the captain stands"
+      ]
+    }
+  ]
+}

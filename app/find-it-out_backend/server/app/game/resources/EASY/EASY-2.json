@@ -1,0 +1,125 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "university",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/db/Erasmus_University_Rotterdam_Stacked_logo_%28Colour%29.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Leiden_University_seal.svg/1200px-Leiden_University_seal.svg.png",
+        "https://webster.nl/_resources/images/webster-leiden-logo.png",
+        "https://www.ru.nl/publish/pages/732676/best-traditional-university-rgb-1.png",
+        "https://features.york.ac.uk/who-we-are/assets/vvJikmK4Yz/uoy-logo-stacked-shield-pms432-800x369.png"
+      ],
+      "definitions": [
+        "the body of faculty and students at a university",
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees"
+      ]
+    },
+    {
+      "id": "battle",
+      "image_urls": [
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABesIcjCOwu-mwgun_UY2eZ_WkD0Imuh2_7B0bG1NMSyfbJKoCwLTe9k70UV82HG76ewUnyqeuW2HcudHCuaRGrEiST3szEMedU0W2J_ktRwF6M37O8BvpOMzvRPAXGUIFuQ74ewE5GNxe2dKTw8nzAHb9rw2K3jy3-TQTXwFHUqStQ.png",
+        "https://images.blz-contentstack.com/v3/assets/blte0bbc3c063f45866/bltf115e2a60d67650c/5fb7ea229fbb9857903d992e/FreeGames_Image.png",
+        "https://static.rapido.com/cms/sites/20/2021/07/23093500/Blizzard-Battlenet_Card-LL.png",
+        "https://www.pokemonunited.nl/wp-content/uploads/Sword_Shield_-_Battle_Styles_logo-1024x338.png",
+        "https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSecueVqRjLxon6rfFRKbmtvfeVv2s5m0U7QWqN7P2pU68Xl8Ac2mzCx4K-6ndcIq8LBB82AEEedZjyxSucT4IXU_n88g20uC_HY.png"
+      ],
+      "definitions": [
+        "a hostile meeting of opposing military forces in the course of a war",
+        "an energetic attempt to achieve something",
+        "an open clash between two opposing groups (or individuals); --Thomas Paine"
+      ]
+    },
+    {
+      "id": "human",
+      "image_urls": [
+        "https://itis.swiss/assets/images/Virtual-Population/_resampled/ResizedImageWzYwMCwzNzdd/vip-overview-final-s2.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201_Elements_of_the_Human_Body.02.svg/300px-201_Elements_of_the_Human_Body.02.svg.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "drugs",
+      "image_urls": [
+        "https://www.drugsinfoteam.nl/documents/3794707/0/drug+set+en+setting.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Drug_danger_and_dependence.svg/1200px-Drug_danger_and_dependence.svg.png",
+        "https://knowdrugs.app/wp-content/uploads/2020/05/knowdrugs_app_alerts_en@2x.png",
+        "https://www.om.nl/binaries/large/content/gallery/om/content-afbeeldingen/verkeer/prioriteiten/verkeer-alcohol.png",
+        "https://images.trafficsupply.nl/imgfill/800/800/i-118917-84d/verbodsbord-drugs-verboden.png"
+      ],
+      "definitions": [
+        "a substance that is used as a medicine or narcotic"
+      ]
+    },
+    {
+      "id": "concert",
+      "image_urls": [
+        "https://weekendvanderomantischemuziek.nl/usr-uploads/images/2021/maanlicht-concert-logo-wit.png",
+        "https://www.dutchevent.nl/veulgereinconcert/wp-content/uploads/2021/04/dutchevent-veulgereinconcert-logo-concert-01-1024x664.png",
+        "https://eurovisioninconcert.nl/wordpress/wp-content/uploads/2021/02/logo_EIC_2022-wit2.png",
+        "https://cdn.mycreativeshop.com/images/templates/2966/music-concert-tri-fold-brochure-template-3361-trans-thumb.png",
+        "https://www.gervos.com/wp-content/uploads/CD-Ger-Vos-Live-in-Concert-2019.png"
+      ],
+      "definitions": [
+        "a performance of music by players or singers not involving theatrical staging"
+      ]
+    },
+    {
+      "id": "show",
+      "image_urls": [
+        "https://www.degroteonlinetvshow.nl/wp-content/uploads/2020/06/Main-1.png",
+        "https://www.deshows.nl/wp-content/uploads/2020/09/Bedrijfsborrelshow_logo.png",
+        "https://www.degroteonlinetvshow.nl/wp-content/uploads/2020/07/Website-Artwork.png",
+        "https://www.voordeshow.be/themes/voordeshow_claro/media/title.png",
+        "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABR2YkV3ug8mKnJSgWE5fcoy8hiW2qVRqt71QZ7RWDjcbXp0c0cNSOCFu7zHm37iYITf17j23G30bztq685zgkYspdpTK5HEijU3RbZQX6RV1wIO_FubPI_iq2YbBlRua21mY5AvE2_8ExEuu5BWWSaUB3oU5_iAuykyUMDgWtDF5Eg.png"
+      ],
+      "definitions": [
+        "the act of publicly exhibiting or entertaining",
+        "something intended to communicate a particular impression",
+        "a social event involving a public performance or entertainment",
+        "pretending that something is the case in order to make a good impression"
+      ]
+    },
+    {
+      "id": "doctor",
+      "image_urls": [
+        "https://photos.healthgrades.com/homeimages/find-a-doctor.png",
+        "https://www.doctorcare.ca/wp-content/uploads/2021/05/header-homepage-cropped.png",
+        "https://www.allwayshealthpartners.org/ALL/media/AllwaysMedia/New%20photography/Men/MD%20(with%20and%20without%20patients)/2019138_Allways_Day4_MaleDoctorWritingOnTablet_0439_Final.png",
+        "https://d33wubrfki0l68.cloudfront.net/313534c303c9e212a82bd28bde722fe3b884581e/b03e0/assets/images/banner_docx2.png",
+        "https://newassets.apollo247.com/doctors/b972ba8b-1138-4710-9676-33313b65c7a8.png"
+      ],
+      "definitions": [
+        "a licensed medical practitioner",
+        "(Roman Catholic Church) a title conferred on 33 saints who distinguished themselves through the orthodoxy of their theological teaching",
+        "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+        "a person who holds Ph.D. degree (or the equivalent) from an academic institution"
+      ]
+    }
+  ]
+}

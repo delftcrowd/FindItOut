@@ -1,0 +1,139 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "anger",
+      "image_urls": [
+        "https://static.tvtropes.org/pmwiki/pub/images/inside_out_anger_fullbody.png",
+        "https://static.wikia.nocookie.net/insideout/images/d/d6/ANGER_Fullbody_Render.png",
+        "https://static.wikia.nocookie.net/disney-infinity/images/3/3f/Anger.png",
+        "https://images.ctfassets.net/v3n26e09qg2r/3R736sggdiOugoMGwAgqeq/d2ed52cc62c87e3cd836f2530079b50d/hs_character_stressed_1__1_.png",
+        "https://cdn4.iconfinder.com/data/icons/yellow-emoji-set/100/yellow-21-512.png"
+      ],
+      "definitions": [
+        "a strong emotion; a feeling that is oriented toward some real or supposed grievance",
+        "the state of being angry",
+        "belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)"
+      ]
+    },
+    {
+      "id": "tears",
+      "image_urls": [
+        "https://tears.rip/wp-content/themes/uncode-child/library/img/branding/logo.png",
+        "https://mydryeyedisease.com/wp-content/uploads/2020/03/les-larmes-et-la-cornee-1024x799.png",
+        "https://mydryeyedisease.com/wp-content/uploads/2020/03/les-larmes-et-la-vision-1024x1024.png",
+        "https://mydryeyedisease.com/wp-content/uploads/2020/10/tears-explanation-1024x375.png",
+        "https://static.ah.nl/static/gall/img_227538_Gall_500.png"
+      ],
+      "definitions": [
+        "a drop of the clear salty saline solution secreted by the lacrimal glands",
+        "an opening made forcibly as by pulling apart",
+        "an occasion for excessive eating or drinking",
+        "the act of tearing"
+      ]
+    },
+    {
+      "id": "suffering",
+      "image_urls": [
+        "https://www.ucg.org/files/image/collection/why-am-i-suffering_0.png",
+        "https://static.wikia.nocookie.net/darksiders/images/4/4e/Suffering.png",
+        "https://ericalayne.co/wp-content/uploads/2020/03/Opting-Out-of-Comparison-Suffering-683x1024.png",
+        "https://www.myrtlefieldhouse.com/assets/generated/books/synopsis/6c3001585b4d0044350b4525030e8b9d.png",
+        "https://static.wikia.nocookie.net/othercide/images/c/c2/T_Art_Characters_Suffering.png"
+      ],
+      "definitions": [
+        "a state of acute pain",
+        "misery resulting from affliction",
+        "psychological suffering",
+        "feelings of mental or physical pain"
+      ]
+    },
+    {
+      "id": "punishment",
+      "image_urls": [
+        "https://i2.wp.com/opiniojuris.org/wp-content/uploads/criminal-jail-lockup-prison-prisoner-punishment-torture-icon-punishment-png-491_512.png",
+        "https://real-emoji.ooooo.page/png/punishment.png",
+        "https://cdn0.iconfinder.com/data/icons/school-10/311/school008-512.png",
+        "https://www.shareicon.net/data/512x512/2015/11/18/673959_education_512x512.png",
+        "https://www.nicepng.com/png/full/792-7921706_clipart-library-stock-collection-of-free-disciplining-punishment.png"
+      ],
+      "definitions": [
+        "the act of punishing"
+      ]
+    },
+    {
+      "id": "sweetness",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c8e80fd8dfc8c140ce5a009/1562605092132-3SGGOREPZRYG2FUVJONL/Sweetness-black-lowres.png",
+        "https://www.factoryofsweetness.be/wp-content/uploads/2021/05/SR_Factory_Logo_Zon_Tienen_witrand.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/sweetness-14ae9c1ef6b444181b8645939e1804cd1edf9573.png",
+        "https://images.squarespace-cdn.com/content/v1/5ff5a1b8fe6e8d5e47828502/1609957059983-0WKY7F439BLX0EUE88S2/Original+on+Transparent.png",
+        "https://irp-cdn.multiscreensite.com/8ec4c59b/dms3rep/multi/OhMySweetnessLogo1-7654ba79-0af2cf71.png"
+      ],
+      "definitions": [
+        "the taste experience when sugar dissolves in the mouth",
+        "the property of tasting as if it contains sugar",
+        "a pleasingly sweet olfactory property",
+        "the quality of giving pleasure"
+      ]
+    },
+    {
+      "id": "punch",
+      "image_urls": [
+        "https://punchclub.nl/wp-content/uploads/2021/07/LOGO-Punch.png",
+        "https://www.fysiotape.nl/wp-content/uploads/2015/05/curetape-punch-5x500cm-rol-beige-doosje.png",
+        "https://punch.tudelft.nl/img/logo.png",
+        "https://www.curetape.com/wp-content/uploads/2020/11/Curetape-Punch-assortiments-afbeelding.png",
+        "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h44/h87/14391162306590.png"
+      ],
+      "definitions": [
+        "(boxing) a blow with the fist",
+        "an iced mixed drink usually containing alcohol and prepared for multiple servings; normally served in a punch bowl",
+        "a tool for making holes or indentations"
+      ]
+    },
+    {
+      "id": "happiness",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/6054658e1836cc4e4e13b0a5/1616144265312-OFWOC1EPGMWL9WKM9LJC/Your+Happiness+logo+900.png",
+        "https://media.creativemornings.com/uploads/theme/image/4/2013-01-happiness.png",
+        "https://www.stickerop.nl/files/cache/3bde99a62576ae7f5604cd86981cd582-f4872/0020230-muursticker-tekst-Happiness-01.png",
+        "https://www.zomerenkeuning.nl/wp-content/uploads/2020/07/het-dorpje-happiness.png",
+        "https://www.babymassagehappiness.nl/wp-content/uploads/2020/07/happiness-logo-1.png"
+      ],
+      "definitions": [
+        "state of well-being characterized by emotions ranging from contentment to intense joy",
+        "emotions experienced when in a state of well-being"
+      ]
+    },
+    {
+      "id": "field",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Relativistic_gravity_field_%28physics%29.svg/350px-Relativistic_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Newtonian_gravity_field_%28physics%29.svg/170px-Newtonian_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Electric_Field_Lines.svg/1200px-Electric_Field_Lines.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/51b8af35e4b06011310c1770/1467997527131-S7A5ILMMPDJVJ7VMHNL8/Logo+FF_DEF-01.png",
+        "https://i2.wp.com/analystanswers.com/wp-content/uploads/2021/04/combo-1.png"
+      ],
+      "definitions": [
+        "a piece of land cleared of trees and usually enclosed",
+        "a region where a battle is being (or has been) fought",
+        "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+        "a branch of knowledge",
+        "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it",
+        "a particular kind of commercial enterprise",
+        "a particular environment or walk of life",
+        "a piece of land prepared for playing a game",
+        "extensive tract of level open land",
+        "(mathematics) a set of elements such that addition and multiplication are commutative and associative and multiplication is distributive over addition and there are two elements 0 and 1",
+        "a region in which active military operations are in progress",
+        "all of the horses in a particular horse race",
+        "all the competitors in a particular contest or sporting event",
+        "a geographic region (land or sea) under which something valuable is found",
+        "(computer science) a set of one or more adjacent characters comprising a unit of information",
+        "the area that is visible (as through an optical instrument)",
+        "a place where planes take off and land"
+      ]
+    }
+  ]
+}

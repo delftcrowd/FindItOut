@@ -1,0 +1,273 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shoulder",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Shoulder_joint.svg/1200px-Shoulder_joint.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Shoulder_joint_back-en.svg/220px-Shoulder_joint_back-en.svg.png",
+        "https://shoulderpaininfo.com/wp-content/uploads/sites/2/2021/01/2560px-Shoulder_joint_back-en.svg_-1024x924.png",
+        "https://kellybryantwellness.com/wp-content/uploads/2020/05/1134px-Shoulder_joint.svg_-1024x925.png",
+        "https://www.arlingtonortho.com/wp-content/uploads/2020/07/Shoulder-anatomy.png"
+      ],
+      "definitions": [
+        "the part of the body between the neck and the upper arm",
+        "a cut of meat including the upper joint of the foreleg",
+        "a ball-and-socket joint between the head of the humerus and a cavity of the scapula",
+        "the part of a garment that covers or fits over the shoulder",
+        "a narrow edge of land (usually unpaved) along the side of a road"
+      ]
+    },
+    {
+      "id": "arm",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Human_arm_bones_diagram.svg/1184px-Human_arm_bones_diagram.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arm_logo_2017.svg/1280px-Arm_logo_2017.svg.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/arm-1.png",
+        "https://www.tecnologix.it/pub/media/catalog/product/cache/3b6f3fbe42cec9070da002fb247dc6fc/a/r/arm_logo.png",
+        "https://cdn.shopify.com/s/files/1/0096/9926/2560/products/md_6511_elitecompressionsleeve_blk_back_7de477a5-7b13-480c-a772-e79569f4bab9_2000x.png"
+      ],
+      "definitions": [
+        "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+        "any projection that is thought to resemble a human arm",
+        "any instrument or instrumentality used in fighting or hunting",
+        "the part of an armchair or sofa that supports the elbow and forearm of a seated person",
+        "a division of some larger or more complex organization",
+        "the part of a garment that is attached at the armhole and that provides a cloth covering for the arm"
+      ]
+    },
+    {
+      "id": "toe",
+      "image_urls": [
+        "https://dynasplint.com/wp-content/uploads/2019/11/toes.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ospied-la.svg/250px-Ospied-la.svg.png",
+        "https://www.accidentclaimsadvice.org.uk/wp-content/uploads/2019/08/broken-toe.png",
+        "https://www.londonfootandanklesurgery.co.uk/wp-content/uploads/2018/10/Hammertoe-Blog-Size.png",
+        "https://www.nextstepfoot.com/wp-content/uploads/2021/05/Claw-Toe2.png"
+      ],
+      "definitions": [
+        "one of the digits of the foot",
+        "the part of footwear that provides a covering for the toes",
+        "forepart of a hoof",
+        "(golf) the part of a clubhead farthest from the shaft"
+      ]
+    },
+    {
+      "id": "fingers",
+      "image_urls": [
+        "https://dynasplint.com/wp-content/uploads/2019/11/Hand-Fingers.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/60859/hands-fingers-clipart-md.png",
+        "https://emojigraph.org/media/joypixels/pinched-fingers-medium-skin-tone_1f90c-1f3fd.png",
+        "https://img.icons8.com/ios/452/two-fingers--v1.png",
+        "https://image.flaticon.com/icons/png/512/2142/2142424.png"
+      ],
+      "definitions": [
+        "any of the terminal members of the hand (sometimes excepting the thumb)",
+        "the length of breadth of a finger used as a linear measure",
+        "one of the parts of a glove that provides covering for a finger or thumb"
+      ]
+    },
+    {
+      "id": "forearm",
+      "image_urls": [
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/05/27180653/Forearm-1024x852.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/5af5f4a2f4c34c228896643d620602ada66bd099-2000x1400.png",
+        "https://i0.wp.com/www.rcfitindia.com/wp-content/uploads/2019/03/feature-forearms2-e1560491933834.png",
+        "https://cdn.shopify.com/s/files/1/0096/9926/2560/products/651_Tech_1_2000x.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/6510054f5aa1221de4340671a1503fa984872f5e-1000x700.png"
+      ],
+      "definitions": [
+        "the part of the superior limb between the elbow and the wrist"
+      ]
+    },
+    {
+      "id": "hand",
+      "image_urls": [
+        "https://www.factsonhand.com/images/1/hand-nodules@3x_1113x1020.png",
+        "https://raiseyourhand.globalpartnership.org/assets/img/final_hand.png",
+        "https://bresciagiovani.it/wp-content/uploads/2018/04/hand-1925875_1280.png",
+        "https://img.icons8.com/cotton/2x/hand--v3.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hand.svg/1200px-Hand.svg.png"
+      ],
+      "definitions": [
+        "the (prehensile) extremity of the superior limb",
+        "a hired laborer on a farm or ranch",
+        "something written by hand",
+        "ability",
+        "a position given by its location to the side of an object",
+        "the cards held in a card game by a given player at any given time",
+        "one of two sides of an issue",
+        "a rotating pointer on the face of a timepiece",
+        "a unit of length equal to 4 inches; used in measuring horses",
+        "a member of the crew of a ship",
+        "a card player in a game of bridge",
+        "a round of applause to signify approval",
+        "terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos); - Springfield (Mass.) Union",
+        "physical assistance"
+      ]
+    },
+    {
+      "id": "neck",
+      "image_urls": [
+        "https://2pybk2la9r-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/72-neck_anatomy-1-1024x747.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Musculi_coli_base.svg/440px-Musculi_coli_base.svg.png",
+        "https://smhttp-ssl-65481.nexcesscdn.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/p/spidi_neck_gp.png",
+        "https://2pybk2la9r-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/73-neck-lymph_nodes-crop-2.png",
+        "https://www.prada.com/content/dam/pradanux_products/U/UMB/UMB258/1ZJXF014C/UMB258_1ZJX_F014C_S_212_SLF.png"
+      ],
+      "definitions": [
+        "the part of an organism (human or animal) that connects the head to the rest of the body",
+        "a narrow elongated projecting strip of land",
+        "a cut of meat from the neck of an animal",
+        "a narrow part of an artifact that resembles a neck in position or form",
+        "an opening in a garment for the neck of the wearer; a part of the garment near the wearer's neck"
+      ]
+    },
+    {
+      "id": "foot",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/foot-emoji.png",
+        "https://static.thenounproject.com/png/1573056-200.png",
+        "https://d2ywvrgmgnteiv.cloudfront.net/assets/v4/_v2/foot/foot-edit-plantar-facsiitis-2bcb127166305808923e2c711e1e254bf2dccbfb80461fbce0c7b6e9d02cd7d3.png",
+        "https://i0.wp.com/www.differencebetween.com/wp-content/uploads/2014/11/Difference-Between-Feet-and-Foot.png",
+        "https://static.thenounproject.com/png/1663600-200.png"
+      ],
+      "definitions": [
+        "the part of the leg of a human being below the ankle joint",
+        "a linear unit of length equal to 12 inches or a third of a yard",
+        "the lower part of anything",
+        "the pedal extremity of vertebrates other than human beings",
+        "lowest support of a structure",
+        "any of various organs of locomotion or attachment in invertebrates",
+        "travel by walking",
+        "a member of a surveillance team who works on foot or rides as a passenger",
+        "an army unit consisting of soldiers who fight on foot",
+        "(prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm",
+        "a support resembling a pedal extremity"
+      ]
+    },
+    {
+      "id": "thigh",
+      "image_urls": [
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/05/27181843/Thigh-anterior-muscles-855x1024.png",
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/05/27182248/Thigh-posterior-muscles-1024x651.png",
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/05/27182413/hamstrings.png",
+        "https://i1.wp.com/www.anatomyqa.com/wp-content/uploads/2018/05/muscles-of-ant-compartment-of-thigh-blog.png",
+        "https://barrplasticsurgery.com/wp-content/uploads/2015/08/thigh_lift_surgery_sudbury_ontario_barr_plastic_surgery_sudbury_ontario.png"
+      ],
+      "definitions": [
+        "the part of the leg between the hip and the knee",
+        "the upper joint of the leg of a fowl"
+      ]
+    },
+    {
+      "id": "knees",
+      "image_urls": [
+        "https://sa1s3optim.patientpop.com/assets/images/provider/photos/2106527.png",
+        "https://res.cloudinary.com/im2015/image/upload/v1586330518/Blog/v2/Runners_Knee_Pain_v2.png",
+        "https://res.cloudinary.com/im2015/image/upload/c_scale,w_700/v1588574732/Blog/v2/knee_OsteoarthritisF2_No_BG-01_1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Knee_diagram.svg/250px-Knee_diagram.svg.png",
+        "https://d3lx5qxvlt4opm.cloudfront.net/topic_images/Severe_knee_arthrits_in_both_knees_xray.png"
+      ],
+      "definitions": [
+        "hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella",
+        "joint between the femur and tibia in a quadruped; corresponds to the human knee",
+        "the part of a trouser leg that provides the cloth covering for the knee"
+      ]
+    },
+    {
+      "id": "knee",
+      "image_urls": [
+        "https://d2ywvrgmgnteiv.cloudfront.net/assets/v4/_v2/knee/knee-pain-main-25b6b571bdf94e080d84eef96299ec1de00346d8288739c9a13ddc99e33fd680.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Knee_diagram.svg/220px-Knee_diagram.svg.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/knee.png",
+        "https://d2ywvrgmgnteiv.cloudfront.net/assets/v4/_v2/knee/knee-pain-chart-5e68f3da93f878837320a9994485020a3b6bc97a7e9a8f15700d75ee30eaae1e.png",
+        "https://res.cloudinary.com/im2015/image/upload/v1586330518/Blog/v2/Runners_Knee_Pain_v2.png"
+      ],
+      "definitions": [
+        "hinge joint in the human leg connecting the tibia and fibula with the femur and protected in front by the patella",
+        "joint between the femur and tibia in a quadruped; corresponds to the human knee",
+        "the part of a trouser leg that provides the cloth covering for the knee"
+      ]
+    },
+    {
+      "id": "wrist",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5b4e58369d5abb9d6adac232/1579870160725-EBYZ1H33KVOAI3F7YDPV/Figure_11.1_Wrist_overview_copy.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/7368a3977d308ce0a2cd95e25f76eb8c68a17e47-2000x1400.png",
+        "https://www.sportsradiology.co.uk/images/wrist-front-view.png",
+        "https://upperlimbdoctor.co.uk/images/Pathology%20and%20surgery%20images/Wrist%20OA.png",
+        "https://nydnrehab.com/wp-content/themes/nydnr/assets/images/wrist-pain/image.png"
+      ],
+      "definitions": [
+        "a joint between the distal end of the radius and the proximal row of carpal bones"
+      ]
+    },
+    {
+      "id": "finger",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Emoji_u1f595.svg/220px-Emoji_u1f595.svg.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/62_large.png",
+        "https://cdn3.iconfinder.com/data/icons/hand-signs/432/middle-finger-alt-512.png",
+        "https://static.wikia.nocookie.net/themightyb/images/c/c7/Finger.png",
+        "https://static.thenounproject.com/png/250132-200.png"
+      ],
+      "definitions": [
+        "any of the terminal members of the hand (sometimes excepting the thumb)",
+        "the length of breadth of a finger used as a linear measure",
+        "one of the parts of a glove that provides covering for a finger or thumb"
+      ]
+    },
+    {
+      "id": "ankle",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ankle_en.svg/1200px-Ankle_en.svg.png",
+        "https://asiamedicalspecialists.hk/files/article/81/Ankle%20ligament%20and%20cartilage.png",
+        "https://lirp.cdn-website.com/72ea3332/dms3rep/multi/opt/Ankel+Instability-320w.png",
+        "https://lportho.com/wp-content/uploads/2017/07/ankle_diagram.png",
+        "https://d2ywvrgmgnteiv.cloudfront.net/assets/v4/_v2/ankle/ankle-replacemet-0ed043a9d0e86ecb26a85d5b1dace3008918cd41f2202207ade9063888281681.png"
+      ],
+      "definitions": [
+        "a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus"
+      ]
+    },
+    {
+      "id": "leg",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/Gray1240.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/77157/leg-clipart-md.png",
+        "https://www.gymequip.eu/wp-content/uploads/2015/10/Leg-Extension-Leg-Curl-Machine-M8-4.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/leg.png",
+        "https://www.lifefitnessemea.com/resource/blob/664882/0d1762269724ed1afe1eaecf8d30ceb6/life-fitness-axiom-series-leg-extension-full-shroud-op-le--data.png"
+      ],
+      "definitions": [
+        "a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle",
+        "a structure in animals that is similar to a human leg and used for locomotion",
+        "one of the supports for a piece of furniture",
+        "a part of a forked or branching shape",
+        "the limb of an animal used for food",
+        "a prosthesis that replaces a missing leg",
+        "a cloth covering consisting of the part of a pair of trousers that covers a person's leg",
+        "(nautical) the distance traveled by a sailing vessel on a single tack",
+        "a section or portion of a journey or course"
+      ]
+    },
+    {
+      "id": "elbow",
+      "image_urls": [
+        "https://res.cloudinary.com/im2015/image/upload/v1583831908/Blog/v2/Elbow_Injuries_v2-10.png",
+        "https://www.blog.ohmyarthritis.com/wp-content/uploads/tennis-elbow-pain.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/c2d9a083bcf75072ad76d42571e93b6451c990b1-2000x1400.png",
+        "https://www.compex.com/media/wysiwyg/compex-eu/pdp/compression-bracing/IT%20Defender%20Elbow%20Diagram.png",
+        "https://res.cloudinary.com/im2015/image/upload/v1583822924/Blog/v2/Elbow_Injuries_f1-06.png"
+      ],
+      "definitions": [
+        "hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped",
+        "a sharp bend in a road or river",
+        "a length of pipe with a sharp bend in it",
+        "the part of a sleeve that covers the elbow joint",
+        "the joint of a mammal or bird that corresponds to the human elbow"
+      ]
+    }
+  ]
+}

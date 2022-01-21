@@ -1,0 +1,238 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "wilderness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/wilderness-a2c574200cd8ac2d3628c06b9e7c7f436681a98e.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQBHx96_Eps-PJq2a9Ej6LjiBuy_ySxuOy6IZW0h0O6QATmcMSNYkLEdI2e0Uk6k-mzRxP3qT4adKGzvH0Ks4KvquoNzzzq4c6H_N6mw8HLwFr3wMPVo-7qWRaz4WRxJLByRFLzC0O20h6DfQuXv6KOUvwgUgH75_4egMVR0dJYx-Q.png",
+        "https://www.mypigeonforge.com/wp-content/uploads/2018/01/Wilderness-Wildlife-Week-horizontal-logo.jpg15.png",
+        "https://www.spellenhuis.nl/media/catalog/product/cache/1/image/420x420/9df78eab33525d08d6e5fb8d27136e95/2/g/2gpkg5peeybgt5qm2rd267d6dmd7rhtm.png",
+        "https://wpresort.com/wp-content/uploads/2020/03/Wilderness-Presidential-Resort-Emblem-png8-500.png"
+      ],
+      "definitions": [
+        "(politics) a state of disfavor",
+        "a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War",
+        "a wild and uninhabited area left in its natural condition",
+        "a bewildering profusion"
+      ]
+    },
+    {
+      "id": "florida",
+      "image_urls": [
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-12/hotspots.png",
+        "https://www.bls.gov/regions/southeast/images/18771.png",
+        "https://floridasbdc.org/wp-content/uploads/2020/05/All-Region-Logos-12-1.png",
+        "https://www.isjl.org/uploads/2/4/2/2/24228391/florida-all-14_orig.png",
+        "https://authenticflorida.com/wp-content/uploads/2021/07/FloridaMapRegions_20210723.png"
+      ],
+      "definitions": [
+        "a state in southeastern United States between the Atlantic and the Gulf of Mexico; one of the Confederate states during the American Civil War"
+      ]
+    },
+    {
+      "id": "beaver",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/beaver.png",
+        "https://www.yourconcept.nl/site/wp-content/uploads/2019/10/beaver-builder-wordpress.png"
+      ],
+      "definitions": [
+        "the soft brown fur of the beaver",
+        "a native or resident of Oregon",
+        "a full beard",
+        "a man's hat with a tall crown; usually covered with silk or with beaver fur",
+        "a movable piece of armor on a medieval helmet used to protect the lower face",
+        "a hat made with the fur of a beaver (or similar material)",
+        "large semiaquatic rodent with webbed hind feet and a broad flat tail; construct complex dams and underwater lodges"
+      ]
+    },
+    {
+      "id": "forest",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5dc2252c8c1cfd4ef90243c4/1574549437077-OEJUJ1HBEIZCG91WL67V/title-art-forest.png",
+        "https://outdoor-forest.nl/wp-content/uploads/2019/12/outdoor-forest-logo-dark-xs.png",
+        "https://forforest.net/wp-content/uploads/2020/10/Logo-Men%C3%BC_Sticky-header-01.png",
+        "https://endnightgames.com/sites/default/files/images/games/forest-logo.png",
+        "https://www.forestsoftheworld.org/files/International.forestsoftheworld.org/Goals%20and%20strategies/2021-03-16%20FoW%20ToC%20illustrated.png"
+      ],
+      "definitions": [
+        "the trees and other plants in a large densely wooded area",
+        "land that is covered with trees and shrubs"
+      ]
+    },
+    {
+      "id": "seaside",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0304/1817/4083/files/Seaside_Patch_logo_1024x1024.png",
+        "https://www.natuurlijkoostkapelle.nl/wp-content/uploads/2018/11/902_seaside.png",
+        "https://cdn.shopify.com/s/files/1/0399/4923/8317/products/Machado_Seaside_Deck.png",
+        "https://images.squarespace-cdn.com/content/v1/5c75d65ef4755a07a9ee4610/1551231811973-ZL7QUBX7I31VEK8E2XO1/Seaside+Logo+Final+Background-2.png",
+        "https://images.squarespace-cdn.com/content/v1/57c2b39c46c3c4d923d7a9da/1580273794390-OPPD914DSBLX2D0WKU0Z/SS_Logo_FA_Whitebg-01.png"
+      ],
+      "definitions": [
+        "the shore of a sea or ocean regarded as a resort"
+      ]
+    },
+    {
+      "id": "books",
+      "image_urls": [
+        "https://hollandbooks.nl/wp-content/uploads/2018/01/books.png",
+        "https://londonbooks.eu/wp-content/uploads/2021/03/VintageStudy-GNTAUS-768x667.png",
+        "https://bulkbooks.com/assets/spree/frontend/parallax/home-p-back-d632f485ae844ad12f0e0d6b87f052e644e41b4b7f47f0e400095e19323a2645.png",
+        "https://www.spl.org/Seattle-Public-Library/images/icons/online-resources/icons_115x115_1-18_books-reading.png",
+        "https://emojipedia-us.s3.amazonaws.com/source/skype/289/books_1f4da.png"
+      ],
+      "definitions": [
+        "a written work or composition that has been published (printed on pages bound together)",
+        "physical objects consisting of a number of pages bound together",
+        "a compilation of the known facts regarding something or someone",
+        "a written version of a play or other dramatic composition; used in preparing for a performance",
+        "a record in which commercial accounts are recorded",
+        "a collection of playing cards satisfying the rules of a card game",
+        "a collection of rules or prescribed standards on the basis of which decisions are made",
+        "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+        "the sacred writings of the Christian religions",
+        "a major division of a long written composition",
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "id": "dictionary",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/I/61kzIB9vF0L.png",
+        "https://chambers.co.uk/wp-content/uploads/2016/09/Chambers-Dic-HB.png",
+        "https://img.alicdn.com/i3/2362617753/O1CN01Xz54J4278vI0ZVPxw_!!2362617753.png",
+        "https://www.udpglobal.com/sites/default/files/dictionary.png",
+        "https://cdn.shopify.com/s/files/1/1353/9793/products/C011_300x300.png"
+      ],
+      "definitions": [
+        "a reference book containing an alphabetical list of words with information about them"
+      ]
+    },
+    {
+      "id": "india",
+      "image_urls": [
+        "https://www.rabobank.com/en/images/india.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/IND/hotspots.png",
+        "https://www.ibef.org/images/india-map-yellow.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/dc/Indian_Subcontinent_%28orthographic_projection%29.png",
+        "https://www.worldatlas.com/r/w1200/upload/37/ef/b7/indian-subcontinent-map.png"
+      ],
+      "definitions": [
+        "a republic in the Asian subcontinent in southern Asia; second most populous country in the world; achieved independence from the United Kingdom in 1947"
+      ]
+    },
+    {
+      "id": "freeway",
+      "image_urls": [
+        "https://www.hoofwear.com/media/catalog/product/cache/2884acc26e896ef746f1521ca7341d41/f/r/freeway_front.png",
+        "https://assets.jabra.com/9/1/7/2/91724198e38cb3a1eb7af2f6c9ba1417e44b89c5_jabra_freeway_01.png",
+        "https://www.hoofwear.com/media/catalog/product/cache/2884acc26e896ef746f1521ca7341d41/f/r/freeway-raw-600x600.png",
+        "https://www.xtreme-lab.net/games/freeways/images/logo.png",
+        "https://s3.amazonaws.com/content.sitezoogle.com/u/81865/349a1edcfb0944cc2b9e57e6005b190521a2ce34/original/freeway13.png"
+      ],
+      "definitions": [
+        "a broad highway designed for high-speed traffic"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://www.cityhotel.nl/wp-content/uploads/2019/02/City-Hotel-logo.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "australia",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Australia_with_AAT_%28orthographic_projection%29.svg/250px-Australia_with_AAT_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Australia_stub.svg/2290px-Australia_stub.svg.png",
+        "https://www.mio.com/en_eu/shop/media/catalog/product/cache/49/image/600x315/9df78eab33525d08d6e5fb8d27136e95/a/u/australia.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Australia_on_the_globe_%28Antarctic_claims_hatched%29_%28Oceania_centered%29_with_borders.svg/1200px-Australia_on_the_globe_%28Antarctic_claims_hatched%29_%28Oceania_centered%29_with_borders.svg.png",
+        "https://www.badminton.org.au/wp-content/uploads/2020/10/Australia_Map.png"
+      ],
+      "definitions": [
+        "a nation occupying the whole of the Australian continent; Aboriginal tribes are thought to have migrated from southeastern Asia 20,000 years ago; first Europeans were British convicts sent there as a penal colony",
+        "the smallest continent; between the South Pacific and the Indian Ocean"
+      ]
+    },
+    {
+      "id": "suburbs",
+      "image_urls": [
+        "https://ariespaans.nl/uploads/images/suburbs.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Inner.melbourne.suburbs.svg/400px-Inner.melbourne.suburbs.svg.png",
+        "https://i.redd.it/jnumakb2c3t51.png",
+        "https://m-tv.imgix.net/4843b8fc0a0622acf1ceb82916b5f6dbb4410079af60771f8909bbbc91f2c769.png",
+        "https://the-suburbs.co.uk/wp-content/uploads/2020/04/250418-Logo-CropTW2.png"
+      ],
+      "definitions": [
+        "a residential district located on the outskirts of a city"
+      ]
+    },
+    {
+      "id": "california",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/California_county_map_%28labeled%29.svg/280px-California_county_map_%28labeled%29.svg.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-06/hotspots.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-06/risk_levels.png",
+        "https://static.thenounproject.com/png/2381646-200.png",
+        "https://website-assets-fw.freshworks.com/attachments/cjy5nayqd0dzn65g0khl44gef-california-area-code-map.full.png"
+      ],
+      "definitions": [
+        "a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+      ]
+    },
+    {
+      "id": "america",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Americas_%28orthographic_projection%29.svg/1200px-Americas_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Location_North_America.svg/1200px-Location_North_America.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/USA_orthographic.svg/220px-USA_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/South_America_%28orthographic_projection%29.svg/1200px-South_America_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/United_States_on_the_globe_%28North_America_centered%29.svg/1200px-United_States_on_the_globe_%28North_America_centered%29.svg.png"
+      ],
+      "definitions": [
+        "North American republic containing 50 states - 48 conterminous states in North America plus Alaska in northwest North America and the Hawaiian Islands in the Pacific Ocean; achieved independence in 1776",
+        "North America and South America and Central America"
+      ]
+    },
+    {
+      "id": "prison",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/ADX_prison_cell.svg/220px-ADX_prison_cell.svg.png",
+        "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVgpTQeDLbTGvEW3pWcjKMSCDX_-FWK1okRORmtcibqSqYaUvZXpNVy5BRvY_ygYURqH5noxeg_UBu40eOnx6txnKzD1jz0f4Ju_.png",
+        "https://prisonescape.nl/breda/app/themes/pe-theme/dist/images/logo/pe_logo.svg.pe_logo_4ccb1bff.png",
+        "https://i2.wp.com/opiniojuris.org/wp-content/uploads/criminal-jail-lockup-prison-prisoner-punishment-torture-icon-punishment-png-491_512.png",
+        "https://www.prisonarchitect.com/packs/media/start/logo-04379288.png"
+      ],
+      "definitions": [
+        "a correctional institution where persons are confined while on trial or for punishment",
+        "a prisonlike situation; a place of seeming confinement"
+      ]
+    }
+  ]
+}

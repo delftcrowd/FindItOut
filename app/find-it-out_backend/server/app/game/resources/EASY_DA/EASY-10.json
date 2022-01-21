@@ -1,0 +1,114 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "snail",
+      "image_urls": [
+        "https://mybclinic.com/img/psblog/b/lg-b-gros-gris_540x.png",
+        "https://www.dottoressareynaldi.it/wp-content/uploads/2017/04/lumaca.png",
+        "https://image.flaticon.com/icons/png/512/616/616802.png",
+        "https://i.pinimg.com/originals/64/e1/b5/64e1b5812e244ab2308b67d33678b56b.png",
+        "https://i.pinimg.com/originals/3a/d0/1a/3ad01ada254a90676fef08c550b5565d.png"
+      ],
+      "definitions": [
+        "freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell",
+        "edible terrestrial snail usually served in the shell with a sauce of melted butter and garlic"
+      ]
+    },
+    {
+      "id": "elephant",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/elephant-6.png",
+        "https://www.biovoices.eu/image_temp/516X516_516X516_04bc7008d41b0ab6f5b0ecec8635c3ae.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/8/81/African-Elephant-PNG-File-1-.png",
+        "https://naturalhistory.si.edu/sites/default/files/media/image/nmnh-cutout-template-henry-copy.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Elephants-near-Mount-Kilimanjaro--Scene-Animal-Landscape-Kenya-Africa-Newsroom-KS2.png"
+      ],
+      "definitions": [
+        "five-toed pachyderm",
+        "the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+      ]
+    },
+    {
+      "id": "alligator",
+      "image_urls": [
+        "https://i.pinimg.com/originals/62/6c/e4/626ce4837a965ef293f54b1f42c71ca3.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/6254/alligator-clipart-xl.png",
+        "https://images.getbento.com/accounts/13fc099e80f2d8da1f43f3d517dbdd71/media/images/64730gra-alligator.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15436/alligator-clipart-xl.png",
+        "https://99designs-blog.imgix.net/blog/wp-content/uploads/2020/04/1200px-Lacoste_logo.svg.png"
+      ],
+      "definitions": [
+        "leather made from alligator's hide",
+        "either of two amphibious reptiles related to crocodiles but with shorter broader snouts"
+      ]
+    },
+    {
+      "id": "crocodile",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/vsbattles/images/1/10/Crocodile_PNG13185.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/7/7f/Saltwater_Crocodile.png",
+        "https://i.pinimg.com/originals/90/01/5e/90015e139bf834e912a407438fb20dac.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/9200/crocodile-clipart-xl.png",
+        "https://www.nightbuddiesadventures.com/wp-content/uploads/2014/08/crocodile.png"
+      ],
+      "definitions": [
+        "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+      ]
+    },
+    {
+      "id": "squirrel",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Grey-Squirrel---Animal-Science-Secondary.png",
+        "https://it.buccellati.com/sites/default/files/styles/product_big/public/img/product/scoiattolo_0.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Red-Squirrel--Animal-Scene-Nature-Scotland-Twinkl-Newsroom-KS2.png",
+        "https://s3.envato.com/files/299233243/Cute%20Squirrel%20With%20Almonds%20SET/cute-squirrel-with-almonds%20transparent%20png.png",
+        "https://static.wikia.nocookie.net/hayday/images/3/3e/Squirrel_Idle.png"
+      ],
+      "definitions": [
+        "a kind of arboreal rodent having a long bushy tail",
+        "the fur of a squirrel"
+      ]
+    },
+    {
+      "id": "rattlesnake",
+      "image_urls": [
+        "https://www.mdwfp.com/media/253761/canebrake-rattlesnake-crotalus-horridus-4x.png",
+        "https://www.mdwfp.com/media/253771/pigmy-rattlesnake-sistrurus-miliarius-4x.png",
+        "https://static.wikia.nocookie.net/rimworld-bestiary/images/9/93/Rattlesnake_east.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/10092/rattlesnake-clipart-xl.png",
+        "https://i.pinimg.com/originals/d7/89/99/d7899997f00b720fdb9d79cf137207fe.png"
+      ],
+      "definitions": [
+        "pit viper with horny segments at the end of the tail that rattle when shaken"
+      ]
+    },
+    {
+      "id": "turtle",
+      "image_urls": [
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-hawksbill-turtle.png",
+        "https://www.euroturtles.eu/wp-content/themes/euroturtles/assets/images/loggerhead-turtle.png",
+        "https://images.squarespace-cdn.com/content/v1/5b80290bee1759a50e3a86b3/1538763428339-2TW9OX298BM6ZG34OCR6/green+turtle-illustration.png",
+        "https://images.squarespace-cdn.com/content/v1/59cae0d6be42d63f64cf6dd2/1542902265247-7TO79BP2LWFFEALYZJK9/Witherington2018-10.png",
+        "https://www.edonart.com/cms/wp-content/uploads/2020/09/turtle-bianco.png"
+      ],
+      "definitions": [
+        "a sweater or jersey with a high close-fitting collar",
+        "any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming"
+      ]
+    },
+    {
+      "id": "iguana",
+      "image_urls": [
+        "https://tropicarium.it/wp-content/uploads/2021/05/iguana-iguana.png",
+        "https://tropicarium.it/wp-content/uploads/2021/04/iguana-di-Cuba.png",
+        "https://static.wikia.nocookie.net/greenhell_gamepedia_en/images/a/af/Iguana.png",
+        "https://i.pinimg.com/originals/c2/5a/54/c25a5429808df9c4e8474b561357618a.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/19544/iguana-clipart-xl.png"
+      ],
+      "definitions": [
+        "large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America"
+      ]
+    }
+  ]
+}

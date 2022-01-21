@@ -1,0 +1,151 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "store",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Microsoft_Store.svg/1200px-Microsoft_Store.svg.png",
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "plate",
+      "image_urls": [
+        "https://www.apssupply.nl/media/image/d1/d7/55/WHVP81_600x600.png",
+        "https://cdn.shopify.com/s/files/1/1224/7992/products/Dinner_Plate_CUTOUT.png",
+        "https://www.rijksmuseumshop.nl/media/image/d7/3e/86/12861_f.png",
+        "https://www.rijksmuseumshop.nl/media/image/cf/99/43/12961_f.png",
+        "https://anna-nina.imgix.net/spree/products/17102/huge/Popolo_Large_Navy_Striped_Plate.png"
+      ],
+      "definitions": [
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "a sheet of metal or wood or glass or plastic",
+        "a full-page illustration (usually on slick paper)",
+        "dish on which food is served or from which food is eaten",
+        "the quantity contained in a plate",
+        "a rigid layer of the Earth's crust that is believed to drift slowly",
+        "the thin under portion of the forequarter",
+        "a main course served on a plate",
+        "any flat platelike body structure or part",
+        "the positively charged electrode in a vacuum tube",
+        "a flat sheet of metal or glass on which a photographic image can be recorded",
+        "structural member consisting of a horizontal beam that provides bearing and anchorage",
+        "a shallow receptacle for collection in church",
+        "a metal sheathing of uniform thickness (such as the shield attached to an artillery piece to protect the gunners)",
+        "a dental appliance that artificially replaces missing teeth"
+      ]
+    },
+    {
+      "id": "ground",
+      "image_urls": [
+        "https://lightlife.com/wp-content/uploads/2020/05/Img_OurFood_Ground_med_CA-1.png",
+        "https://www.uva.nl/binaries/_ht_1557240385793/cardmedium/content/gallery/faculteiten-en-diensten/fgw-met-restricties/disciplines/conservering/projecten/down-to-the-ground-logo.png",
+        "https://www.jennieo.com/wp-content/uploads/2019/10/image-product_lean-ground-turkey-roll-16oz-500x500-2.png",
+        "https://www.shakyground.nl/wp-content/uploads/2020/01/ShakyGround-logo-260x189-1.png",
+        "https://www.tyson.com/static/db3fdabc3b4fa366fe867bcfb905462e/03e29/tyson_ground_chicken_665x547.png"
+      ],
+      "definitions": [
+        "the solid part of the earth's surface",
+        "a rational motive for a belief or action",
+        "the loose soft material that makes up a large part of the land surface",
+        "a relation that provides the foundation for something",
+        "a position to be won or defended in battle (or as if in battle)",
+        "the part of a scene (or picture) that lies behind objects in the foreground",
+        "material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)",
+        "a relatively homogeneous percept extending back of the figure on which attention is focused",
+        "a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)",
+        "(art) the surface (as a wall or canvas) prepared to take the paint for a painting",
+        "the first or preliminary coat of paint or size applied to a surface"
+      ]
+    },
+    {
+      "id": "demonstration",
+      "image_urls": [
+        "https://tvsd.colvee.org/pluginfile.php/21849/mod_book/chapter/11271/practical%20demonstration.png",
+        "https://cdn2.iconfinder.com/data/icons/university-tuition-and-college-1/140/Icons-01-512.png",
+        "https://cdn.dataworks-ed.com/wordpress-content/uploads/20200127152945/LessonDemonstration_02.png",
+        "https://cdn4.iconfinder.com/data/icons/miscellaneous-6-1/128/demo_exhibition_demonstration-512.png",
+        "https://static.thenounproject.com/png/1923465-200.png"
+      ],
+      "definitions": [
+        "a show or display; the act of presenting something to sight or view",
+        "a show of military force or preparedness",
+        "a public display of group feelings (usually of a political nature)",
+        "proof by a process of argument or a series of proposition proving an asserted conclusion",
+        "a visual presentation showing how something works"
+      ]
+    },
+    {
+      "id": "lasagna",
+      "image_urls": [
+        "https://i.pinimg.com/originals/a1/8f/71/a18f71721bfd8b558f01cdc3b11564a1.png",
+        "https://riviana.azureedge.net/Images/Library/6/Lasagna-16R.png",
+        "https://www.edenia-foods.com/wp-content/uploads/2016/12/lasagna_bolognese.png",
+        "https://vankirkgrabbapizza.ca/wp-content/uploads/2019/05/Lasagna-Transparent-Background-600x360.png",
+        "https://riviana.azureedge.net/Images/Library/6/Skinner_Lasagna_16oz_3.png"
+      ],
+      "definitions": [
+        "baked dish of layers of lasagna pasta with sauce and cheese and meat or vegetables",
+        "very wide flat strips of pasta"
+      ]
+    },
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "product",
+      "image_urls": [
+        "https://agilescrumgroup.nl/wp-content/uploads/productvisie.png",
+        "https://startinfinity.s3.us-east-2.amazonaws.com/t/e4wPDE9n083lRln29Y8xCKGItdl6bUdJPOrNnfUt.png",
+        "https://wac-cdn.atlassian.com/dam/jcr:84dd83c0-f954-477e-b157-b591da20d3cf/0_diagram.png",
+        "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29e37008-7528-4d35-860d-80f1a6e84813/guide-product-design-image26-opt.png",
+        "https://www.exin.com/sites/default/files/styles/exin_label/public/2018-11/EXIN_Badge_ModuleProductOwner_AgileScrum.png"
+      ],
+      "definitions": [
+        "commodities offered for sale",
+        "an artifact that has been created by someone or some process",
+        "a quantity obtained by multiplication",
+        "a chemical substance formed as a result of a chemical reaction",
+        "a consequence of someone's efforts or of a particular set of circumstances",
+        "the set of elements common to two or more sets"
+      ]
+    },
+    {
+      "id": "market",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/56e1627f8a65e25092e7dfae/1471463891105-TM5D0G79NKQNDD7GLJXR/image-asset.png",
+        "https://www.grandviewresearch.com/static/img/research/us-virtual-reality-market-size.png",
+        "https://cdn.shopify.com/s/files/1/0375/7149/3947/files/smartmarket-stempel1_60df79f3-8597-4628-85c0-0475683b5431_300x300.png",
+        "https://newzoo.com/wp-content/uploads/2017/04/esports-market-report-chart.png",
+        "https://gourmetmarket.nl/wp-content/uploads/2020/12/LogotilburgGM.png"
+      ],
+      "definitions": [
+        "the world of commercial activity where goods and services are bought and sold",
+        "the customers for a particular product or service",
+        "a marketplace where groceries are sold",
+        "the securities markets in the aggregate",
+        "an area in a town where a public mercantile establishment is set up"
+      ]
+    }
+  ]
+}

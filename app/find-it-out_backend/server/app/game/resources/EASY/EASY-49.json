@@ -1,0 +1,121 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "tennessee",
+      "image_urls": [
+        "https://www.tn.gov/content/tn/humanservices/tennessee-community-cares-program/jcr%3Acontent/content/tn_textandimage/image.img.png",
+        "https://www.cdc.gov/foodsafety/centers/images/Tennessee-Region-2019.png",
+        "https://www.tn.gov/content/tn/tema/the-agency/regional-offices/middle/jcr%3Acontent/content/tn_image.img.png",
+        "https://www.tnvacation.com/themes/custom/tnvacation/img/ui-logo.png",
+        "https://www.tba.org/userassets/TNBAR/TNBAR/userimages/tn-judicial-districts.png"
+      ],
+      "definitions": [
+        "a state in east central United States",
+        "a river formed by the confluence of two other rivers near Knoxville; it follows a U-shaped course to become a tributary of the Ohio River in western Kentucky"
+      ]
+    },
+    {
+      "id": "louisiana",
+      "image_urls": [
+        "https://ldh.la.gov/assets/docs/OrgCharts/RegionMap.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Native_Languages_of_Louisiana.svg/220px-Native_Languages_of_Louisiana.svg.png",
+        "https://www.wlf.louisiana.gov/assets/Footer/images/Enforcement-Region-Map-3-11-2020.png",
+        "https://bloximages.newyork1.vip.townnews.com/lsureveille.com/content/tncms/assets/v3/editorial/a/f0/af068c22-7c1f-11ea-ab23-4b278c6300fc/5e9208312219f.image.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-22/hotspots.png"
+      ],
+      "definitions": [
+        "a state in southern United States on the Gulf of Mexico; one of the Confederate states during the American Civil War"
+      ]
+    },
+    {
+      "id": "fox",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/73/Fox.png",
+        "https://foxfinance.io/img/logo.94eab0d0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Australian-Red-Fox--Animal-Nature-Wildlife-Open-Eyes-KS1.png",
+        "https://forfoxsakewildlife.files.wordpress.com/2020/04/cropped-imageonline-co-transparentimage-3.png"
+      ],
+      "definitions": [
+        "alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs",
+        "a shifty deceptive person",
+        "the grey or reddish-brown fur of a fox",
+        "English statesman who supported American independence and the French Revolution (1749-1806)",
+        "English religious leader who founded the Society of Friends (1624-1691)",
+        "a member of an Algonquian people formerly living west of Lake Michigan along the Fox River",
+        "the Algonquian language of the Fox"
+      ]
+    },
+    {
+      "id": "california",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/California_county_map_%28labeled%29.svg/280px-California_county_map_%28labeled%29.svg.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-06/hotspots.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-06/risk_levels.png",
+        "https://static.thenounproject.com/png/2381646-200.png",
+        "https://website-assets-fw.freshworks.com/attachments/cjy5nayqd0dzn65g0khl44gef-california-area-code-map.full.png"
+      ],
+      "definitions": [
+        "a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+      ]
+    },
+    {
+      "id": "oklahoma",
+      "image_urls": [
+        "https://kfor.com/wp-content/uploads/sites/3/2021/06/deq-air-qualirt-health-advisory.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Oklahoma_City_highlighted.svg/250px-Oklahoma_County_Oklahoma_Incorporated_and_Unincorporated_areas_Oklahoma_City_highlighted.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2010populationdensityoklahoma.svg/1200px-2010populationdensityoklahoma.svg.png",
+        "https://www.occedb.org/uploads/1/2/1/4/121468201/published/ok-map1.png",
+        "https://a.espncdn.com/i/teamlogos/ncaa/500/197.png"
+      ],
+      "definitions": [
+        "a state in south central United States"
+      ]
+    },
+    {
+      "id": "alabama",
+      "image_urls": [
+        "https://www.alarise.org/wp-content/uploads/2018/08/alabama-state-3d-illustration.png",
+        "https://images.squarespace-cdn.com/content/v1/5bf378c0aa49a1e6b0c68a95/1604080082506-HFRK8EOR7SKK2F54HYM1/Alabama+Congressional+District+Map.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-01/hotspots.png",
+        "https://a.espncdn.com/i/teamlogos/ncaa/500/333.png",
+        "https://ache.edu/Images/AL_Inst_Map.png"
+      ],
+      "definitions": [
+        "a state in the southeastern United States on the Gulf of Mexico; one of the Confederate states during the American Civil War",
+        "a member of the Muskhogean people formerly living in what is now the state of Alabama",
+        "a river in Alabama formed by the confluence of the Coosa and Tallapoosa Rivers near Montgomery; flows southwestward to become a tributary of the Mobile River",
+        "the Muskhogean language of the Alabama"
+      ]
+    },
+    {
+      "id": "mountains",
+      "image_urls": [
+        "https://mountainsflame.nl/wp-content/uploads/2019/10/Mountainsflame-logo.png",
+        "https://i.pinimg.com/originals/2a/00/84/2a0084395045a7613ab1efa7ee069fd5.png",
+        "https://dejpknyizje2n.cloudfront.net/svgcustom/clipart/preview/mountains-2766-14039-550x550.png",
+        "https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/website/uploaded/ks1-mount-taranaki-new-zealand-mountain-landscape-peak-colour-rgb-1583146682.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/high-mountain.png"
+      ],
+      "definitions": [
+        "a land mass that projects well above its surroundings; higher than a hill",
+        "(often followed by `of') a large number or amount or extent"
+      ]
+    },
+    {
+      "id": "arkansas",
+      "image_urls": [
+        "https://www.healthy.arkansas.gov//themes/site_themes/default_site/images/health-units-map.png",
+        "https://www.arcf.org/app/uploads/2020/05/AFF-Map.png",
+        "https://gis.arkansas.gov/wp-content/uploads/2019/01/House_2011.png",
+        "https://dynamiclearningmaps.org/sites/default/files/pictures/states/AR_state.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-05/hotspots.png"
+      ],
+      "definitions": [
+        "a state in south central United States; one of the Confederate states during the American Civil War",
+        "a river that rises in the Rocky Mountains in Colorado and flows southeast through Kansas and Oklahoma and through Arkansas to become a tributary of the Mississippi River"
+      ]
+    }
+  ]
+}

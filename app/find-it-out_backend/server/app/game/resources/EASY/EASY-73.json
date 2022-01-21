@@ -1,0 +1,143 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "government",
+      "image_urls": [
+        "https://www.rijkshuisstijl.nl/binaries/large/content/gallery/rijkshuisstijl/content-afbeeldingen/basiselementen/logo/ro_logo_online_ex_pos_en.png",
+        "https://landportal.org/sites/landportal.org/files/styles/220heightmax/public/lrQMWH3.png",
+        "https://www.servicenow.nl/content/dam/servicenow-assets/public/en-us/images/company-library/individuals-indirect/federalnational-marquee.png",
+        "https://www.salesforce.com/content/dam/web/en_us/www/images/industries/government/governmernt-redesign/ind-PS-26-govt-cloud-plus-jumbo_LG%20(1).png",
+        "https://cdn2.iconfinder.com/data/icons/election-21/512/CoalitionGovernment-election-politics-government-cabinet-512.png"
+      ],
+      "definitions": [
+        "the organization that is the governing authority of a political unit",
+        "the act of governing; exercising authority",
+        "(government) the system or form by which a community or other political unit is governed",
+        "the study of government of states and other political units"
+      ]
+    },
+    {
+      "id": "corporation",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/civilization/images/6/61/Corporation_%28Civ6%29.png",
+        "https://blab-mktg-bcorporation-production.s3.amazonaws.com/blocks/home-block-image1.png",
+        "https://www.sba.gov/sites/default/files/2018-04/BG_Choose_business_structure.png",
+        "https://www.incfile.com/hubfs/Incfile_February_2021/images/review-entity-type-c-corp.png",
+        "https://blab-mktg-bcorporation-production.s3.amazonaws.com/blocks/home--block-image2_3.png"
+      ],
+      "definitions": [
+        "a business firm whose articles of incorporation have been approved in some state",
+        "slang for a paunch"
+      ]
+    },
+    {
+      "id": "country",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Country_calling_codes_map.svg/1200px-Country_calling_codes_map.svg.png",
+        "https://cdn.ip2location.com/assets/img/flags/flags_32.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/GINI_index_World_Bank_up_to_2018.svg/500px-GINI_index_World_Bank_up_to_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/World_map_blank_shorelines_semiwikimapia.svg/720px-World_map_blank_shorelines_semiwikimapia.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg/500px-Population_density_of_countries_2018_world_map%2C_people_per_sq_km.svg.png"
+      ],
+      "definitions": [
+        "a politically organized body of people under a single government",
+        "the territory occupied by a nation",
+        "the people who live in a nation or country",
+        "an area outside of cities and towns",
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ]
+    },
+    {
+      "id": "sun",
+      "image_urls": [
+        "https://solarsystem.nasa.gov/system/basic_html_elements/11561_Sun.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/golden-tan-max-after-sun-lotion-125-ml.png",
+        "https://www.lancaster-beauty.com/sites/default/files/shared/catalog/product/3614224838553_sun-beauty-body_sun-beauty-velvet-milk-spf30-75ml-tube.png",
+        "https://www.etos.nl/on/demandware.static/-/Sites-etos-master-catalog/default/dwe338e5f7/images/120093432/120093432_MCM_PACK_1136912.png",
+        "https://www.etos.nl/dw/image/v2/BCTN_PRD/on/demandware.static/-/Sites-etos-master-catalog/default/dw3e4e7ece/images/120395588/120395588_MCM_PACK_1040619.png"
+      ],
+      "definitions": [
+        "the star that is the source of light and heat for the planets in the solar system",
+        "the rays of the sun",
+        "a person considered as a source of warmth or energy or glory etc",
+        "any star around which a planetary system revolves",
+        "first day of the week; observed as a day of rest and worship by most Christians"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/nPT3vS4AklWXg39tTeiah/a110333e41cfb94c85f8de782a45ccf0/retailrepositioning-e6ed62bb181d46b19c0e770fcdd73be8-800-800.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "trouble",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5caa8b9e809d8e64e388b186/1558347693039-1YXXPSOC1X3VPZ9SR97T/Trouble_logo_yellow1.png",
+        "https://images.squarespace-cdn.com/content/v1/5caa8b9e809d8e64e388b186/1558347693039-1YXXPSOC1X3VPZ9SR97T/Trouble_logo_yellow1.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZhKBph6n8-EBppzfnvUn29KQnfKCTosmPwscgvcjoI3mtMEfk8nNGVNXk14-tt6EnFdRJXPfWtUw1SD2nB5M3IC4Y1NjvPyWoZ5.png",
+        "https://images.squarespace-cdn.com/content/v1/5c0714f2b40b9d1bd887c614/1600113128998-SCHNO8RGWR5KCWK07I01/Trouble_combologo_purple.png",
+        "https://static.wikia.nocookie.net/logopedia/images/b/bc/Trouble_logo_1997.png"
+      ],
+      "definitions": [
+        "a source of difficulty",
+        "an angry disturbance",
+        "an event causing distress or pain",
+        "an effort that is inconvenient",
+        "a strong feeling of anxiety",
+        "an unwanted pregnancy"
+      ]
+    },
+    {
+      "id": "president",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/1200px-Seal_of_the_President_of_the_United_States.svg.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ7rNPJobQOhQciriRn1ry7TPTUH3iUqvcR-jhEDYmUgqNUJPJXnJfvuVCJh8G7KkXX4jerQG13YihtmLOVFm-VjC9mx9csyT12z.png",
+        "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTI_xjy3jxv8/v0/-1x-1.png",
+        "https://president.be/swfiles/body/president-logo.png",
+        "https://www.volkskrant.nl/kijkverder/d/wat-u-moet-weten-over-impeachment-van-president-trump~v18612/media/a3c1f03791635be4b728250caf0fde0d.png"
+      ],
+      "definitions": [
+        "an executive officer of a firm or corporation",
+        "the person who holds the office of head of state of the United States government",
+        "the chief executive of a republic",
+        "the officer who presides at the meetings of an organization",
+        "the head administrative officer of a college or university",
+        "the office of the United States head of state"
+      ]
+    },
+    {
+      "id": "control",
+      "image_urls": [
+        "https://cdn2.unrealengine.com/Diesel%2Fproduct%2Fcontrol%2Fhome%2FCONTROL_logo_black_with_trademark_RGB-2339x431-bb9ba500a825fd85bb075403fc5068ad162c95f3.png",
+        "https://www.house-of-control.nl/uploads/images/control-simons-levers-of-control.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABfrkgnOzSwXfNu5iq-9BjtBGri10O53j5hmvbL9DzGPh8VxnPJXae880hiaP7Jr7If4OKkhV70nbJTGqfa_omqiV9OkWO29P3pojtTYWiYbTjVHjU961HgMVsz0_WABCu_wNvNPlYHCa6RhCkBTIKYVLdvAysYgJbf5vPHMuiYzuXg.png",
+        "https://cdn2.unrealengine.com/control-ultimate-edition-black-rgb-r-2000x518-3b437a5a9a01.png",
+        "https://www.secnology.com/wp-content/uploads/2017/11/Secnology-policy-control.png"
+      ],
+      "definitions": [
+        "power to direct or determine",
+        "a relation of constraint of one entity (thing or person or group) by another",
+        "(physiology) regulation or maintenance of a function or action or reflex etc",
+        "a standard against which other conditions can be compared in a scientific experiment",
+        "the activity of managing or exerting control over something",
+        "the state that exists when one person or group has power over another",
+        "discipline in personal and social activities",
+        "great skillfulness and knowledge of some subject or activity",
+        "a mechanism that controls the operation of a machine",
+        "a spiritual agency that is assumed to assist the medium during a seance",
+        "the economic policy of controlling or limiting or curbing prices or wages etc."
+      ]
+    }
+  ]
+}

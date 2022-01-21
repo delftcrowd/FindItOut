@@ -1,0 +1,138 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "plastic",
+      "image_urls": [
+        "https://oceanplasticslab.net/site/uploads/2018/05/img-oceanplastics.png",
+        "https://i1.wp.com/www.palbox.it/wp-content/uploads/kiste3-1.png",
+        "https://www.ecomena.org/wp-content/uploads/2015/10/plastic-water-bottles-middle-east.png",
+        "https://ditch-plastic.org/assets/img/main_image.png",
+        "https://noplasticwaste.org/wp-content/uploads/2019/09/plastice-globe-min.png"
+      ],
+      "definitions": [
+        "generic name for certain synthetic or semisynthetic materials that can be molded or extruded into objects or films or filaments or used for making e.g. coatings and adhesives",
+        "a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered"
+      ]
+    },
+    {
+      "id": "paper",
+      "image_urls": [
+        "https://www.sbam-design.it/wp-content/uploads/2021/03/hay-paperpaperbin-lightgrey-1.png",
+        "https://www.lacartadiamalfi.it/wp-content/uploads/2020/08/CONFEZIONI_PER_PITTORI-removebg-preview.png",
+        "https://www.favini.com/gs/wp-content/uploads/2014/10/crush_paper_2.png",
+        "https://images-eu.ssl-images-amazon.com/images/I/71jEhBMQOAL.png",
+        "https://www.artigiancarta.net/media/img_prod/big/carta_forno_1.png"
+      ],
+      "definitions": [
+        "a material made of cellulose pulp derived mainly from wood or rags or certain grasses",
+        "an essay (especially one written as an assignment)",
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a medium for written communication",
+        "a scholarly article describing the results of observations or stating hypotheses",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher"
+      ]
+    },
+    {
+      "id": "mink",
+      "image_urls": [
+        "https://thenorfolkminkproject.org.uk/wp-content/uploads/2015/06/Mink-sighting-mink.png",
+        "https://drncvpyikhjv3.cloudfront.net/sites/244/2019/05/30204910/mink.png",
+        "https://cdn10.bigcommerce.com/s-dsqbh7cd/products/1851/images/1192/ALL_MINK__96900.1495052150.1280.1280.png",
+        "https://cdn.shopify.com/s/files/1/0049/7686/9425/products/R-W-20U-21034-CS17-001_V3_1200x.png",
+        "https://cdn.shopify.com/s/files/1/0263/8725/1260/products/R-W-20U-22004-MI00-003_V3_27a63df2-a215-40ef-976f-bed8df86d77d-422899_1200x.png"
+      ],
+      "definitions": [
+        "the expensive fur of a mink",
+        "fur coat made from the soft lustrous fur of minks",
+        "slender-bodied semiaquatic mammal having partially webbed feet; valued for its fur"
+      ]
+    },
+    {
+      "id": "tin",
+      "image_urls": [
+        "https://federicstore.it/wp-content/uploads/2020/04/PKTINFR-ZAMA.png",
+        "https://shop.biscottigentilini.it/media/catalog/product/cache/26/image/9df78eab33525d08d6e5fb8d27136e95/b/i/biscottiera-anniversario.png",
+        "https://www.oliocentonze.com/wp-content/uploads/2020/08/centonze-latta-500ml-cefal.png",
+        "https://www.italtin.com/wp-content/uploads/2019/07/italtin-scatole-in-latta-personalizzate-2019.png",
+        "https://new-box.com/uploads/custom_tin_boxes.png"
+      ],
+      "definitions": [
+        "a silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide",
+        "a vessel (box, can, pan, etc.) made of tinplate and used mainly in baking",
+        "metal container for storing dry foods such as tea or flour",
+        "airtight sealed metal container for food or drink or paint etc."
+      ]
+    },
+    {
+      "id": "wood",
+      "image_urls": [
+        "https://www.woodbeton.it/wp-content/uploads/2020/07/icona_nuvola.png",
+        "https://cdn.shopify.com/s/files/1/1472/3568/products/OffCutsCityFirewood_43f37ca3-47e3-40d5-a820-09c067a00ac4_grande.png",
+        "https://static.wikia.nocookie.net/play-rust/images/f/f2/Wood_icon.png",
+        "https://cdn.poliigon.com/assets/3235/previews/WoodFlooring044_Sphere.png",
+        "https://assets.biggreenegg.eu/app/uploads/2019/02/13112247/topimage-acacia-wood-egg-mates-800x533.png"
+      ],
+      "definitions": [
+        "the hard fibrous lignified substance under the bark of trees",
+        "the trees and other plants in a large densely wooded area",
+        "United States film actress (1938-1981)",
+        "English conductor (1869-1944)",
+        "English writer of novels about murders and thefts and forgeries (1814-1887)",
+        "United States painter noted for works based on life in the Midwest (1892-1942)",
+        "any wind instrument other than the brass instruments",
+        "a golf club with a long shaft used to hit long shots; originally made with a wooden head"
+      ]
+    },
+    {
+      "id": "metal",
+      "image_urls": [
+        "https://www.metalrecyclesforever.eu/wp-content/uploads/2019/12/MPE-CAN-GROUP.png",
+        "https://www.mustad.it/wp-content/uploads/2018/06/ico_vite_autofilettante_tsp_ph_zincata_bianca_600x300.png",
+        "https://www.mustad.it/wp-content/uploads/2018/07/ico_vite_autofilettante_tc_ph_zincata_bianca_600x300.png",
+        "https://assets.revolut.com/media/metal-plan/hero.png",
+        "https://edizioninpe.it/wp-content/uploads/2021/01/Mock-Up-3D-La-grande-storia-del-rock-e-del-metal-%E2%80%93-omnibus-edition.png"
+      ],
+      "definitions": [
+        "any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.",
+        "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten"
+      ]
+    },
+    {
+      "id": "skunk",
+      "image_urls": [
+        "https://img.sensiseeds.com/it/semi-di-canapa/sensi-seeds/sensi-skunk-xl.png",
+        "https://img.sensiseeds.com/it/semi-femminizzati/sensi-seeds/skunk-1-femminilizzata-xl.png",
+        "https://img.sensiseeds.com/it/semi-femminizzati/sensi-seeds/skunk-1-automatic-photo.png",
+        "https://seedsline.com/wp-content/uploads/2017/06/skunk-1-femminilizzata-xl.png",
+        "https://img.sensiseeds.com/it/semi-di-canapa/sensi-seeds/super-skunk-xl.png"
+      ],
+      "definitions": [
+        "a person who is deemed to be despicable or contemptible",
+        "a defeat in a game where one side fails to score",
+        "street names for marijuana",
+        "American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae"
+      ]
+    },
+    {
+      "id": "glass",
+      "image_urls": [
+        "https://www.spaziomatteotti5.it/wp-content/uploads/2020/02/Whiskey-Glass-2-pcs-30-cl2.png",
+        "https://www.venini.com/site/eu/wp-content/uploads/sites/3/2019/12/FO310030000B0QP_0.png",
+        "https://www.venini.com/site/eu/wp-content/uploads/sites/3/2019/12/FT372208000X0VB_0.png",
+        "https://cdn.shopify.com/s/files/1/1665/9229/products/Calice_New-Sara_Acqua_Trasparente_600x.png",
+        "https://www.dakota.eu/storage/catalogo/immagini/Prod_296_copertina.png"
+      ],
+      "definitions": [
+        "a brittle transparent solid with irregular atomic structure",
+        "a container made of glass for holding liquids while drinking",
+        "the quantity a glass will hold",
+        "a small refracting telescope",
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant",
+        "a mirror; usually a ladies' dressing mirror",
+        "glassware collectively"
+      ]
+    }
+  ]
+}

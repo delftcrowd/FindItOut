@@ -1,0 +1,247 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "cage",
+      "image_urls": [
+        "https://images.selency.com/6d90b6ec-55df-47d7-a74a-5ad8c788ce46/wood-and-metal-cage_original.png",
+        "https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12193.png",
+        "https://www.nihonsport.nl/wp-content/uploads/2020/08/FL-OCT1.png",
+        "https://www.troax.com/sites/default/files/styles/product_image_dektop_/public/pim_images/12192.png",
+        "https://www.weverducre.com/pim/COSTA%202.1%20CAGE/image-thumb__442705__lightbox/COSTA-2.1-CAGE-BLACK.png"
+      ],
+      "definitions": [
+        "an enclosure made or wire or metal bars in which birds or animals can be kept",
+        "something that restricts freedom as a cage restricts movement",
+        "United States composer of avant-garde music (1912-1992)",
+        "the net that is the goal in ice hockey",
+        "a movable screen placed behind home base to catch balls during batting practice"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "forest",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5dc2252c8c1cfd4ef90243c4/1574549437077-OEJUJ1HBEIZCG91WL67V/title-art-forest.png",
+        "https://outdoor-forest.nl/wp-content/uploads/2019/12/outdoor-forest-logo-dark-xs.png",
+        "https://forforest.net/wp-content/uploads/2020/10/Logo-Men%C3%BC_Sticky-header-01.png",
+        "https://endnightgames.com/sites/default/files/images/games/forest-logo.png",
+        "https://www.forestsoftheworld.org/files/International.forestsoftheworld.org/Goals%20and%20strategies/2021-03-16%20FoW%20ToC%20illustrated.png"
+      ],
+      "definitions": [
+        "the trees and other plants in a large densely wooded area",
+        "land that is covered with trees and shrubs"
+      ]
+    },
+    {
+      "id": "sky",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Sky_International_-_Logo_2018.svg/220px-Sky_International_-_Logo_2018.svg.png",
+        "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/220px-Sky_Group_logo_2020.svg.png",
+        "https://static.broadband.co.uk/img/sky-5.800px.png",
+        "https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blte734987060db60e6/5ef9f4ec89ea556d5881819f/Sky_Master_Brand_Logo_SMALL_RGB.png"
+      ],
+      "definitions": [
+        "the atmosphere and outer space as viewed from the earth"
+      ]
+    },
+    {
+      "id": "bee",
+      "image_urls": [
+        "https://emojipedia-us.s3.amazonaws.com/social/emoji/honeybee.png",
+        "https://www.greencircles.nl/storage/images/330/logo-logo-circle-beelandscape-500x270-rgb.png",
+        "https://static.wikia.nocookie.net/adoptme/images/5/56/Bee.png",
+        "https://www.beesafebeeremoval.com/wp-content/uploads/2017/06/big-bee.png",
+        "https://static.wixstatic.com/media/9f0d15_7b42c8daf46d42b89b6e8e4a3ca68951~mv2.png"
+      ],
+      "definitions": [
+        "any of numerous hairy-bodied insects including social and solitary species",
+        "a social gathering to carry out some communal task or to hold competitions"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.cupapizarras.com/wp-content/uploads/2019/09/roof-parts.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://sunstruction.nl/png/systems/roof-hooks.png",
+        "https://www.atlasroofing.com/media/images/original/5319.png",
+        "https://www.mg-bouw.com/wp-content/uploads/2020/05/Meuwissen-AlkReflex-Roof-1.7-Wand-dak-buitenzijde-20210727.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "nest",
+      "image_urls": [
+        "https://zoofy.nl/media/1166/nest-thermostat.png",
+        "https://comfocare.nl/application/files/4015/8143/2075/NES-Nest_Thermostaat_3.png",
+        "https://i1.wp.com/www.smarthome365.nl/wp-content/uploads/2019/12/Nest-Thermostat-E-front-e1577212069491.png",
+        "https://www.robbshop.nl/media/7e/b3/54/1604847470/nest-1000x1000-500_795321088.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Nest/Nest%20Sofa/image-thumb__1745__height_500/Nest-Sofa-2.png"
+      ],
+      "definitions": [
+        "a structure in which animals lay eggs or give birth to their young",
+        "a kind of gun emplacement",
+        "a cosy or secluded retreat",
+        "a gang of people (criminals or spies or terrorists) assembled in one locality",
+        "furniture pieces made to fit close together"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "michigan",
+      "image_urls": [
+        "https://www.michigannature.org/images/img_library/crp/96-6-8-issue.png",
+        "https://www.bls.gov/regions/midwest/images/18782.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/hotspots.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-26/risk_levels.png",
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566497203534-IP8F83WR5AWBNVFFG2VF/Michigan.png"
+      ],
+      "definitions": [
+        "a midwestern state in north central United States in the Great Lakes region",
+        "the 3rd largest of the Great Lakes; the largest freshwater lake entirely within the United States borders",
+        "a gambling card game in which chips are placed on the ace and king and queen and jack of separate suits (taken from a separate deck); a player plays the lowest card of a suit in his hand and successively higher cards are played until the sequence stops; the player who plays a card matching one in the layout wins all the chips on that card"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "beach",
+      "image_urls": [
+        "https://luxepoxytafels.nl/app/uploads/2021/06/Epoxy-Tafel-Beach-Bovenaanzicht.png",
+        "https://cdn.shopify.com/s/files/1/0323/5518/8873/products/JL_Beach_Sinatra_Men_1024x1024.png",
+        "https://www.webtonbeachtwente.nl/wp-content/uploads/logo-webton-beach-twente-achtergrond.png",
+        "https://www.palmbeach-roermond.nl/wp/wp-content/uploads/2021/02/palmbeach.png",
+        "https://www.emsporting.nl/Files/4/10000/10720/ProductPhotos/MaxContent/284799977.png"
+      ],
+      "definitions": [
+        "an area of sand sloping down to the water of a sea or lake"
+      ]
+    },
+    {
+      "id": "bird",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/starwars/images/4/47/Porg_wings_Fathead.png",
+        "https://cdn-reichelt.de/bilder/web/xxl_ws/E910/TEV_60086_01.png",
+        "https://www.ricebyrice.com/media/22521/wrbir-lxc19i_1.png",
+        "https://extra.katwijk.nl/fileadmin/_processed_/b/5/csm_Grote_Stern-Vrijstaand_bdfafdaf1f.png",
+        "https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/4/45/Non_Flying_Bird.png"
+      ],
+      "definitions": [
+        "warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings",
+        "the flesh of a bird or fowl (wild or domestic) used as food",
+        "informal terms for a (young) woman",
+        "a cry or noise made to express displeasure or contempt",
+        "badminton equipment consisting of a ball of cork or rubber with a crown of feathers"
+      ]
+    },
+    {
+      "id": "mountain",
+      "image_urls": [
+        "https://www.mountainfilmalliance.org/wp-content/themes/iamf/images/mountains.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/high-mountain.png",
+        "https://static.wikia.nocookie.net/valheim/images/7/78/Biome_mountain.png",
+        "https://www.un.org/sites/un2.un.org/files/mountain.png",
+        "https://static.wikia.nocookie.net/valheim/images/7/78/Biome_mountain.png"
+      ],
+      "definitions": [
+        "a land mass that projects well above its surroundings; higher than a hill",
+        "(often followed by `of') a large number or amount or extent"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    },
+    {
+      "id": "box",
+      "image_urls": [
+        "https://www.mysteryboxkopen.nl/wp-content/uploads/2019/01/Mystery_Box_V01-e1548633735113.png",
+        "https://www.doggy-box.com/wp-content/themes/doggy-box/img/open-box.png",
+        "https://static.cdn.packhelp.com/wp-content/uploads/2021/05/05134118/Packhelp24945-1-1.png",
+        "https://kidspeakltd.com/wp-content/uploads/2016/04/folding-box.png",
+        "https://cdn.shopify.com/s/files/1/0300/7227/4989/files/box_logo_white_bg_300x300.png"
+      ],
+      "definitions": [
+        "a (usually rectangular) container; may have a lid",
+        "private area in a theater or grandstand where a small group can watch the performance",
+        "the quantity contained in a box",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a rectangular drawing",
+        "evergreen shrubs or small trees",
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+        "the driver's seat on a coach",
+        "separate partitioned area in a public place for a few people",
+        "a blow with the hand (usually on the ear)"
+      ]
+    },
+    {
+      "id": "windowsill",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/nuuline-fill-interior-home-decoration/150/home_decoration_interior-09-512.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/02/Windowsill-breeze-Scentsy-waxbar.png",
+        "https://www.comhan.com/sites/default/files/styles/type_smal/public/waterslagen_35sl_15deg_waterslag_35sl_190mm_w-image1.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/10/Scentsy-vloeibaar-wasmiddel-windowsill-breeze.png",
+        "https://www.seekpng.com/png/full/763-7631869_how-to-design-a-windowsill-flower-box-window.png"
+      ],
+      "definitions": [
+        "the sill of a window; the horizontal member at the bottom of the window frame"
+      ]
+    }
+  ]
+}

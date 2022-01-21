@@ -1,0 +1,249 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "crayon",
+      "image_urls": [
+        "https://www.logitech.com/content/dam/logitech/en/products/mobility/crayon/gallery/update-may21/crayon-orange-gallery-1.png",
+        "https://www.sensationalkids.ie/wp-content/uploads/2017/08/1-46.png",
+        "https://www.crayon.com/globalassets/global-graphical-assets/images/news/crayon-logo-secondary-rgb-original.png",
+        "https://www.craypas.com/global/wp-content/uploads/2016/08/lumber_crayon_mi.png",
+        "https://img.icons8.com/emoji/452/crayon-emoji.png"
+      ],
+      "definitions": [
+        "writing implement consisting of a colored stick of composition wax used for writing and drawing"
+      ]
+    },
+    {
+      "id": "spatula",
+      "image_urls": [
+        "https://product-images.weber.com/accessory-images/6620.png",
+        "https://www.bamix.com/shop/media/catalog/product/cache/fa7f2f83181dad7e937e9ee4627e0f82/s/h/shop_bilder_bamix_messer-min.png",
+        "https://www.arcos.com/media/catalog/product/cache/d3da5021f2d64e73d56df30e4091b50d/6/1/617200_.png",
+        "https://www.charbroil.com/media/catalog/product/cache/001f37533a16b079f4fb726e8082a91d/6/a/6ae187a8cfbdacd76af70c44d549fb8c_1144333R12.png",
+        "https://static.wikia.nocookie.net/spongebob/images/7/79/Spat_stock_art_2000.png"
+      ],
+      "definitions": [
+        "a turner with a narrow flexible blade",
+        "a hand tool with a thin flexible blade used to mix or spread soft substances"
+      ]
+    },
+    {
+      "id": "scissors",
+      "image_urls": [
+        "https://www.kai-europe.com/kitchen/images/products/v5210b@2x.png",
+        "https://www.coloridilana.it/WebRoot/StoreIT7/Shops/81771/5AA8/5359/311A/F08C/4019/0A0A/B010/CF90/608-7_Goldmarie_Handarbeitsschere_ml.png",
+        "https://cdn.shopify.com/s/files/1/0526/7144/7238/products/e41f01ecc4dabde064fc1c2a88e5a5e4@2x.png",
+        "https://www.kai-europe.com/kitchen/images/products/7240as@2x.png",
+        "https://cdn.shopify.com/s/files/1/2521/9510/products/Ergo-Prime-Scissors-5in_web_736x900_a3f42e2d-cd84-4f54-9ea9-f6d2a03c327b.png"
+      ],
+      "definitions": [
+        "an edge tool having two crossed pivoting blades",
+        "a wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze",
+        "a gymnastic exercise performed on the pommel horse when the gymnast moves his legs as the blades of scissors move"
+      ]
+    },
+    {
+      "id": "pencil",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pencil.svg/2560px-Pencil.svg.png",
+        "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2019-12/redpencil.png",
+        "https://www.pupa.it/on/demandware.static/-/Sites-masterCatalog_Pupa/default/dw79e143f6/Immagini/large/240361A003_8011607334261_powderpencil_big_03022020092459.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/12/FJ/OK/FL/1986103/rubber-tip-pencil-500x500.png",
+        "https://www.rexart.com/media/koh-polycolor-pencils.png"
+      ],
+      "definitions": [
+        "a thin cylindrical pointed writing implement; a rod of marking substance encased in wood",
+        "graphite (or a similar substance) used in such a way as to be a medium of communication",
+        "a figure formed by a set of straight lines or light rays meeting at a point",
+        "a cosmetic in a long thin stick; designed to be applied to a particular part of the face"
+      ]
+    },
+    {
+      "id": "paintbrush",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/2486/2582/products/126-005-The-Brush-Works-Paintbrush-Set-O1_800x800.png",
+        "https://www.pennellificiopol.com/wp-content/uploads/2018/04/360_pl_scontornato_web.png",
+        "https://cdn.shopify.com/s/files/1/1260/8943/products/image_1024x1024.png",
+        "https://www.pennellificiopol.com/wp-content/uploads/2019/04/platina-761_scontornata_web-300x300.png",
+        "https://static.macupdate.com/products/25050/l/paintbrush-logo.png"
+      ],
+      "definitions": [
+        "a brush used as an applicator (to apply paint)"
+      ]
+    },
+    {
+      "id": "chisel",
+      "image_urls": [
+        "https://pimdatacdn.bahco.com/media/sub581/16a0c98c9b73ab3f.png",
+        "https://images.squarespace-cdn.com/content/v1/5879999929687f8f4b99d81e/1490240144345-S118US9YK0LNRXCQ7PLQ/image-asset.png",
+        "https://pimdatacdn.bahco.com/media/sub582/16a0ca2d5e0c9a3f.png",
+        "https://resurss.eu/image/catalog/bahco/16a0c996926e613f.png",
+        "https://pimdatacdn.bahco.com/media/sub1025/16a866c3edd2453f.png"
+      ],
+      "definitions": [
+        "an edge tool with a flat steel blade with a cutting edge"
+      ]
+    },
+    {
+      "id": "razor",
+      "image_urls": [
+        "https://res.cloudinary.com/mtree/f_auto,dpr_auto,q_auto/gillette-as/2ispICXl3R5j75soVv6QkI/4e66bdd9672ecb826094a8952e339660/sp_fusion5_manual_razor_402x.png",
+        "https://res.cloudinary.com/mtree/f_auto,dpr_auto,q_auto/gillette-as/69cWHQmX5v4XUTWc7D8tA8/7aeb7a2e0aa78abac59789959e2c4125/sp_overview_2x.png",
+        "https://images.ctfassets.net/7tfi3razjgvb/p77eTPBkZGPciIdVgnQrX/76f928493492cd8cffe41a5fe9302af2/sp_blue3_comfort_mens_disposable_razor_402x.png",
+        "https://www.baxterofcalifornia.com/dw/image/v2/AANG_PRD/on/demandware.static/-/Sites-baxter-master-catalog/default/dwcd66d40c/SHAVING/Mens-Double-Edge-Safety-Razor-for-Wet-Shaving-square.png",
+        "https://res.cloudinary.com/mtree/f_auto,dpr_auto,q_auto/gillette-as/1npoNCpjEK1IKu9g4g1OSp/30c4226901a70f26a120d9798843eb16/sp_gillette_blue_simple3_mens_disposable_razor_402x.png"
+      ],
+      "definitions": [
+        "edge tool used in shaving"
+      ]
+    },
+    {
+      "id": "brush",
+      "image_urls": [
+        "https://cdn.mulaccosmetics.com/media/catalog/product/cache/5d081834386d47dee054461241bd1e68/t/h/the-jolly-brush.png",
+        "https://cdn.shopify.com/s/files/1/0251/2184/9419/products/kabuki-brush_2048x.png",
+        "https://www.evohair.com/media/catalog/product/cache/5/image/9df78eab33525d08d6e5fb8d27136e95/e/v/evo_brushes_pete_3.1599718007.png",
+        "https://www.tek-italy.it/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/1/5/1570-03_new.png",
+        "https://www.tek-italy.it/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/5/1571-38_new.png"
+      ],
+      "definitions": [
+        "a dense growth of bushes",
+        "an implement that has hairs or bristles firmly set into a handle",
+        "momentary contact",
+        "conducts current between rotating and stationary parts of a generator or motor",
+        "a bushy tail or part of a bushy tail (especially of the fox)",
+        "a minor short-term fight",
+        "the act of brushing your teeth",
+        "the act of brushing your hair",
+        "contact with something dangerous or undesirable"
+      ]
+    },
+    {
+      "id": "pliers",
+      "image_urls": [
+        "https://pimdatacdn.bahco.com/media/sub387/17882ebcc46df03f.png",
+        "https://pimdatacdn.bahco.com/media/sub387/17886fe8bde2023f.png",
+        "https://pimdatacdn.bahco.com/media/sub656/16a12881e7ae4d3f.png",
+        "https://pimdatacdn.bahco.com/media/sub464/1732db1c763ab33f.png",
+        "https://pimdata.lindstromtools.com/media/sub415/173584bfab595b3f.png"
+      ],
+      "definitions": [
+        "someone who plies a trade"
+      ]
+    },
+    {
+      "id": "screwdriver",
+      "image_urls": [
+        "https://pimdatacdn.bahco.com/media/sub623/16a0feb9514f183f.png",
+        "https://pimdatacdn.bahco.com/media/sub624/16a0ffee2a7d413f.png",
+        "https://pimdatacdn.bahco.com/media/sub187/17670bdcd83ccb3f.png",
+        "https://pimdatacdn.bahco.com/media/sub575/16a0c2c9b09b2f3f.png",
+        "https://pimdatacdn.bahco.com/media/sub635/16a10b1d2272013f.png"
+      ],
+      "definitions": [
+        "a hand tool for driving screws; has a tip that fits into the head of a screw",
+        "a cocktail made with vodka and orange juice"
+      ]
+    },
+    {
+      "id": "stick",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/theforest_gamepedia/images/7/70/UpgradedStickFarket.png",
+        "https://static.wikia.nocookie.net/theforest_gamepedia/images/7/70/UpgradedStickFarket.png",
+        "https://static.wikia.nocookie.net/minecraft/images/b/b0/Stick_inventory.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Stick_Figure.svg/1200px-Stick_Figure.svg.png",
+        "https://d1sgjabyqzb9dz.cloudfront.net/images/thumbnails/500/420/variant_image/31/cleaning_stick-min.png"
+      ],
+      "definitions": [
+        "an implement consisting of a length of wood",
+        "a small thin branch of a tree",
+        "a lever used by a pilot to control the ailerons and elevators of an airplane",
+        "a rectangular quarter pound block of butter or margarine",
+        "informal terms for the leg",
+        "a long implement (usually made of wood) that is shaped so that hockey or polo players can hit a puck or ball",
+        "a long thin implement resembling a length of wood",
+        "marijuana leaves rolled into a cigarette for smoking",
+        "threat of a penalty"
+      ]
+    },
+    {
+      "id": "knife",
+      "image_urls": [
+        "https://www.arcos.com/media/catalog/product/cache/d3da5021f2d64e73d56df30e4091b50d/2/9/292125_3_1.png",
+        "https://www.arcos.com/media/catalog/product/cache/d3da5021f2d64e73d56df30e4091b50d/2/9/295322_3.png",
+        "https://b4n7t9j4.rocketcdn.me/wp-content/uploads/2020/09/13669-Steak-Knife-Masur.png",
+        "https://www.ofyr.com/media/catalog/product/cache/7a0cfa73c1fbb1c40dafd6fe43c33f55/o/a/oa-kf-set.png",
+        "https://hinoki.shop/static/bdff3fd04dcb3ff81449a80f68bd1eec/3ba25/Hinoki_S1_Chefs_Black_Walnut.png"
+      ],
+      "definitions": [
+        "edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle",
+        "a weapon with a handle and blade with a sharp point",
+        "any long thin projection that is transient"
+      ]
+    },
+    {
+      "id": "pen",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0013/9676/8815/products/FR-101_1000x1000.png",
+        "https://www.st-dupont.com/media/catalog/product/cache/13/image/2000x/9df78eab33525d08d6e5fb8d27136e95/4/1/410101L-Fountain-Pen-Or-et-Noir-L-ouv-HD.png",
+        "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/2/M/2MY21AA-2_T1572401609.png",
+        "https://www.visconti.it/wp-content/uploads/2020/04/Visconti-home-type-rollerball-pen-1.png",
+        "https://th-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/1/M/1MR94AA-3_T1527747284.png"
+      ],
+      "definitions": [
+        "a writing implement with a point from which ink flows",
+        "an enclosure for confining livestock",
+        "a portable enclosure in which babies may be left to play",
+        "a correctional institution for those convicted of major crimes",
+        "female swan"
+      ]
+    },
+    {
+      "id": "drill",
+      "image_urls": [
+        "https://www.flexpowertools.com/media/catalog/product/cache/1671d441f97fceb198eed690825ce72e/f/x/fx1171t-2b_flex_60nm_half_inch_drill_turbo_3q_down_21-0219_onwhite_550.png",
+        "https://pimdatacdn.bahco.com/media/sub978/16a8481bf607683f.png",
+        "https://greenworkstools.eu/sites/default/files/styles/product_hero_mobile_1x/public/2018-06/G24DD_2.png",
+        "https://www.skil.com/media/catalog/product/cache/903608ed68cc8897ffd07e2c8937e596/h/d/hd529501_main_skil_20vbl_hammer_drill_profile.png",
+        "https://cdn.harttools.com/product/bullet_feature_group_images/9d7d362b1a514069b42fbadcf0de2052.png"
+      ],
+      "definitions": [
+        "a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)",
+        "similar to the mandrill but smaller and less brightly colored",
+        "systematic training by multiple repetitions",
+        "(military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms"
+      ]
+    },
+    {
+      "id": "comb",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0053/1798/4323/products/Comb_1400x1400.png",
+        "https://www.tek-italy.it/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/2/0/2020-03_new.png",
+        "https://cdn.shopify.com/s/files/1/0526/7144/7238/products/comb-personal-care-flying-tiger-copenhagen-652174.png",
+        "https://www.avuliv.it/en/wp-content/uploads/sites/2/2019/01/avuliv_pettine_ulivo.png",
+        "https://www.salonwholesale.com/media/catalog/product/cache/54f7a8f68ad0e7e152265a26fc2f4c98/w/h/wh042.png"
+      ],
+      "definitions": [
+        "a flat device with narrow pointed teeth on one edge; disentangles or arranges hair",
+        "the fleshy red crest on the head of the domestic fowl and other gallinaceous birds",
+        "any of several tools for straightening fibers",
+        "ciliated comb-like swimming plate of a ctenophore",
+        "the act of drawing a comb through hair"
+      ]
+    },
+    {
+      "id": "typewriter",
+      "image_urls": [
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/p/h/phpzvw20s-removebg-preview.png",
+        "https://www.thesocialitefamily.com/wp-content/uploads/2018/11/sans-titre-1-2-600x600.png",
+        "https://i.pinimg.com/originals/c4/a8/07/c4a807c3e6b8ef275c1be29afb620712.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/6b1c09900b407c50fce2db5e66ebc123/p/h/phpga6yrc-removebg-preview.png",
+        "https://i.pinimg.com/originals/79/35/c1/7935c1abf550e2b1c8a0a9648f16b857.png"
+      ],
+      "definitions": [
+        "hand-operated character printer for printing written messages one character at a time"
+      ]
+    }
+  ]
+}

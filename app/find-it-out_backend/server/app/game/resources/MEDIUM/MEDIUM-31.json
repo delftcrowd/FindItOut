@@ -1,0 +1,278 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "bowl",
+      "image_urls": [
+        "https://www.shinzo.nl/wp-content/uploads/2020/11/pokebowl-sake.png",
+        "https://www.shinzo.nl/wp-content/uploads/2020/11/pokebowl-tori.png",
+        "https://www.matthewsstudio.ca/wp-content/uploads/2020/07/Black-Ash-Round-Bowl-Traditional-Edge-1-1.png",
+        "https://sushiexpress.lt/wp-content/uploads/2018/10/B2.-Sake-poke-bowl.png",
+        "https://bylassen.com/wp-content/uploads/2021/06/21002_pack.png"
+      ],
+      "definitions": [
+        "a round vessel that is open at the top; used chiefly for holding food or liquids",
+        "a concave shape with an open top",
+        "a dish that is round and open at the top for serving foods",
+        "the quantity contained in a bowl",
+        "a large structure for open-air sports or entertainments",
+        "a large ball with finger holes used in the sport of bowling",
+        "a wooden ball (with flattened sides so that it rolls on a curved course) used in the game of lawn bowling",
+        "a small round container that is open at the top for holding tobacco",
+        "the act of rolling something (as the ball in bowling)"
+      ]
+    },
+    {
+      "id": "wallet",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/2464/2571/files/Wallet_622f42d2-ffdf-467e-addc-51bf57e67a33_1600x.png",
+        "https://media2.bulgari.com/f_auto,q_auto/production/dw85b9d7dc/images/images/487772.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/Tobis-Wallet-blac-inside_1024x1024.png",
+        "https://cdn.shopify.com/s/files/1/0267/2816/9654/products/Geogie_s-Walletback_1024x1024.png",
+        "https://www.omegawatches.com/media/catalog/product/cache/a5c37fddc1a529a1a44fea55d527b9a116f3738da3a2cc38006fcc613c37c391/i/m/image-7070210007-v2.png"
+      ],
+      "definitions": [
+        "a pocket-size case for holding papers and paper money"
+      ]
+    },
+    {
+      "id": "stamps",
+      "image_urls": [
+        "https://www.upu.int/getmedia/fe99a4ac-7895-4539-9e16-1426a20325dc/ServiceStamp_1957_0-20_PegasusSculpture_NoBackground.png",
+        "https://u3a6e8j6.stackpathcdn.com/media/revslider/homepage/image.png",
+        "https://assets.postmuseum.li/assets/Liechtenstein/960/D69.png",
+        "https://www.upu.int/getmedia/0252bd23-e9c9-4111-9e54-1827f0545337/ServiceStamp_1957_0-10_PegasusSculpture_NoBackground.png",
+        "https://assets.postmuseum.li/assets/Liechtenstein/960/P28.png"
+      ],
+      "definitions": [
+        "the distinctive form in which a thing is made",
+        "a type or class",
+        "a symbol that is the result of printing or engraving",
+        "a small adhesive token stuck on a letter or package to indicate that that postal fees have been paid",
+        "something that can be used as an official medium of payment",
+        "a small piece of adhesive paper that is put on an object to show that a government tax has been paid",
+        "machine consisting of a heavy bar that moves vertically for pounding or crushing ores",
+        "a block or die used to imprint a mark or design",
+        "a device incised to make an impression; used to secure a closing or to authenticate documents"
+      ]
+    },
+    {
+      "id": "drawer",
+      "image_urls": [
+        "https://www.godrejinterio.com/imagestore/B2C/56101516SD00018/56101516SD00018_01_500x500.png",
+        "https://www.directaviation.aero/IManager/Media/127991/1999111/EN/reg/aluflite-atlas-superlight-drawer.png",
+        "https://images.selency.com/c695ccb0-19fd-47ff-90c2-de53f4a890bc/english-drawer-dresser_original.png",
+        "https://www.decorist.com/static/finds/product_images/full_size/243098-alex-drawer-unit-white.e360c12997079c8f179f2e9426cb779d.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/02/CD6-shadow-edge-on-left.png"
+      ],
+      "definitions": [
+        "a boxlike container in a piece of furniture; made so as to slide in and out",
+        "the person who writes a check or draft instructing the drawee to pay someone else",
+        "an artist skilled at drawing"
+      ]
+    },
+    {
+      "id": "dishwasher",
+      "image_urls": [
+        "https://assets.products-live.ao.com/Images/8738d376-ca9c-4df7-b51c-85badbdbe1c1/1280x1280/16609815_SMS6EDI02G_STP_def_0.png",
+        "https://storage.beko.co.uk/blomberg2018products/large/Blomberg_Dishwasher_LDF42240W_White_AngledFullyOpen.png",
+        "https://images.ctfassets.net/gtq5kcq8pjem/V7YqbiJJ568Ypi3iaQoCl/870669f515e86106963d5a55409b3d3d/Dishwasher-Nieuw-Image_1.png",
+        "https://assets.products-live.ao.com/Images/6deec93c-9ba2-4451-ae4e-a434876ba7ae/1280x1280/HV520E40UK_BK_hisense_dishwasher_01a.png",
+        "https://www.voltasbeko.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/7/6/7611009177_df14s3.png"
+      ],
+      "definitions": [
+        "a machine for washing dishes",
+        "someone who washes dishes"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "movie",
+      "image_urls": [
+        "https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQPXcsigx_FfDV682YZkwhLg7Ff7aJzxCO7fDhMIz4Zog0ppvVWSPeYIt3u-Cv1FlnhZJqoi4TXffVOk4DafRpGOKXEWaENv5PWD.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABQtnLjMiizz4dsBV-VtM2_KewG0lsL8jgnLoh5hVNeEbLNc7RYp6AoO8Tc_1BrkhUM9mtQ6v89TWdpWJhC3ArqKpmmD6TPg9PGle.png",
+        "https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSq1Pc3cOkgS9IMBFkFICmyPQuC81jgEWrX7ZFdAz8K6RvAA-Vi20TwgLfcJisl0A_htSqTqUc8Zew9YQz8ukFXPwvX2tD3NmUwH.png",
+        "https://dx35vtwkllhj9.cloudfront.net/paramountpictures/paw-patrol-the-movie/images/regions/us/tt.png",
+        "https://cdn.webshopapp.com/shops/2090/themes/153089/assets/logo.png"
+      ],
+      "definitions": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+      ]
+    },
+    {
+      "id": "plate",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1224/7992/products/Dinner_Plate_CUTOUT.png",
+        "https://www.rijksmuseumshop.nl/media/image/d7/3e/86/12861_f.png",
+        "https://www.rijksmuseumshop.nl/media/image/cf/99/43/12961_f.png",
+        "https://anna-nina.imgix.net/spree/products/17102/huge/Popolo_Large_Navy_Striped_Plate.png",
+        "https://rookplankje.nl/wp-content/uploads/2018/04/The-Bastard-Cast-Iron-Cooking-Plate-Holder_2.png"
+      ],
+      "definitions": [
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "a sheet of metal or wood or glass or plastic",
+        "a full-page illustration (usually on slick paper)",
+        "dish on which food is served or from which food is eaten",
+        "the quantity contained in a plate",
+        "a rigid layer of the Earth's crust that is believed to drift slowly",
+        "the thin under portion of the forequarter",
+        "a main course served on a plate",
+        "any flat platelike body structure or part",
+        "the positively charged electrode in a vacuum tube",
+        "a flat sheet of metal or glass on which a photographic image can be recorded",
+        "structural member consisting of a horizontal beam that provides bearing and anchorage",
+        "a shallow receptacle for collection in church",
+        "a metal sheathing of uniform thickness (such as the shield attached to an artillery piece to protect the gunners)",
+        "a dental appliance that artificially replaces missing teeth"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "microwave",
+      "image_urls": [
+        "https://www.electrolux.com.sg/globalassets/appliances/mwo/ems3087x-700x700-cropped.png",
+        "https://www.ifbappliances.com/media/catalog/product/2/0/20sc2_20l_convection_microwave_fv_4.png",
+        "https://www.voltasbeko.com/media/catalog/product/m/c/mc23bsd_1.png",
+        "https://www.winningappliances.com.au/public/images/product/sa34mx/external/Smeg-SA34MX-34L-Microwave-Oven-with-Grill-1000w-Hero-Image-standard.png",
+        "https://media.croma.com/image/upload/f_auto,q_auto,d_Croma%20Assets:no-product-image.jpg,h_260,w_260/v1605128699/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/8941290553374.png"
+      ],
+      "definitions": [
+        "a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data",
+        "kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food"
+      ]
+    },
+    {
+      "id": "case",
+      "image_urls": [
+        "https://anna-nina.imgix.net/spree/products/14791/huge/12Atelje%CC%81_Yara_Michels_Pearl_Phone_Cases_Product_Image_DOUBLE_PEARL_CORD_1_w.png",
+        "https://cdn.shopify.com/s/files/1/0011/4651/9637/products/phone-case_album-cover_ae571646-caa7-4758-b8f9-d0be9147c983_800x.png",
+        "https://cdn.shopify.com/s/files/1/0269/0190/5507/files/12_pro_rebel_back.png",
+        "https://cdn11.bigcommerce.com/s-dat6f8vwhv/images/stencil/1280w/products/476/1189/JG.IMPCT.iPhone11_1__86303.1603304620.1280.1280__56143.1603304652.1280.1280__58664.1622558130.png",
+        "https://cdn.shopify.com/s/files/1/0273/6039/5377/products/Darkgreen1_600x.png"
+      ],
+      "definitions": [
+        "an occurrence of something",
+        "a special set of circumstances",
+        "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+        "the actual state of things",
+        "a portable container for carrying several objects",
+        "a person requiring professional services",
+        "a person who is subjected to experimental or other observational procedures; someone who is an object of investigation",
+        "a problem requiring investigation",
+        "a statement of facts and reasons used to support an argument",
+        "the quantity contained in a case",
+        "nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence",
+        "a specific state of mind that is temporary",
+        "a person of a specified kind (usually with many eccentricities)",
+        "a specific size and style of type within a type family",
+        "an enveloping structure or covering enclosing an animal or plant organ or part",
+        "the housing or outer covering of something",
+        "the enclosing frame around a door or window opening",
+        "(printing) the receptacle in which a compositor has his type, which is divided into compartments for the different letters, spaces, or numbers",
+        "bed linen consisting of a cover for a pillow",
+        "a glass container used to store and display items in a shop or museum or home"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "film",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Netherlands_film_clapperboard.svg/1200px-Netherlands_film_clapperboard.svg.png",
+        "https://newtonfilm.nl/wp-content/uploads/2015/11/newtonfilm-logo.png",
+        "https://film.nebraska.gov/wp-content/uploads/2021/04/film-reel.png",
+        "https://whale-engine.s3.eu-west-1.amazonaws.com/sites/5c05242cc228cd0086daba3e/assets/5f4771e91d7a94007a1ce3eb/Website_logo.png",
+        "https://www.girlsinfilm.nl/wp-content/uploads/2016/05/Logo-Girls-in-Film-transparent.png"
+      ],
+      "definitions": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+        "a medium that disseminates moving pictures",
+        "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies",
+        "a thin coating or layer",
+        "a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "disneyland",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/disney/images/a/ad/Disneyland.png",
+        "https://d118pfm5xh6r9q.cloudfront.net/images/d/disneylandparis_9.png",
+        "https://disneydrive.be/wp-content/uploads/2018/03/Disneyland_Paris_logo.svg-1-1024x289.png",
+        "https://www.discoverthemagic.nl/images/footer-discoverthemagic.png",
+        "https://static.wikia.nocookie.net/disney/images/9/96/Disneyland_Paris.png"
+      ],
+      "definitions": [
+        "an amusement park in Anaheim created in 1955 by Walt Disney"
+      ]
+    }
+  ]
+}

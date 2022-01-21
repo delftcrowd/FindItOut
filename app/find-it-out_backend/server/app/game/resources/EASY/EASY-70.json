@@ -1,0 +1,137 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "pleasure",
+      "image_urls": [
+        "https://images.carandbike.com/bike-images/colors/hero/pleasure-plus-110/hero-pleasure-plus-110-midnight-black.png",
+        "https://images.carandbike.com/bike-images/colors/hero/pleasure-plus-110/hero-pleasure-plus-110-sporty-red.png",
+        "https://images.carandbike.com/bike-images/colors/hero/pleasure-plus-110/hero-pleasure-plus-110-pole-star-blue.png",
+        "https://www.heromotocorp.com/en-mm/uploads/bike/bike_color_pic/20180730170035-color-main-362.png",
+        "https://images.carandbike.com/bike-images/colors/hero/pleasure-plus-110/hero-pleasure-plus-110-matte-vernier-grey.png"
+      ],
+      "definitions": [
+        "a fundamental feeling that is hard to define but that people desire to experience",
+        "something or someone that provides a source of happiness",
+        "a formal expression",
+        "an activity that affords enjoyment",
+        "sexual gratification"
+      ]
+    },
+    {
+      "id": "communication",
+      "image_urls": [
+        "https://mightyminds.com.au/assets/Uploads/Communicate03.png",
+        "https://en.unesco.org/youth/toptips/user/pages/images/phases/phase_communication-jumbo.png",
+        "https://cdn.business2community.com/wp-content/uploads/2020/09/Organizational-communication-900x900.png",
+        "https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-communication.png",
+        "https://hr.berkeley.edu/sites/default/files/styles/width_400/public/nine_practical_ways_to_improve_verbal_communication.png"
+      ],
+      "definitions": [
+        "the activity of communicating; the activity of conveying information",
+        "something that is communicated by or to or between people or groups",
+        "a connection allowing access between persons or places"
+      ]
+    },
+    {
+      "id": "controversy",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/controversy-3c5dacee8fd5f97be62e1eb6061c0b43b66cf464.png",
+        "https://www.living-democracy.com/wp-content/uploads/2017/06/Controversial-issues-cover-06.png",
+        "https://benjamins.com/covers/3d_web/cvs.6.hb.png",
+        "https://grammartop.com/wp-content/uploads/2020/10/controversial-42a04bc8b31ea95a2b15ed6c8e4d292a44293b9c.png",
+        "https://translationjournal.net/images/Controversy.png"
+      ],
+      "definitions": [
+        "a contentious speech act; a dispute where there is strong disagreement"
+      ]
+    },
+    {
+      "id": "pride",
+      "image_urls": [
+        "https://prideandsports.nl/wp-content/uploads/2020/07/Pride-and-Sports-1.png",
+        "https://uploads-ssl.webflow.com/583ac2b7b333a5214d325d90/583aec49b333a5214d32992b_Utrecht_Canal_Pride-2017.png",
+        "https://images.prismic.io/zwift-web/eeec8544-0a2f-47f0-a16c-f55b3db3e796_Pride_On_2020_Section_04_Pride_On_Thumb.png",
+        "https://www.mentoring.org/wp-content/uploads/2021/05/blm-pride-e1622053455291-1024x911.png",
+        "https://images.squarespace-cdn.com/content/v1/5eb2ed16b4e954188342b0f1/1593572137779-6KGJWGFTDABSB71QTUOO/Pride+Logo+Assets-04.png"
+      ],
+      "definitions": [
+        "a feeling of self-respect and personal worth",
+        "satisfaction with your (or another's) achievements",
+        "the trait of being spurred on by a dislike of falling below your standards",
+        "a group of lions",
+        "unreasonable and inordinate self-esteem (personified as one of the deadly sins)"
+      ]
+    },
+    {
+      "id": "frustration",
+      "image_urls": [
+        "https://caregiverhelp.com/wp-content/uploads/frustrated_at_my_desk_400_clr_8478.png",
+        "https://grammartop.com/wp-content/uploads/2020/10/frustration-62297e6d40c436fe7a2d7a5e0f9bc81935513dad.png",
+        "https://i1.wp.com/aaccommunity.net/wp-content/uploads/2019/03/noun_frustration_163554_3BB300-e1552259630802.png",
+        "https://mhanational.org/sites/default/files/3_20.png",
+        "https://cdn0.iconfinder.com/data/icons/miscellaneous-200-line/128/anger_rage_ire_furor_irritation_frustration_stress_desperate_frustrated_exhaustion_furious-512.png"
+      ],
+      "definitions": [
+        "the feeling that accompanies an experience of being thwarted in attaining your goals",
+        "an act of hindering someone's plans or efforts",
+        "a feeling of annoyance at being hindered or criticized"
+      ]
+    },
+    {
+      "id": "heart",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Diagram_of_the_human_heart_%28cropped%29.svg/1043px-Diagram_of_the_human_heart_%28cropped%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/WikiFont_uniE033_-_heart_-_red.svg/2048px-WikiFont_uniE033_-_heart_-_red.svg.png",
+        "https://cdn-ec.niceshops.com/upload/image/product/large/default/glov-heart-pads-5-stuks-1456314-nl.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Red_heart_tw.svg/2560px-Red_heart_tw.svg.png"
+      ],
+      "definitions": [
+        "the locus of feelings and intuitions",
+        "the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body",
+        "the courage to carry on",
+        "an area that is approximately central within some larger region",
+        "the choicest or most essential or most vital part of some idea or experience",
+        "an inclination or tendency of a certain kind",
+        "a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines",
+        "a firm rather dry variety meat (usually beef or veal)",
+        "a positive feeling of liking",
+        "a playing card in the major suit that has one or more red hearts on it"
+      ]
+    },
+    {
+      "id": "sadness",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/rise-of-the-brave-tangled-dragons/images/8/82/SADNESS_Fullbody_Render.png",
+        "https://static.wikia.nocookie.net/insideout/images/8/82/SADNESS_Fullbody_Render.png",
+        "https://static.wikia.nocookie.net/disneyheroesbattlemode/images/f/fd/Dialogue_sadness.png",
+        "https://i.pinimg.com/originals/01/2f/31/012f313e345211fd36a3731d0f4f3008.png",
+        "https://i.pinimg.com/originals/6c/e5/ff/6ce5ff172d410a81ac96ae89fd5507ef.png"
+      ],
+      "definitions": [
+        "emotions experienced when not in a state of well-being",
+        "the state of being sad",
+        "the quality of excessive mournfulness and uncheerfulness"
+      ]
+    }
+  ]
+}

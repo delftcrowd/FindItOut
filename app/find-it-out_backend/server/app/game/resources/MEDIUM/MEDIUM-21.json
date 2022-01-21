@@ -1,0 +1,252 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "dust",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.nioz.nl/application/files/5616/1407/2191/64PE482-dust2021-sticker.png",
+        "https://substance3d.adobe.com/documentation/sddoc/files/159451221/159451220/1/1496295996099/dust.png"
+      ],
+      "definitions": [
+        "fine powdery material such as dry earth or pollen that can be blown about in the air",
+        "the remains of something that has been destroyed or broken up",
+        "free microscopic particles of solid material"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://nvdpl.ca/sites/default/files/styles/slideshow/public/field/image/slideshow_images/Web_2020%20COVID-19_Get%20in%20touch_2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "encyclopedia",
+      "image_urls": [
+        "https://books.britannica.com/wp-content/uploads/2021/04/Encyclo-US_3D-Britannica-template-medium-1-1164x1536.png",
+        "https://worldchristianresearch.files.wordpress.com/2015/08/wce-2.png",
+        "https://www.worldbookonline.com/training/look-inside/assets/images/wbe-2022.png",
+        "https://getintopc.com/wp-content/uploads/2013/12/44-h_main-w.png",
+        "https://global-uploads.webflow.com/5de14733d41c9b578bb9bd65/5f55d0a6f06083a23a208064_ubam--encyclopedias-for-kids.png"
+      ],
+      "definitions": [
+        "a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty"
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__height_500/monster-chair-indigo-denim-with-arms.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/22d363011ebadd9cd0091033a93e7422/g/i/give_me_more_chair_orange_-1.png",
+        "https://www.ezup.com/media/catalog/product/cache/29c1a1faac4b2574dce43a966865c016/4/5/45view.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "classroom",
+      "image_urls": [
+        "https://www.clanbeat.com/wp-content/uploads/2021/04/Google-Classroom.png",
+        "https://www.woodridge68.org/cms/lib/IL01904677/Centricity/Domain/360/classroom.png",
+        "https://www.wvr.ac.uk/wp-content/uploads/2020/03/Google-Classroom-Icon-300x204.png",
+        "https://www.fujitsu.com/hk/imagesgig5/Icon_classroom_tcm137-3749856_tcm137-2750236-32.png",
+        "https://3.files.edl.io/dd2e/20/12/03/213020-0b484f5a-fc96-499c-bc55-537acedcfac2.png"
+      ],
+      "definitions": [
+        "a room in a school where lessons take place"
+      ]
+    },
+    {
+      "id": "books",
+      "image_urls": [
+        "https://hollandbooks.nl/wp-content/uploads/2018/01/books.png",
+        "https://londonbooks.eu/wp-content/uploads/2021/03/VintageStudy-GNTAUS-768x667.png",
+        "https://bulkbooks.com/assets/spree/frontend/parallax/home-p-back-d632f485ae844ad12f0e0d6b87f052e644e41b4b7f47f0e400095e19323a2645.png",
+        "https://www.spl.org/Seattle-Public-Library/images/icons/online-resources/icons_115x115_1-18_books-reading.png",
+        "https://emojipedia-us.s3.amazonaws.com/source/skype/289/books_1f4da.png"
+      ],
+      "definitions": [
+        "a written work or composition that has been published (printed on pages bound together)",
+        "physical objects consisting of a number of pages bound together",
+        "a compilation of the known facts regarding something or someone",
+        "a written version of a play or other dramatic composition; used in preparing for a performance",
+        "a record in which commercial accounts are recorded",
+        "a collection of playing cards satisfying the rules of a card game",
+        "a collection of rules or prescribed standards on the basis of which decisions are made",
+        "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+        "the sacred writings of the Christian religions",
+        "a major division of a long written composition",
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "id": "dictionary",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/I/61kzIB9vF0L.png",
+        "https://chambers.co.uk/wp-content/uploads/2016/09/Chambers-Dic-HB.png",
+        "https://img.alicdn.com/i3/2362617753/O1CN01Xz54J4278vI0ZVPxw_!!2362617753.png",
+        "https://www.udpglobal.com/sites/default/files/dictionary.png",
+        "https://cdn.shopify.com/s/files/1/1353/9793/products/C011_300x300.png"
+      ],
+      "definitions": [
+        "a reference book containing an alphabetical list of words with information about them"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_KM18790.png",
+        "https://static.henkschram.com/images/S55KGA%20(1).png",
+        "https://goeds.nl/wp-content/uploads/2020/10/UMAGE_packshot_56225622-4_Treasures_2-door_oak_leather_low-res-1-1.png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "manual",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/1568/1568349.png",
+        "https://735730.smushcdn.com/1022758/wp-content/uploads/2020/09/new-comb-manual.png",
+        "https://www.helpandmanual.com/xplain/hmfrontbanner/hm8.png",
+        "https://kreisler-publications.nl/wp-content/uploads/2020/07/IATA-Airport-Handling-Manual-IATA-AHM-2021-600x683.png",
+        "https://static.thenounproject.com/png/1430557-200.png"
+      ],
+      "definitions": [
+        "a small handbook",
+        "(military) a prescribed drill in handling a rifle"
+      ]
+    },
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "vase",
+      "image_urls": [
+        "https://anna-nina.imgix.net/spree/products/14507/huge/Small_Vase_Sea_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/15619/huge/Flower_Vase_Blush_Pink_more_pink.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Delft%20Blue/image-thumb__3996__height_500/Delft-Blue-group.png",
+        "https://images.selency.com/280d37c6-897f-4690-963f-9a9ebcd19fd5/beautiful-japanese-vase_original.png",
+        "https://anna-nina.imgix.net/spree/products/14508/huge/Small_Vase_Cobalt_Blue_edited.png"
+      ],
+      "definitions": [
+        "an open jar of glass or porcelain used as an ornament or to hold flowers"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "pocket",
+      "image_urls": [
+        "https://www.afas.nl/portal-product/afas-pocket-afas-software/afas%20pocket%20app%20mob.png",
+        "https://klant.afas.nl/portal-themapagina/afaspocket/downloaden.png",
+        "https://teenage.engineering/_img/54a7557fc7530702005257b3_512.png",
+        "https://www.afas.nl/portal-product/afas-pocket-in-de-bouw-afas-software/afas%20pocket%20als%20bouwapp%20-%20mob.png",
+        "https://www.f-one.world/app/uploads/2020/03/Pocket-Foil-Carbon-110.png"
+      ],
+      "definitions": [
+        "a small pouch inside a garment for carrying small articles",
+        "an enclosed space",
+        "a supply of money",
+        "(bowling) the space between the headpin and the pins behind it on the right or left",
+        "a hollow concave shape made by removing something",
+        "a local region of low pressure or descending air that causes a plane to lose height suddenly",
+        "a small isolated group of people",
+        "(anatomy) saclike structure in any of various animals (as a marsupial or gopher or pelican)",
+        "an opening at the corner or on the side of a billiard table into which billiard balls are struck"
+      ]
+    }
+  ]
+}

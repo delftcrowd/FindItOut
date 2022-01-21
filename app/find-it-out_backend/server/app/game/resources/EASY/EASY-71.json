@@ -1,0 +1,136 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "communication",
+      "image_urls": [
+        "https://mightyminds.com.au/assets/Uploads/Communicate03.png",
+        "https://en.unesco.org/youth/toptips/user/pages/images/phases/phase_communication-jumbo.png",
+        "https://cdn.business2community.com/wp-content/uploads/2020/09/Organizational-communication-900x900.png",
+        "https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-communication.png",
+        "https://hr.berkeley.edu/sites/default/files/styles/width_400/public/nine_practical_ways_to_improve_verbal_communication.png"
+      ],
+      "definitions": [
+        "the activity of communicating; the activity of conveying information",
+        "something that is communicated by or to or between people or groups",
+        "a connection allowing access between persons or places"
+      ]
+    },
+    {
+      "id": "suffering",
+      "image_urls": [
+        "https://www.ucg.org/files/image/collection/why-am-i-suffering_0.png",
+        "https://static.wikia.nocookie.net/darksiders/images/4/4e/Suffering.png",
+        "https://ericalayne.co/wp-content/uploads/2020/03/Opting-Out-of-Comparison-Suffering-683x1024.png",
+        "https://www.myrtlefieldhouse.com/assets/generated/books/synopsis/6c3001585b4d0044350b4525030e8b9d.png",
+        "https://static.wikia.nocookie.net/othercide/images/c/c2/T_Art_Characters_Suffering.png"
+      ],
+      "definitions": [
+        "a state of acute pain",
+        "misery resulting from affliction",
+        "psychological suffering",
+        "feelings of mental or physical pain"
+      ]
+    },
+    {
+      "id": "laughter",
+      "image_urls": [
+        "https://laughterwellness.org/wp-content/uploads/2020/04/laughter-wellness.png",
+        "https://images-na.ssl-images-amazon.com/images/I/51-NoAjRPlL.png",
+        "https://laughter-skills.com/wp-content/uploads/2019/12/logo-Laughter-Skills_gradient-for-light-BG-good-8.png",
+        "https://images.squarespace-cdn.com/content/v1/5f88119801bee11a28a5c8b3/1602815723748-UW9BDTM0OB1PL8HK9JY0/Hearts+n+laughter+logo+Choplin-01.png",
+        "https://www.pinclipart.com/picdir/big/81-813803_laughter-clipart.png"
+      ],
+      "definitions": [
+        "the sound of laughing",
+        "the activity of laughing; the manifestation of joy or mirth or scorn"
+      ]
+    },
+    {
+      "id": "agreement",
+      "image_urls": [
+        "https://stories.freepiklabs.com/storage/34431/agreement-cuate-5418.png",
+        "https://www.theibservices.com/wp-content/uploads/2019/08/agreements-1024x827.png",
+        "https://0.academia-photos.com/attachment_thumbnails/44802708/mini_magick20190213-29161-uy8ask.png",
+        "https://www.unfpa.org/sites/default/files/resource-pdfpreview/ffe2e90579097b8fe1cd42d6a3e7007a.png",
+        "https://cdn-icons-png.flaticon.com/512/748/748504.png"
+      ],
+      "definitions": [
+        "the statement (oral or written) of an exchange of promises",
+        "compatibility of observations",
+        "harmony of people's opinions or actions or characters",
+        "the thing arranged or agreed to",
+        "the determination of grammatical inflection on the basis of word relations",
+        "the verbal act of agreeing"
+      ]
+    },
+    {
+      "id": "love",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drawn_love_hearts.svg/2483px-Drawn_love_hearts.svg.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABYV3o_Kib_F31h3_w2REKaFZMvq9slAJvaJI6ViLTTR4mhFw1lnak905WqWRmAMMn64KjZcLgtFmf-1H0Ad3mGmkqgQA0TcsEsrV5tuayNDKiRTgKkmwORxIgB8kHalUw37aFGVgTV7--B16qoOemC638qSDRK_2Hfoqjf0EgqFh7Q.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABS5OxQ7P8eoMWbP4aco53d0y8-KlorggWcurTiQ0PyzK8k8RX0D-zRwHNboDO8V0ulA7ZIXX0cXHvw1to20Xduoon6kJMDf02DYE.png",
+        "https://lovepostnl.nl/wp-content/uploads/2020/07/Logo_LovePostNL_Website.png"
+      ],
+      "definitions": [
+        "a strong positive emotion of regard and affection",
+        "any object of warm affection or devotion",
+        "a beloved person; used as terms of endearment",
+        "a deep feeling of sexual desire and attraction",
+        "a score of zero in tennis or squash",
+        "sexual activities (often including sexual intercourse) between two people"
+      ]
+    },
+    {
+      "id": "crying",
+      "image_urls": [
+        "https://biophysicalsociety.files.wordpress.com/2015/12/800px-face_eyes_caricature_comic_cry_how.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/Crying_Emoji_Icon_2_large.png",
+        "https://www.pimprint.nl/images/thumbnails/280/200/detailed/2/Loudly_Crying_Face_Emoji@2x.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/8024/crying-boy-clipart-xl.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/36066/child-little-girl-crying-clipart-xl.png"
+      ],
+      "definitions": [
+        "a loud utterance; often in protest or opposition",
+        "a loud utterance of emotion (especially when inarticulate)",
+        "a slogan used to rally support for a cause",
+        "a fit of weeping",
+        "the characteristic utterance of an animal"
+      ]
+    },
+    {
+      "id": "embarrassment",
+      "image_urls": [
+        "https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/145526/area14mp/image-20161111-25090-1ch75h6.png",
+        "https://images.squarespace-cdn.com/content/v1/609bea5774a4802fdcf0686f/1623692371490-S4OSAJ19ABD74FWD5FGD/ffc5f-image-asset.png",
+        "https://cdn4.iconfinder.com/data/icons/mood-smiles/80/mood-16-512.png",
+        "https://static.thenounproject.com/png/1476121-200.png",
+        "https://cdn-icons-png.flaticon.com/512/260/260223.png"
+      ],
+      "definitions": [
+        "the shame you feel when your inadequacy or guilt is made public",
+        "the state of being embarrassed (usually by some financial inadequacy)",
+        "some event that causes someone to be embarrassed",
+        "extreme excess"
+      ]
+    },
+    {
+      "id": "pain",
+      "image_urls": [
+        "https://www.colorado.edu/today/sites/default/files/styles/slider/public/article-image/brain-3168269_1280.png",
+        "https://static.wikia.nocookie.net/naruto-ultimate-ninja-storm/images/5/54/Pain.png",
+        "https://static.wikia.nocookie.net/all-worlds-alliance/images/1/16/Naruto_six_paths_pain.png",
+        "https://cdn.shopify.com/s/files/1/0054/4371/5170/products/FiGPiN_453PainNARUTOSHIPPUDENPIN.png",
+        "https://www.cdc.gov/acute-pain/images/toothe-medium.png"
+      ],
+      "definitions": [
+        "a symptom of some physical hurt or disorder",
+        "emotional distress; a fundamental feeling that people try to avoid",
+        "a somatic sensation of acute discomfort",
+        "a bothersome annoying person",
+        "something or someone that causes trouble; a source of unhappiness"
+      ]
+    }
+  ]
+}

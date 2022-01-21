@@ -1,0 +1,255 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "orange",
+      "image_urls": [
+        "https://5.imimg.com/data5/EE/ER/MY-27568370/fresh-orange-500x500.png",
+        "https://www.boeschbodenspies.com/wp-content/uploads/2017/08/orange.png",
+        "https://blog.redooc.com/wp-content/uploads/2016/07/orange-logo-vector-400x400.png",
+        "https://www.orange-id.it/wp-content/uploads/2019/07/orange_artdirection_250.png",
+        "https://www.orangeadv.it/wp-content/uploads/2019/02/Orange_ADV_Logo_white_top.png"
+      ],
+      "definitions": [
+        "round yellow to orange fruit of any of several citrus trees",
+        "orange color or pigment; any of a range of colors between red and yellow",
+        "any citrus tree bearing oranges",
+        "any pigment producing the orange color",
+        "a river in South Africa that flows generally westward to the Atlantic Ocean"
+      ]
+    },
+    {
+      "id": "lemon",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/lemon.png",
+        "https://res.cloudinary.com/hksqkdlah/image/upload/38662_sil-regularlemon-03.png",
+        "https://www.lemonsnack.it/assets/images/shapes/contact-shape-3.png",
+        "https://bec-natura.com/wp-content/uploads/2020/04/Limone.png",
+        "https://images.ctfassets.net/eizimaksw7co/1qoD6SrT1mGrKKZ03zAqpk/d9a5c1ac9b0865588d00a9d6d130a63f/Organics_Lemon.png"
+      ],
+      "definitions": [
+        "yellow oval fruit with juicy acidic flesh",
+        "a strong yellow color",
+        "a small evergreen tree that originated in Asia but is widely cultivated for its fruit",
+        "a distinctive tart flavor characteristic of lemons",
+        "an artifact (especially an automobile) that is defective or unsatisfactory"
+      ]
+    },
+    {
+      "id": "cherry",
+      "image_urls": [
+        "https://www.santorsola.com/2020/wp-content/uploads/2020/06/ciliegia-big.png",
+        "https://www.boeschbodenspies.com/wp-content/uploads/2017/08/cherry.png",
+        "https://static.wixstatic.com/media/2cd43b_4dfa25c96f064793ad2ac3e5a7b453fb~mv2.png",
+        "https://cdn.shopify.com/s/files/1/2283/1973/products/04-qeeboo-cherry-lamp-by-nika-zupanc--red_1024x1024.png",
+        "https://wac-cdn.atlassian.com/dam/jcr:dff99252-7ef3-446e-88c3-7a5938d05274/git%20cherry%20pick%20illo.png"
+      ],
+      "definitions": [
+        "wood of any of various cherry trees especially the black cherry",
+        "any of numerous trees and shrubs producing a small fleshy round fruit with a single hard stone; many also produce a valuable hardwood",
+        "a red fruit with a single hard stone",
+        "a red the color of ripe cherries"
+      ]
+    },
+    {
+      "id": "lime",
+      "image_urls": [
+        "https://www.theclimatepledge.com/content/dam/amazonclimatepledge/signatory-logo/Lime.png",
+        "https://ginshop.it/wp-content/uploads/2020/05/9012-lime.png",
+        "https://www.yogitea.com/site/assets/files/20483/lime.500x0.png",
+        "https://www.howmuchisin.com/produce_converters_app/vegetables_large/lime.png",
+        "https://www.goldenacrewines.co.uk/wp-content/uploads/2020/04/lime.png"
+      ],
+      "definitions": [
+        "a caustic substance produced by heating limestone",
+        "a white crystalline oxide used in the production of calcium hydroxide",
+        "a sticky adhesive that is smeared on small branches to capture small birds",
+        "any of various related trees bearing limes",
+        "any of various deciduous trees of the genus Tilia with heart-shaped leaves and drooping cymose clusters of yellowish often fragrant flowers; several yield valuable timber",
+        "the green acidic fruit of any of various lime trees"
+      ]
+    },
+    {
+      "id": "onions",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/oignons_266332727-e1477390579299.png",
+        "https://www.sermac.org/wp-content/uploads/2021/01/main@2x.png",
+        "https://aurumfruit.com/wp-content/uploads/2019/10/cipolla-e1571673484477.png",
+        "https://dessini.com.my/image/dessini/image/cache/data/Idea%20Inspiration/aqmO41Ny1622276992-748x498.png",
+        "https://www.toponions.com/l/en/library/download/urn:uuid:47b63dcd-dcc5-466a-bcab-c214b0f45c8b/gele-uien--thumb.png"
+      ],
+      "definitions": [
+        "the bulb of an onion plant",
+        "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+        "an aromatic flavorful vegetable"
+      ]
+    },
+    {
+      "id": "coconut",
+      "image_urls": [
+        "https://discoveredn-18cc7.kxcdn.com/wp-content/uploads/2021/04/kokosnoot_vrij.png",
+        "https://www.isolabio.com/wp-content/uploads/2019/10/bevande_cocco_supreme_en-2-600x600.png",
+        "https://sc04.alicdn.com/kf/U9a9deae3728040208c9097ad0af1ac1cR.png",
+        "https://www.isolabio.com/wp-content/uploads/2019/06/2-creme_cucina-600x600_cocco_reb-600x600.png",
+        "https://www.tonasia.com.vn/uploads/images/products/fresh-coconut-1.png"
+      ],
+      "definitions": [
+        "the edible white meat of a coconut; often shredded for use in e.g. cakes and curries",
+        "large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk",
+        "tall palm tree bearing coconuts as fruits; widely planted throughout the tropics"
+      ]
+    },
+    {
+      "id": "beans",
+      "image_urls": [
+        "https://www.bushbeans.com/-/media/bushsbeans/salsifyimports/0003940001864_H1N1_R.png",
+        "https://www.camelliabrand.com/static/wp-content/uploads/2020/07/1lb_508_navy-pea-beans-350x500.png",
+        "https://www.camelliabrand.com/static/img/assets/dried-beans-family.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/haricot-rouge_468337067.png",
+        "https://www.bushbeans.com/-/media/bushsbeans/salsifyimports/0003940001774_H1N1_R.png"
+      ],
+      "definitions": [
+        "any of various edible seeds of plants of the family Leguminosae used for food",
+        "any of various seeds or fruits that are beans or resemble beans",
+        "any of various leguminous plants grown for their edible seeds and pods",
+        "informal terms for a human head"
+      ]
+    },
+    {
+      "id": "corn",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/10/mais_193858076.png",
+        "https://cdn2.hubspot.net/hubfs/240798/images-2017/p-main-corn.png",
+        "https://labseedway.s3-accelerate.amazonaws.com/2019/12/BigNTender_HTF2020-Iso.png",
+        "https://extension.sdstate.edu/sites/default/files/styles/facebook/public/2019-11/S-0001-37-Sweet_Corn.png",
+        "https://labseedway.s3-accelerate.amazonaws.com/2019/05/Kate_HTF2020Iso-e1613666688291.png"
+      ],
+      "definitions": [
+        "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times",
+        "the dried grains or kernels or corn used as animal feed or ground for meal",
+        "ears of corn that can be prepared and served for human food",
+        "a hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes",
+        "(Great Britain) any of various cereal plants (especially the dominant crop of the region--wheat in Great Britain or oats in Scotland and Ireland)",
+        "whiskey distilled from a mash of not less than 80 percent corn",
+        "something sentimental or trite"
+      ]
+    },
+    {
+      "id": "tomato",
+      "image_urls": [
+        "https://www.ilpomodoropetti.com/wp-content/uploads/2017/01/pomo_petti_100_3.png",
+        "https://www.solarelli.it/wp-content/uploads/2017/03/pomodoro_grappolo_500x500pixel-wpcf_300x300.png",
+        "https://www.levarht.com/wp-content/uploads/2018/05/49-Cherry-tomatoes-800x533.png",
+        "https://www.lortodieleonora.com/wp-content/uploads/2018/12/pomo-datterini.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/tomate_418204624-e1475498814889.png"
+      ],
+      "definitions": [
+        "mildly acid red or yellow pulpy fruit eaten as a vegetable",
+        "native to South America; widely cultivated in many varieties"
+      ]
+    },
+    {
+      "id": "pepper",
+      "image_urls": [
+        "https://delmonteeurope.com/media/europe/products/fresh-market/vegetables/delmonte-pepper.png",
+        "https://img.icons8.com/emoji/452/hot-pepper.png",
+        "https://agroseeders.com/wp-content/uploads/2019/07/chilli.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/10/poivron_448084189.png",
+        "https://www.frunet.net/wp-content/uploads/2021/01/pimiento.png"
+      ],
+      "definitions": [
+        "climber having dark red berries (peppercorns) when fully ripe; southern India and Sri Lanka; naturalized in northern Burma and Assam",
+        "any of various tropical plants of the genus Capsicum bearing peppers",
+        "pungent seasoning from the berry of the common pepper plant of East India; use whole or ground",
+        "sweet and hot varieties of fruits of plants of the genus Capsicum"
+      ]
+    },
+    {
+      "id": "cucumber",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/10/concombre_306758660.png",
+        "https://delmonteeurope.com/media/europe/products/fresh-market/vegetables/delmonte-cucumber.png",
+        "https://mucci-production-user-uploads-bucket.s3.amazonaws.com/images/Product-IMG_SeedlessCucumbers-rev.original.png",
+        "https://labseedway.s3-accelerate.amazonaws.com/2019/05/Darlington-WEB.png",
+        "https://freshdeals.ph/wp-content/uploads/2018/11/1-2-cucumber-png-hd.png"
+      ],
+      "definitions": [
+        "a melon vine of the genus Cucumis; cultivated from earliest times for its cylindrical green fruit",
+        "cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons"
+      ]
+    },
+    {
+      "id": "broccoli",
+      "image_urls": [
+        "https://www.fortiniortofrutticoli.com/wp-content/uploads/2019/11/04-2.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/brocoli_368374784-e1473083459210.png",
+        "https://images-eu.ssl-images-amazon.com/images/I/81V86KXTOBL.png",
+        "https://www.lavalledegliorti.it/wp-content/uploads/2021/01/fiori-di-broccoli-lvdo-2021-ecobag.png",
+        "https://d167y3o4ydtmfg.cloudfront.net/krafts/303/1579881512097_750x750.png"
+      ],
+      "definitions": [
+        "plant with dense clusters of tight green flower buds",
+        "branched green undeveloped flower heads"
+      ]
+    },
+    {
+      "id": "olive",
+      "image_urls": [
+        "https://www.ponti.com/wp-content/uploads/0535.png",
+        "https://www.olivelarocca.it/wp-content/uploads/2019/11/olive-verdi-dolci-sicilia-larocca-fs-400x400.png",
+        "https://www.madamaoliva.it/wp-content/uploads/2021/01/Olive-Verdi-Dolci-Giganti-Madama-Oliva-Freschissimi.png",
+        "https://www.pereolive.com/wp-content/uploads/2019/10/manzanilla-72-300x300.png",
+        "https://www.ponti.com/wp-content/uploads/7869.png"
+      ],
+      "definitions": [
+        "small ovoid fruit of the European olive tree; important food and source of oil",
+        "evergreen tree cultivated in the Mediterranean region since antiquity and now elsewhere; has edible shiny black fruits",
+        "hard yellow often variegated wood of an olive tree; used in cabinetwork",
+        "one-seeded fruit of the European olive tree usually pickled and used as a relish",
+        "a yellow-green color of low brightness and saturation"
+      ]
+    },
+    {
+      "id": "avocado",
+      "image_urls": [
+        "https://www.siciliaavocado.it/public/componenti/407/f1/AvocadoSfondobianco12bacon.png",
+        "https://i0.wp.com/ilverzeratt1919.it/wp-content/uploads/2020/03/AVOCADO-IL-VERZERATT-1919.png",
+        "https://www.siciliaavocado.it/public/componenti/49/f1/vendita-avocado-sicilia.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/avocat_196052669-e1477390960453.png",
+        "https://static1.buchi.com/sites/default/files/styles/content_large/public/application-note-images/avocado-937459_1280.png"
+      ],
+      "definitions": [
+        "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed",
+        "tropical American tree bearing large pulpy green fruits"
+      ]
+    },
+    {
+      "id": "garlic",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/ail_327236627-e1477391225750.png",
+        "https://antogar.com/wp-content/uploads/2021/01/Antogar-morado-Garlic.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/8/YY/VI/HT/6237564/indian-fresh-garlic-500x500.png",
+        "https://antogar.com/wp-content/uploads/2021/01/Antogar-spring-blanco.png",
+        "https://cdn.shopify.com/s/files/1/0553/8765/2286/products/InfusedGarlicOil250ml_front_950px_300x.png"
+      ],
+      "definitions": [
+        "bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves",
+        "aromatic bulb used as seasoning"
+      ]
+    },
+    {
+      "id": "celery",
+      "image_urls": [
+        "https://www.fortiniortofrutticoli.com/wp-content/uploads/2019/12/sedano-bianco.png",
+        "https://www.fortiniortofrutticoli.com/wp-content/uploads/2019/12/sedano-sbiancato.png",
+        "https://veggieharvest.com/wp-content/uploads/2020/11/celery-3410302_1920.png",
+        "https://www.dudafresh.com/hs-fs/hubfs/images-2017/p-main-duda-whole-celery.png",
+        "https://blindinglygoodfood.co.uk/wp-content/uploads/2019/09/9007CE09-4812-4EC1-A40B-45750D3EF10E.png"
+      ],
+      "definitions": [
+        "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked",
+        "stalks eaten raw or cooked or used as seasoning"
+      ]
+    }
+  ]
+}

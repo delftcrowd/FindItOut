@@ -1,0 +1,231 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "owl",
+      "image_urls": [
+        "https://static.food4rhino.com/s3fs-public/users-files/mateusz-zwierzycki/app/owllogo.png",
+        "https://triplydb.com/imgs/avatars/d/6000a8bdcbf91b03347f51e2.png",
+        "https://corraini.com/pub/media/catalog/product/cache/213db37486495149f948bd1431dd372c/p/o/pop-up-owl.png",
+        "https://static.wikia.nocookie.net/adoptme/images/9/99/Owl_Pet.png",
+        "https://ospreywilds.org/wp/wp-content/uploads/2020/04/Odin-1024x1024.png"
+      ],
+      "definitions": [
+        "nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes"
+      ]
+    },
+    {
+      "id": "vulture",
+      "image_urls": [
+        "https://easydraweverything.com/wp-content/uploads/2019/08/vulture_step_00.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/77114/vulture-clipart-md.png",
+        "https://www.nicepng.com/png/full/228-2281834_vulture-vulture-png.png",
+        "https://i1.wp.com/prwildlife.org/wp-content/uploads/2018/05/widget_lucy.png",
+        "https://bloximages.newyork1.vip.townnews.com/jackcentral.org/content/tncms/assets/v3/editorial/8/f9/8f9176d5-974c-57b3-b764-c8d5f8e47819/5be498ba75923.image.png"
+      ],
+      "definitions": [
+        "any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion",
+        "someone who attacks in search of booty"
+      ]
+    },
+    {
+      "id": "eagle",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Bald-Eagle.png",
+        "https://emojipedia-us.s3.amazonaws.com/source/skype/289/eagle_1f985.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/aquila.png",
+        "https://mounteagle.org/wp-content/uploads/2020/12/low-angle-view-white-tailed-eagle-flying-sunlight-blue-sky-hokkaido-japan.png",
+        "https://static.wikia.nocookie.net/angrybirds/images/a/a9/ABMovie_Mighty_Eagle.png"
+      ],
+      "definitions": [
+        "any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight",
+        "(golf) a score of two strokes under par on a hole",
+        "a former gold coin in the United States worth 10 dollars",
+        "an emblem representing power"
+      ]
+    },
+    {
+      "id": "duck",
+      "image_urls": [
+        "https://mk0culverduckguu41sc.kinstacdn.com/wp-content/uploads/2020/11/duck-animate-3-500x500.png",
+        "https://mk0culverduckguu41sc.kinstacdn.com/wp-content/uploads/2020/11/duck-animate-2-500x500.png",
+        "https://milanduckstore.com/wp-content/uploads/2019/05/rainbow-duck.png",
+        "https://www.romeduckstore.it/wp-content/uploads/2020/05/paperella-di-gomma-bianca3.png",
+        "https://www.romeduckstore.it/wp-content/uploads/2020/03/paperella-sadomaso-FHL.png"
+      ],
+      "definitions": [
+        "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs",
+        "(cricket) a score of nothing by a batsman",
+        "flesh of a duck (domestic or wild)",
+        "a heavy cotton fabric of plain weave; used for clothing and tents"
+      ]
+    },
+    {
+      "id": "falcon",
+      "image_urls": [
+        "https://www.dassaultfalcon.com/PublishingImages/IMAGES/Aircraft/Layer/10X-1.png",
+        "https://www.dassaultfalcon.com/PublishingImages/IMAGES/Aircraft/Layer/2000LXS-1.png",
+        "https://www.dassaultfalcon.com/PublishingImages/IMAGES/Aircraft/Layer/8X-1.png",
+        "https://algowatt.com/wp-content/uploads/2018/02/FALCON-Logo.png",
+        "https://birdlifecyprus.org/wp-content/uploads/sites/3/2020/09/PEREGRINE-FALCON.png"
+      ],
+      "definitions": [
+        "diurnal birds of prey having long pointed powerful wings adapted for swift flight"
+      ]
+    },
+    {
+      "id": "hawk",
+      "image_urls": [
+        "https://cdn.emojidex.com/emoji/seal/hawk.png",
+        "https://static.wikia.nocookie.net/grimdawn_gamepedia_en/images/5/54/Hawk_Constellation_Icon.png",
+        "https://hawkdex.com/static/media/HAWK.16fbdfdd.png",
+        "https://static.wikia.nocookie.net/nanatsu-no-taizai/images/e/e3/Hawk_Anime_Season_3_Design.png",
+        "https://cdn4.iconfinder.com/data/icons/birds-tt/48/Animals_Birds_Artboard_15-512.png"
+      ],
+      "definitions": [
+        "diurnal bird of prey typically having short rounded wings and a long tail",
+        "an advocate of an aggressive policy on foreign relations",
+        "a square board with a handle underneath; used by masons to hold or carry mortar"
+      ]
+    },
+    {
+      "id": "sparrow",
+      "image_urls": [
+        "https://johnrcammidge.com/wp-content/uploads/2021/05/002-1024x428.png",
+        "https://birdlifecyprus.org/wp-content/uploads/sites/3/elementor/thumbs/HOUSE-SPARROW-ovg9xpebdk3b0feny5iii37zb771bpqss3hxsfw5bw.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/passerotto.png",
+        "https://www.worldsparrowday.org/images/inner.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/11530/sparrow-bird-clipart-md.png"
+      ],
+      "definitions": [
+        "any of several small dull-colored singing birds feeding on seeds or insects",
+        "small brownish European songbird"
+      ]
+    },
+    {
+      "id": "dove",
+      "image_urls": [
+        "https://asset-apac.unileversolutions.com/content/dam/unilever/dove/global/pack_shot/range/skin_care/skin_care_unidentified/CP-07-DermaSpa-980-product-goodness3-299335.png",
+        "https://asset-apac.unileversolutions.com/content/dam/unilever/dove/australia/static_not_in-use_products_/purely_pampering_range-296742-1795307-png.png",
+        "https://www.forgetmenotdoverelease.co.uk/images/whitDovesLarge.png",
+        "https://cogbio.univie.ac.at/fileadmin/_processed_/csm_dove_M_f3823472bc.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/39742/cartoon-dove-clipart-md.png"
+      ],
+      "definitions": [
+        "any of numerous small pigeons",
+        "someone who prefers negotiations to armed conflict in the conduct of foreign relations",
+        "a constellation in the southern hemisphere near Puppis and Caelum",
+        "flesh of a pigeon suitable for roasting or braising; flesh of a dove (young squab) may be broiled",
+        "an emblem of peace"
+      ]
+    },
+    {
+      "id": "kite",
+      "image_urls": [
+        "https://www.rexlondon.com/sites/dotcom.pleasetest.co.uk/files/styles/product_main/public/24412_3.png",
+        "https://cdn11.bigcommerce.com/s-qc7qegnorm/images/stencil/1280x1280/products/3009/2583/5060028380817-Stunt-kite__44815.1596793220.png",
+        "https://kite-agency.com/new-kite/wp-content/uploads/2020/05/Website-Header_img-dreapta-2.png",
+        "https://www.f-one.world/app/uploads/2020/03/DIABLO-V5-PREVIEW-LOWDEF-unsmushed-450x450.png",
+        "https://www.eleveightkites.com/wp-content/uploads/2021/03/RSV5-Dark.png"
+      ],
+      "definitions": [
+        "a bank check that has been fraudulently altered to increase its face value",
+        "a bank check drawn on insufficient funds at another bank in order to take advantage of the float",
+        "plaything consisting of a light frame covered with tissue paper; flown in wind at end of a string",
+        "any of several small graceful hawks of the family Accipitridae having long pointed wings and feeding on insects and small animals"
+      ]
+    },
+    {
+      "id": "seagull",
+      "image_urls": [
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/9117/sea-gull-clipart-md.png",
+        "https://i.pinimg.com/originals/08/61/23/0861236d8da707cc209c90fe6046927c.png",
+        "https://static.wikia.nocookie.net/reddeadredemption/images/7/77/Gaviota.png",
+        "https://i.pinimg.com/originals/d2/fc/6f/d2fc6f868a84644f8720bf0c28563433.png",
+        "https://img.icons8.com/ios/452/seagull--v2.png"
+      ],
+      "definitions": [
+        "mostly white aquatic bird having long pointed wings and short legs"
+      ]
+    },
+    {
+      "id": "buzzard",
+      "image_urls": [
+        "https://birdlifecyprus.org/wp-content/uploads/sites/3/elementor/thumbs/COMMON-BUZZARD-ovfzmu6qusei7641judopocpm75gaxff4h5565s4bs.png",
+        "https://birdlifecyprus.org/wp-content/uploads/sites/3/elementor/thumbs/LONG-LEGGED-BUZZARD-ovhyf8afuoyj00fiqeeprljwrmgb14d7hue36v96v0.png",
+        "https://www.birdorable.com/img/bird/th440/common-buzzard.png",
+        "https://birdlifecyprus.org/wp-content/uploads/sites/3/elementor/thumbs/HONEY-BUZZARD-ovg9vjdpmb4i8sjzlpsh94wq07vkku52tdcmyh3tow.png",
+        "https://sharehs.com/cimg/218.png"
+      ],
+      "definitions": [
+        "a New World vulture that is common in South America and Central America and the southern United States",
+        "the common European short-winged hawk"
+      ]
+    },
+    {
+      "id": "pigeon",
+      "image_urls": [
+        "https://www.thone.be/imagecache/pigeon/pigeonmedium/8780e556c79383b356df705e50df53c0.png",
+        "https://i.pinimg.com/originals/4c/87/86/4c87869592b4f01bd1247e882b30df27.png",
+        "https://www.cleankill.co.uk/sites/default/files/styles/pest/public/2019-04/pigeon.png",
+        "https://www.thone.be/imagecache/pigeon/pigeonmedium/b533d5c98006ac5d32ddadb28bdb9206.png",
+        "https://i.pinimg.com/originals/f4/a6/3a/f4a63acf72bc349b73a59fb9550e95d5.png"
+      ],
+      "definitions": [
+        "wild and domesticated birds having a heavy body and short legs"
+      ]
+    },
+    {
+      "id": "woodpecker",
+      "image_urls": [
+        "https://thermoflexx.com/wp-content/uploads/2020/01/Woodpecker-Black-Red_Black-Border_SMALL-1.png",
+        "https://cdn.shopify.com/s/files/1/1371/3415/products/woodpecker-bird-animals-wall-decal-sticker_4bceca8d-57cc-4785-9b9d-3b08c4e150aa_grande.png",
+        "https://www.woodpeckerlearning.com/img/woodpecker-logo.png",
+        "https://farm2.staticflickr.com/1683/24807708045_acaee7cda4_o.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/9180/woodpecker-clipart-xl.png"
+      ],
+      "definitions": [
+        "bird with strong claws and a stiff tail adapted for climbing and a hard chisel-like bill for boring into wood for insects"
+      ]
+    },
+    {
+      "id": "stork",
+      "image_urls": [
+        "https://static.wixstatic.com/media/2cd43b_d4207f5d4d2a4b8a954d2f4e5dc7d58d~mv2.png",
+        "https://static.wixstatic.com/media/2cd43b_5475976d303f4b2395e956a70e8f8246~mv2.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/15495/stork-clipart-xl.png",
+        "https://ciconia-nigra-international-experts.org/wp-content/uploads/2020/01/Image-ronde.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/white-stork-black-and-white.png"
+      ],
+      "definitions": [
+        "large mostly Old World wading birds typically having white-and-black plumage"
+      ]
+    },
+    {
+      "id": "starling",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Starling_Bank_Logo.svg/1200px-Starling_Bank_Logo.svg.png",
+        "https://www.starlingbank.com/static/964b507b8cd44ce9b75c45e28b2453a4/homepage-b-mobile-header.png",
+        "https://images.squarespace-cdn.com/content/v1/5af34b4b4eddec91e7ea4258/1576978942443-X8RCV8ADGF3CNZRH7BPW/starling_watercolor.png",
+        "https://www.birdorable.com/img/bird/th440/european-starling.png",
+        "https://www.absolutebirdcontrol.com/media/wysiwyg/product-by-bird/Starling_001.png"
+      ],
+      "definitions": [
+        "gregarious birds native to the Old World"
+      ]
+    },
+    {
+      "id": "parakeet",
+      "image_urls": [
+        "https://lafeber.com/pet-birds/wp-content/uploads/2018/07/transparent-parakeet.png",
+        "https://static.wikia.nocookie.net/roblox-feather-family/images/b/b7/TranspParakeet.png",
+        "https://www.cleankill.co.uk/sites/default/files/styles/pest/public/2019-04/parakeet_small.png",
+        "https://www.africansafariwildlifepark.com/content/uploads/Budgie.png",
+        "https://cdn11.bigcommerce.com/s-hqlnzi/images/stencil/1280x1280/products/557/34300/16038_2_1024x__32322.1617655026.png"
+      ],
+      "definitions": [
+        "any of numerous small slender long-tailed parrots"
+      ]
+    }
+  ]
+}

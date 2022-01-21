@@ -1,0 +1,126 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "portfolio",
+      "image_urls": [
+        "https://images.studentendrukwerk.nl/sdw/nl/1f66b0090293a/portfolio/portfolio-hardcover-480.png",
+        "https://www.jimdo.com/static/74c6a5e281c399906f950c693b0c2b5e/50402/hero-image.png",
+        "https://www.jimdo.com/static/a4a907ced30ba4ffaefd7f26af950cda/197ed/feature-1.png",
+        "https://loryrave.nl/wp-content/uploads/2020/10/loryrave-portfolio-template-1024x688.png",
+        "https://www.portfolio-performance.info/en/images/screenshot1@2x.png"
+      ],
+      "definitions": [
+        "a large, flat, thin case for carrying loose papers or drawings or maps; usually leather",
+        "a set of pieces of creative work collected to be shown to potential customers or employers",
+        "a list of the financial assets held by an individual or a bank or other financial institution",
+        "the role of the head of a government department"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://towerliving.nl/wp-content/uploads/2019/10/RENEW_Cabinet_ME0013.png",
+        "https://static.henkschram.com/images/MAN-IC90%20(2).png"
+      ],
+      "definitions": [
+        "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+        "persons appointed by a head of state to head executive departments of government and act as official advisers",
+        "a storage compartment for clothes and valuables; usually it has a lock",
+        "housing for electronic instruments, as radio or television"
+      ]
+    },
+    {
+      "id": "paper",
+      "image_urls": [
+        "https://www.paardekooper.nl/static/uploads/pictures/large/920505.png",
+        "https://studioproefschrift.nl/images/hvo.png",
+        "https://www.smurfitkappa.com/products-and-services/-/m/images/products-images-740x-740/paper-and-board/printing-and-writing-papers/bond_from_paper.png",
+        "https://media.smurfitkappa.com/-/m/images/page-hero-610-x-350/paper_and_board_.png",
+        "https://catalog.depa.eu/static/uploads/pictures/large/DEPA_830021.png"
+      ],
+      "definitions": [
+        "a material made of cellulose pulp derived mainly from wood or rags or certain grasses",
+        "an essay (especially one written as an assignment)",
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a medium for written communication",
+        "a scholarly article describing the results of observations or stating hypotheses",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher"
+      ]
+    },
+    {
+      "id": "classroom",
+      "image_urls": [
+        "https://www.clanbeat.com/wp-content/uploads/2021/04/Google-Classroom.png",
+        "https://www.woodridge68.org/cms/lib/IL01904677/Centricity/Domain/360/classroom.png",
+        "https://www.fujitsu.com/hk/imagesgig5/Icon_classroom_tcm137-3749856_tcm137-2750236-32.png",
+        "https://3.files.edl.io/dd2e/20/12/03/213020-0b484f5a-fc96-499c-bc55-537acedcfac2.png",
+        "https://www.speexx.com/wp-content/uploads/webinar-vr.png"
+      ],
+      "definitions": [
+        "a room in a school where lessons take place"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/EI23BC82SS-HOV_628.png",
+        "https://cdn.shopify.com/s/files/1/2459/1583/products/FlareLilac_aa25c912-94a9-4bbb-af77-9ce8d506785a.png",
+        "https://www.electrolux.com.my/globalassets/appliances/fridge/etb4600b-a/etb4600b-a-my-front-right-700x700.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    },
+    {
+      "id": "notebook",
+      "image_urls": [
+        "https://octaevo.com/storage/uploads/4a02d3ac-6c2e-461e-9395-a6605297c12b/notebook-planner-grey-octaevo.png",
+        "https://creativeuseoftechnology.com/wp-content/uploads/2020/10/leren-notitieboekje-cognac-hervulbaar-gravering.png",
+        "https://www.a-journal.nl/wp-content/uploads/2019/05/lila-notebook-voorkant-website.png",
+        "https://470833-1477561-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/11/Family-foto-2-schaduw.png",
+        "https://cdn.shopify.com/s/files/1/0641/8323/products/Denik-Custom-Hardcover-Layflat-Notebook-Spine-Angle_1024x1024.png"
+      ],
+      "definitions": [
+        "a book with blank pages for recording notes or memoranda",
+        "a small compact portable computer"
+      ]
+    },
+    {
+      "id": "conference",
+      "image_urls": [
+        "https://one-conference.nl/uploads/21402040_ECP_One-conference-2021.png",
+        "https://www.besteverconference.com/hubfs/Mask%20Group.png",
+        "https://conference.issa.nl/sites/default/files/ISSA_Conference.png",
+        "https://www.eden-online.org/wp-content/uploads/2021/01/madrid_website_header_madrid-news-transparent-01.png",
+        "https://www.iaoms.org/IAOMS/assets/File/IAOMS-Virtual-Conference-logo.png"
+      ],
+      "definitions": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+        "an association of sports teams that organizes matches for its members",
+        "a discussion among participants who have an agreed (serious) topic"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2020/12/Romantic-garden.png",
+        "https://www.hellogarden.nl/wp-content/uploads/2019/08/Hello-Garden-Waar-te-koop.png",
+        "https://cdn.shopify.com/s/files/1/1257/7487/products/edn-smallgarden-hero-basil-front-shopify_dba28422-4eeb-4039-821a-4d2551b531f5_2048x.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    }
+  ]
+}

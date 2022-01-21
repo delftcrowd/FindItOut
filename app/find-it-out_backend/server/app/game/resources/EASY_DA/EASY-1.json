@@ -1,0 +1,115 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "actress",
+      "image_urls": [
+        "https://media.vanityfair.com/photos/60b67662d51237128c21f0da/master/w_2560%2Cc_limit/next-mare-of-easttown-art-lede.png",
+        "https://i.pinimg.com/originals/1a/75/32/1a7532f01088e84f0bfef48aa4357777.png",
+        "https://i0.wp.com/anysoll.com/wp-content/uploads/2021/07/image-removebg-preview-3-4.png",
+        "https://www.nicepng.com/png/full/248-2485800_bollywood-png-transparent-bollywood-actress-png.png",
+        "https://img.icons8.com/bubbles/452/actress.png"
+      ],
+      "definitions": [
+        "a female actor"
+      ]
+    },
+    {
+      "id": "wife",
+      "image_urls": [
+        "https://www.deccanherald.com/sites/dh/files/article_images/2020/02/23/argument-3312463-1582450544.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/wife-a13f8ff4afb19ec3708bb21542afa7e1a468cdd3.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/1329819/LINEStorePC/main.png",
+        "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdflGwP8nWH1MmPdt3ZyJ7Hsk6lvAmnoN7IJN27Oeh5WfNjskEywGIED2oatMKLsE-YZNUG2SOv3CiEVm2RiMLhbM-KvXevjEhUE.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/1160679/LINEStorePC/main.png"
+      ],
+      "definitions": [
+        "a married woman; a man's partner in marriage"
+      ]
+    },
+    {
+      "id": "cousin",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/CousinTree.svg/1200px-CousinTree.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/5e0a61f33fa0c45c9bfeff94/1588543037861-RCZPA5HP2S715ZI9DCMA/cousin_logotype_red.png",
+        "https://images.squarespace-cdn.com/content/v1/55d49893e4b0caee6f77186f/1581626748945-N4Z90E0WYS8D0R1QV14U/Removeds.png",
+        "https://www.myfamilydnatest.com/wp-content/uploads/2018/11/Understanding-degrees-of-cousins-in-your-DNA-Matches-on-Ancestry.png",
+        "https://cdn.nba.com/headshots/nba/latest/1040x760/202326.png"
+      ],
+      "definitions": [
+        "the child of your aunt or uncle"
+      ]
+    },
+    {
+      "id": "daughter",
+      "image_urls": [
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/34288/mother-daughter-clipart-xl.png",
+        "https://cdn2.iconfinder.com/data/icons/family-28/49/87-512.png",
+        "https://cdn4.iconfinder.com/data/icons/fatherhood-child-rearing/50/45-512.png",
+        "https://i2.wp.com/www.thegamegal.com/wp-content/uploads/2018/10/mother-daughter.png",
+        "https://image.flaticon.com/icons/png/512/2829/2829841.png"
+      ],
+      "definitions": [
+        "a female human offspring"
+      ]
+    },
+    {
+      "id": "mother",
+      "image_urls": [
+        "https://brama-group.com/wp-content/uploads/2016/09/mother-logo-black.png",
+        "https://static.wikia.nocookie.net/villains/images/e/ed/Mother_HSG.png",
+        "https://calendar.wincalendar.net/img/holiday/mothers-day.png",
+        "https://images.squarespace-cdn.com/content/v1/5c52ec4c4eddecf7be93aa0f/1588878012576-SHMA68TYL0EUBOUKRZ6C/mother+11.png",
+        "https://occ-0-92-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABaSjQbG_GyLhl2m5_eT7NrfgUvtFIZ1qGxSCbsU90CwP1ihjcRgkG7iBh7V0rnWs1TT9Be8t34FZlcevasepSBjVa6mMbL9TKjNunPxRqQOvuwEFILxyHetx5sHRly_KCzbrQU50CvvCklFij7Xish9GcwF1gFi5T6AdOfwY8CdZgg.png"
+      ],
+      "definitions": [
+        "a woman who has given birth to a child (also used as a term of address to your mother)",
+        "a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar",
+        "a term of address for an elderly woman",
+        "a term of address for a mother superior",
+        "a condition that is the inspiration for an activity or situation"
+      ]
+    },
+    {
+      "id": "aunt",
+      "image_urls": [
+        "https://cdn3.iconfinder.com/data/icons/family-member-flat-happy-family-day/512/Aunt-512.png",
+        "https://americanfoodshop.it/wp-content/uploads/2018/02/aunt-jemima.png",
+        "https://lessonpix.com/drawings/11078/380x380/Aunt.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Aunt-Spiker-and-Aunt-Sponge--James-and-the-Giant-Peach-Characters-KS2.png",
+        "https://www.transum.org/Software/Investigations/images/Aunt_Lucy.png"
+      ],
+      "definitions": [
+        "the sister of your father or mother; the wife of your uncle"
+      ]
+    },
+    {
+      "id": "sister",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/590a1a4febbd1ae4f47b4118/1511225526510-MXWRDL98C609YDQ1G2DT/logo-600-2017.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/sister-78183227421513310337c8ef3f63c9421405b704.png",
+        "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABfgGqrrgRI6qse5Wp1L_8w5quwDHA7F7BpuAY_RgAdSje2iFhN8ulE-jfRCSCYWVj6nOwWuzyObbN4yuHIBKig5dJdGN1lNkrSkv.png",
+        "https://sister.agenziaentrate.gov.it/resources/img/AgenziaEntrate_bianco_152.png",
+        "https://grammartop.com/wp-content/uploads/2021/03/sister-35c2d73536bb4e56933554677836a755cab5d10f.png"
+      ],
+      "definitions": [
+        "a female person who has the same parents as another person",
+        "(Roman Catholic Church) a title given to a nun (and used as a form of address)",
+        "a female person who is a fellow member of a sorority or labor union or other group"
+      ]
+    },
+    {
+      "id": "princess",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/b7/Disney_Princess_logo_2015.png",
+        "https://overthemoonevents.ie/wp-content/uploads/2021/02/84744d_cf74ee3fb2bc4c99b4cbacb648f44f87_mv2.png",
+        "https://static.wikia.nocookie.net/disney/images/5/56/Tiana.13.png",
+        "https://static.wikia.nocookie.net/sofia/images/e/ea/Cute_Sofia_the_First.png",
+        "https://www.disneyprincessstories.com/images/logo_en.png"
+      ],
+      "definitions": [
+        "a female member of a royal family other than the queen (especially the daughter of a sovereign)"
+      ]
+    }
+  ]
+}

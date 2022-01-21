@@ -1,0 +1,125 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "garlic",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/ail_327236627-e1477391225750.png",
+        "https://antogar.com/wp-content/uploads/2021/01/Antogar-morado-Garlic.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/8/YY/VI/HT/6237564/indian-fresh-garlic-500x500.png",
+        "https://antogar.com/wp-content/uploads/2021/01/Antogar-spring-blanco.png",
+        "https://cdn.shopify.com/s/files/1/0553/8765/2286/products/InfusedGarlicOil250ml_front_950px_300x.png"
+      ],
+      "definitions": [
+        "bulbous herb of southern Europe widely naturalized; bulb breaks up into separate strong-flavored cloves",
+        "aromatic bulb used as seasoning"
+      ]
+    },
+    {
+      "id": "celery",
+      "image_urls": [
+        "https://www.fortiniortofrutticoli.com/wp-content/uploads/2019/12/sedano-bianco.png",
+        "https://www.fortiniortofrutticoli.com/wp-content/uploads/2019/12/sedano-sbiancato.png",
+        "https://veggieharvest.com/wp-content/uploads/2020/11/celery-3410302_1920.png",
+        "https://www.dudafresh.com/hs-fs/hubfs/images-2017/p-main-duda-whole-celery.png",
+        "https://blindinglygoodfood.co.uk/wp-content/uploads/2019/09/9007CE09-4812-4EC1-A40B-45750D3EF10E.png"
+      ],
+      "definitions": [
+        "widely cultivated herb with aromatic leaf stalks that are eaten raw or cooked",
+        "stalks eaten raw or cooked or used as seasoning"
+      ]
+    },
+    {
+      "id": "avocado",
+      "image_urls": [
+        "https://www.siciliaavocado.it/public/componenti/407/f1/AvocadoSfondobianco12bacon.png",
+        "https://www.siciliaavocado.it/public/componenti/49/f1/vendita-avocado-sicilia.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/avocat_196052669-e1477390960453.png",
+        "https://static1.buchi.com/sites/default/files/styles/content_large/public/application-note-images/avocado-937459_1280.png",
+        "https://zeroco2.eco/wp-content/uploads/2020/09/Avocado.png"
+      ],
+      "definitions": [
+        "a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed",
+        "tropical American tree bearing large pulpy green fruits"
+      ]
+    },
+    {
+      "id": "beans",
+      "image_urls": [
+        "https://www.bushbeans.com/-/media/bushsbeans/salsifyimports/0003940001864_H1N1_R.png",
+        "https://www.camelliabrand.com/static/wp-content/uploads/2020/07/1lb_508_navy-pea-beans-350x500.png",
+        "https://www.camelliabrand.com/static/img/assets/dried-beans-family.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/haricot-rouge_468337067.png",
+        "https://www.bushbeans.com/-/media/bushsbeans/salsifyimports/0003940001774_H1N1_R.png"
+      ],
+      "definitions": [
+        "any of various edible seeds of plants of the family Leguminosae used for food",
+        "any of various seeds or fruits that are beans or resemble beans",
+        "any of various leguminous plants grown for their edible seeds and pods",
+        "informal terms for a human head"
+      ]
+    },
+    {
+      "id": "broccoli",
+      "image_urls": [
+        "https://www.fortiniortofrutticoli.com/wp-content/uploads/2019/11/04-2.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/brocoli_368374784-e1473083459210.png",
+        "https://www.orogel.it/media/immagini/2179_n_Orogel_retail_I-Vegetali-tal-quali_Broccoli-a-rosette_400g.png",
+        "https://images-eu.ssl-images-amazon.com/images/I/81V86KXTOBL.png",
+        "https://www.lavalledegliorti.it/wp-content/uploads/2021/01/fiori-di-broccoli-lvdo-2021-ecobag.png"
+      ],
+      "definitions": [
+        "plant with dense clusters of tight green flower buds",
+        "branched green undeveloped flower heads"
+      ]
+    },
+    {
+      "id": "eggplant",
+      "image_urls": [
+        "https://www.planetgreeneg.com/wp-content/uploads/2019/03/Eggplant.png",
+        "https://mucci-production-user-uploads-bucket.s3.amazonaws.com/images/Product-IMG_MiniEggplant-rev.original.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/08/test-aubergine.png",
+        "https://cdn.shopify.com/s/files/1/0373/7704/8711/products/egg1_490x.png",
+        "https://www.frunet.net/wp-content/uploads/2021/01/berenjena.png"
+      ],
+      "definitions": [
+        "egg-shaped vegetable having a shiny skin typically dark purple but occasionally white or yellow",
+        "hairy upright herb native to southeastern Asia but widely cultivated for its large glossy edible fruit commonly used as a vegetable"
+      ]
+    },
+    {
+      "id": "onions",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/oignons_266332727-e1477390579299.png",
+        "https://aurumfruit.com/wp-content/uploads/2019/10/cipolla-e1571673484477.png",
+        "https://dessini.com.my/image/dessini/image/cache/data/Idea%20Inspiration/aqmO41Ny1622276992-748x498.png",
+        "https://www.toponions.com/l/en/library/download/urn:uuid:47b63dcd-dcc5-466a-bcab-c214b0f45c8b/gele-uien--thumb.png",
+        "https://www.sermac.org/wp-content/uploads/2020/12/Cipolla2-1024x1024.png"
+      ],
+      "definitions": [
+        "the bulb of an onion plant",
+        "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+        "an aromatic flavorful vegetable"
+      ]
+    },
+    {
+      "id": "corn",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/10/mais_193858076.png",
+        "https://cdn2.hubspot.net/hubfs/240798/images-2017/p-main-corn.png",
+        "https://labseedway.s3-accelerate.amazonaws.com/2019/12/BigNTender_HTF2020-Iso.png",
+        "https://extension.sdstate.edu/sites/default/files/styles/facebook/public/2019-11/S-0001-37-Sweet_Corn.png",
+        "https://labseedway.s3-accelerate.amazonaws.com/2019/05/Kate_HTF2020Iso-e1613666688291.png"
+      ],
+      "definitions": [
+        "tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times",
+        "the dried grains or kernels or corn used as animal feed or ground for meal",
+        "ears of corn that can be prepared and served for human food",
+        "a hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes",
+        "(Great Britain) any of various cereal plants (especially the dominant crop of the region--wheat in Great Britain or oats in Scotland and Ireland)",
+        "whiskey distilled from a mash of not less than 80 percent corn",
+        "something sentimental or trite"
+      ]
+    }
+  ]
+}

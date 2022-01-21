@@ -1,0 +1,128 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "potato",
+      "image_urls": [
+        "https://www.hzpc.com/uploads/overview-transparent-896/e3e6d564-9cc9-505f-b6c4-95fc3c75dabf/3175818934/Taurus.png",
+        "https://www.hzpc.com/uploads/overview-transparent-896/a8fd1c77-09d0-5e22-8436-9dc8f6e1b80f/3175818931/Allison.png",
+        "https://www.hzpc.com/uploads/overview-transparent-896/dc78aee8-3f50-5ba8-b8d3-6cf74852aa2b/3175818931/Colomba%20%282%29.png",
+        "https://www.mr-fruity.co.uk/wp-content/uploads/2019/04/potato-600x0.png",
+        "https://www.vip.coop/images/content/472645_39079_3_N_515_500_0_5374965/potatoes.png"
+      ],
+      "definitions": [
+        "an edible tuber native to South America; a staple food of Ireland",
+        "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+      ]
+    },
+    {
+      "id": "tomato",
+      "image_urls": [
+        "https://www.ilpomodoropetti.com/wp-content/uploads/2017/01/pomo_petti_100_3.png",
+        "https://www.solarelli.it/wp-content/uploads/2017/03/pomodoro_grappolo_500x500pixel-wpcf_300x300.png",
+        "https://www.levarht.com/wp-content/uploads/2018/05/49-Cherry-tomatoes-800x533.png",
+        "https://www.lortodieleonora.com/wp-content/uploads/2018/12/pomo-datterini.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/tomate_418204624-e1475498814889.png"
+      ],
+      "definitions": [
+        "mildly acid red or yellow pulpy fruit eaten as a vegetable",
+        "native to South America; widely cultivated in many varieties"
+      ]
+    },
+    {
+      "id": "chicken",
+      "image_urls": [
+        "https://betterchickencommitment.com/static/c4c65646cd882eb3b25feba0144c9113/a54c6/white-chicken-cutout-2.png",
+        "https://betterchickencommitment.com/static/e585f750632dcffec40cb1943b7c2638/a54c6/white-chicken-cutout-1.png",
+        "https://www.mcdonalds.it/sites/default/files/products/chicken_wings-isolated.png",
+        "https://www.tyson.com/static/9962bd9313e57d3d2624338bc4ca67b6/9f2d5/pm99044507_002829m_0929-copy.png",
+        "https://images.ctfassets.net/9tka4b3550oc/1FQSRLVXt2Q1lvXXkOyW6U/f306561ef7bfc5ab7c84a739a46d3629/Food_09.png"
+      ],
+      "definitions": [
+        "the flesh of a chicken used for food",
+        "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl",
+        "a person who lacks confidence, is irresolute and wishy-washy",
+        "a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops"
+      ]
+    },
+    {
+      "id": "goat",
+      "image_urls": [
+        "https://static.wixstatic.com/media/2cd43b_fd83057382f54e30ab0ea31d6f60face~mv2.png",
+        "https://static.wikia.nocookie.net/lego/images/0/06/Goat-2.png",
+        "https://static.wixstatic.com/media/2cd43b_8530fc17eb064260bb54b93362a643db~mv2_d_2652_2820_s_4_2.png",
+        "https://static-00.iconduck.com/assets.00/goat-emoji-512x512-n6ax51sf.png",
+        "https://bloximages.newyork1.vip.townnews.com/kulr8.com/content/tncms/assets/v3/editorial/5/24/524c0db6-b4f1-11eb-a208-fbcd2a125264/609edac25c40f.image.png"
+      ],
+      "definitions": [
+        "any of numerous agile ruminants related to sheep but having a beard and straight horns",
+        "a victim of ridicule or pranks",
+        "(astrology) a person who is born while the sun is in Capricorn",
+        "the tenth sign of the zodiac; the sun is in this sign from about December 22 to January 19"
+      ]
+    },
+    {
+      "id": "onions",
+      "image_urls": [
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/09/oignons_266332727-e1477390579299.png",
+        "https://aurumfruit.com/wp-content/uploads/2019/10/cipolla-e1571673484477.png",
+        "https://dessini.com.my/image/dessini/image/cache/data/Idea%20Inspiration/aqmO41Ny1622276992-748x498.png",
+        "https://www.toponions.com/l/en/library/download/urn:uuid:47b63dcd-dcc5-466a-bcab-c214b0f45c8b/gele-uien--thumb.png",
+        "https://www.sermac.org/wp-content/uploads/2020/12/Cipolla2-1024x1024.png"
+      ],
+      "definitions": [
+        "the bulb of an onion plant",
+        "bulbous plant having hollow leaves cultivated worldwide for its rounded edible bulb",
+        "an aromatic flavorful vegetable"
+      ]
+    },
+    {
+      "id": "duck",
+      "image_urls": [
+        "https://www.romeduckstore.it/wp-content/uploads/2020/05/paperella-di-gomma-gialla-classica2.png",
+        "https://milanduckstore.com/wp-content/uploads/2019/05/rainbow-duck.png",
+        "https://mk0culverduckguu41sc.kinstacdn.com/wp-content/uploads/2020/11/duck-animate-2-500x500.png",
+        "https://www.romeduckstore.it/wp-content/uploads/2020/05/paperella-di-gomma-bianca3.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/oca-sagdec012953-.png"
+      ],
+      "definitions": [
+        "small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs",
+        "(cricket) a score of nothing by a batsman",
+        "flesh of a duck (domestic or wild)",
+        "a heavy cotton fabric of plain weave; used for clothing and tents"
+      ]
+    },
+    {
+      "id": "lamb",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5d28ab81acba5a00010aa569/1568121947108-XA470QTS9LEMB76RA8BO/AL_Badge_Lamb_Black.png",
+        "https://www.shoprite.co.zm/content/dam/ShopriteZambia/Websites/ShopriteZambia/butchery-africa/img/lamb-curried.png",
+        "https://www.belcando.com/media/fc/87/36/1593769348/Belcando-MC-2kg-Lamb-front.png",
+        "https://www.canagan.co.uk/media/catalog/product/cache/12b1f0b645082a24d3344ee2923b004b/p/n/png-canagan-lamb-all-breeds.png",
+        "https://www.showrite.com/wp-content/uploads/2020/06/SR-Lamb-bag.png"
+      ],
+      "definitions": [
+        "young sheep",
+        "English essayist (1775-1834)",
+        "a person easily deceived or cheated (especially in financial matters)",
+        "a sweet innocent mild-mannered person (especially a child)",
+        "the flesh of a young domestic sheep eaten as food"
+      ]
+    },
+    {
+      "id": "rabbit",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/rabbit-emoji.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/coniglio.png",
+        "https://vethelpdirect.com/wordpress/wp-content/uploads/2018/02/rabbit.png",
+        "https://3wqjvwh65v-flywheel.netdna-ssl.com/wp-content/uploads/2018/05/morphocode-rabbit-logo-02.png",
+        "https://static.wikia.nocookie.net/intothelongdark/images/f/fd/Rabbit.png"
+      ],
+      "definitions": [
+        "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food",
+        "the fur of a rabbit",
+        "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+      ]
+    }
+  ]
+}

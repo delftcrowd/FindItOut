@@ -1,0 +1,247 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "chicken",
+      "image_urls": [
+        "https://betterchickencommitment.com/static/c4c65646cd882eb3b25feba0144c9113/a54c6/white-chicken-cutout-2.png",
+        "https://www.mcdonalds.it/sites/default/files/products/chicken_wings-isolated.png",
+        "https://betterchickencommitment.com/static/e585f750632dcffec40cb1943b7c2638/a54c6/white-chicken-cutout-1.png",
+        "https://www.tyson.com/static/9962bd9313e57d3d2624338bc4ca67b6/9f2d5/pm99044507_002829m_0929-copy.png",
+        "https://images.ctfassets.net/9tka4b3550oc/1FQSRLVXt2Q1lvXXkOyW6U/f306561ef7bfc5ab7c84a739a46d3629/Food_09.png"
+      ],
+      "definitions": [
+        "the flesh of a chicken used for food",
+        "a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl",
+        "a person who lacks confidence, is irresolute and wishy-washy",
+        "a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops"
+      ]
+    },
+    {
+      "id": "perch",
+      "image_urls": [
+        "https://www.oldcaptain.it/wp-content/uploads/2019/03/Yellow-Perch-Swim714_1000x.png",
+        "https://www.oldcaptain.it/wp-content/uploads/2020/03/YP115D100_1000x.png",
+        "https://eatwisconsinfish.org/wp-content/uploads/2021/01/USFWS.png",
+        "https://www.oldcaptain.it/wp-content/uploads/2019/03/EPS-225-WHITE-v1_1000x.png",
+        "https://www.seacoreseafood.com/pictures/product_tbn_UWqVX4U7XL.png"
+      ],
+      "definitions": [
+        "support consisting of a branch or rod that serves as a resting place (especially for a bird)",
+        "a linear measure of 16.5 feet",
+        "a square rod of land",
+        "an elevated place serving as a seat",
+        "any of numerous fishes of America and Europe",
+        "spiny-finned freshwater food and game fishes",
+        "any of numerous spiny-finned fishes of various families of the order Perciformes"
+      ]
+    },
+    {
+      "id": "octopus",
+      "image_urls": [
+        "https://images-eu.ssl-images-amazon.com/images/I/51dgZZbXAjL.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,h_1000,f_auto/Final_CO_20079475_ztscg8.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_960,f_auto/MA_00007223_pglgn0.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1440,f_auto/MA_00200682_fxp3lv.png",
+        "https://img.icons8.com/emoji/452/octopus-emoji.png"
+      ],
+      "definitions": [
+        "tentacles of octopus prepared as food",
+        "bottom-living cephalopod having a soft oval body with eight long tentacles"
+      ]
+    },
+    {
+      "id": "catfish",
+      "image_urls": [
+        "https://www.fws.gov/fisheries/freshwater-fish-of-america/images/originals/east_warm/Channel_catfish_DuaneRavenArt.png",
+        "https://www.takemefishing.org/tmf/assets/images/fish/white-catfish-464x170.png",
+        "https://static.wikia.nocookie.net/additional-creatures/images/c/cd/Goonch_Render.png",
+        "https://guidesly.com/static/bb00ac8df96f718830a14ef78ccfab64/ee604/bda122e146df62d7fade1217aa963b1d.png",
+        "https://fishbuoy.com/images/images/Fish_Species_Images/Identification/channel-catfish.png"
+      ],
+      "definitions": [
+        "flesh of scaleless food fish of the southern United States; often farmed",
+        "large ferocious northern deep-sea food fishes with strong teeth and no pelvic fins",
+        "any of numerous mostly freshwater bottom-living fishes of Eurasia and North America with barbels like whiskers around the mouth"
+      ]
+    },
+    {
+      "id": "asparagus",
+      "image_urls": [
+        "https://www.darta.com/sites/default/files/styles/category_tab_image/public/product-images/0251XX99.png",
+        "https://www.beetlanka.com/wp-content/uploads/2020/06/Asparagus.png",
+        "https://www.ericanatura.it/wp-content/uploads/2017/04/asparago.png",
+        "https://www.fondation-louisbonduelle.org/wp-content/uploads/2016/10/asperge_175743254.png",
+        "https://en.agromed.it/theme/default/assets/images/prodotti/asparagi/asparago-verdi.png"
+      ],
+      "definitions": [
+        "plant whose succulent young shoots are cooked and eaten as a vegetable",
+        "edible young shoots of the asparagus plant"
+      ]
+    },
+    {
+      "id": "squid",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/squid-.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/2021-03/squid_illex_nb_w_0.png",
+        "https://static.wikia.nocookie.net/spiritfarer/images/8/81/Squid.png",
+        "https://www.happy-squid-squad.com/images/happy-squid-big.png",
+        "https://im01.itaiwantrade.com/da123011-2da8-46ae-96a8-55daf3a6f8c9/ILLEX_SQUID-%E5%8E%BB%E8%83%8C.png"
+      ],
+      "definitions": [
+        "(Italian cuisine) squid prepared as food",
+        "widely distributed fast-moving ten-armed cephalopod mollusk having a long tapered body with triangular tail fins"
+      ]
+    },
+    {
+      "id": "mackerel",
+      "image_urls": [
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-atlantic-mackerel.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/spanish_mackerel.png",
+        "https://cdn.shopify.com/s/files/1/1343/8677/products/Atlantic_Mackerel_2800x.png",
+        "https://img3.21food.com/img/product/2020/11/20/food3052441605840327280394.png",
+        "https://www.isolafish.com/wp-content/uploads/2019/02/isola-fish-makreel.png"
+      ],
+      "definitions": [
+        "flesh of very important usually small (to 18 in) fatty Atlantic fish",
+        "any of various fishes of the family Scombridae"
+      ]
+    },
+    {
+      "id": "tuna",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/21/Tuna_assortment.png",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c3/Thunnus_albacares.png",
+        "https://guidesly.com/static/6ba1312e5b778218d64d6602083cf491/ee604/ba19b9c06f2ea506b6acaa8d746dc03f.png",
+        "https://tunaroute.com/theme/img/bluefintuna.png",
+        "https://www.aorb.com.my/wp-content/uploads/2020/04/AORB-Home_page-Yellowfin.png"
+      ],
+      "definitions": [
+        "tropical American prickly pear of Jamaica",
+        "important warm-water fatty fish of the genus Thunnus of the family Scombridae; usually served as steaks",
+        "any very large marine food and game fish of the genus Thunnus; related to mackerel; chiefly of warm waters",
+        "New Zealand eel"
+      ]
+    },
+    {
+      "id": "shrimp",
+      "image_urls": [
+        "https://17idjc2mjkuw17g32z1ivim6-wpengine.netdna-ssl.com/wp-content/uploads/Black_Tiger_Shrimp-650x650.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-brown-shrimp.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-white-shrimp.png",
+        "https://www.aqueon.com/-/media/Images/Aqueon-NA/US/Assets/Care-Sheets/freshwatershrimp_600x400.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-atlantic-northern-shrimp.png"
+      ],
+      "definitions": [
+        "disparaging terms for small people",
+        "any of various edible decapod crustaceans",
+        "small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible"
+      ]
+    },
+    {
+      "id": "lobster",
+      "image_urls": [
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-american-lobster.png",
+        "https://www.dictionary.com/e/wp-content/uploads/2018/11/lobster-emoji.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-carribean-spiny-lobster.png",
+        "https://cdn.shopify.com/s/files/1/1343/8677/products/Lobster-Cooked-PNG_083e4438-46c4-4ece-a5dd-8e3581568e1a_600x.png",
+        "https://i1.wp.com/www.8pus.it/wp-content/uploads/2020/06/lobster-roll.png"
+      ],
+      "definitions": [
+        "flesh of a lobster",
+        "any of several edible marine crustaceans of the families Homaridae and Nephropsidae and Palinuridae"
+      ]
+    },
+    {
+      "id": "crab",
+      "image_urls": [
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/1500x981-kona-crab-illustration.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-red-king-crab.png",
+        "https://3zkbei3fsdmsx3jys2xgjgob-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/crab2-1000x0-c-default.png",
+        "https://freight.cargo.site/t/original/i/665c73f2349be6c7302d3f5d0bd45fe2632e4234413e8e00c12af246e41f214e/Crab_White.png",
+        "https://img.icons8.com/emoji/452/crab-.png"
+      ],
+      "definitions": [
+        "decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers",
+        "a quarrelsome grouch",
+        "(astrology) a person who is born while the sun is in Cancer",
+        "the fourth sign of the zodiac; the sun is in this sign from about June 21 to July 22",
+        "the edible flesh of any of various crabs",
+        "a louse that infests the pubic region of the human body",
+        "a stroke of the oar that either misses the water or digs too deeply"
+      ]
+    },
+    {
+      "id": "salmon",
+      "image_urls": [
+        "https://youngsseafood.co.uk/wp-content/uploads/2017/06/atlantic-salmon.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-sockeye-salmon.png",
+        "https://www.fws.gov/fisheries/freshwater-fish-of-america/images/originals/west_cold/Coho_salmon_TimKnepp.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-coho-salmon.png",
+        "https://www.gortons.com/wp-content/uploads/2017/01/Salmon-Imagery_420x420_CLASSIC.png"
+      ],
+      "definitions": [
+        "any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn",
+        "a tributary of the Snake River in Idaho",
+        "flesh of any of various marine or freshwater fish of the family Salmonidae",
+        "a pale pinkish orange color"
+      ]
+    },
+    {
+      "id": "trout",
+      "image_urls": [
+        "https://caltrout.org/wp-content/uploads/2019/07/fish-_0004_Eagle-Lake-Rainbow-2.png",
+        "https://guidesly.com/static/6c42870ffd3e51afa642543002196014/ee604/cafe64fef008f45b0ac5d96675d38ebb.png",
+        "https://www.fws.gov/fisheries/freshwater-fish-of-america/images/originals/west_cold/Rainbow_trout.png",
+        "https://www.missouritrouthunter.com/uploads/5/3/7/6/53760735/rainbow-trout_2.png",
+        "https://www.aller-aqua.com/media/11390/4-freshwater-trout.png"
+      ],
+      "definitions": [
+        "flesh of any of several primarily freshwater game and food fishes",
+        "any of various game and food fishes of cool fresh waters mostly smaller than typical salmons"
+      ]
+    },
+    {
+      "id": "cod",
+      "image_urls": [
+        "https://www.callofduty.com/content/dam/atvi/callofduty/mobile/home/hero/cod-mobile-logo-v2.png",
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-atlantic-cod.png",
+        "https://upload.wikimedia.org/wikipedia/commons/9/96/Gadus_macrocephalus.png",
+        "https://guidesly.com/static/9f617b186b3a71e2c8a4d202a177b3e9/f3dec/43da3514da8065856230ec8d46d6bb3a.png",
+        "https://www.fishwatch.gov/sites/default/files/pacific_cod.png"
+      ],
+      "definitions": [
+        "the vessel that contains the seeds of a plant (not the seeds themselves)",
+        "lean white flesh of important North Atlantic food fish; usually baked or poached",
+        "major food fish of Arctic and cold-temperate waters"
+      ]
+    },
+    {
+      "id": "zebra",
+      "image_urls": [
+        "https://lazebraonlus.it/wp-content/uploads/2019/09/zebra_onlus.png",
+        "https://lazebraonlus.it/wp-content/uploads/2019/09/zebra_onlus_small.png",
+        "https://www.snapweb.net/immagini/Catalogo/images/zebra-tc21-tc26-f.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/6/6f/Grant%27s_Zebra.png",
+        "https://static.wikia.nocookie.net/overlook-bay-roblox/images/3/37/Zebra.png"
+      ],
+      "definitions": [
+        "any of several fleet black-and-white striped African equines"
+      ]
+    },
+    {
+      "id": "eel",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eel-life-circle1.svg/310px-Eel-life-circle1.svg.png",
+        "https://www.fws.gov/fisheries/freshwater-fish-of-america/images/originals/east_temperate/American_eel_DuaneRavenArt.png",
+        "https://3.bp.blogspot.com/-GATbff41sXc/WTcAAJz94gI/AAAAAAAACWE/PxBJE5N516AWbXhKaDwm914vKERYjt3KgCEw/s1600/eel-976096_960_720.png",
+        "https://forthriverstrust.org/wp-content/uploads/2020/03/eel5.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/11549/unagi-eel-clipart-xl.png"
+      ],
+      "definitions": [
+        "the fatty flesh of eel; an elongate fish found in fresh water in Europe and America; large eels are usually smoked or pickled",
+        "voracious snakelike marine or freshwater fishes with smooth slimy usually scaleless skin and having a continuous vertical fin but no ventral fins"
+      ]
+    }
+  ]
+}

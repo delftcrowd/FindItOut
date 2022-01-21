@@ -1,0 +1,132 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "paint",
+      "image_urls": [
+        "https://hg.eu/media/o4qcjodn/309100100-main.png",
+        "https://www.colora.nl/media/catalog/product/cache/5/image/620x/17f82f742ffe127f42dca9de82fb58b1/1/2/1200-3/paint-off-instant-30.png",
+        "https://rodapin.com/wp-content/uploads/2021/03/img-slide.png",
+        "https://hg.eu/media/reqdilup/298075100-main.png",
+        "https://files.seniorweb.nl/uploadedimages/wwwseniorwebnl/thema/windows/windows_10/paint%203d%20openingsbeeld.png"
+      ],
+      "definitions": [
+        "a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating",
+        "(basketball) a space (including the foul line) in front of the basket at each end of a basketball court; usually painted a different color from the rest of the court",
+        "makeup consisting of a pink or red powder applied to the cheeks"
+      ]
+    },
+    {
+      "id": "dust",
+      "image_urls": [
+        "https://www.nioz.nl/application/files/5616/1407/2191/64PE482-dust2021-sticker.png",
+        "https://cdn.staticcrate.com/stock-hd/effects/footagecrate-disintegration-dust-surface-1-prev-full.png",
+        "https://cdn.werkenmetmerken.nl/img/Kontakt-Chemie_Dust_Off_HF-t-500x333.png",
+        "https://www.pastglobalchanges.org/sites/default/files/download/docs/magazine/2014-2/images/Fig%201_Dust%20in%20climate_L_opt.png",
+        "https://product-images.weber.com/accessory-images/17614_Smoking-Dust-Beech_Side_REV.png"
+      ],
+      "definitions": [
+        "fine powdery material such as dry earth or pollen that can be blown about in the air",
+        "the remains of something that has been destroyed or broken up",
+        "free microscopic particles of solid material"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://de-garage.com/wp-content/uploads/2020/03/logo_degaragewebsite.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "closet",
+      "image_urls": [
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/_1200x630_crop_center-center_82_none/pocket-closet.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/pocket-closet/Pocket_Closet_Medium_Oak.png",
+        "https://prestonhollow.advocatemag.com/wp-content/uploads/sites/8/2021/03/LH_PH_ED_Illustration-10.png",
+        "https://d309m4gu6gj54l.cloudfront.net/media/Products/Pocket_Closet_Medium_Oak-Side.png",
+        "https://www.closetsbyliberty.com/wp-content/uploads/2020/03/8-foot-traditional-empty.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space",
+        "a toilet in Britain",
+        "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+        "a small private room for study or prayer"
+      ]
+    },
+    {
+      "id": "corner",
+      "image_urls": [
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/ORO1N1N1/logo_465x320.png",
+        "https://my.pocketmenu.nl/uploads/files/websites/the-corner-amsterdam/logo.png",
+        "https://static.takeaway.com/images/restaurants/nl/QO5N7PO/logo_465x320.png",
+        "https://static.takeaway.com/images/restaurants/nl/N7PQRRO/logo_465x320.png",
+        "https://www.woutmonseurs.nl/wp-content/uploads/2018/03/corner4.png"
+      ],
+      "definitions": [
+        "a place off to the side of an area",
+        "the point where two lines meet or intersect",
+        "an interior angle formed by two meeting walls",
+        "the intersection of two streets",
+        "the point where three areas or surfaces meet or intersect",
+        "a small concavity",
+        "a temporary monopoly on a kind of commercial trade",
+        "a predicament from which a skillful or graceful escape is impossible",
+        "a projecting part where two sides or edges meet",
+        "a remote area",
+        "(architecture) solid exterior angle of a building; especially one formed by a cornerstone"
+      ]
+    },
+    {
+      "id": "windowsill",
+      "image_urls": [
+        "https://cdn0.iconfinder.com/data/icons/nuuline-fill-interior-home-decoration/150/home_decoration_interior-09-512.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/02/Windowsill-breeze-Scentsy-waxbar.png",
+        "https://www.comhan.com/sites/default/files/styles/type_smal/public/waterslagen_35sl_15deg_waterslag_35sl_190mm_w-image1.png",
+        "https://thescentedlife.nl/wp-content/uploads/2020/10/Scentsy-vloeibaar-wasmiddel-windowsill-breeze.png",
+        "https://www.seekpng.com/png/full/763-7631869_how-to-design-a-windowsill-flower-box-window.png"
+      ],
+      "definitions": [
+        "the sill of a window; the horizontal member at the bottom of the window frame"
+      ]
+    },
+    {
+      "id": "door",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/8/8c/Spruce_Door_JE3_BE2.png",
+        "https://5.imimg.com/data5/TO/QB/NS/SELLER-23260062/polished-plywood-door-500x500.png",
+        "https://mhb.eu/wp-content/uploads/2019/11/3d-rendering-front-view-of-MHB-steel-partial-lock-mullion-doors-768x512.png",
+        "https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/blt44e18085c1b9ac70/609e81f28c053e542a587954/parts-of-a-door.png",
+        "https://www.starkdoor.com/external/Website_HTML/images/steel-single-door.png"
+      ],
+      "definitions": [
+        "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+        "the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close",
+        "anything providing a means of access (or escape)",
+        "a structure where people live or work (usually ordered along a street or road)",
+        "a room that is entered via a door"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "funeral",
+      "image_urls": [
+        "https://www.uitvaartbloemen.com/contents/media/k_500801118-Volop-in-het-leven-ovaal.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Herinnering-Rouwboeket.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/rouwboeket-kleurrijk.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Oneindig-Gegroepeerd-300x300.png",
+        "https://www.fdanz.co.nz/assets/Nature_Kowhai-Whitewash-with-spray__ResizedImageWzgwMCw1MzNd.png"
+      ],
+      "definitions": [
+        "a ceremony at which a dead person is buried or cremated"
+      ]
+    },
+    {
+      "id": "synagogue",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://static.wikia.nocookie.net/scribblenauts/images/9/92/Synagogue.png",
+        "https://cdn.emojidex.com/emoji/seal/synagogue.png",
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://cdn.icon-icons.com/icons2/1448/PNG/512/42506synagogue_98941.png"
+      ],
+      "definitions": [
+        "(Judaism) the place of worship for a Jewish congregation"
+      ]
+    },
+    {
+      "id": "hairbrush",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0025/1478/0219/products/pink-wet-dry-detangling-hairbrush.png",
+        "https://arunny.com/wp-content/uploads/2020/06/Banbu-hairbrush-arunny-zero-waste-store-0-2.png",
+        "https://www.parsa-beauty.de/media/image/47/e0/ae/00071325-200010-PARSABeauty-HaarbuersteCarbon-01.png",
+        "https://sweetsistersbodycare.com/wp-content/uploads/2019/10/HairBrush.png",
+        "https://cdn-ec.niceshops.com/upload/image/product/large/default/glov-hair-brush-1456641-nl.png"
+      ],
+      "definitions": [
+        "a brush used to groom a person's hair"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "person",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/1674/PNG/512/person_110935.png",
+        "https://cargonaut.nl/wp-content/uploads/2019/06/person-icon-silhouette-png-0.png",
+        "https://freeyourmindexperience.com/wp-content/uploads/person-icon-person-icon-clipart-image-from-our-icon-clipart-category-9-500x500.png",
+        "https://static-00.iconduck.com/assets.00/person-icon-486x512-eeiy7owm.png",
+        "https://www.freeiconspng.com/thumbs/human-icon-png/white-person-icon-png-people-black-icon-png-persons-12.png"
+      ],
+      "definitions": [
+        "a human being",
+        "a human body (usually including the clothing)",
+        "a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party"
+      ]
+    },
+    {
+      "id": "battlefield",
+      "image_urls": [
+        "https://www.nvidia.com/content/dam/en-zz/Solutions/GeForce/campaigns/battlefield-2042/geforce-rtx-battlefield2042-bundle-items-t@2x.png",
+        "https://cdkeys.nu/wp-content/uploads/2021/02/battlefield5.png",
+        "https://media.contentapi.ea.com/content/dam/gin/common/logos/bfv-logo-white.png",
+        "https://media.contentapi.ea.com/content/dam/casablanca/common/logoimage-v2.png",
+        "https://shop.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-black-sn750-se-nvme-battlefield-bundle-ssd/gallery/wd-black-sn750-se-nvme-battlefield-bundle-ssd-set.png"
+      ],
+      "definitions": [
+        "a region where a battle is being (or has been) fought"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "palace",
+      "image_urls": [
+        "https://palace-gieten.nl/wp-content/uploads/2019/12/cropped-Palace-logo-1.png",
+        "https://palacehotel.nl/wp-content/uploads/2020/12/logo-palace-hotel-noordwij-new.png",
+        "https://d2zr9w65gdacs9.cloudfront.net/57628/pp-logo-2020-resort-rgb1599553800logo.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/O1NQN031/logo_465x320.png",
+        "https://static.wikia.nocookie.net/forgeofempires/images/c/c9/Palace.png"
+      ],
+      "definitions": [
+        "a large and stately mansion",
+        "the governing group of a kingdom",
+        "a large ornate exhibition hall",
+        "official residence of an exalted person (as a sovereign)"
+      ]
+    },
+    {
+      "id": "hospital",
+      "image_urls": [
+        "https://images.trafficsupply.nl/imgfill/800/800/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://images.trafficsupply.nl/imgsrc/504/640/i-118355-050/verkeersbord-rvv-bw101-hospitaal.png",
+        "https://ramboll.com/-/media/files/ramboll-fonden/h/hospital-icons3.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXadDGDIpUtxr0qClFU1a8_vMbEd0a-SEDnnm4-grD1cDYkKIl9oajcZYVcnaJ3e1zG4MefT_BXAai2yhtwOtK0nO3Pv9axEw0Wj.png",
+        "https://photos.healthgrades.com/homeimages/find-a-hospital.png"
+      ],
+      "definitions": [
+        "a health facility where patients receive treatment",
+        "a medical institution where sick or injured people are given medical or surgical care"
+      ]
+    },
+    {
+      "id": "morgue",
+      "image_urls": [
+        "https://www.inspital.com/inspital/dosyalar/urun/392/849.png",
+        "https://sc04.alicdn.com/kf/H015756620eb04076bd6b348818332a7cg.png",
+        "https://zhendre.com/wp-content/uploads/2019/04/schema-container-morgue-mobile-e1558346611475.png",
+        "https://www.inspital.com/inspital/dosyalar/urun/393/843.png",
+        "https://seattlehaunts.com/wp-content/uploads/2020/05/logo_wide.png"
+      ],
+      "definitions": [
+        "a building (or room) where dead bodies are kept before burial or cremation"
+      ]
+    },
+    {
+      "id": "death",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/The_death.svg/1200px-The_death.svg.png",
+        "https://static.wikia.nocookie.net/darksiders/images/4/4a/Death_Render.png",
+        "https://static.wikia.nocookie.net/runescape2/images/b/ba/Harold_Death_Esquire.png",
+        "https://acourseindying.com/wp-content/uploads/2020/12/20-1024x1024.png",
+        "https://discworld.com/management/wp-content/uploads/2019/10/discworld-death-death-of-rats-1-e1585580903664-400x400.png"
+      ],
+      "definitions": [
+        "the event of dying or departure from life",
+        "the permanent end of all life functions in an organism or part of an organism",
+        "the absence of life or state of being dead",
+        "the time when something ends",
+        "the time at which life ends; continuing until dead",
+        "the personification of death",
+        "a final state",
+        "the act of killing"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png",
+        "https://www.hillhouttuinhout.nl/images/180x180/r/products/8711471201873_1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "blood",
+      "image_urls": [
+        "https://www.paho.org/sites/default/files/styles/max_650x650/public/2021-06/2021blood-donor-digital-sticker-eng_0.png",
+        "https://files.facepunch.com/rust/item/blood_512.png",
+        "https://img1.picmix.com/output/stamp/normal/7/5/1/4/874157_baca2.png",
+        "https://cdn.kastatic.org/ka-perseus-images/8b58582c697c7bc7cc83755edbb599218f8164fe.png",
+        "https://static.wikia.nocookie.net/shinobi-life-2-reel/images/b/b5/Blood.png"
+      ],
+      "definitions": [
+        "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",
+        "temperament or disposition",
+        "a dissolute man in fashionable society",
+        "the descendants of one individual",
+        "people viewed as members of a group"
+      ]
+    },
+    {
+      "id": "demonstration",
+      "image_urls": [
+        "https://eindhovennews.com/wp-content/uploads/2021/05/Protest-Crowds.png",
+        "https://cdn2.iconfinder.com/data/icons/university-tuition-and-college-1/140/Icons-01-512.png",
+        "https://cdn.dataworks-ed.com/wordpress-content/uploads/20200127152945/LessonDemonstration_02.png",
+        "https://cdn4.iconfinder.com/data/icons/miscellaneous-6-1/128/demo_exhibition_demonstration-512.png",
+        "https://static.thenounproject.com/png/1923465-200.png"
+      ],
+      "definitions": [
+        "a show or display; the act of presenting something to sight or view",
+        "a show of military force or preparedness",
+        "a public display of group feelings (usually of a political nature)",
+        "proof by a process of argument or a series of proposition proving an asserted conclusion",
+        "a visual presentation showing how something works"
+      ]
+    },
+    {
+      "id": "animals",
+      "image_urls": [
+        "https://static01.nyt.com/newsgraphics/2021/01/17/animals/assets/images/topper-05-2000_x2.png",
+        "https://images-na.ssl-images-amazon.com/images/I/81OgExwTtJL.png",
+        "https://static01.nyt.com/newsgraphics/2021/01/17/animals/assets/images/animals-body-text-2000.png",
+        "https://www.animalstofly.com/wp-content/uploads/2020/03/3.png",
+        "https://cdn.dribbble.com/users/1085845/screenshots/14180839/media/261712cb5bbc171decbf70f10bb38822.png"
+      ],
+      "definitions": [
+        "a living organism characterized by voluntary movement"
+      ]
+    },
+    {
+      "id": "war",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABS20-qCwjFfAqjmqhKgbrFocFMAu4mn91dOdXfuBnga9SpwgkqndM9qEGu4Efo0iDRB5twLYBtooSBepCq0UHjBiytkfB62sIpn_.png",
+        "https://occ-0-1068-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdBXIsf7XKzSRbMsyNJLnWP3W2LOdPHxZaVqN_txZeTQv7tsrRwKVFjf7yYoAZ3j57b5G18Ch0TJw7o2dmhlSWGSSkN8EYHrS4pG.png",
+        "https://www.eur.nl/sites/corporate/files/styles/responsive_w550/public/2020-03/stage_of_war_logo.png",
+        "https://liquipedia.net/commons/images/0/02/TeamWaR.png",
+        "https://images.squarespace-cdn.com/content/v1/5c9a37bc29f2cc36500cb161/1554313263882-UTBTII9794XN0950Q1KQ/this+is+war+logo.png"
+      ],
+      "definitions": [
+        "the waging of armed conflict against an enemy",
+        "a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply",
+        "an active struggle between competing entities",
+        "a concerted campaign to end something that is injurious"
+      ]
+    }
+  ]
+}

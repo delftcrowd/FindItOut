@@ -1,0 +1,255 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "bowl",
+      "image_urls": [
+        "https://www.shinzo.nl/wp-content/uploads/2020/11/pokebowl-sake.png",
+        "https://www.shinzo.nl/wp-content/uploads/2020/11/pokebowl-tori.png",
+        "https://www.matthewsstudio.ca/wp-content/uploads/2020/07/Black-Ash-Round-Bowl-Traditional-Edge-1-1.png",
+        "https://sushiexpress.lt/wp-content/uploads/2018/10/B2.-Sake-poke-bowl.png",
+        "https://bylassen.com/wp-content/uploads/2021/06/21002_pack.png"
+      ],
+      "definitions": [
+        "a round vessel that is open at the top; used chiefly for holding food or liquids",
+        "a concave shape with an open top",
+        "a dish that is round and open at the top for serving foods",
+        "the quantity contained in a bowl",
+        "a large structure for open-air sports or entertainments",
+        "a large ball with finger holes used in the sport of bowling",
+        "a wooden ball (with flattened sides so that it rolls on a curved course) used in the game of lawn bowling",
+        "a small round container that is open at the top for holding tobacco",
+        "the act of rolling something (as the ball in bowling)"
+      ]
+    },
+    {
+      "id": "carrots",
+      "image_urls": [
+        "https://www.dutchcarrotgroup.nl/sites/default/files/Dutch_Carrot_Group_wortel_middenmeer_2_small_0.png",
+        "https://images.squarespace-cdn.com/content/v1/5c5010745ffd207fb284b0f3/1613582014883-HNFJVZYY1ML1Z1MK2P4O/carrots.png",
+        "https://www.dutchcarrotgroup.nl/sites/default/files/Dutch_Carrot_Group_wortel_middenmeer_1_small_0.png",
+        "https://www.dutchcarrotgroup.nl/sites/default/files/Dutch_Carrot_Group_wortel_middenmeer_3_small_0.png",
+        "https://static.wikia.nocookie.net/miscreated/images/4/40/Carrots_2048.png"
+      ],
+      "definitions": [
+        "deep orange edible root of the cultivated carrot plant",
+        "perennial plant widely cultivated as an annual in many varieties for its long conical orange edible roots; temperate and tropical regions",
+        "orange root; important source of carotene",
+        "promise of reward as in"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "store",
+      "image_urls": [
+        "https://img.icons8.com/color/384/000000/small-business.png",
+        "https://cdn-prod.scalefast.com/public/assets/themes/bandai-namco-store-eu/images/new-icons/STORE-Orange.png",
+        "https://img.icons8.com/color/384/000000/shopping-cart-loaded.png",
+        "https://www.therepairhouse.com/wp-content/uploads/2020/01/play-store-300x300.png",
+        "https://store-haarlem.nl/sites/default/files/assets/pg_image/store_slim_gevonden.png"
+      ],
+      "definitions": [
+        "a mercantile establishment for the retail sale of goods or services",
+        "a supply of something available for future use",
+        "an electronic memory device",
+        "a depository for goods"
+      ]
+    },
+    {
+      "id": "potatoes",
+      "image_urls": [
+        "https://www.hzpc.com/uploads/overview-transparent-896/e3e6d564-9cc9-505f-b6c4-95fc3c75dabf/3175818934/Taurus.png",
+        "https://www.hzpc.com/uploads/overview-transparent-896/dc78aee8-3f50-5ba8-b8d3-6cf74852aa2b/3175818931/Colomba%20%282%29.png",
+        "https://www.befreshproduce.com/images/cache/afbeeldingen/products/potatoes/Potatoes-Regular_WEB-max-w600.png",
+        "https://www.braegateproduce.co.uk/wp-content/uploads/2018/11/potatoes.png",
+        "https://static.wikia.nocookie.net/miscreated/images/0/0f/PotatoesRotten_2048.png"
+      ],
+      "definitions": [
+        "an edible tuber native to South America; a staple food of Ireland",
+        "annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+      ]
+    },
+    {
+      "id": "market",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/56e1627f8a65e25092e7dfae/1471463891105-TM5D0G79NKQNDD7GLJXR/image-asset.png",
+        "https://www.grandviewresearch.com/static/img/research/us-virtual-reality-market-size.png",
+        "https://cdn.shopify.com/s/files/1/0375/7149/3947/files/smartmarket-stempel1_60df79f3-8597-4628-85c0-0475683b5431_300x300.png",
+        "https://newzoo.com/wp-content/uploads/2017/04/esports-market-report-chart.png",
+        "https://gourmetmarket.nl/wp-content/uploads/2020/12/LogotilburgGM.png"
+      ],
+      "definitions": [
+        "the world of commercial activity where goods and services are bought and sold",
+        "the customers for a particular product or service",
+        "a marketplace where groceries are sold",
+        "the securities markets in the aggregate",
+        "an area in a town where a public mercantile establishment is set up"
+      ]
+    },
+    {
+      "id": "cupboard",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Cupboard/image-thumb__1844__height_500/paper-cupboard-closed300.png",
+        "https://images.selency.com/02c43eea-a9d1-4258-891d-7a6a58003d5f/cupboard_original.png",
+        "https://images.selency.com/d52ea9c3-b466-4afe-b1ec-aa5402c5d913/lemon-cupboard_original.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/01/SC8-with-path.png",
+        "https://www.presentdaze.co.uk/ekmps/shops/presentdaze/images/cornish-oak-large-cupboard-16411-p.png"
+      ],
+      "definitions": [
+        "a small room (or recess) or cabinet used for storage space"
+      ]
+    },
+    {
+      "id": "field",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Relativistic_gravity_field_%28physics%29.svg/350px-Relativistic_gravity_field_%28physics%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Electric_Field_Lines.svg/1200px-Electric_Field_Lines.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/51b8af35e4b06011310c1770/1467997527131-S7A5ILMMPDJVJ7VMHNL8/Logo+FF_DEF-01.png",
+        "https://www.nikon.nl/imported/images/web/EU/products/software/nx_field/images/nikon_software_nx_field__Get_Original_.png",
+        "https://i2.wp.com/analystanswers.com/wp-content/uploads/2021/04/combo-1.png"
+      ],
+      "definitions": [
+        "a piece of land cleared of trees and usually enclosed",
+        "a region where a battle is being (or has been) fought",
+        "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+        "a branch of knowledge",
+        "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it",
+        "a particular kind of commercial enterprise",
+        "a particular environment or walk of life",
+        "a piece of land prepared for playing a game",
+        "extensive tract of level open land",
+        "(mathematics) a set of elements such that addition and multiplication are commutative and associative and multiplication is distributive over addition and there are two elements 0 and 1",
+        "a region in which active military operations are in progress",
+        "all of the horses in a particular horse race",
+        "all the competitors in a particular contest or sporting event",
+        "a geographic region (land or sea) under which something valuable is found",
+        "(computer science) a set of one or more adjacent characters comprising a unit of information",
+        "the area that is visible (as through an optical instrument)",
+        "a place where planes take off and land"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "grape",
+      "image_urls": [
+        "https://fruitmasters.com/wp-content/uploads/2020/04/2020_Packshot_Druiven_500x500px-300x300.png",
+        "https://www.natureandmore.com/sites/www.natureandmore.com/files/styles/zijbalk/public/product/thumb/druiven_kopieeren.png",
+        "https://www.van-amerongen.com/image/catalog/Fruit%20storage/fruit/druiven.png",
+        "https://pbs.twimg.com/profile_images/1438067929594142724/fRsuAlcV_400x400.png",
+        "https://www.antilliaanse-toko.nl/media/catalog/product/cache/1ca3c8b1c6458f0eb1a5e1747c261955/f/a/fanta_grape.png"
+      ],
+      "definitions": [
+        "any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters",
+        "any of numerous woody vines of genus Vitis bearing clusters of edible berries",
+        "a cluster of small projectiles fired together from a cannon to produce a hail of shot"
+      ]
+    },
+    {
+      "id": "refrigerator",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://media.croma.com/image/upload/v1621837056/Croma%20Assets/Large%20Appliances/Refrigerator/Images/234479_bjrrxe.png",
+        "https://na2.electroluxmedia.com/Transparent/Electrolux/Electrolux%20Assets/Images/Product%20Photography/ERMC2295AS-HOV_012.png"
+      ],
+      "definitions": [
+        "white goods in which food can be stored at low temperatures"
+      ]
+    },
+    {
+      "id": "soup",
+      "image_urls": [
+        "https://res.cloudinary.com/general-mills/image/upload/q_auto,f_auto/annies/wp-content/uploads/2019/11/Organic-Meatball-Soup-with-Pasta-and-Vegetables.png",
+        "https://www.jacobsdouweegbertsprofessional.nl/siteassets/packshots/meer/soep/unox_cas_140ml_groente_rightangle_lr_v2.png",
+        "https://vinceandjoes.com/wp-content/uploads/2020/04/CHICKEN_NOODLE_SOUP_shutterstock_1041988957_clipped_rev_1.png",
+        "https://d36rz30b5p7lsd.cloudfront.net/kraftbrands/heinzcouk/soup/product/images/Classic/Vegetable.png",
+        "https://www.jacobsdouweegbertsprofessional.nl/siteassets/packshots/meer/soep/unox_cas_140ml_erwt_rightangle_lr_v2.png"
+      ],
+      "definitions": [
+        "liquid food especially of meat or fish or vegetable stock often containing pieces of solid food",
+        "any composition having a consistency suggestive of soup",
+        "an unfortunate situation"
+      ]
+    },
+    {
+      "id": "salad",
+      "image_urls": [
+        "https://www.urbansalad.nl/wp-content/uploads/2017/11/Asian-chicken-salad.png",
+        "https://coquinaria.nl/wp-content/uploads/Zomersla-kl.png",
+        "https://images.squarespace-cdn.com/content/v1/5cbf5a350cf57df7fb43982e/1576812082405-5FGHI5OD7CS3YDOGUY0B/Just-a-beginner.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Item_Suspicious_Satisfying_Salad.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/NQQ7ON5/logo_465x320.png"
+      ],
+      "definitions": [
+        "food mixtures either arranged on a plate or tossed and served with a moist dressing; usually consisting of or including greens"
+      ]
+    },
+    {
+      "id": "cellar",
+      "image_urls": [
+        "https://www.cellar33.nl/wp-content/uploads/2019/11/product_placeholder-min.png",
+        "https://airsource.co.uk/static/cellar2/img/search-n-sort-mob%402x.png",
+        "https://images.vivino.com/thumbs/maI-HAyKRHGACeSFl4wTgQ_pb_x600.png",
+        "https://static.whiskybase.com/storage/whiskies/1/8/0369/312054-normal.png",
+        "https://images.vivino.com/thumbs/FCm5JhOvQK-abOyZszXa4Q_pl_375x500.png"
+      ],
+      "definitions": [
+        "the lowermost portion of a structure partly or wholly below ground level; often used for storage",
+        "an excavation where root vegetables are stored",
+        "storage space where wines are stored"
+      ]
+    }
+  ]
+}

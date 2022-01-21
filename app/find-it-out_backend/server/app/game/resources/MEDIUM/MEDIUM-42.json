@@ -1,0 +1,258 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "people",
+      "image_urls": [
+        "https://www.people-payment.nl/wp-content/uploads/2019/05/people-paymentfavicon-512x512px.png",
+        "https://acadal.com/wp-content/uploads/2019/12/poeple-led-growth.png",
+        "https://epeople.nl/wp-content/uploads/2016/08/slide-epeople.png",
+        "https://www.mendonpeople.nl/userfiles/mendonpeople.nl/images/Logo-Mendon%20People%20PNG.png",
+        "https://peopleintouch.com/wp-content/uploads/2019/11/logo-people-intouch.png"
+      ],
+      "definitions": [
+        "(plural) any group of human beings (men or women or children) collectively",
+        "the body of citizens of a state or country",
+        "members of a family line",
+        "the common people generally"
+      ]
+    },
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.stekkies.com/static/blog/img/zuidoost.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.noi14.com/img/plattegronden/1.3.a.png",
+        "https://www.stekkies.com/static/blog/img/zeeburg.png",
+        "https://www.stekkies.com/static/blog/img/westpoort.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "synagogue",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://static.wikia.nocookie.net/scribblenauts/images/9/92/Synagogue.png",
+        "https://cdn.emojidex.com/emoji/seal/synagogue.png",
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://cdn.icon-icons.com/icons2/1448/PNG/512/42506synagogue_98941.png"
+      ],
+      "definitions": [
+        "(Judaism) the place of worship for a Jewish congregation"
+      ]
+    },
+    {
+      "id": "earth",
+      "image_urls": [
+        "https://rooskcb.nl/wp-content/uploads/2016/05/earth-blue-planet-globe-planet-41953.png",
+        "https://nineplanets.org/wp-content/uploads/2019/09/earth.png",
+        "https://static.wikia.nocookie.net/warframe/images/1/1e/Earth.png",
+        "https://s.yimg.com/cv/apiv2/welovetheearth/images/optimized/earth-hug.png",
+        "https://copernicus-masters.com/wp-content/uploads/2021/04/CopMa_Stage_Pics-01-565x517.png"
+      ],
+      "definitions": [
+        "the 3rd planet from the sun; the planet we live on",
+        "the loose soft material that makes up a large part of the land surface",
+        "the solid part of the earth's surface",
+        "the abode of mortals (as contrasted with Heaven or Hell)",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "the concerns of this life as distinguished from heaven and the afterlife",
+        "a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)"
+      ]
+    },
+    {
+      "id": "conference",
+      "image_urls": [
+        "https://one-conference.nl/uploads/21402040_ECP_One-conference-2021.png",
+        "https://conference.issa.nl/sites/default/files/ISSA_Conference.png",
+        "https://www.eden-online.org/wp-content/uploads/2021/01/madrid_website_header_madrid-news-transparent-01.png",
+        "https://www.iaoms.org/IAOMS/assets/File/IAOMS-Virtual-Conference-logo.png",
+        "https://www.idlo.int/sites/default/files/images/SDG16%20Conference%20News%20Updates_1.png"
+      ],
+      "definitions": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+        "an association of sports teams that organizes matches for its members",
+        "a discussion among participants who have an agreed (serious) topic"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "image_urls": [
+        "https://www.superunie.nl/app/uploads/2019/06/deen.png",
+        "https://www.emresupermarkt.nl/wp-content/uploads/2018/10/logo.png",
+        "https://image.flaticon.com/icons/png/512/13/13963.png",
+        "https://www.excellentesl4u.com/images/1399319774-800px.png",
+        "https://enterrasolutions.com/wp-content/uploads/2020/03/Planogram-soft-edges.png"
+      ],
+      "definitions": [
+        "a large self-service grocery store selling groceries and dairy products and household goods"
+      ]
+    },
+    {
+      "id": "tent",
+      "image_urls": [
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9697.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9736.png",
+        "https://www.tentrotterdam.nl/wp-content/uploads/2015/06/Schermafbeelding-2015-06-16-om-17.08.09.png",
+        "https://www.kampeerdump.nl/media/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/t/e/tent_streeterville.png",
+        "https://www.canvascamp.com/media/seo/2/product/600x600/f/l/flex_150_bedouin_party_tent_fashion_show.png"
+      ],
+      "definitions": [
+        "a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs)",
+        "a web that resembles a tent or carpet"
+      ]
+    },
+    {
+      "id": "wedding",
+      "image_urls": [
+        "https://www.jimdo.com/static/c4e8e6e4d1dbcbfde85d54227dd9685f/21dd8/picture.png",
+        "https://cdn.chowsangsang.com/eshop/hk/newweb/collection/2021/wedding/kv01_mobile.png",
+        "https://static.showit.co/1200/DmdiN1rsRoGPZE8inKX5ZQ/122969/honeybee_weddings_winter_wedding-100.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABactul89A47zMsHq8nvh7vTPNIKnRRSUC5QYJ6VJ25f-JSHPySxx8qz7dzUXlmj1BpRrGwWfCAM2Er7kK-dz8Z-5eu5Kfh5Arua5.png",
+        "https://cdn.shopify.com/s/files/1/0528/9567/8657/files/Wedding_round_a34997f1-d3cd-41f5-9521-dbb0af57238e_480x480.png"
+      ],
+      "definitions": [
+        "the social event at which the ceremony of marriage is performed",
+        "the act of marrying; the nuptial ceremony",
+        "a party of people at a wedding"
+      ]
+    },
+    {
+      "id": "body",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Human_body_features-cs.svg/1200px-Human_body_features-cs.svg.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://www.medical-acupuncture.co.uk/portals/0/BMAS%20files/Body%20diagrams/body%20male%20line%202.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Adult_male_diagram_template.svg/1200px-Adult_male_diagram_template.svg.png"
+      ],
+      "definitions": [
+        "the entire physical structure of an organism (an animal, plant, or human being)",
+        "a group of persons associated by some common tie or occupation and regarded as an entity",
+        "a natural object consisting of a dead animal or person",
+        "an individual 3-dimensional object that has mass and that is distinguishable from other objects",
+        "the body excluding the head and neck and limbs",
+        "a collection of particulars considered as a system",
+        "the property of holding together and retaining its shape",
+        "the central message of a communication",
+        "the main mass of a thing",
+        "a resonating chamber in a musical instrument (as the body of a violin)",
+        "the external structure of a vehicle"
+      ]
+    },
+    {
+      "id": "convention",
+      "image_urls": [
+        "https://www.youthconvention.eu/images/european-youth-convention.png",
+        "https://eecentre.org/wp-content/uploads/2019/05/Logo-ROTTERDAM-CONVENTION.png",
+        "https://convention-europe.com/wp-content/uploads/2020/06/StrategicAlliance_Logo_Nachbau_2019.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/convention-3931543db942646804f839994ea4086017221d9c.png",
+        "https://www.conventioncitoyennepourleclimat.fr/wp-content/uploads/2019/08/logo-2.png"
+      ],
+      "definitions": [
+        "a large formal assembly",
+        "something regarded as a normative example",
+        "(diplomacy) an international agreement",
+        "orthodoxy as a consequence of being conventional",
+        "the act of convening"
+      ]
+    },
+    {
+      "id": "skin",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Human_skin_structure.svg/1200px-Human_skin_structure.svg.png",
+        "https://pcaskinacademy.com/wp-content/uploads/2020/07/skin-anatomy-illustration@2x-768x0-c-default.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Human_skin_structure.svg/250px-Human_skin_structure.svg.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/014175_A.png",
+        "https://www.dermalogica.nl/media/catalog/product/cache/c565f69dfaba233eac489acb3ca367b2/s/k/skin_smoothing_cream_100_ml_1.png"
+      ],
+      "definitions": [
+        "a natural protective body covering and site of the sense of touch",
+        "an outer surface (usually thin)",
+        "body covering of a living animal",
+        "a person's skin regarded as their life",
+        "a member of any of several British or American groups consisting predominantly of young people who shave their heads; some engage in white supremacist and anti-immigrant activities and this leads to the perception that all skinheads are racist and violent",
+        "a person whose head is bald or shaved",
+        "the rind of a fruit or vegetable",
+        "a bag serving as a container for liquids; it is made from the hide of an animal"
+      ]
+    },
+    {
+      "id": "montana",
+      "image_urls": [
+        "https://veldhuyzenkaas.nl/wp-content/uploads/2016/08/montana-intenso-groep-met-blokjes.png",
+        "https://tiogatours.nl/dynamic/img/amerika/montana/seal.6.b958.png",
+        "https://mt.gov/images/mtmap.png",
+        "https://cdn.werkenmetmerken.nl/img/Montana_Gold_5-t-500x333.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/QR11N/logo_465x320.png"
+      ],
+      "definitions": [
+        "a state in northwestern United States on the Canadian border"
+      ]
+    },
+    {
+      "id": "opera",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Opera_2015_icon.svg/1200px-Opera_2015_icon.svg.png",
+        "https://img.ashampoo.com/images/products/partner0115/boxshot.png"
+      ],
+      "definitions": [
+        "a drama set to music; consists of singing with orchestral accompaniment and an orchestral overture and interludes",
+        "a commercial browser",
+        "a building where musical dramas are performed"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5df20135260107019ff99900/1578328159952-CLFJE7ZHZ9T8XWEC68GC/The+Church+of+England+logo+Version+1.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://bankinter.moneytown.es/images/city_home.png",
+        "https://www.town.nl/parkned.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    },
+    {
+      "id": "theater",
+      "image_urls": [
+        "https://d2zr9w65gdacs9.cloudfront.net/34120/tr-logo-aubergine-rgb1496167546logo1570193843logo.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/afas-theater-afbeelding%20algemeen2.png",
+        "https://zirkzee.nl/wp-content/uploads/2020/01/logo_pstheater.png",
+        "https://theaterbabelrotterdam.nl/wp-content/uploads/2018/04/2731B29E-098E-4F9E-96C9-86C045740438@lonnewennekendonk.nl_-300x206.png",
+        "https://www.theaterwalhalla.nl/wp-content/uploads/2018/03/wal.png"
+      ],
+      "definitions": [
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "the art of writing and producing plays",
+        "a region in which active military operations are in progress"
+      ]
+    }
+  ]
+}

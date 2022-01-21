@@ -1,0 +1,124 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "jacket",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/5/58A/58A094/08PF0002/58A094_08P_F0002_SLF.png",
+        "https://smhttp-ssl-65481.nexcesscdn.net/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/s/p/spidi_premium_leather_3.png",
+        "https://smhttp-ssl-65481.nexcesscdn.net/media/catalog/product/cache/9/image/9df78eab33525d08d6e5fb8d27136e95/s/p/spidi_allroad_black.png",
+        "https://cdn.boards-and-more.com/system/product_picture_gallery_pictures/files/5eda/092c/37bb/0900/d700/0139/original/47900-5483_ION---Windbreaker-Jacket-Shelter_787-ocean-blue_back.png",
+        "https://www.rohnisch.com/on/demandware.static/-/Sites-rohnisch-catalog/default/dwacbcb97f/Hi-res/110306_T187_P2.png"
+      ],
+      "definitions": [
+        "a short coat",
+        "an outer wrapping or casing",
+        "(dentistry) dental appliance consisting of an artificial crown for a broken or decayed tooth",
+        "the outer skin of a potato",
+        "the tough metal shell casing for certain kinds of ammunition"
+      ]
+    },
+    {
+      "id": "umbrella",
+      "image_urls": [
+        "https://www.rohnisch.com/on/demandware.static/-/Sites-rohnisch-catalog/default/dw33ff0748/Hi-res/570253_T089_P3.png",
+        "https://www.francescomaglia.it/wp-content/uploads/2021/06/COPANELLO_ivory_umbrella_entire.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Umbrella-159361.svg/1200px-Umbrella-159361.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Umbrella_Corporation_logo.svg/1200px-Umbrella_Corporation_logo.svg.png",
+        "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dw8bdff072/images/DIS/L1560CPA006_0.png"
+      ],
+      "definitions": [
+        "a lightweight handheld collapsible canopy",
+        "a formation of military planes maintained over ground operations or targets",
+        "having the function of uniting a group of similar things"
+      ]
+    },
+    {
+      "id": "banner",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/banner.png",
+        "https://i.pinimg.com/originals/a1/87/5f/a1875fd7e4ed58619f360fcf2a9bac49.png",
+        "https://www.mediandoweb.it/wp-content/uploads/2018/11/banner-rosso.png",
+        "https://gallery.yopriceville.com/var/albums/Free-Clipart-Pictures/Ribbons-and-Banners-PNG/Blue_Banner_Transparent_PNG_Clipart.png",
+        "https://cidol.it/wp-content/uploads/2020/09/logo-banner-colored.png"
+      ],
+      "definitions": [
+        "long strip of cloth or paper used for decoration or advertising",
+        "a newspaper headline that runs across the full page",
+        "any distinctive flag"
+      ]
+    },
+    {
+      "id": "cloak",
+      "image_urls": [
+        "https://mcishop.azureedge.net/mciassets/w_4_0040626_kim-canvas-short-cloak_550.png",
+        "https://mcishop.azureedge.net/mciassets/w_4_0065805_hibernus-medieval-hooded-cloak_550.png",
+        "https://www.medievalware.com/wp-content/uploads/2021/04/elven-cloak-1-600x600.png",
+        "https://mcishop.azureedge.net/mciassets/w_7_0063483_medieval-hooded-cloak-with-leather-fastener_550.png",
+        "https://mcishop.azureedge.net/mciassets/w_7_0076009_medieval-hooded-cloak_550.png"
+      ],
+      "definitions": [
+        "anything that covers or conceals",
+        "a loose outer garment"
+      ]
+    },
+    {
+      "id": "shield",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/9b/S.H.I.E.L.D._logo_NEW.png",
+        "https://upload.wikimedia.org/wikipedia/en/e/ef/S.H.I.E.L.D._%28Marvel_616_Universe%29.png",
+        "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/3/36/Captain_America_Shield.png",
+        "https://type40.com.au/wp-content/uploads/2016/09/WW-Shield-Front.png",
+        "https://static.wikia.nocookie.net/disney/images/d/de/SHIELD_black_trans.png"
+      ],
+      "definitions": [
+        "a protective covering or structure",
+        "armor carried on the arm to intercept blows",
+        "hard outer covering or case of certain organisms such as arthropods and turtles"
+      ]
+    },
+    {
+      "id": "blouse",
+      "image_urls": [
+        "https://www.america-today.com/on/demandware.static/-/Sites-at-master-catalog/default/dw4b6cb072/images/product/blouse-collar-britt-women-green-2232002042-530-f.png",
+        "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dwdd7e84ce/images/DIS/60681SEF204T36_0.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P45/P451E/1H51F0304/P451E_1H51_F0304_S_202_SLF.png",
+        "https://www.zattimarmi.it/wp-content/uploads/2018/11/Tolani-Megan-Long-Sleeve-Blouse-3.png",
+        "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dw8f825d3f/images/DIS/60724SOO127T40_0.png"
+      ],
+      "definitions": [
+        "a top worn by women"
+      ]
+    },
+    {
+      "id": "robe",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/V/VT8/VT8039/1ZR3F0009/VT8039_1ZR3_F0009_S_212_MDF.png",
+        "https://www.prada.com/content/dam/pradanux_products/V/VT6/VT6059/1ZR3F0009/VT6059_1ZR3_F0009_S_211_MDF.png",
+        "https://www.prada.com/content/dam/pradanux_products/V/VT8/VT8039/1ZR3F0009/VT8039_1ZR3_F0009_S_212_SLF.png",
+        "https://images.squarespace-cdn.com/content/v1/5737a1cf22482e97a84cb3ef/1587162036116-ZHTVR1YGTW1G0A4FGQV6/IMG_1714.png",
+        "https://matouk-website.imgix.net/spree/products/7765/original/Kiran_Robe_Sea_primary.png"
+      ],
+      "definitions": [
+        "any loose flowing garment",
+        "outerwear consisting of a long flowing garment used for official or ceremonial occasions"
+      ]
+    },
+    {
+      "id": "skirt",
+      "image_urls": [
+        "https://www.prada.com/content/dam/pradanux_products/P/P10/P103T/1ZBQF0964/P103T_1ZBQ_F0964_S_211_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/P/P11/P110TR/1ZCNF0518/P110TR_1ZCN_F0518_S_212_SLF.png",
+        "https://www.prada.com/content/dam/pradanux_products/1/131/131094/1YUEF0T21/131094_1YUE_F0T21_S_211_SLF.png",
+        "https://ae01.alicdn.com/kf/H199039964b084025bf0204f6984f0d68K/M-4XL-New-Summer-Preppy-Style-Purple-Plaid-Pleated-Skirt-Knee-length-Skirts-Female-High-Waist.png",
+        "https://www.longchamp.com/dw/image/v2/BCVX_PRD/on/demandware.static/-/Sites-LC-master-catalog/default/dw05253cc4/images/DIS/60746COT001T38_0.png"
+      ],
+      "definitions": [
+        "cloth covering that forms the part of a garment below the waist",
+        "a garment hanging from the waist; worn mainly by girls and women",
+        "(Fungi) a remnant of the partial veil that in mature mushrooms surrounds the stem like a collar",
+        "informal terms for a (young) woman"
+      ]
+    }
+  ]
+}

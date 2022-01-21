@@ -1,0 +1,135 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "stadium",
+      "image_urls": [
+        "https://www.stadium-models.com/static/stadiony/stadion-foto-12.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/stadium.png",
+        "https://www.mappedin.com/static/c99467d84f9bda74f44091ecc5b33baa/75b99/stadiums%20mobile.png",
+        "https://www.mappedin.com/static/9d5ff6c7e5ca164b511858d9cbbda3db/8282f/stadium%20split.png",
+        "https://www.wmstadium.com/uploads/stadium.png"
+      ],
+      "definitions": [
+        "a large structure for open-air sports or entertainments"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://www.houseofbeta.nl/app/uploads/2020/09/HoB-logo-cmyk-staand.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "college",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://collegelife.co/nl/wp-content/uploads/sites/14/2019/06/artboard-27-copy0.5x-400x270.png",
+        "https://www.wolfert.nl/college/wp-content/uploads/sites/2/2017/11/wolfert_college_compact_RGB_268x150px.png"
+      ],
+      "definitions": [
+        "the body of faculty and students of a college",
+        "an institution of higher education created to educate and grant degrees; often a part of a university",
+        "a complex of buildings in which an institution of higher education is housed"
+      ]
+    },
+    {
+      "id": "hotel",
+      "image_urls": [
+        "https://media.hrs.com/media/image/01/99/b7/hotel-dummy.png",
+        "https://www.thejames.nl/images/logo-the-james-gold.png",
+        "https://www.wijck.com/upload/producten/1024x1024/hotel-new-york-lijst15009154163.png",
+        "https://www.hotelfreeland.com/images/logo-hotel-freeland-full-white.png",
+        "https://www.thebudgethotel.nl/wp-content/uploads/2021/04/the-budget-hotel-diap-def.png"
+      ],
+      "definitions": [
+        "a building where travelers can pay for lodging and meals and other services"
+      ]
+    },
+    {
+      "id": "toilet",
+      "image_urls": [
+        "https://www.vanwalraven.com/media/products/616151.png",
+        "https://images.zeald.com/ic/englefieldnz/3857879627/Milano_QC%20QR_Flat%20button_1000x1000.png",
+        "https://images.zeald.com/ic/kohlerau/1516415331/IMG_TLT_ST_Parliamant%20BTW_1000x1000.png",
+        "https://spatoilet.com/site-spatoilet/storage/files/2663/spatoilet-vrijstaand.350x0-is.png",
+        "https://frissebips.nl/wp-content/uploads/2019/10/TOTO_Washlet_TCF801CG_Frissebips.png"
+      ],
+      "definitions": [
+        "a room or building equipped with one or more toilets",
+        "a plumbing fixture for defecation and urination",
+        "misfortune resulting in lost effort or money",
+        "the act of dressing and preparing yourself"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://duluthlibrary.org/media/11866/homeimage2.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://huson.nl/new/wp-content/uploads/2019/10/logo-huson-300x300.png",
+        "https://restaurant-yolo.com/wp-content/uploads/2020/06/YOLO-logo-transparent.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/03/Logo_allure_DEF.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    }
+  ]
+}

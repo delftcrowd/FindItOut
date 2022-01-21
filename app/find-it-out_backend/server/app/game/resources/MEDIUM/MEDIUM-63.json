@@ -1,0 +1,247 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "people",
+      "image_urls": [
+        "https://www.people-payment.nl/wp-content/uploads/2019/05/people-paymentfavicon-512x512px.png",
+        "https://acadal.com/wp-content/uploads/2019/12/poeple-led-growth.png",
+        "https://epeople.nl/wp-content/uploads/2016/08/slide-epeople.png",
+        "https://www.mendonpeople.nl/userfiles/mendonpeople.nl/images/Logo-Mendon%20People%20PNG.png",
+        "https://peopleintouch.com/wp-content/uploads/2019/11/logo-people-intouch.png"
+      ],
+      "definitions": [
+        "(plural) any group of human beings (men or women or children) collectively",
+        "the body of citizens of a state or country",
+        "members of a family line",
+        "the common people generally"
+      ]
+    },
+    {
+      "id": "synagogue",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://static.wikia.nocookie.net/scribblenauts/images/9/92/Synagogue.png",
+        "https://cdn.emojidex.com/emoji/seal/synagogue.png",
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://cdn.icon-icons.com/icons2/1448/PNG/512/42506synagogue_98941.png"
+      ],
+      "definitions": [
+        "(Judaism) the place of worship for a Jewish congregation"
+      ]
+    },
+    {
+      "id": "conference",
+      "image_urls": [
+        "https://one-conference.nl/uploads/21402040_ECP_One-conference-2021.png",
+        "https://conference.issa.nl/sites/default/files/ISSA_Conference.png",
+        "https://www.eden-online.org/wp-content/uploads/2021/01/madrid_website_header_madrid-news-transparent-01.png",
+        "https://www.iaoms.org/IAOMS/assets/File/IAOMS-Virtual-Conference-logo.png",
+        "https://www.idlo.int/sites/default/files/images/SDG16%20Conference%20News%20Updates_1.png"
+      ],
+      "definitions": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+        "an association of sports teams that organizes matches for its members",
+        "a discussion among participants who have an agreed (serious) topic"
+      ]
+    },
+    {
+      "id": "confession",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/confession-726caee4b2e3926945b36443b6ee51aa89a2b12a.png",
+        "https://static.ah.nl/static/gall/img_245309_Gall_500.png",
+        "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABXEQufo1G4IqxHgarsKgJ328c1xjuAklwaD8KSL4aqLOGUpBIxSmd4JVsejhTPtjuwPslyS0_ykCl3gNoHbmlVTV5WeiuGO0jW1O.png",
+        "https://images.squarespace-cdn.com/content/v1/576ed62829687f12f686b11c/1512445779791-4J0R9L6IHJLQKQMS2T2R/confession.png",
+        "https://cdn0.iconfinder.com/data/icons/christianity/544/catholic-church-jesus-008-512.png"
+      ],
+      "definitions": [
+        "an admission of misdeeds or faults",
+        "a written document acknowledging an offense and signed by the guilty party",
+        "(Roman Catholic Church) the act of a penitent disclosing his sinfulness before a priest in the sacrament of penance in the hope of absolution",
+        "a public declaration of your faith",
+        "the document that spells out the belief system of a given church (especially the Reformation churches of the 16th century)"
+      ]
+    },
+    {
+      "id": "auditorium",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/projects/404/5b63eb125797417.Y3JvcCwyMTI0LDE2NjIsMjI2LDA.png",
+        "https://centrocongressi.confindustria.it/wp-content/uploads/2016/05/planimetria_sala_auditorium_web.png",
+        "https://i.pinimg.com/originals/14/27/6a/14276a0892539c12bcf3fd6622eca119.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/afas-theater-afbeelding%20algemeen2.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/6/HL/CH/JE/123687968/chairs-5-250x250.png"
+      ],
+      "definitions": [
+        "the area of a theater or concert hall where the audience sits"
+      ]
+    },
+    {
+      "id": "heaven",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2545/2545674.png",
+        "https://static.wikia.nocookie.net/gods_and_demons/images/f/f9/Heaven.png",
+        "https://img1.picmix.com/output/stamp/normal/3/8/3/8/1298383_1a2e1.png",
+        "https://images.squarespace-cdn.com/content/v1/5db729e666d5206f322b3c21/1572900991692-U06JUG0RPI0NC63NDJJJ/Webp.net-resizeimage.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/heaven.png"
+      ],
+      "definitions": [
+        "any place of complete bliss and delight and peace",
+        "the abode of God and the angels"
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__height_500/monster-chair-indigo-denim-with-arms.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/22d363011ebadd9cd0091033a93e7422/g/i/give_me_more_chair_orange_-1.png",
+        "https://www.ezup.com/media/catalog/product/cache/29c1a1faac4b2574dce43a966865c016/4/5/45view.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5df20135260107019ff99900/1578328159952-CLFJE7ZHZ9T8XWEC68GC/The+Church+of+England+logo+Version+1.png",
+        "https://parish.nl/wp-content/uploads/2020/07/COS-WEBSITE-LOGO.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/a/a4/Church.png",
+        "https://www.reap-church.com/wp-content/uploads/2021/04/logo_reapchurch.png",
+        "https://www.celebrationchurch.nl/wp-content/uploads/2020/07/celebration-church-netherlands-stacked-black.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    },
+    {
+      "id": "monastery",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0533/1986/0386/products/aloebottle_600x600.png",
+        "https://imgur.com/ec9VXvZ.png",
+        "https://static.wikia.nocookie.net/forgeofempires/images/d/d2/Monastery.png",
+        "https://cdn-icons-png.flaticon.com/512/140/140173.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/d/d7/Monastery_garden.png"
+      ],
+      "definitions": [
+        "the residence of a religious community"
+      ]
+    },
+    {
+      "id": "montana",
+      "image_urls": [
+        "https://veldhuyzenkaas.nl/wp-content/uploads/2016/08/montana-intenso-groep-met-blokjes.png",
+        "https://tiogatours.nl/dynamic/img/amerika/montana/seal.6.b958.png",
+        "https://mt.gov/images/mtmap.png",
+        "https://cdn.werkenmetmerken.nl/img/Montana_Gold_5-t-500x333.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/QR11N/logo_465x320.png"
+      ],
+      "definitions": [
+        "a state in northwestern United States on the Canadian border"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    },
+    {
+      "id": "circus",
+      "image_urls": [
+        "https://www.cirquemoustache.com/wp-content/uploads/2015/03/circustent_kl_resultaat.png",
+        "https://magic-circus.nl/wp-content/uploads/2020/12/cropped-1.-Logo-Magic-Circus-Full-Color.png",
+        "https://www.circusbarones.com/images/Logo-Circus-Barones-clown-links1.png",
+        "https://backstagekittyhagen.nl/wp-content/uploads/2021/02/Kitty-Hagen-Logo_inhuur-verhuur.png",
+        "https://www.kinheim.com/wp-content/uploads/WerkgidsCircus.png"
+      ],
+      "definitions": [
+        "a travelling company of entertainers; including trained animals",
+        "a performance given by a traveling company of acrobats, clowns, and trained animals",
+        "a frenetic disorganized (and often comic) disturbance suggestive of a large public entertainment",
+        "(antiquity) an open-air stadium for chariot races and gladiatorial games",
+        "an arena consisting of an oval or circular area enclosed by tiers of seats and usually covered by a tent",
+        "a genus of haws comprising the harriers"
+      ]
+    },
+    {
+      "id": "imagination",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/imagination-04582056cb0e64132114b90be7c7e77665246c40.png",
+        "https://cdn.brainpop.com/english/writing/imagination/icon.png",
+        "https://www.edge-ai-vision.com/wp-content/uploads/2020/02/logo_imagination2020-1024x512.png",
+        "https://cdn2.iconfinder.com/data/icons/pregnancy-8/512/52_Imagination_imaginative_imagine_idea_process_creative_skills_process-512.png",
+        "https://i2.wp.com/www.hungrymindlab.com/wp-content/uploads/2017/06/diagfram_imagination.png"
+      ],
+      "definitions": [
+        "the formation of a mental image of something that is not perceived as real and is not present to the senses",
+        "the ability to form mental images of things or events",
+        "the ability to deal resourcefully with unusual problems"
+      ]
+    },
+    {
+      "id": "office",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png",
+        "https://www.schoolspot.nl/media/catalog/product/cache/aeefb11f2c4ba36990522cb6a0da7511/o/f/office-365-proplus-logo1_1.png",
+        "https://www.janzijlstra.nl/images/stories/virtuemart/product/Office%20Professional.png",
+        "https://www.microsinternetdiensten.nl/resources/uploads/2017/06/Office365.png",
+        "https://office-licentie.com/wp-content/uploads/2020/04/Microsoft-Office-2019-Professional-Plus-removebg-preview.png"
+      ],
+      "definitions": [
+        "place of business where professional or clerical duties are performed",
+        "an administrative unit of government",
+        "the actions and activities assigned to or required or expected of a person or group",
+        "(of a government or government official) holding an office means being in power",
+        "professional or clerical workers in an office",
+        "a religious rite or service prescribed by ecclesiastical authorities",
+        "a job in an organization"
+      ]
+    },
+    {
+      "id": "god",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/simpsons/images/9/98/God_Tapped_Out.png",
+        "https://shop.bijbelgenootschap.nl/app/uploads/Omslag-Jouw-God-is-mijn-God-3D-1.png",
+        "https://www.ucg.org/files/styles/full_grid4/public/image/collection/quem-e-deus.png",
+        "https://www.cru.org/content/dam/cru/how-to-know-god/kgp-point-4_Gray3.png",
+        "https://occ-0-1723-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABYTMz-WUORxD3r_tRYyCMyNZ_L81vv-1-cbSJqDWqd5LhsuFuMtCVbnSRZXwljN8i-FR3jNXGy75zDpbTaf6DF1f29VIBgeLa9Tc.png"
+      ],
+      "definitions": [
+        "the supernatural being conceived as the perfect and omnipotent and omniscient originator and ruler of the universe; the object of worship in monotheistic religions",
+        "any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force",
+        "a man of such superior qualities that he seems like a deity to other people",
+        "a material effigy that is worshipped"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://productimages.mybobs.com/20061773/20061773_hero_wide.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00220/56101515SD00220_01_500x500.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/3945/original/light/Caledonia-Queen-Size-Bed-Frame_Light-8.png",
+        "https://s3.eu-west-1.amazonaws.com/openreply-poltronafrau/prod/poltronafrau/catalog/product/f/r/frau-0203_cmyk__newcard.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "barn",
+      "image_urls": [
+        "https://barnpros.com/wp-content/uploads/2020/02/BP_Home_Barns_O-575x0-c-default.png",
+        "https://sheafferconstruction.com/wp-content/uploads/2020/12/Gambrel-Roof-Barn-1024x1024.png",
+        "https://barnpros.com/wp-content/uploads/2019/09/barn.png",
+        "https://sheafferconstruction.com/wp-content/uploads/2020/12/Dutch-Barn-1024x1024.png",
+        "https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png"
+      ],
+      "definitions": [
+        "an outlying farm building for storing grain or animal feed and housing farm animals",
+        "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+      ]
+    },
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.theapartment.it/wp-content/themes/kmstudio-theme/assets/image/theapartmentpictures-black-logo.png",
+        "https://www.villacontessina.it/wp-content/uploads/2018/05/16.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.theapartment.it/wp-content/uploads/2019/12/theapartmentpictures-logo.png",
+        "https://www.grafenstein.it/upload/prices/roomcategories/8_layout_361.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://i1.wp.com/designeddecor.com/wp-content/uploads/2018/06/Big-Impact-Bedroom-Changes-6-Simple.png",
+        "https://i0.wp.com/wyethprintgallery.com/wp-content/uploads/2016/10/MasterBedroom.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/At-Home-Rooms-Master-Bedroom-Re-used-KS1.png",
+        "https://javateakindo.com/wp-content/uploads/2020/09/French-Bedroom-Sets-Lucio.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "bungalow",
+      "image_urls": [
+        "https://www.pinuphouses.com/wp-content/uploads/small-bungalow-house-plans.png",
+        "https://www.campingbelvedere.net/wp-content/uploads/bungalow-2.png",
+        "https://img.icons8.com/android/452/bungalow.png",
+        "https://image.flaticon.com/icons/png/512/99/99319.png",
+        "https://www.lapratolina.it/wp-content/uploads/2016/04/progetto-bungalow-3d-e1461533258309.png"
+      ],
+      "definitions": [
+        "a small house with a single story"
+      ]
+    },
+    {
+      "id": "oak",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tammisaari.vaakuna.svg/170px-Tammisaari.vaakuna.svg.png",
+        "https://fioridibach.guna.it/images/fiori/oak.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/3/30/Oak_Tree_with_Bee_nest.png",
+        "https://static.wikia.nocookie.net/dofus/images/b/bf/Oak.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/2278/1842/Red-Oak-Wide-Plank-Butcher-Block-Countertop__81016.1570211606.png"
+      ],
+      "definitions": [
+        "the hard durable wood of any oak; used especially for furniture and flooring",
+        "a deciduous tree of the genus Quercus; has acorns and lobed leaves"
+      ]
+    },
+    {
+      "id": "cottage",
+      "image_urls": [
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19gApple-8450d87d8.png",
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19gFlower-09b6ffc2c.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Cottage-Colour.png",
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19d-41319cea2.png",
+        "https://www.giochigiachi.it/indi/_pics/1/7/TRF65006-2_21751_19182_t.png"
+      ],
+      "definitions": [
+        "a small house with a single story"
+      ]
+    },
+    {
+      "id": "cabin",
+      "image_urls": [
+        "https://www.pinuphouses.com/wp-content/uploads/hunting-cabin-plans.png",
+        "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcd25d137/images/large/92552034_1.png",
+        "https://5.imimg.com/data5/KV/FN/RA/SELLER-44470868/portable-glass-cabin-500x500.png",
+        "https://www.pinuphouses.com/wp-content/uploads/cabin-plans-on-stilts.png",
+        "https://www.pinuphouses.com/wp-content/uploads/one-room-cabin-plans.png"
+      ],
+      "definitions": [
+        "small room on a ship or boat where people sleep",
+        "a small house built of wood; usually in a wooded area",
+        "the enclosed compartment of an aircraft or spacecraft where passengers are carried"
+      ]
+    }
+  ]
+}

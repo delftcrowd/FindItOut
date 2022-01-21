@@ -1,0 +1,221 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "buffalo",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/reddeadredemption/images/f/f7/AmericanBuffalo3DModel.png",
+        "https://s3-eu-central-1.amazonaws.com/zalando-lounge-frontend-blog-magazine-live/wp-content/uploads/sites/6/2019/11/Buffalo.png",
+        "https://static.wikia.nocookie.net/farcry/images/f/f3/FC3_cutout_buffalo.png",
+        "https://images.getbento.com/accounts/75dafbb2bbfe6dc52128064ba7596f71/media/images/48221Buffalo_Bros_NEW_Logo.png",
+        "https://buffalo.finance/wp-content/uploads/2021/02/buffalo.finance-logo_tr.png"
+      ],
+      "definitions": [
+        "large shaggy-haired brown bison of North American plains",
+        "a city on Lake Erie in western New York (near Niagara Falls)",
+        "meat from an American bison",
+        "any of several Old World animals resembling oxen including, e.g., water buffalo; Cape buffalo"
+      ]
+    },
+    {
+      "id": "leopard",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/vsbattles/images/1/14/Leopard-Transparent.png",
+        "https://leopardnatural.com/img/can.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/a-leopard.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/leopard-4.png",
+        "https://i.pinimg.com/originals/30/28/9f/30289f03b52ef3bba739c1451b4dca6e.png"
+      ],
+      "definitions": [
+        "the pelt of a leopard",
+        "large feline of African and Asian forests usually having a tawny coat with black spots"
+      ]
+    },
+    {
+      "id": "hyena",
+      "image_urls": [
+        "https://supergroweggs.com/wp-content/uploads/2014/10/animal-planet-super-grow-eggs-hyena-animal.png",
+        "https://i.pinimg.com/originals/e9/6d/8d/e96d8dda3e7cc3fa4bdc3ad550e65e77.png",
+        "https://static.wikia.nocookie.net/gems-of-war/images/2/22/Troop_Hyena.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Spotted-Hyena--Animal-Africa-SWAT-KS2.png",
+        "https://static.wikia.nocookie.net/animallica/images/8/8e/Spotted_Hyena_Light_Brown_M.png"
+      ],
+      "definitions": [
+        "doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion"
+      ]
+    },
+    {
+      "id": "deer",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/intothelongdark/images/2/27/Deer.png",
+        "https://cdn11.bigcommerce.com/s-6z4q4u6n3d/product_images/uploaded_images/buck-4653644-640.png",
+        "https://static.wikia.nocookie.net/intothelongdark/images/2/27/Deer.png",
+        "https://www.davesmithdecoys.com/wp-content/uploads/2018/07/dsd-decoyline-primary-posturingbuck-800x800.png",
+        "https://aws.boone-crockett.org/s3fs-public/thumbnails/image/wr-wdnt-modeptcons.png"
+      ],
+      "definitions": [
+        "distinguished from Bovidae by the male's having solid deciduous antlers"
+      ]
+    },
+    {
+      "id": "elk",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/elk.png",
+        "https://aws.boone-crockett.org/s3fs-public/thumbnails/image/wr-aent-austad.png",
+        "https://static.wikia.nocookie.net/farcry/images/0/0a/Far_cry_primal_tall_elk.png",
+        "https://thebeerway.it/storage/beers_images/elk-61cento-american-amber-lager-61c0002f20.png",
+        "https://static.wikia.nocookie.net/reddeadredemption/images/7/7b/Uatapi.png"
+      ],
+      "definitions": [
+        "large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America",
+        "large North American deer with large much-branched antlers in the male",
+        "common deer of temperate Europe and Asia"
+      ]
+    },
+    {
+      "id": "elephant",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/elephant-6.png",
+        "https://www.biovoices.eu/image_temp/516X516_516X516_04bc7008d41b0ab6f5b0ecec8635c3ae.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/8/81/African-Elephant-PNG-File-1-.png",
+        "https://naturalhistory.si.edu/sites/default/files/media/image/nmnh-cutout-template-henry-copy.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Elephants-near-Mount-Kilimanjaro--Scene-Animal-Landscape-Kenya-Africa-Newsroom-KS2.png"
+      ],
+      "definitions": [
+        "five-toed pachyderm",
+        "the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+      ]
+    },
+    {
+      "id": "gorilla",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/vsbattles/images/d/da/4-48717_gorilla.png",
+        "https://www.zoo-rostock.de/files/bilder/tierseiten/westlicher-flachlandgorilla/westlicher-flachlandgorilla-illustration.png",
+        "https://gorillasgabon.org/wp-content/uploads/2019/10/TANI_transparent2-360x360.png",
+        "https://www.steiff.com/img/600/744/resize/catalog/product/n/a/national-geographic-boogie-gorilla-062216.png",
+        "https://images.csmonitor.com/csm/2015/11/947409_3_1112-park-rangers-gorillas_standard.png"
+      ],
+      "definitions": [
+        "largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa"
+      ]
+    },
+    {
+      "id": "cougar",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/reddeadredemption/images/6/63/Puma.png",
+        "https://images.squarespace-cdn.com/content/v1/5c230390b27e39c2711aa468/1547687775716-TDSXTITCR2R5A5QVUDO5/cougarfacts.png",
+        "https://www.travelhome.com/sites/travelhome/files/styles/rv_unit_carousel/public/2020-12/2021%2024rds_0.png",
+        "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/51/Taoyuan_Cougar_E-Sportlogo_square.png",
+        "https://www.rvtravel.com/wp-content/uploads/2021/03/Cougar-355-floor-plan.png"
+      ],
+      "definitions": [
+        "large American feline resembling a lion"
+      ]
+    },
+    {
+      "id": "crocodile",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/vsbattles/images/1/10/Crocodile_PNG13185.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/7/7f/Saltwater_Crocodile.png",
+        "https://i.pinimg.com/originals/90/01/5e/90015e139bf834e912a407438fb20dac.png",
+        "https://www.nightbuddiesadventures.com/wp-content/uploads/2014/08/crocodile.png",
+        "https://img.icons8.com/emoji/452/crocodile.png"
+      ],
+      "definitions": [
+        "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+      ]
+    },
+    {
+      "id": "bison",
+      "image_urls": [
+        "https://www.uplay.it/www.uplay.it_Bison--400x400.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/b/b1/American_bison.png",
+        "https://2e.aonprd.com/Images/Monsters/Bison.png",
+        "https://bisoncentral.com/wp-content/themes/FoundationPress/assets/images/nbalogo.png",
+        "https://bison-transport.eu/wp-content/uploads/2021/01/bison-project_logo.png"
+      ],
+      "definitions": [
+        "any of several large humped bovids having shaggy manes and large heads and short horns"
+      ]
+    },
+    {
+      "id": "cheetah",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/vsbattles/images/1/17/580b57fbd9996e24bc43bba3.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Cheetah-Hunting--Wild-Cat-Animal-Open-Eyes-KS1.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Cheetah-Mother-With-Cubs-Hunting-Prey--Wild-Cat-Animal-Open-Eyes-KS1.png",
+        "https://static.wikia.nocookie.net/animallica/images/b/b6/Cheetah_Yellow_F.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/8/8f/Tanzanian_Cheetah.png"
+      ],
+      "definitions": [
+        "long-legged spotted cat of Africa and southwestern Asia having nonretractile claws; the swiftest mammal; can be trained to run down game"
+      ]
+    },
+    {
+      "id": "caribou",
+      "image_urls": [
+        "https://www.protectthearctic.org/hubfs/shutterstock_61053184.png",
+        "https://i.pinimg.com/originals/57/da/3e/57da3e52874d89bdf2e95c5625daa960.png",
+        "https://dmtargets.com/wp-content/uploads/2016/01/Delta_Parts_Caribou_Head_16.png",
+        "https://aws.boone-crockett.org/s3fs-public/styles/9-col_636px/public/thumbnails/image/wr-mc-header.png",
+        "https://www.saq.com/media/catalog/product/1/0/10330214-1_1580595921.png"
+      ],
+      "definitions": [
+        "Arctic deer with large antlers in both sexes; called `reindeer' in Eurasia and `caribou' in North America"
+      ]
+    },
+    {
+      "id": "zebra",
+      "image_urls": [
+        "https://lazebraonlus.it/wp-content/uploads/2019/09/zebra_onlus.png",
+        "https://lazebraonlus.it/wp-content/uploads/2019/09/zebra_onlus_small.png",
+        "https://www.snapweb.net/immagini/Catalogo/images/zebra-tc21-tc26-f.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/6/6f/Grant%27s_Zebra.png",
+        "https://static.wikia.nocookie.net/overlook-bay-roblox/images/3/37/Zebra.png"
+      ],
+      "definitions": [
+        "any of several fleet black-and-white striped African equines"
+      ]
+    },
+    {
+      "id": "giraffe",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0573/4455/7253/products/01a-qeeboo-piero-fasanotto-michele-branca-giraffe-in-love-outdoor-4m-design-marcantonio-white.png",
+        "https://cdn.shopify.com/s/files/1/2283/1973/products/giraffe-in-love-outdoor-4m-white-design-marcantonio-qeeboo--01c--white_1024x1024.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/animal-giraffe.png",
+        "https://www.edonart.com/cms/wp-content/uploads/2019/12/qeeboo-giraffe-in-love-xs-white.png",
+        "https://pinkpampas.com/3.0/wp-content/uploads/2019/10/Animalitos-Wool-Giraffe-Embroidered-Fuchsia-blue-still.png"
+      ],
+      "definitions": [
+        "tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa"
+      ]
+    },
+    {
+      "id": "tiger",
+      "image_urls": [
+        "https://emojipedia-us.s3.amazonaws.com/social/emoji/tiger.png",
+        "https://static.wikia.nocookie.net/uncle-grandpa/images/e/e5/GRFT.png",
+        "https://www.natotigers.org/sites/default/files/styles/small/public/images/media/2021-04/PATCH%20NTM%202021%20FULL.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/bengal-tiger.png",
+        "https://natotigers.org/sites/default/files/styles/logo/public/images/logo/ntm/XTM2021%20logo.png"
+      ],
+      "definitions": [
+        "a fierce or audacious person",
+        "large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
+      ]
+    },
+    {
+      "id": "camel",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Camel_cigarettes_logo.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CamelCase_new.svg/1200px-CamelCase_new.svg.png",
+        "https://www.color-name.com/wp-content/uploads/camel-animal.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/8/80/Camelll.png",
+        "https://www.stickersmurali.com/it/img/aspsp86-png/folder/products-detalle-png/adesivi-camel-2.png"
+      ],
+      "definitions": [
+        "cud-chewing mammal used as a draft or saddle animal in desert regions"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "barn",
+      "image_urls": [
+        "https://barnpros.com/wp-content/uploads/2020/02/BP_Home_Barns_O-575x0-c-default.png",
+        "https://www.restaurant-cadeaucard.nl/content/media/text/11640/original/56751.png",
+        "https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png",
+        "https://www.thebarnsporthealth.nl/wp-content/uploads/2019/06/personaltraining-badhoevedorp.nl-logo.png",
+        "https://static.wikia.nocookie.net/hayday/images/7/73/Barn_Broken.png"
+      ],
+      "definitions": [
+        "an outlying farm building for storing grain or animal feed and housing farm animals",
+        "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+      ]
+    },
+    {
+      "id": "laugh",
+      "image_urls": [
+        "https://pudding.cool/2019/10/laugh/assets/images/intro/ded.png",
+        "https://cdn-icons-png.flaticon.com/512/4138/4138793.png",
+        "https://pic.onlinewebfonts.com/svg/img_505295.png",
+        "https://cdn.icon-icons.com/icons2/2801/PNG/512/happy_laugh_emoticon_emoji_icon_178535.png",
+        "https://image.flaticon.com/icons/png/512/1463/1463958.png"
+      ],
+      "definitions": [
+        "the sound of laughing",
+        "a facial expression characteristic of a person laughing",
+        "a humorous anecdote or remark intended to provoke laughter"
+      ]
+    },
+    {
+      "id": "person",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/1674/PNG/512/person_110935.png",
+        "https://cargonaut.nl/wp-content/uploads/2019/06/person-icon-silhouette-png-0.png",
+        "https://freeyourmindexperience.com/wp-content/uploads/person-icon-person-icon-clipart-image-from-our-icon-clipart-category-9-500x500.png",
+        "https://static-00.iconduck.com/assets.00/person-icon-486x512-eeiy7owm.png",
+        "https://www.freeiconspng.com/thumbs/human-icon-png/white-person-icon-png-people-black-icon-png-persons-12.png"
+      ],
+      "definitions": [
+        "a human being",
+        "a human body (usually including the clothing)",
+        "a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party"
+      ]
+    },
+    {
+      "id": "demonstration",
+      "image_urls": [
+        "https://tvsd.colvee.org/pluginfile.php/21849/mod_book/chapter/11271/practical%20demonstration.png",
+        "https://cdn2.iconfinder.com/data/icons/university-tuition-and-college-1/140/Icons-01-512.png",
+        "https://cdn.dataworks-ed.com/wordpress-content/uploads/20200127152945/LessonDemonstration_02.png",
+        "https://cdn4.iconfinder.com/data/icons/miscellaneous-6-1/128/demo_exhibition_demonstration-512.png",
+        "https://static.thenounproject.com/png/1923465-200.png"
+      ],
+      "definitions": [
+        "a show or display; the act of presenting something to sight or view",
+        "a show of military force or preparedness",
+        "a public display of group feelings (usually of a political nature)",
+        "proof by a process of argument or a series of proposition proving an asserted conclusion",
+        "a visual presentation showing how something works"
+      ]
+    },
+    {
+      "id": "synagogue",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://static.wikia.nocookie.net/scribblenauts/images/9/92/Synagogue.png",
+        "https://cdn.emojidex.com/emoji/seal/synagogue.png",
+        "https://static.wikia.nocookie.net/civilization/images/0/02/Synagogue_%28Civ6%29.png",
+        "https://cdn.icon-icons.com/icons2/1448/PNG/512/42506synagogue_98941.png"
+      ],
+      "definitions": [
+        "(Judaism) the place of worship for a Jewish congregation"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://de-garage.com/wp-content/uploads/2020/03/logo_degaragewebsite.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "concert",
+      "image_urls": [
+        "https://weekendvanderomantischemuziek.nl/usr-uploads/images/2021/maanlicht-concert-logo-wit.png",
+        "https://www.dutchevent.nl/veulgereinconcert/wp-content/uploads/2021/04/dutchevent-veulgereinconcert-logo-concert-01-1024x664.png",
+        "https://eurovisioninconcert.nl/wordpress/wp-content/uploads/2021/02/logo_EIC_2022-wit2.png",
+        "https://cdn.mycreativeshop.com/images/templates/2966/music-concert-tri-fold-brochure-template-3361-trans-thumb.png",
+        "https://www.gervos.com/wp-content/uploads/CD-Ger-Vos-Live-in-Concert-2019.png"
+      ],
+      "definitions": [
+        "a performance of music by players or singers not involving theatrical staging"
+      ]
+    }
+  ]
+}

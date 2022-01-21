@@ -1,0 +1,114 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "tennessee",
+      "image_urls": [
+        "https://www.tn.gov/content/tn/humanservices/tennessee-community-cares-program/jcr%3Acontent/content/tn_textandimage/image.img.png",
+        "https://www.cdc.gov/foodsafety/centers/images/Tennessee-Region-2019.png",
+        "https://www.tn.gov/content/tn/tema/the-agency/regional-offices/middle/jcr%3Acontent/content/tn_image.img.png",
+        "https://www.tnvacation.com/themes/custom/tnvacation/img/ui-logo.png",
+        "https://www.tba.org/userassets/TNBAR/TNBAR/userimages/tn-judicial-districts.png"
+      ],
+      "definitions": [
+        "a state in east central United States",
+        "a river formed by the confluence of two other rivers near Knoxville; it follows a U-shaped course to become a tributary of the Ohio River in western Kentucky"
+      ]
+    },
+    {
+      "id": "stable",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/gardenpaws/images/8/8c/Stable.png",
+        "https://static.wikia.nocookie.net/hhwa/images/6/61/US_Stable_L1.png",
+        "https://static.wikia.nocookie.net/hayday/images/2/24/Horse_Stable.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/stable-d8f3e07fc02fb4b992c28b11bfab5e21d3761b3d.png",
+        "https://news-uploads.starstable.com/FanArtAssets/Trakehner.png"
+      ],
+      "definitions": [
+        "a farm building for housing horses or other livestock"
+      ]
+    },
+    {
+      "id": "antarctica",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/266px-Antarctica_%28orthographic_projection%29.svg.png",
+        "https://www.delta.tudelft.nl/sites/default/files/images/antarctica4.png",
+        "https://i.redd.it/sjkbveoixod61.png",
+        "https://scx2.b-cdn.net/gfx/news/2017/waterisstrea.png",
+        "https://www.blackstonefootwear.com/media/catalog/product/cache/03f314a5078338a88d04dd412c71f555/r/m/rm51_anta_202.png"
+      ],
+      "definitions": [
+        "an extremely cold continent at the south pole almost entirely below the Antarctic Circle; covered by an ice cap up to 13,000 feet deep"
+      ]
+    },
+    {
+      "id": "cow",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/runescape2/images/8/84/Cow.png",
+        "https://dutchmetaldesign.com/images/dierfiguren/koe/koe.png",
+        "https://images.squarespace-cdn.com/content/v1/5c05e24636099be8c82c8a7e/1544069491242-X6ZZ6K5SMK92IOHPQCD9/World+Cow+Chad+image.png",
+        "https://smaxtec.com/wp-content/uploads/2019/12/cow-left.png",
+        "https://static.wikia.nocookie.net/zelda/images/0/0c/Cow_Artwork_%28Ocarina_of_Time%29.png"
+      ],
+      "definitions": [
+        "female of domestic cattle:",
+        "mature female of mammals of which the male is called `bull'",
+        "a large unpleasant woman"
+      ]
+    },
+    {
+      "id": "ranch",
+      "image_urls": [
+        "https://www.hiddenvalley.com/wp-content/uploads/2021/04/Original-Ranch-Bottle-4_5.png",
+        "https://www.hiddenvalley.com/wp-content/uploads/2021/04/Buttermilk-Ranch-4_5.png",
+        "https://www.hiddenvalley.com/wp-content/uploads/2021/04/Avocado-Ranch-4_5.png",
+        "https://www.hiddenvalley.com/wp-content/uploads/2015/10/Bacon-Ranch-4_5.png",
+        "https://www.hiddenvalley.com/wp-content/uploads/2021/01/Plant-Powered-4_5-1.png"
+      ],
+      "definitions": [
+        "farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle)"
+      ]
+    },
+    {
+      "id": "barnyard",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/barnyard/images/6/63/Snotty_boy.png",
+        "https://static.wikia.nocookie.net/barnyard/images/7/71/Freddy_the_Ferret.png",
+        "https://fanart.tv/fanart/movies/9907/hdmovieclearart/barnyard-55114cf9a511d.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeYz3UxE9U-RT3bCJD1P3iHdeThVwTz5DRt_FOXfXoWuS4cgpruTXGkcr_2J_gusvUisAwYLdu7ChqXCLvzmj-JozgdThxkduTP_.png",
+        "https://d17lzgq6gc2tox.cloudfront.net/product/three_d_cover_image/original/9781563054426_3D.png"
+      ],
+      "definitions": [
+        "a yard adjoining a barn"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/nPT3vS4AklWXg39tTeiah/a110333e41cfb94c85f8de782a45ccf0/retailrepositioning-e6ed62bb181d46b19c0e770fcdd73be8-800-800.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "id": "switzerland",
+      "image_urls": [
+        "https://grandtour.myswitzerland.com/nl/img/route/swiss_map.png",
+        "https://beachsoccer.com/wp-content/uploads/2021/06/SWITZERLAND.png",
+        "https://static.t-cdn.net/5da57ad6db7f757e793ebe1a/groups/5efb43b79f21d65f9c1253f4/5efb43b79f21d65f9c1253f4_91013.png",
+        "https://cdn-icons-png.flaticon.com/512/303/303196.png",
+        "https://pbs.twimg.com/profile_images/1395375477863424005/dC61Z5aR_400x400.png"
+      ],
+      "definitions": [
+        "a landlocked federal republic in central Europe"
+      ]
+    }
+  ]
+}

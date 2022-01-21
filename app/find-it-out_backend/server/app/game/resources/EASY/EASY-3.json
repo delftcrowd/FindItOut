@@ -1,0 +1,132 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "tree",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/animalcrossing/images/c/c7/NH-Tree.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/4e/Azalea_Tree.png",
+        "https://treesforall.nl/app/themes/treesforall/dist/images/beschermer_900.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/7b/Large_Oak_Tree.png",
+        "https://tgs.nl/wp-content/uploads/2015/03/tree-new.png"
+      ],
+      "definitions": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+        "a figure that branches from a single root",
+        "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+      ]
+    },
+    {
+      "id": "outside",
+      "image_urls": [
+        "https://www.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png",
+        "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0648392b-f957-41de-99eb-16c1c98465ca_621x597.png",
+        "https://www.outsidebrand.co/wp-content/uploads/2020/09/Black-Logo.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/outside-dfa613493274c050ffd66b46aa56cd48ddf3a2ee.png",
+        "https://outsidehoutentuin.nl/wp-content/uploads/2020/09/Outside-beeldmerk.png"
+      ],
+      "definitions": [
+        "the region that is outside of something",
+        "the outer side or surface of something"
+      ]
+    },
+    {
+      "id": "air",
+      "image_urls": [
+        "https://static.nike.com/a/images/t_default/1c49f562-cd98-4e5b-919b-4da2022b1bb3/air-max-270-essential-shoes-Q4xT71.png",
+        "https://ec.europa.eu/environment/air/cleaner_air/img/intro/bird1.png",
+        "https://static.nike.com/a/images/t_default/358b5ffe-0704-4c5a-89fd-0fa5b2b1f99b/air-max-plus-iii-shoe-KFPSRr.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/4/47/Air_%28shown%29_JE2.png",
+        "https://tabou-boards.com/wp-content/uploads/sites/4/2020/09/2021t-marketing-graphics-AIRRIDE-PLUS-TEAM-B.png"
+      ],
+      "definitions": [
+        "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
+        "the region above the ground",
+        "a distinctive but intangible quality surrounding a person or thing",
+        "a slight wind (usually refreshing)",
+        "the mass of air surrounding the Earth",
+        "once thought to be one of four elements composing the universe (Empedocles)",
+        "a succession of notes forming a distinctive sequence",
+        "medium for radio and television broadcasting",
+        "travel via aircraft"
+      ]
+    },
+    {
+      "id": "frisbee",
+      "image_urls": [
+        "https://frisbeekoning.nl/image/cache/catalog/Ultimate/Ultimate-250x250.png",
+        "https://frisbeekoning.nl/image/cache/catalog/Discgolf/Driver-250x250.png",
+        "https://www.janssen-fritsen.nl/system/html/1795765%20AASA%20Sky%20Flyer%20blauw_MG_9955-970fb81e.png",
+        "https://www.janssen-fritsen.nl/system/html/1795761%20AASAsoft%20flyer%20foam-transparant-lagen-3895724d.png",
+        "https://frisbeekoning.nl/image/cache/catalog/Ultimate/Eurodisc_Ultimate_Creature_donkerblauw-550x550.png"
+      ],
+      "definitions": [
+        "a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition"
+      ]
+    },
+    {
+      "id": "plants",
+      "image_urls": [
+        "https://hollandplant.nl/wp-content/uploads/2020/01/alii.png",
+        "https://www.amsterdamflowers.nl/pub/media/catalog/product/cache/d7c861e5118db161566914bb2814317a/p/a/pannenkoekenplant.png",
+        "https://uploads-ssl.webflow.com/5f4e8114a9640d4aa2c637c4/60319ee28e9d963834be8820_home%20page-plant%20guides-export.png",
+        "https://www.originalshop.nl/media/catalog/product/cache/6/image/1800x/040ec09b1e35df139433887a97daa66f/k/w/kwal/Plantophile-Air-plants-kwalletjes-large-2-stuks-8718985504407-33.png",
+        "https://www.karmaplants.com/wp-content/uploads/2021/08/KarmaUrban17_GWW@2x-1.png"
+      ],
+      "definitions": [
+        "buildings for carrying on industrial labor",
+        "(botany) a living organism lacking the power of locomotion",
+        "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+        "something planted secretly for discovery by another"
+      ]
+    },
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.cupapizarras.com/wp-content/uploads/2019/09/roof-parts.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://sunstruction.nl/png/systems/roof-hooks.png",
+        "https://www.mg-bouw.com/wp-content/uploads/2020/05/Meuwissen-AlkReflex-Roof-1.7-Wand-dak-buitenzijde-20210727.png",
+        "https://www.metalsales.us.com/wp-content/uploads/2020/08/pic2a-1024x720.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "light",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Light-wave.svg/360px-Light-wave.svg.png",
+        "https://lightinternational.nl/media/uploads/en/blocks/1/thumb/corvo_pendel_1.png",
+        "https://static.wixstatic.com/media/2cd43b_6ece8045e7ef489ab6417c465d8696a4~mv2.png",
+        "https://damadlichtstudio.nl/wp-content/uploads/2020/09/Moooi-Random-Light-ll-hanglamp-Medium-Wit.png",
+        "https://elho.xcdn.nl/RM1100,1100,C_OQ70/plant-light-care-8711904334413p1png/plant_light_care_8711904334413.p1.png"
+      ],
+      "definitions": [
+        "(physics) electromagnetic radiation that can produce a visual sensation",
+        "any device serving as a source of illumination",
+        "a particular perspective or aspect of a situation",
+        "the quality of being luminous; emitting or reflecting light",
+        "an illuminated area",
+        "a condition of spiritual awareness; divine illumination",
+        "the visual effect of illumination on objects or scenes as created in pictures",
+        "a person regarded very fondly",
+        "having abundant light or illumination",
+        "mental understanding as an enlightening experience",
+        "merriment expressed by a brightness or gleam or animation of countenance",
+        "public awareness",
+        "a divine presence believed by Quakers to enlighten and guide the soul",
+        "a visual warning signal",
+        "a device for lighting or igniting fuel or charges or fires"
+      ]
+    },
+    {
+      "id": "porch",
+      "image_urls": [
+        "https://i.pinimg.com/originals/8f/cc/98/8fcc983ef3dbc51f6193218d2d4806ae.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/06/full-2.png",
+        "https://www.pinuphouses.com/wp-content/uploads/cabin-with-screened-porch-plans.png",
+        "https://www.theporchspecialist.com/wp-content/uploads/2021/05/wall-mounted-2.png",
+        "https://images.squarespace-cdn.com/content/v1/537d02bae4b03c36028df3c0/1474580906337-Z2J6H0MP2JNODOG26GQT/3D+FRONT+OF+LARGE+OAK+PORCH+WITH+JOWL+POSTS.png"
+      ],
+      "definitions": [
+        "a structure attached to the exterior of a building often forming a covered entrance"
+      ]
+    },
+    {
+      "id": "desk",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Paper/Paper%20Desk/Paper%20Desk%20180/image-thumb__1846__height_500/Paper-Desk-180.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686789931.png",
+        "https://www.worktrainer.com/Files/2/24000/24864/ProductPhotos/1000x1000/1686797043.png",
+        "https://images.selency.com/1b00c938-82de-4b4b-8097-76328f63a8d6/wooden-desk_original.png",
+        "https://www.imovr.com/media/catalog/product/cache/6c2d0a3f18d62b47e93bb524e5b618ae/d/e/desk-lander_l_desk-83_inch_x_24_inch-crossfire_java-black_p1000657-1hero_1.png"
+      ],
+      "definitions": [
+        "a piece of furniture with a writing surface and usually drawers or other compartments"
+      ]
+    },
+    {
+      "id": "universe",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2016%2F06%2FObservable_universe_logarithmic_illustration.png",
+        "https://images.theconversation.com/files/301116/original/file-20191111-194633-1hal3qv.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/universe-27e98be8dcee446934a63f2e0ab8bba493692257.png"
+      ],
+      "definitions": [
+        "everything that exists anywhere",
+        "(statistics) the entire aggregation of items from which samples can be drawn",
+        "everything stated or assumed in a given discussion"
+      ]
+    },
+    {
+      "id": "beach",
+      "image_urls": [
+        "https://www.tinybridge.eu/wp-content/uploads/2021/01/51030frame-600x600.png",
+        "https://luxepoxytafels.nl/app/uploads/2021/06/Epoxy-Tafel-Beach-Bovenaanzicht.png",
+        "https://cdn.shopify.com/s/files/1/0323/5518/8873/products/JL_Beach_Sinatra_Men_1024x1024.png",
+        "https://www.webtonbeachtwente.nl/wp-content/uploads/logo-webton-beach-twente-achtergrond.png",
+        "https://www.emsporting.nl/Files/4/10000/10720/ProductPhotos/MaxContent/284799977.png"
+      ],
+      "definitions": [
+        "an area of sand sloping down to the water of a sea or lake"
+      ]
+    },
+    {
+      "id": "attic",
+      "image_urls": [
+        "https://energycodeace.com/site/custom/public/reference-ace-2016/ImagesExt/image6738_15.png",
+        "https://hintzebelts.com/wp-content/uploads/2017/09/atticboardset.png",
+        "https://www.datocms-assets.com/38021/1617972282-attic-splash-570.png",
+        "https://www.stira.com/wp-content/uploads/2021/03/2png.png",
+        "https://d2zrc47ziwc8va.cloudfront.net/images/eas/Efficient-Attic-Solution.png"
+      ],
+      "definitions": [
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+        "informal terms for a human head",
+        "(architecture) a low wall at the top of the entablature; hides the roof"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://huson.nl/new/wp-content/uploads/2019/10/logo-huson-300x300.png",
+        "https://restaurant-yolo.com/wp-content/uploads/2020/06/YOLO-logo-transparent.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/03/Logo_allure_DEF.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "ocean",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/World_map_ocean_locator-en.svg/1200px-World_map_ocean_locator-en.svg.png",
+        "https://www.ydwer.com/ydwer.com/wp-content/uploads/2020/05/ocean_view_webshop.png",
+        "https://static.wikia.nocookie.net/valheim/images/6/62/Biome_ocean.png",
+        "https://oceanoffice.nl/wp-content/uploads/2021/08/ocean-office-walvisstaartje-600.png",
+        "https://images.squarespace-cdn.com/content/v1/54d04338e4b06977c09a2612/1618918303543-DLTTX50F7L3SYI8O4HDG/The+Ocean+Story_logo_1900_1900px_seven+species-04.png"
+      ],
+      "definitions": [
+        "a large body of water constituting a principal part of the hydrosphere",
+        "anything apparently limitless in quantity or volume"
+      ]
+    }
+  ]
+}

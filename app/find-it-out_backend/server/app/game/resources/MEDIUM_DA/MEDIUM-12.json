@@ -1,0 +1,254 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/2241/original/bruin-bed-king-1-brosa-design.png",
+        "https://productimages.mybobs.com/20061773/20061773_hero_wide.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00220/56101515SD00220_01_500x500.png",
+        "https://essentialhome.eu/images/products/thumbnails/upholstery/minelli-bed-qv.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "hut",
+      "image_urls": [
+        "https://www.pinuphouses.com/wp-content/uploads/garden-hut-plans.png",
+        "https://img.icons8.com/emoji/452/hut-emoji.png",
+        "https://img.icons8.com/ios/452/hut.png",
+        "https://uxwing.com/wp-content/themes/uxwing/download/06-buildings-architecture-real-estate/hut.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/78369/hut-clipart-xl.png"
+      ],
+      "definitions": [
+        "temporary military shelter",
+        "small crude shelter used as a dwelling"
+      ]
+    },
+    {
+      "id": "tent",
+      "image_urls": [
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9736.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9697.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/7555.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9715.png",
+        "https://static.zajo.net/content/mediagallery/zajo_dcat/image/product/types/X/9716.png"
+      ],
+      "definitions": [
+        "a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs)",
+        "a web that resembles a tent or carpet"
+      ]
+    },
+    {
+      "id": "apartment",
+      "image_urls": [
+        "https://www.theapartment.it/wp-content/themes/kmstudio-theme/assets/image/theapartmentpictures-black-logo.png",
+        "https://www.villacontessina.it/wp-content/uploads/2018/05/16.png",
+        "https://cedreo.com/uploads/3d_apartment_floor_plan_hu6ee5e7ca9c9245e818b0ea889a01c55f_82757_1920x0_resize_lanczos_2.png",
+        "https://www.theapartment.it/wp-content/uploads/2019/12/theapartmentpictures-logo.png",
+        "https://www.grafenstein.it/upload/prices/roomcategories/8_layout_361.png"
+      ],
+      "definitions": [
+        "a suite of rooms usually on one floor of an apartment house"
+      ]
+    },
+    {
+      "id": "cabin",
+      "image_urls": [
+        "https://www.pinuphouses.com/wp-content/uploads/hunting-cabin-plans.png",
+        "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dwcd25d137/images/large/92552034_1.png",
+        "https://5.imimg.com/data5/KV/FN/RA/SELLER-44470868/portable-glass-cabin-500x500.png",
+        "https://www.pinuphouses.com/wp-content/uploads/cabin-plans-on-stilts.png",
+        "https://www.superiorcabins.co.nz/site/file/post/UifQFGYk/cabin-rimu-2.png"
+      ],
+      "definitions": [
+        "small room on a ship or boat where people sleep",
+        "a small house built of wood; usually in a wooded area",
+        "the enclosed compartment of an aircraft or spacecraft where passengers are carried"
+      ]
+    },
+    {
+      "id": "barn",
+      "image_urls": [
+        "https://barnpros.com/wp-content/uploads/2020/02/BP_Home_Barns_O-575x0-c-default.png",
+        "https://sheafferconstruction.com/wp-content/uploads/2020/12/Gambrel-Roof-Barn-1024x1024.png",
+        "https://barnpros.com/wp-content/uploads/2019/09/barn.png",
+        "https://sheafferconstruction.com/wp-content/uploads/2020/12/Dutch-Barn-1024x1024.png",
+        "https://static.wikia.nocookie.net/hayday/images/f/f8/Barn.png"
+      ],
+      "definitions": [
+        "an outlying farm building for storing grain or animal feed and housing farm animals",
+        "(physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter"
+      ]
+    },
+    {
+      "id": "cottage",
+      "image_urls": [
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19gApple-8450d87d8.png",
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19gFlower-09b6ffc2c.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Cottage-Colour.png",
+        "https://foeit.innogamescdn.com/assets/city/buildings/R_SS_MultiAge_FallBonus19d-41319cea2.png",
+        "https://www.giochigiachi.it/indi/_pics/1/7/TRF65006-2_21751_19182_t.png"
+      ],
+      "definitions": [
+        "a small house with a single story"
+      ]
+    },
+    {
+      "id": "chapel",
+      "image_urls": [
+        "https://img.icons8.com/ios/452/chapel.png",
+        "https://static.wikia.nocookie.net/stronghold/images/a/a3/Chapel_Stronghold_Crusader.png",
+        "https://icons-for-free.com/iconfiles/png/512/+chapel-1319972672629614123.png",
+        "https://img.icons8.com/dotty/452/chapel.png",
+        "https://static.wikia.nocookie.net/anno1404guide/images/0/0d/Chapel.png"
+      ],
+      "definitions": [
+        "a place of worship that has its own altar",
+        "a service conducted in a place of worship that has its own altar"
+      ]
+    },
+    {
+      "id": "gate",
+      "image_urls": [
+        "https://img.icons8.com/ios/452/front-gate-closed.png",
+        "https://www.linkcare.net/image/cache/data/Manufacturers/Linkcare/Bi-fold%20gate-700x700.png",
+        "https://a3m.eu/en/IMG/png/full-height-access-gate-550.png",
+        "https://p-trex.it/wp-content/uploads/2019/10/Cancello-Recinzione.png",
+        "https://static.thenounproject.com/png/7288-200.png"
+      ],
+      "definitions": [
+        "a movable barrier in a fence or wall",
+        "a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs",
+        "total admission receipts at a sports event",
+        "passageway (as in an air terminal) where passengers can embark or disembark"
+      ]
+    },
+    {
+      "id": "bridge",
+      "image_urls": [
+        "https://www.net-italia.com/wp-content/uploads/2020/06/ponte-brenta.png",
+        "https://www.midasoft.com/hubfs/2019-MIDAS-RENEWAL/conventional_bridge.png",
+        "https://www.allplan.com/fileadmin/user_upload/shared-files/products/engineering/bridge.png",
+        "https://bridgepartners.it/wp-content/uploads/2020/05/Bridge-A_Simplicity_Company.png",
+        "https://mydentalclubtt.com/wp-content/uploads/2021/06/dental-bridge-crowns-santa-ana-640x481.png"
+      ],
+      "definitions": [
+        "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+        "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+        "something resembling a bridge in form or function",
+        "the hard ridge that forms the upper part of the nose",
+        "any of various card games based on whist for four players",
+        "a wooden support that holds the strings up",
+        "a denture anchored to teeth on either side of missing teeth",
+        "the link between two lenses; rests on the nose",
+        "an upper deck where a ship is steered and the captain stands"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://building.it/wp-content/uploads/2019/09/Building2.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://img.icons8.com/plasticine/2x/building.png",
+        "https://image.flaticon.com/icons/png/512/188/188379.png",
+        "https://images.squarespace-cdn.com/content/v1/5b113545ee17595a184efefb/1535374097981-6RD22HNEMFNT2XJAIEWA/BHFT_KeyArt.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "inn",
+      "image_urls": [
+        "https://www.innoliving.it/wp-content/uploads/2020/09/INN-774Blu-644x1030.png",
+        "https://static.wikia.nocookie.net/finalfantasy/images/e/ed/FFCCKing-InnArtwork.png",
+        "https://www.inn-veneto.it/wp-content/uploads/2018/11/logo_FA-IV.png",
+        "https://www.inn-pressme.eu/wp-content/uploads/2021/01/Logo-INN-PRESSME.png",
+        "https://static.wikia.nocookie.net/forgeofempires/images/0/08/Inn.png"
+      ],
+      "definitions": [
+        "a hotel providing overnight lodging for travelers"
+      ]
+    },
+    {
+      "id": "bungalow",
+      "image_urls": [
+        "https://www.pinuphouses.com/wp-content/uploads/small-bungalow-house-plans.png",
+        "https://www.campingbelvedere.net/wp-content/uploads/bungalow-2.png",
+        "https://img.icons8.com/android/452/bungalow.png",
+        "https://image.flaticon.com/icons/png/512/99/99319.png",
+        "https://www.lapratolina.it/wp-content/uploads/2016/04/progetto-bungalow-3d-e1461533258309.png"
+      ],
+      "definitions": [
+        "a small house with a single story"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.toronto.ca/wp-content/uploads/2021/04/8f7b-Multi-Tenant-Housing-Street-View-1024x338.png",
+        "https://www.roerohouse.com/wp-content/uploads/2020/06/ROERO_HOUSE_LOGO_mobile_color.png",
+        "https://www.roerohouse.com/wp-content/uploads/2020/03/icone-04.png",
+        "https://www.bastonidapasseggio.com/pub/media/catalog/product/cache/4cc318e2c269576eb33fcc67087a6ea3/b/a/bastone-dr-house_1.png",
+        "https://www.thehouseofvintage.it/wp-content/uploads/2018/05/Logo_bn.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "bedroom",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/1176/2130/files/BedImage_1024x1024.png",
+        "https://i1.wp.com/designeddecor.com/wp-content/uploads/2018/06/Big-Impact-Bedroom-Changes-6-Simple.png",
+        "https://i0.wp.com/wyethprintgallery.com/wp-content/uploads/2016/10/MasterBedroom.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/At-Home-Rooms-Master-Bedroom-Re-used-KS1.png",
+        "https://trendyfikation.com/wp-content/uploads/2021/01/Bedroom-Interior-Design-Hommes-Aligned-With-High-Design-Brands7.png"
+      ],
+      "definitions": [
+        "a room used primarily for sleeping"
+      ]
+    },
+    {
+      "id": "church",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Church-2.png",
+        "https://www.church-footwear.com/content/dam/churchs_products/E/EEB/EEB003/9WFF0AAB/EEB003_9WF_F0AAB_F_000000_SLS.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cathedral_schematic_plan_en_vectorial.svg/500px-Cathedral_schematic_plan_en_vectorial.svg.png",
+        "https://www.church-footwear.com/content/dam/churchs_products/D/DX0/DX0001/9FGF0ABK/DX0001_9FG_F0ABK_SLS.png",
+        "https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/a9a38e38-a755-4279-9bbb-99c2b196cc8e.png"
+      ],
+      "definitions": [
+        "one of the groups of Christians who have their own beliefs and forms of worship",
+        "a place for public (especially Christian) worship",
+        "a service conducted in a house of worship",
+        "the body of people who attend or belong to a particular local church"
+      ]
+    }
+  ]
+}

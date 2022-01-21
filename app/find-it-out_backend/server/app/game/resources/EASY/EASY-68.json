@@ -1,0 +1,147 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "exercising",
+      "image_urls": [
+        "https://cdn2.iconfinder.com/data/icons/people-in-the-park-having-fun-2/66/80-512.png",
+        "https://bloximages.newyork1.vip.townnews.com/dailyemerald.com/content/tncms/assets/v3/editorial/0/da/0daf3455-9d39-56b3-979d-0b4a04c4baae/5ba578988d3a7.image.png",
+        "https://cdn1.iconfinder.com/data/icons/people-in-the-park-having-fun-1/66/37-512.png",
+        "https://snipstock.com/assets/cdn/png/fe27dfde0a0e97c7b6480c5ef0c5c9ef.png",
+        "https://cdn1.iconfinder.com/data/icons/medical-health-care-blue-series-set-4/64/b-65-512.png"
+      ],
+      "definitions": [
+        "the activity of exerting your muscles in various ways to keep fit"
+      ]
+    },
+    {
+      "id": "discipline",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0505/4437/8008/files/logo_discipline_904x.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/discipline-b8d57fd2b7d4ec82578238247ca5fd3b4f4aea31.png",
+        "https://www.myhair.nl/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/k/_/k_rastase_discipline_shampoo_conditioner.png",
+        "https://grammartop.com/wp-content/uploads/2021/03/discipline-d74548cf2c37b0ee9b015e2f2a08bb436ee4b1a5.png",
+        "https://obren.io/tools/value-disciplines/images/model.png"
+      ],
+      "definitions": [
+        "a branch of knowledge",
+        "a system of rules of conduct or method of practice",
+        "the trait of being well behaved",
+        "training to improve strength or self-control",
+        "the act of disciplining"
+      ]
+    },
+    {
+      "id": "movement",
+      "image_urls": [
+        "https://www.human-movement-sciences.nl/wp-content/uploads/2017/12/MN_norm3.png",
+        "https://lirp.cdn-website.com/88cfc7fd/dms3rep/multi/opt/children-310223_1280-640w.png",
+        "https://destudiorotterdam.com/wp-content/uploads/2019/02/Screenshot-2019-05-05-at-20.48.27-1280x600.png",
+        "https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/press_rooms/company_logos/11615/57971f0813c97059f45ed19924520f1c.png",
+        "https://bestanden.maatos.nl/2021/04/83d1227e-em-1-310x310.png"
+      ],
+      "definitions": [
+        "a change of position that does not entail a change of location",
+        "the act of changing location from one place to another",
+        "a natural event that involves a change in the position or location of something",
+        "a group of people with a common ideology who try together to achieve certain general goals",
+        "a major self-contained part of a symphony or sonata",
+        "a series of actions advancing a principle or tending toward a particular end",
+        "an optical illusion of motion produced by viewing a rapid succession of still pictures of a moving object",
+        "a euphemism for defecation",
+        "a general tendency to change (as of opinion)",
+        "the driving and regulating parts of a mechanism (as of a watch or clock)",
+        "the act of changing the location of something"
+      ]
+    },
+    {
+      "id": "motion",
+      "image_urls": [
+        "https://www.motion-eu.org/wp-content/uploads/2018/10/MOTION-logo-002.png",
+        "https://cdn.foleon.com/upload/2366/beeldmerk-motion-transparant.cd8e06565294.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/033769_A.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/033772_A.png",
+        "https://www.lorextechnology.com/images/articles/content/motionDetection/motionDetection-general-mobile.png"
+      ],
+      "definitions": [
+        "the use of movements (especially of the hands) to communicate familiar or prearranged signals",
+        "a natural event that involves a change in the position or location of something",
+        "a change of position that does not entail a change of location",
+        "a state of change",
+        "a formal proposal for action made to a deliberative assembly for discussion and vote",
+        "the act of changing location from one place to another",
+        "an optical illusion of motion produced by viewing a rapid succession of still pictures of a moving object"
+      ]
+    },
+    {
+      "id": "exercise",
+      "image_urls": [
+        "https://www.healthhub.sg/sites/assets/Assets/Programs/Exercise-landing/images/exercise/infographic-guide.png",
+        "https://fitnessenhancement.com/wp-content/uploads/2020/04/exercise-table-1.png",
+        "https://www.moves-band.com/wp-content/themes/no_theme/img/vrouw.png",
+        "https://www.cardiosmart.org/images/default-source/topics-and-conditions/z20014-cardiosmart-new-website-graphics_v2_move-more.png",
+        "https://www.childfun.com/wp-content/uploads/2008/10/exercise-300x150.png"
+      ],
+      "definitions": [
+        "the activity of exerting your muscles in various ways to keep fit",
+        "the act of using",
+        "systematic training by multiple repetitions",
+        "a task performed or problem solved in order to develop skill or understanding",
+        "(usually plural) a ceremony that involves processions and speeches",
+        "an action, often used negatively and without consequences"
+      ]
+    },
+    {
+      "id": "muscles",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gray430-en.svg/1200px-Gray430-en.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e5/Muscles_anterior_labeled.png",
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/04/09001959/Body-muscles_front-848x1024.png",
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/04/09002210/Body-muscles_back-863x1024.png",
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/05/27181843/Thigh-anterior-muscles-855x1024.png"
+      ],
+      "definitions": [
+        "one of the contractile organs of the body",
+        "animal tissue consisting predominantly of contractile cells",
+        "a bully employed as a thug or bodyguard",
+        "authority or power or force (especially when used in a coercive way)",
+        "possessing muscular strength"
+      ]
+    },
+    {
+      "id": "stretch",
+      "image_urls": [
+        "https://embed.widencdn.net/img/veritas/8r88f81zpc/1200x675px/exercise-backPain-kneelingLunge.png",
+        "https://cdn.flintrehab.com/uploads/2021/01/stretches-for-cp.png",
+        "https://www.stormfitnessacademy.co.uk/wp-content/uploads/2018/05/Standing-trapezius-and-rhomboids.png",
+        "https://www.stretchinc.uk/assets/images/stretch2.png",
+        "https://www.artofliving.org/sites/www.artofliving.org/files/styles/original_image/public/wysiwyg_imageupload/Marjariasana-pose_0.png"
+      ],
+      "definitions": [
+        "a large and unbroken expanse or distance",
+        "the act of physically reaching or thrusting out",
+        "a straightaway section of a racetrack",
+        "exercise designed to extend the limbs and muscles to their full extent",
+        "extension to or beyond the ordinary limit",
+        "an unbroken period of time during which you do something",
+        "the capacity for being stretched"
+      ]
+    },
+    {
+      "id": "effort",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2021/03/effort-e5c857754d3ce1bd8120658b5c9619006c4a0d79.png",
+        "https://effort.lehre.hwr-berlin.de/assets/images/navbar/Logo_Effort_klein-removebg-preview.png",
+        "https://cdn-icons-png.flaticon.com/512/1006/1006524.png",
+        "https://cdn-icons-png.flaticon.com/512/1006/1006575.png",
+        "https://efforthuisvesting.nl/wp-content/uploads/2015/12/Effort-Huisvesting_logo_HD.png"
+      ],
+      "definitions": [
+        "earnest and conscientious activity intended to do or accomplish something",
+        "use of physical or mental energy; hard work",
+        "a notable achievement",
+        "a series of actions advancing a principle or tending toward a particular end"
+      ]
+    }
+  ]
+}

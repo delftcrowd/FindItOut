@@ -1,0 +1,255 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "wilderness",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/wilderness-a2c574200cd8ac2d3628c06b9e7c7f436681a98e.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABQBHx96_Eps-PJq2a9Ej6LjiBuy_ySxuOy6IZW0h0O6QATmcMSNYkLEdI2e0Uk6k-mzRxP3qT4adKGzvH0Ks4KvquoNzzzq4c6H_N6mw8HLwFr3wMPVo-7qWRaz4WRxJLByRFLzC0O20h6DfQuXv6KOUvwgUgH75_4egMVR0dJYx-Q.png",
+        "https://www.mypigeonforge.com/wp-content/uploads/2018/01/Wilderness-Wildlife-Week-horizontal-logo.jpg15.png",
+        "https://www.spellenhuis.nl/media/catalog/product/cache/1/image/420x420/9df78eab33525d08d6e5fb8d27136e95/2/g/2gpkg5peeybgt5qm2rd267d6dmd7rhtm.png",
+        "https://wpresort.com/wp-content/uploads/2020/03/Wilderness-Presidential-Resort-Emblem-png8-500.png"
+      ],
+      "definitions": [
+        "(politics) a state of disfavor",
+        "a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War",
+        "a wild and uninhabited area left in its natural condition",
+        "a bewildering profusion"
+      ]
+    },
+    {
+      "id": "commercial",
+      "image_urls": [
+        "https://vimeoblog.imgix.net/sites/7/2021/03/marketing-side-by-side.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/commercial-5aebad7948649cba2faceea6cfe2c0ad47be3631.png",
+        "https://www.if-tv.nl/wp-content/uploads/2021/04/image002-e1618584390257.png",
+        "https://i0.wp.com/spekkoperfilms.com/wp-content/uploads/2020/06/Filmen-commercial-site.png",
+        "https://www.vandoorne.com/globalassets/iconen/paars/vandoorne-iconen_mono-duo_fc_commercial-contracten-procedures-kopie-7.png"
+      ],
+      "definitions": [
+        "a commercially sponsored ad on radio or television"
+      ]
+    },
+    {
+      "id": "sunshine",
+      "image_urls": [
+        "https://i.pinimg.com/originals/ff/c4/79/ffc47937dc0fdd6fa4da4744d3341302.png",
+        "https://cdn-icons-png.flaticon.com/512/566/566516.png",
+        "https://grandaisy.eu/wp-content/uploads/2019/12/Tekengebied-9.png",
+        "https://www.ethiorest.nl/wp-content/uploads/2020/07/logo_sunshine_zonderurl_hoog.png",
+        "https://images.squarespace-cdn.com/content/v1/56ccf3f962cd94e237370b60/1456526323174-888QLETZSIAVC0MYMGI4/Tiny+Ray+of+Sunshine-logo+%282%29.png"
+      ],
+      "definitions": [
+        "the rays of the sun",
+        "moderate weather; suitable for outdoor activities",
+        "the quality of being cheerful and dispelling gloom"
+      ]
+    },
+    {
+      "id": "sloth",
+      "image_urls": [
+        "https://slothconservation.b-cdn.net/wp-content/uploads/2020/07/Sloth_SloCo-1.png",
+        "https://static-00.iconduck.com/assets.00/sloth-emoji-496x512-jo6zmnfa.png",
+        "https://blog.careerangels.eu/wp-content/uploads/2014/09/2RAZEM.png",
+        "https://www.aiunau.org/wp-content/uploads/2021/08/new-sloth-day-eng-1.png",
+        "https://www.zoo-rostock.de/files/bilder/tierseiten/faultier/faultier-zeichnung.png"
+      ],
+      "definitions": [
+        "a disinclination to work or exert yourself",
+        "any of several slow-moving arboreal mammals of South America and Central America; they hang from branches back downward and feed on leaves and fruits",
+        "apathy and inactivity in the practice of virtue (personified as one of the deadly sins)"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "encyclopedia",
+      "image_urls": [
+        "https://books.britannica.com/wp-content/uploads/2021/04/Encyclo-US_3D-Britannica-template-medium-1-1164x1536.png",
+        "https://worldchristianresearch.files.wordpress.com/2015/08/wce-2.png",
+        "https://www.worldbookonline.com/training/look-inside/assets/images/wbe-2022.png",
+        "https://getintopc.com/wp-content/uploads/2013/12/44-h_main-w.png",
+        "https://global-uploads.webflow.com/5de14733d41c9b578bb9bd65/5f55d0a6f06083a23a208064_ubam--encyclopedias-for-kids.png"
+      ],
+      "definitions": [
+        "a reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty"
+      ]
+    },
+    {
+      "id": "drink",
+      "image_urls": [
+        "https://goedkoopdrankslijterij.nl/image/cache/catalog/soofty_drink_melon-800x800.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/009418_A.png",
+        "https://aa-drink.com/uploads/drinks/2021-07-02-02-36-4958780122.png",
+        "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/hec/h50/14143987580958.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/007996_A.png"
+      ],
+      "definitions": [
+        "a single serving of a beverage",
+        "the act of drinking alcoholic beverages to excess",
+        "any liquid suitable for drinking",
+        "any large deep body of water",
+        "the act of swallowing"
+      ]
+    },
+    {
+      "id": "moon",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://cdn.shopify.com/s/files/1/2486/3224/files/PL_jpg_30a24c90-8bb6-4ff1-85c7-baa43f4d0131_grande.png",
+        "https://nineplanets.org/wp-content/uploads/2019/09/moon.png"
+      ],
+      "definitions": [
+        "the natural satellite of the Earth",
+        "any object resembling a moon",
+        "the period between successive new moons (29.531 days)",
+        "the light of the Moon",
+        "United States religious leader (born in Korea) who founded the Unification Church in 1954; was found guilty of conspiracy to evade taxes (born in 1920)",
+        "any natural satellite of a planet"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://mk-houseofwood.nl/wp-content/uploads/2018/04/slider-home-house.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "kitchen",
+      "image_urls": [
+        "https://www.haecker-kuechen.com/fileadmin/images/kitchen-styles/petersburgerhaengung_02.png",
+        "https://cdn11.bigcommerce.com/s-e8hbhudqv3/product_images/uploaded_images/shaker-1a.png",
+        "https://static.takeaway.com/images/restaurants/nl/OR535NPN/logo_465x320.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/KitchenLivingEN_gestalten_book_contemporary_kitchen_interior_front_inside08_2000x.png",
+        "https://www.howdens.com/-/media/howdens/assets/clh_asset_products/clh_asset_levela_21790013/clh_asset_levelb_25415706/ass_cat_img_25415717.png"
+      ],
+      "definitions": [
+        "a room equipped for preparing meals"
+      ]
+    },
+    {
+      "id": "lemur",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Ring-Tailed-Lemur----General-Animal-Primate-Madagascar-Secondary.png",
+        "https://static.wikia.nocookie.net/fanon/images/6/6a/White-headed_lemur.png",
+        "https://www.lemurconservationnetwork.org/wordpress/wp-content/uploads/2020/08/Illustration-Collared-Brown-Lemur.png",
+        "https://s2.coinmarketcap.com/static/img/coins/200x200/9142.png",
+        "https://images.vectorhq.com/images/previews/b1a/ring-tailed-lemur-psd-446818.png"
+      ],
+      "definitions": [
+        "large-eyed arboreal prosimian having foxy faces and long furry tails"
+      ]
+    },
+    {
+      "id": "hole",
+      "image_urls": [
+        "https://cdn.sera.de/fileadmin/user_upload/articlepictures/16734-04001942523653a001bqx0101.png",
+        "https://images.csmonitor.com/csm/2014/07/0730-Siberia-hole-mystery.png",
+        "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABffcH4z-Wq2yvVB8t_hOpdUJSF4ms37nraVsp0NxeHpWn7Lc7b7rpPoLtgHg64tBCMeEeR8IMCMY2SKkX6IRZ90Vbl36DBdnV4qp.png",
+        "https://www.landgoedbergvliet.nl/files/hole_overview/31452/hole-2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Black_hole_details.svg/200px-Black_hole_details.svg.png"
+      ],
+      "definitions": [
+        "an opening into or through something",
+        "an opening deliberately made in or through something",
+        "one playing period (from tee to green) on a golf course",
+        "an unoccupied space",
+        "a depression hollowed out of solid matter",
+        "a fault",
+        "informal terms for a difficult situation",
+        "informal terms for the mouth"
+      ]
+    },
+    {
+      "id": "marmoset",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/zt2downloadlibrary/images/f/f9/Pygmy_Marmoset_%28Ulquiorra%29.png",
+        "https://ponderosa-zoo.co.uk/wp-content/uploads/2021/04/Ponderosa-Animal-page-image-template_0034_Common-Marmosett.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/9/9e/Common_Marmoset.png",
+        "https://pixy.org/src/129/1299536.png",
+        "https://www.pettittsadventurepark.co.uk/wp-content/uploads/2020/07/marmoset-1.png"
+      ],
+      "definitions": [
+        "small soft-furred South American and Central American monkey with claws instead of nails"
+      ]
+    },
+    {
+      "id": "dictionary",
+      "image_urls": [
+        "https://images-na.ssl-images-amazon.com/images/I/61kzIB9vF0L.png",
+        "https://chambers.co.uk/wp-content/uploads/2016/09/Chambers-Dic-HB.png",
+        "https://img.alicdn.com/i3/2362617753/O1CN01Xz54J4278vI0ZVPxw_!!2362617753.png",
+        "https://www.udpglobal.com/sites/default/files/dictionary.png",
+        "https://cdn.shopify.com/s/files/1/1353/9793/products/C011_300x300.png"
+      ],
+      "definitions": [
+        "a reference book containing an alphabetical list of words with information about them"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "universe",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://static.wikia.nocookie.net/beyond-universe/images/5/54/Universe.png",
+        "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2016%2F06%2FObservable_universe_logarithmic_illustration.png",
+        "https://images.theconversation.com/files/301116/original/file-20191111-194633-1hal3qv.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/scale-of-universe_v4bhso.png"
+      ],
+      "definitions": [
+        "everything that exists anywhere",
+        "(statistics) the entire aggregation of items from which samples can be drawn",
+        "everything stated or assumed in a given discussion"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "horse",
+      "image_urls": [
+        "https://www.harrisonhorsecare.com/wp-content/uploads/2021/07/re-leve-mix-saracen.png",
+        "https://equusmagazine.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cq_auto:good%2Cw_1200/MTUwNDI0ODcyNzIyMzc2MzYz/enterolithshorse.png",
+        "https://d17lzgq6gc2tox.cloudfront.net/product/three_d_cover_image/original/9781580176507_3D.png",
+        "https://1lei8e22t6um10wyil12fpkm-wpengine.netdna-ssl.com/wp-content/uploads/horse.png",
+        "https://www.harrisonhorsecare.com/wp-content/uploads/2020/01/Hsrrison_Horse_Care-Prodotti-Alimentazione-Dengie-Alfa-A_original.png"
+      ],
+      "definitions": [
+        "solid-hoofed herbivorous quadruped domesticated since prehistoric times",
+        "a padded gymnastic apparatus on legs",
+        "troops trained to fight on horseback",
+        "a framework for holding wood that is being sawed",
+        "a chessman shaped to resemble the head of a horse; can move two squares horizontally and one vertically (or vice versa)"
+      ]
+    },
+    {
+      "id": "frog",
+      "image_urls": [
+        "https://www.steiff.com/img/600/744/resize/catalog/product/n/a/national-geographic-froggy-frosch-056536.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Frog-02.png",
+        "https://static.wikia.nocookie.net/chrono/images/e/e6/Frog.png",
+        "https://frog.tips/images/FROG.png",
+        "https://cdn.shopify.com/s/files/1/1241/7562/products/FGH_55T_500_ICAST_750x.png"
+      ],
+      "definitions": [
+        "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+        "a person of French descent",
+        "a decorative loop of braid or cord"
+      ]
+    },
+    {
+      "id": "donkey",
+      "image_urls": [
+        "https://static.wixstatic.com/media/2cd43b_00e8d2fee77340d283c110739f2f7092~mv2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/donkey-2.png",
+        "https://img.icons8.com/color/452/donkey-2.png",
+        "https://static.wikia.nocookie.net/rimworld-bestiary/images/c/cc/Donkey_east.png",
+        "https://www.donkey-land.com/wp-content/uploads/donkey_black.png"
+      ],
+      "definitions": [
+        "the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874",
+        "domestic beast of burden descended from the African wild ass; patient but stubborn"
+      ]
+    },
+    {
+      "id": "cow",
+      "image_urls": [
+        "https://static.wixstatic.com/media/2cd43b_1a0dc766603340b5a4c62ea0cbf3c113~mv2.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cow_cartoon_04.svg/1200px-Cow_cartoon_04.svg.png",
+        "https://images.squarespace-cdn.com/content/v1/5c05e24636099be8c82c8a7e/1543889753172-1ZQVZ34JKH40CB2FWJM1/World+Cow+Chad+image.png",
+        "https://www.algatan.it/upload/pagine/115/paragrafi/d_4_Silhouette-Mucca-AlgaGit_2020-10-07_09-49-53.png",
+        "https://www.procross.info/wp-content/uploads/2020/11/VR-Vilperi_cut-out-1024x739.png"
+      ],
+      "definitions": [
+        "female of domestic cattle:",
+        "mature female of mammals of which the male is called `bull'",
+        "a large unpleasant woman"
+      ]
+    },
+    {
+      "id": "goat",
+      "image_urls": [
+        "https://static.wixstatic.com/media/2cd43b_fd83057382f54e30ab0ea31d6f60face~mv2.png",
+        "https://static.wikia.nocookie.net/lego/images/0/06/Goat-2.png",
+        "https://static.thenounproject.com/png/108037-200.png",
+        "https://static.wikia.nocookie.net/reddeadredemption/images/4/4d/Cabra_comun3.png",
+        "https://34bigthings.com/press/goat_of_duty/images/logo.png"
+      ],
+      "definitions": [
+        "any of numerous agile ruminants related to sheep but having a beard and straight horns",
+        "a victim of ridicule or pranks",
+        "(astrology) a person who is born while the sun is in Capricorn",
+        "the tenth sign of the zodiac; the sun is in this sign from about December 22 to January 19"
+      ]
+    },
+    {
+      "id": "dog",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Dog.svg/600px-Dog.svg.png",
+        "https://cdn.codeblick.de/interquell-sb/1440x0/f/69110/1048x786/14c7621b83/129a5476-1-kopie-2.png",
+        "https://www.akcpetinsurance.com/res/akc/images/icons/home/home_dog.png",
+        "https://cdn.codeblick.de/interquell-sb/1440x0/f/69110/1536x1152/f32092d182/hd-futterart.png",
+        "https://cdn.shopify.com/s/files/1/0128/0882/products/30lb_1024x1024.png"
+      ],
+      "definitions": [
+        "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+        "a dull unattractive unpleasant girl or woman",
+        "informal term for a man",
+        "someone who is morally reprehensible",
+        "a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll",
+        "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward",
+        "metal supports for logs in a fireplace"
+      ]
+    },
+    {
+      "id": "cat",
+      "image_urls": [
+        "https://m.media-amazon.com/images/I/71+mDoHG4mL.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/8025109/LINEStorePC/main.png",
+        "https://jngnposwzs-flywheel.netdna-ssl.com/wp-content/uploads/2019/05/Transparent-OrangeWhiteCat-764x1024.png",
+        "https://images.ctfassets.net/sa0sroutfts9/4cRiXpLgY2MRYphXDhb1F4/6f819bd33447a72218ba667a5867b35b/GO-SOLUTIONS-Recipe-Image-Cat-Skin_Coat-Care-Salmon.png",
+        "https://breed-assets.wisdompanel.com/cat/indian-street-cat/Indian_Street.png"
+      ],
+      "definitions": [
+        "feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats",
+        "an informal term for a youth or man",
+        "a spiteful woman gossip",
+        "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant",
+        "a whip with nine knotted cords",
+        "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work",
+        "any of several large cats typically able to roar and living in the wild",
+        "a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis"
+      ]
+    },
+    {
+      "id": "deer",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/intothelongdark/images/2/27/Deer.png",
+        "https://cdn11.bigcommerce.com/s-6z4q4u6n3d/product_images/uploaded_images/buck-4653644-640.png",
+        "https://static.wikia.nocookie.net/intothelongdark/images/2/27/Deer.png",
+        "https://www.davesmithdecoys.com/wp-content/uploads/2018/07/dsd-decoyline-primary-posturingbuck-800x800.png",
+        "https://aws.boone-crockett.org/s3fs-public/thumbnails/image/wr-wdnt-modeptcons.png"
+      ],
+      "definitions": [
+        "distinguished from Bovidae by the male's having solid deciduous antlers"
+      ]
+    },
+    {
+      "id": "elephant",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/elephant-6.png",
+        "https://www.biovoices.eu/image_temp/516X516_516X516_04bc7008d41b0ab6f5b0ecec8635c3ae.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/8/81/African-Elephant-PNG-File-1-.png",
+        "https://naturalhistory.si.edu/sites/default/files/media/image/nmnh-cutout-template-henry-copy.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Elephants-near-Mount-Kilimanjaro--Scene-Animal-Landscape-Kenya-Africa-Newsroom-KS2.png"
+      ],
+      "definitions": [
+        "five-toed pachyderm",
+        "the symbol of the Republican Party; introduced in cartoons by Thomas Nast in 1874"
+      ]
+    },
+    {
+      "id": "crocodile",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/vsbattles/images/1/10/Crocodile_PNG13185.png",
+        "https://static.wikia.nocookie.net/wildlife-animal-pedia/images/7/7f/Saltwater_Crocodile.png",
+        "https://i.pinimg.com/originals/90/01/5e/90015e139bf834e912a407438fb20dac.png",
+        "https://www.nightbuddiesadventures.com/wp-content/uploads/2014/08/crocodile.png",
+        "https://img.icons8.com/emoji/452/crocodile.png"
+      ],
+      "definitions": [
+        "large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters"
+      ]
+    },
+    {
+      "id": "bison",
+      "image_urls": [
+        "https://www.uplay.it/www.uplay.it_Bison--400x400.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/b/b1/American_bison.png",
+        "https://2e.aonprd.com/Images/Monsters/Bison.png",
+        "https://bisoncentral.com/wp-content/themes/FoundationPress/assets/images/nbalogo.png",
+        "https://bison-transport.eu/wp-content/uploads/2021/01/bison-project_logo.png"
+      ],
+      "definitions": [
+        "any of several large humped bovids having shaggy manes and large heads and short horns"
+      ]
+    },
+    {
+      "id": "rabbit",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/rabbit-emoji.png",
+        "https://www.buccellati.com/sites/default/files/styles/product_big/public/img/product/coniglio.png",
+        "https://vethelpdirect.com/wordpress/wp-content/uploads/2018/02/rabbit.png",
+        "https://3wqjvwh65v-flywheel.netdna-ssl.com/wp-content/uploads/2018/05/morphocode-rabbit-logo-02.png",
+        "https://static.wikia.nocookie.net/intothelongdark/images/f/fd/Rabbit.png"
+      ],
+      "definitions": [
+        "any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food",
+        "the fur of a rabbit",
+        "flesh of any of various rabbits or hares (wild or domesticated) eaten as food"
+      ]
+    },
+    {
+      "id": "tiger",
+      "image_urls": [
+        "https://emojipedia-us.s3.amazonaws.com/social/emoji/tiger.png",
+        "https://static.wikia.nocookie.net/uncle-grandpa/images/e/e5/GRFT.png",
+        "https://www.natotigers.org/sites/default/files/styles/small/public/images/media/2021-04/PATCH%20NTM%202021%20FULL.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/bengal-tiger.png",
+        "https://natotigers.org/sites/default/files/styles/logo/public/images/logo/ntm/XTM2021%20logo.png"
+      ],
+      "definitions": [
+        "a fierce or audacious person",
+        "large feline of forests in most of Asia having a tawny coat with black stripes; endangered"
+      ]
+    },
+    {
+      "id": "pony",
+      "image_urls": [
+        "https://www.cartonionline.com/wordpress/wp-content/uploads/2020/11/0e46e4da1093a0bf5a1b47bf79673a6a1.png",
+        "https://www.thomassaddlery.it/image/cache/data/prodotti/cavallo/sottosella/salto/KENTUCKY/42584/485a7989-a929523bbdd099ba1a676b6771a9e673-article-photobook-m-900x1200.png",
+        "https://i.pinimg.com/originals/23/79/ff/2379ff20923256895342fdd7c9f566f5.png",
+        "https://images-na.ssl-images-amazon.com/images/I/715ogNz5ZRL.png",
+        "https://i.pinimg.com/originals/17/1f/ca/171fca488588d6dd1e606ba45dbed3a8.png"
+      ],
+      "definitions": [
+        "a range horse of the western United States",
+        "an informal term for a racehorse",
+        "a literal translation used in studying a foreign language (often used illicitly)",
+        "a small glass adequate to hold a single swallow of whiskey",
+        "any of various breeds of small gentle horses usually less than five feet high at the shoulder"
+      ]
+    },
+    {
+      "id": "camel",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/en/3/34/Camel_cigarettes_logo.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/CamelCase_new.svg/1200px-CamelCase_new.svg.png",
+        "https://www.color-name.com/wp-content/uploads/camel-animal.png",
+        "https://static.wikia.nocookie.net/vsbattles/images/8/80/Camelll.png",
+        "https://www.stickersmurali.com/it/img/aspsp86-png/folder/products-detalle-png/adesivi-camel-2.png"
+      ],
+      "definitions": [
+        "cud-chewing mammal used as a draft or saddle animal in desert regions"
+      ]
+    },
+    {
+      "id": "sheep",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/sheep-realistic.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/sheep-9.png",
+        "https://static.wikia.nocookie.net/rimworld-bestiary/images/6/6d/SheepMale_east.png",
+        "https://westridgevets.co.uk/wp-content/uploads/2020/03/adult-sheep.png",
+        "https://static.wikia.nocookie.net/hayday/images/8/8c/Sheep_Walking.png"
+      ],
+      "definitions": [
+        "woolly usually horned ruminant mammal related to the goat",
+        "a timid defenseless simpleton who is readily preyed upon",
+        "a docile and vulnerable person who would rather follow than make an independent decision"
+      ]
+    }
+  ]
+}

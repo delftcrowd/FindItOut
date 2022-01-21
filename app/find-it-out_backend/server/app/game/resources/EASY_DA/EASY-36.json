@@ -1,0 +1,119 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "butterfly",
+      "image_urls": [
+        "https://www.peterfisk.com/wp-content/uploads/2020/03/vibrant-blue-butterfly-300x250.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Item_Butterfly_Wings.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/butterfly-1-1.png",
+        "https://stickershop.line-scdn.net/sticonshop/v1/product/5f4326876f7dd32fa1466d77/iPhone/main.png",
+        "https://ualr.edu/studentsupport/files/2014/08/blue-butterfly.png"
+      ],
+      "definitions": [
+        "diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
+        "a swimming stroke in which the arms are thrown forward together out of the water while the feet kick up and down"
+      ]
+    },
+    {
+      "id": "caterpillar",
+      "image_urls": [
+        "https://www.naturebaby.com.hk/media/catalog/product/cache/0af8e10b48af194042dcd713bf3e8687/n/b/nb000035.png",
+        "https://static.wikia.nocookie.net/alphabetimals/images/9/94/C11.png",
+        "https://rodavigo.net/datos/logos-marcas-png/caterpillar.png",
+        "https://www.cgt.it/sites/default/files/cat-on.png",
+        "https://poulins.ca/wp/wp-content/uploads/2019/10/Forest-Tent-Caterpillar-300x300.png"
+      ],
+      "definitions": [
+        "a wormlike and often brightly colored and hairy or spiny larva of a butterfly or moth",
+        "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work"
+      ]
+    },
+    {
+      "id": "snail",
+      "image_urls": [
+        "https://mybclinic.com/img/psblog/b/lg-b-gros-gris_540x.png",
+        "https://www.dottoressareynaldi.it/wp-content/uploads/2017/04/lumaca.png",
+        "https://image.flaticon.com/icons/png/512/616/616802.png",
+        "https://i.pinimg.com/originals/64/e1/b5/64e1b5812e244ab2308b67d33678b56b.png",
+        "https://i.pinimg.com/originals/3a/d0/1a/3ad01ada254a90676fef08c550b5565d.png"
+      ],
+      "definitions": [
+        "freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell",
+        "edible terrestrial snail usually served in the shell with a sauce of melted butter and garlic"
+      ]
+    },
+    {
+      "id": "beetle",
+      "image_urls": [
+        "https://www.gardentech.com/-/media/Images/GardenTech-NA/US/pest-id/bug-pest/Japanese-Beetle.png",
+        "https://www.bugfreegrains.com/-/media/Images/NewBugFreeGrains%20NA/US/insect-id/red-flour-beetle/RedFlourBeetle%20png.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_960,f_auto/00069865_os4uar.png",
+        "https://biodiversity.eurac.edu/wp-content/uploads/2020/01/600x600_what_beetles-bugs-and-other-insect-groups-300x300.png",
+        "https://www.motortrend.com/uploads/sites/10/2018/11/2019-volkswagen-beetle-s-5door-hatchback-angular-front.png"
+      ],
+      "definitions": [
+        "insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings",
+        "a tool resembling a hammer but with a large head (usually wooden); used to drive wedges or ram down paving stones or for crushing or beating or flattening or smoothing"
+      ]
+    },
+    {
+      "id": "spider",
+      "image_urls": [
+        "https://1zootree.weebly.com/uploads/2/4/2/5/24255946/spider-group-logo_1.png",
+        "https://i.pinimg.com/originals/bf/67/6d/bf676daa4a60c396664e0f3346d50ff0.png",
+        "https://static.wikia.nocookie.net/villains/images/2/2e/Spider_%28Bug_Fables%29.png",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Spirospiderlarge.png",
+        "https://images.theconversation.com/files/56867/original/737wj3gq-1408504108.png"
+      ],
+      "definitions": [
+        "predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey",
+        "a computer program that prowls the internet looking for publicly accessible resources that can be added to a database; the database can then be searched with a search engine",
+        "a skillet made of cast iron"
+      ]
+    },
+    {
+      "id": "worm",
+      "image_urls": [
+        "https://www.compostcommunity.com.au/uploads/6/8/7/8/68784659/worm-on-white-background-20_orig.png",
+        "https://mindfulwaste.org/wp-content/uploads/2020/05/Photo-33-WORM-BODY-1024x1024-1-1024x1024.png",
+        "https://cdn.shopify.com/s/files/1/1341/1521/products/World_sLargestGummyWorm_LolliandPops_800x.png",
+        "https://www.tumbleweed.com.au/_source/img/information-worm.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7862/worm-clipart-md.png"
+      ],
+      "definitions": [
+        "any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes; also many insect larvae",
+        "a person who has a nasty or unethical character undeserving of respect",
+        "a software program capable of reproducing itself that can spread from one computer to the next over a network",
+        "screw thread on a gear with the teeth of a worm wheel or rack"
+      ]
+    },
+    {
+      "id": "wasp",
+      "image_urls": [
+        "https://www.gardentech.com/-/media/Images/GardenTech-NA/US/pest-id/bug-pest/Wasp.png",
+        "https://www.rescue.com/core/files/rescue/bugs/abe37aa5bff6f21077a5b9cc52dc98b1.png",
+        "https://02f0a56ef46d93f03c90-22ac5f107621879d5667e0d7ed595bdb.ssl.cf2.rackcdn.com/sites/997/photos/502157/Wasps_960x.png",
+        "https://www.raid.ca/~/media/raid/bugs/paper-wasps/wasp-top-v.png",
+        "https://www.cleankill.co.uk/sites/default/files/styles/pest/public/2019-04/wasp_small_0.png"
+      ],
+      "definitions": [
+        "a white person of Anglo-Saxon ancestry who belongs to a Protestant denomination",
+        "social or solitary hymenopterans typically having a slender body with the abdomen attached by a narrow stalk and having a formidable sting"
+      ]
+    },
+    {
+      "id": "ant",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Scheme_ant_worker_anatomy-en.svg/450px-Scheme_ant_worker_anatomy-en.svg.png",
+        "https://img.icons8.com/emoji/452/ant-emoji.png",
+        "https://www.pestec.com/uploads/page/argentine-ant-photorealistic1.png",
+        "https://images.squarespace-cdn.com/content/v1/5963d90d579fb3b2bef31bb2/1582645019347-X57M7281YOHE9U34DRJJ/Ant.H03.2k+%281%29.png",
+        "https://ant.it/wp-content/uploads/2017/06/cropped-logo-Ant-Norm-1.png"
+      ],
+      "definitions": [
+        "social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers"
+      ]
+    }
+  ]
+}

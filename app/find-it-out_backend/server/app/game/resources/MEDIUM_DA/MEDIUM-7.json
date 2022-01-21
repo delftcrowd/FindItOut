@@ -1,0 +1,218 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "tuba",
+      "image_urls": [
+        "https://cdn.jpmusicalinstruments.com/uploads/prod_img/2_632_s.png",
+        "https://cdn.jpmusicalinstruments.com/uploads/var/14_38_s.png",
+        "https://www.conn-selmer.com/application/files/thumbnails/product_list/2315/3788/9429/top-selling-2341W.png",
+        "https://twoba.hu/wp-content/uploads/2020/09/tuba-1.png",
+        "https://cdn11.bigcommerce.com/s-ba0uaju45t/images/stencil/1200x1800/products/1461/2250/5681DFAF-1C5A-48B2-9134-AFBC5ECD6DE4__79981.1590507590.png"
+      ],
+      "definitions": [
+        "the lowest brass wind instrument"
+      ]
+    },
+    {
+      "id": "guitar",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/45/GuitareClassique5.png",
+        "https://s3.amazonaws.com/busites_www/takamine/content/images/GD51CE-NAT_h.png",
+        "https://www.ibanez.com/common/product_artist_file/file/p_region_AEWC11_TCB_5B_01.png",
+        "https://static.gibson.com/product-images/Acoustic/ACCNGE89/Cherry/MCRS45CH_headstock.png",
+        "https://www.collingsguitars.com/img/series-carousel/baritone-1.png"
+      ],
+      "definitions": [
+        "a stringed instrument usually having six strings; played by strumming or plucking"
+      ]
+    },
+    {
+      "id": "clarinet",
+      "image_urls": [
+        "https://triumphmusic.ca/wp-content/uploads/2020/10/front2.png",
+        "https://www.selmer.fr/media/cache/sylius_shop_product_original/fe/3f/09733e3af0ab2f3ff462977dbe07.png",
+        "https://cdn.jpmusicalinstruments.com/uploads/prod_img/2_93_s.png",
+        "https://images.squarespace-cdn.com/content/v1/5a694db24c326d6eed9f06d3/1518738205204-ZVXMJCQQ1QP88WPUBQQG/clarinet-diagram-image.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/p/h/phpnk48vd_copy.png"
+      ],
+      "definitions": [
+        "a single-reed instrument with a straight tube"
+      ]
+    },
+    {
+      "id": "bagpipe",
+      "image_urls": [
+        "https://static.thenounproject.com/png/3481-200.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/bagpipe-player-wearing-highland-dress.png",
+        "https://image.flaticon.com/icons/png/512/4232/4232608.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Bagpipe-Player-2.png",
+        "https://prints.ultracoloringpages.com/71a25802f7d0c4fc8297c788d3cd6dd3.png"
+      ],
+      "definitions": [
+        "a tubular wind instrument; the player blows air into a bag and squeezes it out through the drone"
+      ]
+    },
+    {
+      "id": "trumpet",
+      "image_urls": [
+        "https://musicalinstrumenthire.com/wp-content/uploads/2018/07/Trumpet.png",
+        "https://cdn.jpmusicalinstruments.com/uploads/prod_card_img/2_34_cb.png",
+        "https://cdn.jpmusicalinstruments.com/uploads/var/14_60_s.png",
+        "https://www.conn-selmer.com/application/files/4715/3745/3723/top-selling-601.png",
+        "https://cdn11.bigcommerce.com/s-ba0uaju45t/images/stencil/1200x1800/products/1255/1876/Q10RS__50018.1589034338.png"
+      ],
+      "definitions": [
+        "a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves"
+      ]
+    },
+    {
+      "id": "banjo",
+      "image_urls": [
+        "https://www.ibanez.com/common/product_artist_file/file/ps_main_ag_banjo_en.png",
+        "https://aquilacorde.com/wp-content/uploads/2019/04/banjo-oldtime-e1555498790721.png",
+        "https://www.ibanez.com/common/product_artist_file/file/pm_main_ag_banjo_en_sp.png",
+        "https://www.ibanez.com/common/product_artist_file/file/pm_main_ag_banjo_en.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Banjo.png"
+      ],
+      "definitions": [
+        "a stringed instrument of the guitar family that has long neck and circular body"
+      ]
+    },
+    {
+      "id": "violin",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/1b/Violin_VL100.png",
+        "https://cdn.shopify.com/s/files/1/0014/2521/1486/products/concerto-violin-outfit.png",
+        "https://cdn.shopify.com/s/files/1/2966/4646/files/Price-vs-playabillity-2_large.png",
+        "https://images-na.ssl-images-amazon.com/images/I/71LkML0SXML.png",
+        "https://cdn.shopify.com/s/files/1/0014/2521/1486/products/hidersine-vivente-violin-outfit-14.png"
+      ],
+      "definitions": [
+        "bowed stringed instrument that is the highest member of the violin family; this instrument has four strings and a hollow body and an unfretted fingerboard and is played with a bow"
+      ]
+    },
+    {
+      "id": "flute",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0239/5749/products/SIDE-BLOWN-FLUTE-Arabian-Bamboo-Body-Exotic-Scale-Large-1.png",
+        "https://cdn.shopify.com/s/files/1/0239/5749/products/SIDE-BLOWN-FLUTE-Oriental-minor-pentatonic-Bamboo-Body-Exotic-Scale-1.png",
+        "https://www.pearlflute.com/sites/default/files/2017-08/PFB-305BE_0.png",
+        "https://cdn.jpmusicalinstruments.com/uploads/prod_img/2_100_s.png",
+        "https://cdn.shopify.com/s/files/1/0239/5749/products/SIDE-BLOWN-FLUTE-Chinese-Bamboo-Body-Exotic-Scale-1.png"
+      ],
+      "definitions": [
+        "a high-pitched woodwind instrument; a slender tube closed at one end with finger holes on one end and an opening near the closed end across which the breath is blown",
+        "a tall narrow wineglass",
+        "a groove or furrow in cloth etc (particularly a shallow concave groove on the shaft of a column)"
+      ]
+    },
+    {
+      "id": "accordion",
+      "image_urls": [
+        "https://www.fisitalia.com/wp-content/themes/dt-the7-child/img/fisitalia-fisarmonica-italiana.png",
+        "https://www.pigini.com/wp-content/uploads/2017/01/sirius-millenium-500x305.png",
+        "https://cavagnolo.com/app/uploads/2021/03/Vedette-10-SK-Cavagnolo.png",
+        "https://static.wixstatic.com/media/adef90_9514eee9222140708ac809f2b8e02fe9~mv2.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/accordion.png"
+      ],
+      "definitions": [
+        "a portable box-shaped free-reed instrument; the reeds are made to vibrate by air from the bellows controlled by the player"
+      ]
+    },
+    {
+      "id": "harpsichord",
+      "image_urls": [
+        "https://s3.amazonaws.com/mtv-main-assets/files/pages/case-glossary_edit.png",
+        "https://cdn.shopify.com/s/files/1/0496/4069/collections/harpsichord-14441CACA844BA2057F.png",
+        "https://i2.wp.com/i.pinimg.com/originals/08/de/0e/08de0ef6f03e4092934bcab762d80e8f.png",
+        "https://i.pinimg.com/originals/2a/57/58/2a5758fe624e16f8600e462b025160ee.png",
+        "https://static.roland.com/assets/images/products/main/c-30_front_main.png"
+      ],
+      "definitions": [
+        "a clavier with strings that are plucked by plectra mounted on pivots"
+      ]
+    },
+    {
+      "id": "cello",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/5f/Cello_front_side.png",
+        "https://cdn.shopify.com/s/files/1/0014/2521/1486/products/kg-100-cello-outfit-44.png",
+        "https://www.vivacemusic.com.au/wp-content/uploads/2019/04/FirstCello_1.png",
+        "https://static.wikia.nocookie.net/littleeinsteinspedia/images/4/4d/A_Cello.png",
+        "https://luthiervidal.com/modules/revsliderprestashop/uploads/1-min.png"
+      ],
+      "definitions": [
+        "a large stringed instrument; seated player holds it upright while playing"
+      ]
+    },
+    {
+      "id": "saxophone",
+      "image_urls": [
+        "https://www.selmer.fr/media/cache/sylius_shop_product_original/63/4b/615d3563fc58df17561c48a9618e.png",
+        "https://cdn11.bigcommerce.com/s-sjkuycrcgv/images/stencil/1280x1280/products/1630/6846/eas850__53411.1593209702.png",
+        "https://static.wixstatic.com/media/f393a1_ff33c84871b241cb816ce0d52587261d~mv2_d_2612_4689_s_4_2.png",
+        "https://www.abi.co.nz/edit/image_cache/AltoGold_DSC4734ccs_900x600c0pcenter.png",
+        "https://static.wixstatic.com/media/bc9b35_b17d9f0ae87246d29ee1a9be9a48f913~mv2_d_1670_2785_s_2.png"
+      ],
+      "definitions": [
+        "a single-reed woodwind with a conical bore"
+      ]
+    },
+    {
+      "id": "trombone",
+      "image_urls": [
+        "https://cdn11.bigcommerce.com/s-sjkuycrcgv/images/stencil/1280x1280/products/1589/6796/Shires_Trombone_TBALESSI_Front_1119_2__80790.1613683486.png",
+        "https://cdn.jpmusicalinstruments.com/uploads/var/14_103_s.png",
+        "https://glistrumenti.com/wp-content/uploads/2020/06/trombone.png",
+        "https://cdn.jpmusicalinstruments.com/uploads/prod_img/2_33_s.png",
+        "https://images.squarespace-cdn.com/content/v1/5a694db24c326d6eed9f06d3/1518738167229-0KK8VZIZKC5VYX85FEKC/trombone-diagram-image.png"
+      ],
+      "definitions": [
+        "a brass instrument consisting of a long tube whose length can be varied by a U-shaped slide"
+      ]
+    },
+    {
+      "id": "piano",
+      "image_urls": [
+        "https://pianophoenix.com/wp-content/uploads/2021/02/Piano-Phoenix-3D-trois-pianos-HQ0160-1500px_conv_jpg.png",
+        "https://cdn.korg.com/it/products/upload/778786bc42fe9c8f4f4c4b24eb9bd503_sp.png",
+        "https://cdn.shopify.com/s/files/1/1796/0747/products/Piano.png",
+        "https://www.skoove.com/blog/wp-content/uploads/2021/04/record-your-creation-768x501.png",
+        "https://www.musiccitypianos.com/information/ewExternalFiles/P22LDAO_with_bench%20T-1.png"
+      ],
+      "definitions": [
+        "a keyboard instrument that is played by depressing keys that cause hammers to strike tuned strings and produce sounds",
+        "(music) low loudness"
+      ]
+    },
+    {
+      "id": "harmonica",
+      "image_urls": [
+        "https://www.hohner.de/fileadmin/images/instruments/harmonicas/hohner-dist-diatonic-xl.png",
+        "https://www.caschamusic.com/images/files/products/0000074/pics/HH-2057-00-Main.png",
+        "https://www.hohner.de/fileadmin/images/instruments/harmonicas/hohner-dist-chromatic-xl.png",
+        "https://theharmonicacompany.com/wp-content/uploads/2016/10/Hohner_Special_20_Progressive_Harmonica.png",
+        "https://theharmonicacompany.com/wp-content/uploads/2016/11/Hohner_See-Thru_happy_harp_Blue.png"
+      ],
+      "definitions": [
+        "a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole"
+      ]
+    },
+    {
+      "id": "harp",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/4/4e/Harp.png",
+        "https://www.harpcentre.com.au/wp-content/uploads/2021/01/26-String-full-view.png",
+        "https://media.vsl.co.at/images/harp_construction_316x450.png",
+        "https://static.wikia.nocookie.net/animalcrossing/images/c/ca/NH-Furniture-Harp_%28brown%29.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/27196/harp-clipart-md.png"
+      ],
+      "definitions": [
+        "a chordophone that has a triangular frame consisting of a sounding board and a pillar and a curved neck; the strings stretched between the neck and the soundbox are plucked with the fingers",
+        "a pair of curved vertical supports for a lampshade",
+        "a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole"
+      ]
+    }
+  ]
+}

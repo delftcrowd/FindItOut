@@ -1,0 +1,115 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "rosebush",
+      "image_urls": [
+        "https://polysyllabicprofundities.files.wordpress.com/2012/11/rosebush.png",
+        "https://www.pikpng.com/pngl/b/59-592075_graphic-royalty-free-library-rosebush-png-picture-gallery.png",
+        "https://www.seekpng.com/png/full/20-203355_rosebush-rose-bush-transparent-background.png",
+        "https://www.nicepng.com/png/full/67-677987_shrub-free-on-dumielauxepices-net-rosebush-rose-arch.png",
+        "https://www.pikpng.com/pngl/b/255-2553862_photo-rosebush-rose-bush-clipart.png"
+      ],
+      "definitions": [
+        "any of many shrubs of the genus Rosa that bear roses"
+      ]
+    },
+    {
+      "id": "backyard",
+      "image_urls": [
+        "https://backyarddesign.nl/wp-content/uploads/2021/03/Backyard-Website-Icon.png",
+        "https://writingexplained.org/wp-content/uploads/backyard-versus-back-yard.png",
+        "https://f.hubspotusercontent30.net/hubfs/17432/add-a-sauna-for-backyard-retreat.png",
+        "https://backyardgardenshow.com.au/images/Backyard-and-Garden-Show-Garden.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Backyard.png"
+      ],
+      "definitions": [
+        "the grounds in back of a house"
+      ]
+    },
+    {
+      "id": "indiana",
+      "image_urls": [
+        "https://www.bls.gov/regions/midwest/images/18780.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-18/hotspots.png",
+        "https://cdn.fightforsmall.com/isbdc.org/2017/09/isbdc-locations-map-blue.png",
+        "https://ivfa.org/wp-content/uploads/district-map.png",
+        "https://static.thenounproject.com/png/3402629-200.png"
+      ],
+      "definitions": [
+        "a state in midwestern United States",
+        "United States pop artist (born 1928)"
+      ]
+    },
+    {
+      "id": "canada",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/1200px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/350px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canada_on_the_globe_%28North_America_centered%29.svg/1200px-Canada_on_the_globe_%28North_America_centered%29.svg.png",
+        "https://www.rabobank.com/en/images/canada.png",
+        "https://www.startupcan.ca/wp-content/themes/startup-canada/assets/img/canada-map.png"
+      ],
+      "definitions": [
+        "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+      ]
+    },
+    {
+      "id": "california",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/California_county_map_%28labeled%29.svg/280px-California_county_map_%28labeled%29.svg.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-06/hotspots.png",
+        "https://static01.nyt.com/newsgraphics/2021/coronavirus-tracking/images/maps/USA-06/risk_levels.png",
+        "https://static.thenounproject.com/png/2381646-200.png",
+        "https://website-assets-fw.freshworks.com/attachments/cjy5nayqd0dzn65g0khl44gef-california-area-code-map.full.png"
+      ],
+      "definitions": [
+        "a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+      ]
+    },
+    {
+      "id": "cooking",
+      "image_urls": [
+        "https://spaces-wp.imgix.net/2017/03/Foods_750x425.png",
+        "https://uploads-ssl.webflow.com/5f576b033d606d4043046645/5f5b6f68d10cb35096517448_sevvy-left-3.png",
+        "https://1.bp.blogspot.com/-Yho78Yfi558/Xcn9Tz4dgMI/AAAAAAAAEUE/gfFNKfS-0tgdPK-q96UTbJCaueLlc_0kACEwYBhgL/s1600/Picture6.png",
+        "https://myplate-prod.azureedge.net/sites/default/files/styles/medium/public/2020-12/woman-grocery-bag-dad-cooking-with-kid-beef-stew.png",
+        "https://cdn.shopify.com/s/files/1/1061/1924/products/23_large.png"
+      ],
+      "definitions": [
+        "the act of preparing something (as food) by the application of heat"
+      ]
+    },
+    {
+      "id": "maine",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c96c17de5f7d145081a1f94/1566487302777-1QH95OD6OQRA8H2RRRMQ/Maine.png",
+        "https://www.maine.gov/sos/kids/themes/kids/images/colorcounties.png",
+        "https://www.maine.edu/wp-content/uploads/sites/1/2020/06/campusmapnames_with_Law.png",
+        "https://vlagblog.files.wordpress.com/2021/03/maine-zegel-1.png",
+        "https://www.integratedecosystemassessment.noaa.gov/sites/default/files/inline-images/GOM_GB_WHITE%20%281%29_0.png"
+      ],
+      "definitions": [
+        "a state in New England"
+      ]
+    }
+  ]
+}

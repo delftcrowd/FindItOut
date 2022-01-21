@@ -1,0 +1,123 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "outside",
+      "image_urls": [
+        "https://www.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png",
+        "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0648392b-f957-41de-99eb-16c1c98465ca_621x597.png",
+        "https://www.outsidebrand.co/wp-content/uploads/2020/09/Black-Logo.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/outside-dfa613493274c050ffd66b46aa56cd48ddf3a2ee.png",
+        "https://outsidehoutentuin.nl/wp-content/uploads/2020/09/Outside-beeldmerk.png"
+      ],
+      "definitions": [
+        "the region that is outside of something",
+        "the outer side or surface of something"
+      ]
+    },
+    {
+      "id": "mexico",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MEX_orthographic.svg/260px-MEX_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mexico_%28orthographic_projection%29.svg/266px-Mexico_%28orthographic_projection%29.svg.png",
+        "https://beachsoccer.com/wp-content/uploads/flags/mex.png",
+        "https://www.giz.de/static/en/media/Mexico_flag.png",
+        "https://www.hollandhousemexico.com/app/uploads/sites/16/2020/10/HHM20_Mexico-Macroeconomic.png"
+      ],
+      "definitions": [
+        "a republic in southern North America; became independent from Spain in 1810"
+      ]
+    },
+    {
+      "id": "road",
+      "image_urls": [
+        "https://saferoadmaps.org/wp-content/uploads/2021/04/road.png",
+        "https://images.vrt.be/orig/2019/02/04/deeb0349-2871-11e9-abcc-02b7b76bf47f.png",
+        "https://dcadprod.azureedge.net/b2c-experience-production/attachments/ckhu66mld0kdh01ok2hhq6lba-michelin-road-classic-f-front.full.png",
+        "https://platformduurzamebiobrandstoffen.nl/wp-content/uploads/2020/02/2018_GOV-UK-roadtozero-cover.png",
+        "https://www.jopenbier.nl/app/uploads/2020/01/road-to-nowhere-met-bokaal.png"
+      ],
+      "definitions": [
+        "an open way (generally public) for travel or transportation",
+        "a way or means to achieve something"
+      ]
+    },
+    {
+      "id": "highway",
+      "image_urls": [
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUpdaOi4SrIBnjs23YE5nk0dbfM6DdebR9NIu7skECN7_3W6k05GVXCMFEJzNTROsk47iTwJ_Lkyf5pjARWHSSPteufjsllfAJTO.png",
+        "https://images.squarespace-cdn.com/content/v1/58cfbd7f20099e8bad829da6/1594887266253-9YGP7V0QLCZV6BDY4STQ/Copy+of+Copy+of+Untitled+%281%29.png",
+        "https://static-00.iconduck.com/assets.00/highway-icon-512x512-ii823xbp.png",
+        "https://asmodee-resources.azureedge.net/media/nordicsprod/Product%20Groups/Novelties/TokyoHighway_Unbox.png",
+        "https://cdn1.iconfinder.com/data/icons/map-and-location-2/482/road_lane_trip_highway_street_way_route-512.png"
+      ],
+      "definitions": [
+        "a major road for any form of motor transport"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://www.town.nl/parkned.png",
+        "https://www.tokofthetown.com/wp-content/uploads/2019/06/TOK-OF-THE-TOWN_Tekengebied-1.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    },
+    {
+      "id": "bridge",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Golden-Gate-Bridge.svg/700px-Golden-Gate-Bridge.svg.png",
+        "https://www.midasoft.com/hubfs/2019-MIDAS-RENEWAL/conventional_bridge.png",
+        "https://bridges2000.com/wp-content/uploads/2021/06/BRIDGES2000-Oplossingen-Bruggen-brug.png",
+        "https://www.jansonbridging.co.uk/images/content/products/402/image_5f208ce808janson_bridging_jpb_traffic_normal.png",
+        "https://tbli.nl/wp-content/uploads/2020/04/cropped-Thebrigdelearninginterventions-1.png"
+      ],
+      "definitions": [
+        "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+        "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+        "something resembling a bridge in form or function",
+        "the hard ridge that forms the upper part of the nose",
+        "any of various card games based on whist for four players",
+        "a wooden support that holds the strings up",
+        "a denture anchored to teeth on either side of missing teeth",
+        "the link between two lenses; rests on the nose",
+        "an upper deck where a ship is steered and the captain stands"
+      ]
+    },
+    {
+      "id": "playground",
+      "image_urls": [
+        "https://mk0aps201827rulidqhi.kinstacdn.com/content/themes/adventureplaysystems/images/slide-img-1.png",
+        "https://sc04.alicdn.com/kf/UTB8pGKlDpfFXKJk43Ot760IPFXaq.png",
+        "https://www.misskatecuttables.com/uploads/shopping_cart/9194/large_playground2.png",
+        "https://www.aaplaygrounds.com/wp-content/uploads/2019/11/PS3-31891-3.png",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/50488315260574.560381994544b.png"
+      ],
+      "definitions": [
+        "an area where many people go for recreation",
+        "yard consisting of an outdoor area for children's play"
+      ]
+    },
+    {
+      "id": "valley",
+      "image_urls": [
+        "https://www.horecava.nl/wp-content/uploads/2020/06/product-1394668_35540.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Formation-Of-A-V-Shaped-Valley-4-V-Shaped-Valley---Geography-Land-Water-Rivers-KS3.png",
+        "https://www.fictionvalley.nl/images/logo.png",
+        "https://www.veluwe-valley.nl/images/logo-2017.png",
+        "https://logisticsvalleyhelpt.nl/wp-content/uploads/2020/03/cropped-LV_Logo_CMYK_Rivierenland-1.png"
+      ],
+      "definitions": [
+        "a long depression in the surface of the land that usually contains a river"
+      ]
+    }
+  ]
+}

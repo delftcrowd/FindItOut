@@ -1,0 +1,144 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "roof",
+      "image_urls": [
+        "https://www.guardianroofs.com/wp-content/uploads/2020/11/What-Is-a-Composition-Roof-1.png",
+        "https://www.isover.it/sites/isover.it/files/styles/isvr_default/public/assets/images/818_-_cool_roof_con_isolante_minerale_e_membrana_doppio_strato_ad_alto_sri_e_broof_t2_r04.png",
+        "https://www.metalsales.us.com/wp-content/uploads/2020/08/pic2a-1024x720.png",
+        "https://tritec.rocketcdn.me/wp-content/uploads/2020/03/tri-stand-tiles-roof-1.png",
+        "https://www.silcartcorp.com/publicImages/SILCARTCORP/1_roofing.png"
+      ],
+      "definitions": [
+        "a protective covering that covers or forms the top of a building",
+        "protective covering on top of a motor vehicle",
+        "the inner top surface of a covered area or hollow space",
+        "an upper limit on what is allowed"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://www.ceramicarondine.it/media/filer_public/04/47/044745c6-a2ba-484b-95f4-1836f70a33a3/3.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://thefloorstorenm.com/wp-content/uploads/2018/05/tile.png",
+        "https://thefloorstorenm.com/wp-content/uploads/2018/05/stone.png",
+        "https://macwoods.com/wp-content/uploads/2020/09/whatyourtype.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    },
+    {
+      "id": "window",
+      "image_urls": [
+        "https://images.contentstack.io/v3/assets/bltf589e66bcaecd79c/blt2a0992f947b24569/5e5eb94fb6214773cb3d32bc/0_0.png",
+        "https://aw930cdnprdcd.azureedge.net/-/media/andersenwindows/images/help-me-choose/200-series-double-hung-interior.png",
+        "https://www.harveywindows.com/images/librariesprovider2/hoverlay-product-widget/tribute-interior-v2e6f8675c-62e6-44d4-8870-1dc8e70d4d4f.png",
+        "https://lirp.cdn-website.com/4e632f5d/dms3rep/multi/opt/Windows-B+%26+B-Bridgetown-002-640w.png",
+        "https://aw930cdnprdcd.azureedge.net/-/media/andersenwindows/images/help-me-choose/100-series-picture-interior.png"
+      ],
+      "definitions": [
+        "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air",
+        "a transparent opening in a vehicle that allow vision out of the sides or back; usually is capable of being opened",
+        "a transparent panel (as of an envelope) inserted in an otherwise opaque material",
+        "an opening that resembles a window in appearance or function",
+        "the time period that is considered best for starting or finishing something",
+        "a pane of glass in a window",
+        "an opening in a wall or screen that admits light and air and through which customers can be served",
+        "(computer science) a rectangular part of a computer screen that contains a display different from the rest of the screen"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://www.ceramicarondine.it/media/filer_public/4f/e9/4fe93158-103c-47b5-9e86-1059ecdc82b4/volcano.png",
+        "https://www.binns.ca/wp-content/uploads/2018/07/Mica_Ash_Lifestyle.png",
+        "https://www.compellinghomes.com/hs-fs/hubfs/Circular%20Blog%20Imagery/Timeless%20Bathroom%20Designs/Accent%20Texture%20-%20Timeless%20Bathroom%20Design%20Ideas%20for%20Your%202021%20Remodel%20%7C%20Compelling%20Homes.png",
+        "https://www.compellinghomes.com/hs-fs/hubfs/Circular%20Blog%20Imagery/Timeless%20Bathroom%20Designs/Subway%20tile.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "walls",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0314/0213/1589/products/CD_1000x_1ef4fd75-52ab-4b45-b487-b45dce26690e_300x300.png",
+        "https://cdn.shopify.com/s/files/1/0314/0213/1589/products/CD_1000x_1ef4fd75-52ab-4b45-b487-b45dce26690e_1000x.png",
+        "https://cdn.shopify.com/s/files/1/0314/0213/1589/products/LP_1000x_72eb2be6-94ee-4859-8dfc-aec64a57c41d_1000x.png",
+        "https://cdn.shopify.com/s/files/1/0314/0213/1589/products/LT-Smiley-walls-hoodie-back_2stroke_1024x1024@2x.png",
+        "https://cdn.shopify.com/s/files/1/0314/0213/1589/products/LT-smiley-walls-hoodie-front_wstroke_1000x.png"
+      ],
+      "definitions": [
+        "an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure",
+        "anything that suggests a wall in structure or function or effect",
+        "(anatomy) a layer (a lining or membrane) that encloses a structure",
+        "a difficult or awkward situation",
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+        "a layer of material that encloses space",
+        "a masonry fence (as around an estate or garden)",
+        "an embankment built around a space for defensive purposes"
+      ]
+    },
+    {
+      "id": "tower",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/leaning-tower-of-pisa-with-background.png",
+        "https://thermaltake.azureedge.net/pub/media/wysiwyg/key3/db/products/case/tower_100/pic2_l.png",
+        "https://static.wikia.nocookie.net/ageofempires/images/2/26/Towers_prev_aoe2.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/64452/leaning-tower-of-pisa-clipart-md.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/castle-tower.png"
+      ],
+      "definitions": [
+        "a structure taller than its diameter; can stand alone or be attached to a larger building",
+        "anything that approximates the shape of a column or tower",
+        "a powerful small boat designed to pull or push larger ships"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "image_urls": [
+        "https://5.imimg.com/data5/RX/XR/MY-50421838/concealed-light-for-false-ceiling-500x500.png",
+        "https://www.cabasse.com/wp-content/uploads/2020/05/Alcyone-in-ceiling-3-4-roundF-600x450.png",
+        "https://cdn.shopify.com/s/files/1/1955/8109/products/rusttile1_530x@2x.png",
+        "https://cdn2.dansfancity.com//content/images/thumbs/0015124_sunrise-56-in-satin-steel-uplight-ceiling-fan.png",
+        "https://www.chigogroup.it/cms-contents/uploads/052-interna-pav-sof.png"
+      ],
+      "definitions": [
+        "the overhead upper surface of a covered space",
+        "(meteorology) altitude of the lowest layer of clouds",
+        "an upper limit on what is allowed",
+        "maximum altitude at which a plane can fly (under specified conditions)"
+      ]
+    },
+    {
+      "id": "room",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/FR_ASSET_IMG_FR_PRO_DARK.png",
+        "https://cdn.shopify.com/s/files/1/0312/2737/9849/files/open-meeting-room-pro-white-v1.png",
+        "https://visionhotel.it/wp-content/uploads/2020/04/A_CLASSIC_ROOM-1.png",
+        "https://www.bebmarenostrum.it/en/images/IMG_3731.png",
+        "https://i1.wp.com/www.evoroom.it/wp-content/uploads/2021/05/EvoRoom_logo_mob.png"
+      ],
+      "definitions": [
+        "an area within a building enclosed by walls and floor and ceiling",
+        "space for movement",
+        "opportunity for",
+        "the people who are present in a room"
+      ]
+    }
+  ]
+}

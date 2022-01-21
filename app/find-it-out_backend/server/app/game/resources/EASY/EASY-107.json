@@ -1,0 +1,144 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "outside",
+      "image_urls": [
+        "https://www.outsideonline.com/wp-content/uploads/2021/07/logo-outside.png",
+        "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/0648392b-f957-41de-99eb-16c1c98465ca_621x597.png",
+        "https://www.outsidebrand.co/wp-content/uploads/2020/09/Black-Logo.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/outside-dfa613493274c050ffd66b46aa56cd48ddf3a2ee.png",
+        "https://outsidehoutentuin.nl/wp-content/uploads/2020/09/Outside-beeldmerk.png"
+      ],
+      "definitions": [
+        "the region that is outside of something",
+        "the outer side or surface of something"
+      ]
+    },
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "person",
+      "image_urls": [
+        "https://cdn.icon-icons.com/icons2/1674/PNG/512/person_110935.png",
+        "https://cargonaut.nl/wp-content/uploads/2019/06/person-icon-silhouette-png-0.png",
+        "https://freeyourmindexperience.com/wp-content/uploads/person-icon-person-icon-clipart-image-from-our-icon-clipart-category-9-500x500.png",
+        "https://static-00.iconduck.com/assets.00/person-icon-486x512-eeiy7owm.png",
+        "https://www.freeiconspng.com/thumbs/human-icon-png/white-person-icon-png-people-black-icon-png-persons-12.png"
+      ],
+      "definitions": [
+        "a human being",
+        "a human body (usually including the clothing)",
+        "a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://www.houseofbeta.nl/app/uploads/2020/09/HoB-logo-cmyk-staand.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "palace",
+      "image_urls": [
+        "https://palace-gieten.nl/wp-content/uploads/2019/12/cropped-Palace-logo-1.png",
+        "https://palacehotel.nl/wp-content/uploads/2020/12/logo-palace-hotel-noordwij-new.png",
+        "https://d2zr9w65gdacs9.cloudfront.net/57628/pp-logo-2020-resort-rgb1599553800logo.png",
+        "https://static.thuisbezorgd.nl/images/restaurants/nl/O1NQN031/logo_465x320.png",
+        "https://static.wikia.nocookie.net/forgeofempires/images/c/c9/Palace.png"
+      ],
+      "definitions": [
+        "a large and stately mansion",
+        "the governing group of a kingdom",
+        "a large ornate exhibition hall",
+        "official residence of an exalted person (as a sovereign)"
+      ]
+    },
+    {
+      "id": "bathroom",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4884ca100658071.5f0dc02bf1182.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/Take_a_bath_gestalten_Bathroom_design_cover_final_2000x.png",
+        "https://www.henrykitchenandbath.com/cmss_files/imagelibrary/measure-bathroom.png",
+        "https://cedreo.com/uploads/3d_hu5f08e92857d88ebbd0900b5d9610b744_177034_1920x0_resize_lanczos_2.png",
+        "https://hg.eu/media/ig1nstne/223050100-main.png"
+      ],
+      "definitions": [
+        "a room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet",
+        "a room or building equipped with one or more toilets"
+      ]
+    },
+    {
+      "id": "court",
+      "image_urls": [
+        "https://www.europeanlawinstitute.eu/fileadmin/_processed_/csm_Consitutional_Court_of_Hungary_215286fe45.png",
+        "https://www.rookieroad.com/img/basketball/basketball-court-dimensions-nba.png",
+        "https://static.nike.com/a/images/t_default/1e1d5279-4f88-402f-916c-e30b4deddd6e/court-legacy-herenschoen-WFmmrD.png",
+        "https://static.nike.com/a/images/t_default/a110e512-d05a-49f0-8794-247896d405b3/court-royale-2-damesschoen-47wdNH.png",
+        "https://www.in.gov/courts/images/about-court-system-chart.png"
+      ],
+      "definitions": [
+        "an assembly (including one or more judges) to conduct judicial business",
+        "a room in which a lawcourt sits",
+        "the sovereign and his advisers who are the governing power of a state",
+        "a specially marked horizontal area within which a game is played",
+        "Australian woman tennis player who won many major championships (born in 1947)",
+        "the family and retinue of a sovereign or prince",
+        "a hotel for motorists; provides direct access from rooms to parking area",
+        "a tribunal that is presided over by a magistrate or by one or more judges who administer justice according to the laws",
+        "the residence of a sovereign or nobleman",
+        "an area wholly or partly surrounded by walls or buildings",
+        "respectful deference"
+      ]
+    },
+    {
+      "id": "gymnasium",
+      "image_urls": [
+        "https://marnixgymnasium.nl/wp-content/uploads/2020/08/MNIX-Logo-def-blauw-met-ondertitel.png",
+        "https://calvijn.nl/media/Zuider-Gymnasium/logo-zg.png",
+        "https://www.devogids.nl/wp-content/uploads/school_images/426_logo_website.png",
+        "https://www.studiowa.nl/wp-content/uploads/2015/11/studioWA-Gymnasium-2.png",
+        "https://www.stedelijkgymnijmegen.nl/wp/wp-content/themes/z-skeleton/img/logo.png"
+      ],
+      "definitions": [
+        "a school for students intermediate between elementary school and college; usually grades 9 to 12",
+        "athletic facility equipped for sports or physical training"
+      ]
+    }
+  ]
+}

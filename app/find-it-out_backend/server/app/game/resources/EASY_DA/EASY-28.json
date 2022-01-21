@@ -1,0 +1,150 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "nail",
+      "image_urls": [
+        "https://www.nailfor.com/img/ybc_blog/post/Schermata-2020-08-27-alle-18.21.59.png",
+        "https://www.nailfor.com/img/ybc_blog/post/Schermata-2020-10-20-alle-12.59.05.png",
+        "https://tlnailsystem.it/wp-content/uploads/2021/04/prod3-1.png",
+        "https://www.nailfor.com/img/ybc_blog/post/Schermata-2020-07-28-alle-12.51.25.png",
+        "https://www.nailfor.com/img/ybc_blog/post/Schermata-2020-07-28-alle-13.07.47.png"
+      ],
+      "definitions": [
+        "horny plate covering and protecting part of the dorsal surface of the digits",
+        "a thin pointed piece of metal that is hammered into materials as a fastener",
+        "a former unit of length for cloth equal to 1/16 of a yard"
+      ]
+    },
+    {
+      "id": "toe",
+      "image_urls": [
+        "https://dynasplint.com/wp-content/uploads/2019/11/toes.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ospied-la.svg/250px-Ospied-la.svg.png",
+        "https://www.accidentclaimsadvice.org.uk/wp-content/uploads/2019/08/broken-toe.png",
+        "https://www.londonfootandanklesurgery.co.uk/wp-content/uploads/2018/10/Hammertoe-Blog-Size.png",
+        "https://www.nextstepfoot.com/wp-content/uploads/2021/05/Claw-Toe2.png"
+      ],
+      "definitions": [
+        "one of the digits of the foot",
+        "the part of footwear that provides a covering for the toes",
+        "forepart of a hoof",
+        "(golf) the part of a clubhead farthest from the shaft"
+      ]
+    },
+    {
+      "id": "eye",
+      "image_urls": [
+        "https://www.mavala.com/dataimg/syspage/eyes-generalities-02-en.png",
+        "https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2020/06/Artificial-Eye.png",
+        "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3426/2020/12/blue-eye-icon2.png",
+        "https://www.nei.nih.gov/themes/custom/nei/images/circle-nav-eyeconditions.png",
+        "https://evotears.com/app/uploads/2018/09/trockenes-auge-krank.png"
+      ],
+      "definitions": [
+        "the organ of sight",
+        "good discernment (either visually or as if visually)",
+        "attention to what is seen",
+        "an area that is approximately central within some larger region",
+        "a small hole or loop (as in a needle)"
+      ]
+    },
+    {
+      "id": "ankle",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ankle_en.svg/1200px-Ankle_en.svg.png",
+        "https://asiamedicalspecialists.hk/files/article/81/Ankle%20ligament%20and%20cartilage.png",
+        "https://lirp.cdn-website.com/72ea3332/dms3rep/multi/opt/Ankel+Instability-320w.png",
+        "https://lportho.com/wp-content/uploads/2017/07/ankle_diagram.png",
+        "https://d2ywvrgmgnteiv.cloudfront.net/assets/v4/_v2/ankle/ankle-replacemet-0ed043a9d0e86ecb26a85d5b1dace3008918cd41f2202207ade9063888281681.png"
+      ],
+      "definitions": [
+        "a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus"
+      ]
+    },
+    {
+      "id": "skin",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Human_skin_structure.svg/1200px-Human_skin_structure.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Human_skin_structure.svg/250px-Human_skin_structure.svg.png",
+        "https://www.disabled-world.com/pics/1/skin-layers.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ2WP5HDRepwgS042aSUBXjJ7QLYwWwMRFVuGq3ifEe95Zn0WM9AbCKfnVWl4jZOqafATfzEFKBo3THgqOx33qmOPJmyKLwnOINB.png",
+        "https://kao-h.assetsadobe3.com/is/image/content/dam/sites/kaousa/www-curel-com/us/articles/severly-dry-skin.png"
+      ],
+      "definitions": [
+        "a natural protective body covering and site of the sense of touch",
+        "an outer surface (usually thin)",
+        "body covering of a living animal",
+        "a person's skin regarded as their life",
+        "a member of any of several British or American groups consisting predominantly of young people who shave their heads; some engage in white supremacist and anti-immigrant activities and this leads to the perception that all skinheads are racist and violent",
+        "a person whose head is bald or shaved",
+        "the rind of a fruit or vegetable",
+        "a bag serving as a container for liquids; it is made from the hide of an animal"
+      ]
+    },
+    {
+      "id": "body",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Human_body_features-cs.svg/1200px-Human_body_features-cs.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Human_body_features-en_dark_skin.svg/400px-Human_body_features-en_dark_skin.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Scheme_body_cavities-en.svg/1200px-Scheme_body_cavities-en.svg.png",
+        "https://body.id/wp-content/uploads/2020/09/measureCustomersRemotely-2.png"
+      ],
+      "definitions": [
+        "the entire physical structure of an organism (an animal, plant, or human being)",
+        "a group of persons associated by some common tie or occupation and regarded as an entity",
+        "a natural object consisting of a dead animal or person",
+        "an individual 3-dimensional object that has mass and that is distinguishable from other objects",
+        "the body excluding the head and neck and limbs",
+        "a collection of particulars considered as a system",
+        "the property of holding together and retaining its shape",
+        "the central message of a communication",
+        "the main mass of a thing",
+        "a resonating chamber in a musical instrument (as the body of a violin)",
+        "the external structure of a vehicle"
+      ]
+    },
+    {
+      "id": "hair",
+      "image_urls": [
+        "https://mr-cdn.imgix.net/content/images/2018/7/jkx8bo8d-6nav/6nav.png",
+        "https://i.pinimg.com/originals/06/c3/7c/06c37c11c25f4f9a1e28ef9ee016093c.png",
+        "https://www.fusionhair.co.nz/img/bg1.png",
+        "https://splathaircolor.com/pub/media/catalog/product/cache/2bf668a12705a450c0b613555a48a25e/p/r/product_hero_view_crimson_obsession0001.png",
+        "https://i.pinimg.com/originals/4e/cd/ae/4ecdae60067c99a887ebb1a3ab7ba673.png"
+      ],
+      "definitions": [
+        "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss",
+        "a very small distance or space",
+        "filamentous hairlike growth on a plant",
+        "any of the cylindrical filaments characteristically growing from the epidermis of a mammal",
+        "cloth woven from horsehair or camelhair; used for upholstery or stiffening in garments",
+        "a filamentous projection or process on an organism"
+      ]
+    },
+    {
+      "id": "foot",
+      "image_urls": [
+        "https://img.icons8.com/emoji/452/foot-emoji.png",
+        "https://static.thenounproject.com/png/1573056-200.png",
+        "https://d2ywvrgmgnteiv.cloudfront.net/assets/v4/_v2/foot/foot-edit-plantar-facsiitis-2bcb127166305808923e2c711e1e254bf2dccbfb80461fbce0c7b6e9d02cd7d3.png",
+        "https://i0.wp.com/www.differencebetween.com/wp-content/uploads/2014/11/Difference-Between-Feet-and-Foot.png",
+        "https://static.thenounproject.com/png/1663600-200.png"
+      ],
+      "definitions": [
+        "the part of the leg of a human being below the ankle joint",
+        "a linear unit of length equal to 12 inches or a third of a yard",
+        "the lower part of anything",
+        "the pedal extremity of vertebrates other than human beings",
+        "lowest support of a structure",
+        "any of various organs of locomotion or attachment in invertebrates",
+        "travel by walking",
+        "a member of a surveillance team who works on foot or rides as a passenger",
+        "an army unit consisting of soldiers who fight on foot",
+        "(prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm",
+        "a support resembling a pedal extremity"
+      ]
+    }
+  ]
+}

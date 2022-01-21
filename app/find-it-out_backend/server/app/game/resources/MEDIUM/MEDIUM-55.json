@@ -1,0 +1,238 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "playground",
+      "image_urls": [
+        "https://mk0aps201827rulidqhi.kinstacdn.com/content/themes/adventureplaysystems/images/slide-img-1.png",
+        "https://sc04.alicdn.com/kf/UTB8pGKlDpfFXKJk43Ot760IPFXaq.png",
+        "https://www.misskatecuttables.com/uploads/shopping_cart/9194/large_playground2.png",
+        "https://www.aaplaygrounds.com/wp-content/uploads/2019/11/PS3-31891-3.png",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/50488315260574.560381994544b.png"
+      ],
+      "definitions": [
+        "an area where many people go for recreation",
+        "yard consisting of an outdoor area for children's play"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/schermafbeelding-2019-11-27-om-15-23-59-1574864680.png",
+        "https://www.restaurant-nova.nl/wp-content/uploads/2018/12/NOVA_Logo-09.png",
+        "https://restaurant-uno.nl/assets/images/logouno.png",
+        "https://www.hotel46.nl/images/logo-craft-restaurant.png",
+        "https://restaurant-allure.nl/wp-content/uploads/2020/06/Restaurant-Allure_Logo.png"
+      ],
+      "definitions": [
+        "a building where people go to eat"
+      ]
+    },
+    {
+      "id": "mexico",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/MEX_orthographic.svg/260px-MEX_orthographic.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mexico_%28orthographic_projection%29.svg/266px-Mexico_%28orthographic_projection%29.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Mexico_Flag_Map.svg/1200px-Mexico_Flag_Map.svg.png",
+        "https://travelfiesta.nl/wp-content/uploads/elementor/thumbs/Landkaar_Mexico-oqyj01xlx5cf00gejr7a7ffc9e3pqaecu5xr9a8fsw.png",
+        "https://beachsoccer.com/wp-content/uploads/flags/mex.png"
+      ],
+      "definitions": [
+        "a republic in southern North America; became independent from Spain in 1810"
+      ]
+    },
+    {
+      "id": "forest",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5dc2252c8c1cfd4ef90243c4/1574549437077-OEJUJ1HBEIZCG91WL67V/title-art-forest.png",
+        "https://outdoor-forest.nl/wp-content/uploads/2019/12/outdoor-forest-logo-dark-xs.png",
+        "https://forforest.net/wp-content/uploads/2020/10/Logo-Men%C3%BC_Sticky-header-01.png",
+        "https://endnightgames.com/sites/default/files/images/games/forest-logo.png",
+        "https://www.forestsoftheworld.org/files/International.forestsoftheworld.org/Goals%20and%20strategies/2021-03-16%20FoW%20ToC%20illustrated.png"
+      ],
+      "definitions": [
+        "the trees and other plants in a large densely wooded area",
+        "land that is covered with trees and shrubs"
+      ]
+    },
+    {
+      "id": "canada",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/350px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Political_map_of_Canada.svg/1200px-Political_map_of_Canada.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Canada_on_the_globe_%28North_America_centered%29.svg/1200px-Canada_on_the_globe_%28North_America_centered%29.svg.png",
+        "https://www.rabobank.com/en/images/canada.png",
+        "https://www.startupcan.ca/wp-content/themes/startup-canada/assets/img/canada-map.png"
+      ],
+      "definitions": [
+        "a nation in northern North America; the French were the first Europeans to settle in mainland Canada"
+      ]
+    },
+    {
+      "id": "trees",
+      "image_urls": [
+        "https://treesforall.nl/app/themes/treesforall/dist/images/beschermer_900.png",
+        "https://www.ebben.nl/files/images/580x360/boomkwekerij-ebben-planten-fout-goed-en.png",
+        "https://hotelsfortrees.com/wp-content/uploads/2021/04/ngo2-ho3me-pic5.png",
+        "https://images.squarespace-cdn.com/content/v1/5b461598e74940f2e54b02b3/1541258072246-RIJ5RNUECT1AQIC2UXS4/LOGO_GOED_Normal_Size.png",
+        "https://images-na.ssl-images-amazon.com/images/I/713PNcxxEPL.png"
+      ],
+      "definitions": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+        "a figure that branches from a single root",
+        "English actor and theatrical producer noted for his lavish productions of Shakespeare (1853-1917)"
+      ]
+    },
+    {
+      "id": "outdoors",
+      "image_urls": [
+        "https://www.outdoorsholten.nl/wp-content/uploads/2020/03/logo.png",
+        "https://www.outdoors.nl/wp-content/uploads/2018/04/logo-outdoors-events-bedrijfsuitjes.png",
+        "https://dutchoutdoors.nl/wp-content/uploads/2020/02/Dutch_Outdoors_logo_Groen.png",
+        "https://www.bever.nl/content/dam/nl/brands/1298.png",
+        "https://i0.wp.com/yogaoutdoors.nl/wp-content/uploads/2018/04/YogaOutdoors1-e1522998443519.png"
+      ],
+      "definitions": [
+        "where the air is unconfined"
+      ]
+    },
+    {
+      "id": "building",
+      "image_urls": [
+        "https://atrium-amsterdam.nl/site/wp-content/uploads/2018/12/temp-gebouw.png",
+        "https://maken.wikiwijs.nl/userfiles/598c8bd864267ab3e0204870ff42d9946e3b047e.png",
+        "https://i.pinimg.com/originals/cd/95/86/cd958642f00e5082060ff6f15f282866.png",
+        "https://cdn-icons-png.flaticon.com/512/188/188379.png",
+        "https://gresb.com/wp-content/uploads/2017/10/real-foundations.png"
+      ],
+      "definitions": [
+        "a structure that has a roof and walls and stands more or less permanently in one place",
+        "the act of constructing something",
+        "the commercial activity involved in repairing old structures or constructing new ones",
+        "the occupants of a building"
+      ]
+    },
+    {
+      "id": "pond",
+      "image_urls": [
+        "https://splashsupplyco.com/wp-content/uploads/2018/08/Ecosystem-Cutout.png",
+        "https://www.velda.nl/app/uploads/2020/03/97c10ec707d0734063a423eb07fedc87.png",
+        "https://www.wildlifetrusts.org/sites/default/files/styles/scaled_default/public/2018-07/STEP3.png",
+        "https://www.lenntech.com/images/Brine%20treatment/Brine-Evaporation-Ponds-1.png",
+        "https://static.wikia.nocookie.net/2007scape/images/0/0e/Pond_built.png"
+      ],
+      "definitions": [
+        "a small lake"
+      ]
+    },
+    {
+      "id": "backyard",
+      "image_urls": [
+        "https://backyarddesign.nl/wp-content/uploads/2021/03/Backyard-Website-Icon.png",
+        "https://writingexplained.org/wp-content/uploads/backyard-versus-back-yard.png",
+        "https://f.hubspotusercontent30.net/hubfs/17432/add-a-sauna-for-backyard-retreat.png",
+        "https://backyardgardenshow.com.au/images/Backyard-and-Garden-Show-Garden.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Backyard.png"
+      ],
+      "definitions": [
+        "the grounds in back of a house"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "beach",
+      "image_urls": [
+        "https://luxepoxytafels.nl/app/uploads/2021/06/Epoxy-Tafel-Beach-Bovenaanzicht.png",
+        "https://cdn.shopify.com/s/files/1/0323/5518/8873/products/JL_Beach_Sinatra_Men_1024x1024.png",
+        "https://www.webtonbeachtwente.nl/wp-content/uploads/logo-webton-beach-twente-achtergrond.png",
+        "https://www.palmbeach-roermond.nl/wp/wp-content/uploads/2021/02/palmbeach.png",
+        "https://www.emsporting.nl/Files/4/10000/10720/ProductPhotos/MaxContent/284799977.png"
+      ],
+      "definitions": [
+        "an area of sand sloping down to the water of a sea or lake"
+      ]
+    },
+    {
+      "id": "yard",
+      "image_urls": [
+        "https://www.yard-indoorfarming.com/wp-content/uploads/2021/05/Yardpeterselke.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/041738_A.png",
+        "https://www.theyardhotel.nl/wp-content/uploads/2017/07/logo.png",
+        "https://images.squarespace-cdn.com/content/v1/5b621f7525bf02d42c9666d8/1533162506506-49XMESISZ94IDRXIHFKW/Main+Logo-03.png",
+        "https://images.hollandandbarrettimages.co.uk/productimages/DT/724/093699_A.png"
+      ],
+      "definitions": [
+        "a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride",
+        "the enclosed land around a house or other building",
+        "a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings)",
+        "the cardinal number that is the product of 10 and 100",
+        "a unit of volume (as for sand or gravel)",
+        "a tract of land where logs are accumulated",
+        "an area having a network of railway tracks and sidings for storage and maintenance of cars and engines",
+        "a long horizontal spar tapered at the end and used to support and spread a square sail or lateen",
+        "an enclosure for animals (as chicken or livestock)"
+      ]
+    },
+    {
+      "id": "garden",
+      "image_urls": [
+        "https://hello-garden.nl/web/image/394973/Hello-Garden-knop-bloem.png",
+        "https://gardentutor.com/wp-content/uploads/2019/01/garden-bg.png",
+        "https://www.thegardenstore.nl/wp-content/uploads/2021/01/The-Garden-Store-Tuin-Interieur-Plantstyling-projects-frame.png",
+        "https://elho.xcdn.nl/RM200,200,C_OQ70/light-garden-leaf-green-1731900236000c1png/light_garden_leaf_green_1731900236000.c1.png",
+        "https://www.decoaction.nl/pub/media/catalog/product/cache/700x700/wandbord-englisch-flower-garden.png"
+      ],
+      "definitions": [
+        "a plot of ground where plants are cultivated",
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+        "a yard or lawn adjoining a house"
+      ]
+    },
+    {
+      "id": "town",
+      "image_urls": [
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABdPB5kyY2hvQJDE-fRgXPGR6sh8NY4RHSPWxdVaLuLC95fSqbEx1RdFSjTn_aM7DxlJtTwk36PcOyrksBSId2GjkqlsaQSJTPRT3.png",
+        "https://grammartop.com/wp-content/uploads/2020/11/town-0427bceaab294a0bf3863a70a4b5b15807782de0.png",
+        "https://senatoritown.com/wp-content/uploads/2018/08/Senatori-Town-Logo.png",
+        "https://bankinter.moneytown.es/images/city_home.png",
+        "https://www.town.nl/parkned.png"
+      ],
+      "definitions": [
+        "an urban area with a fixed boundary that is smaller than a city",
+        "the people living in a municipality smaller than a city",
+        "an administrative division of a county",
+        "United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+      ]
+    }
+  ]
+}

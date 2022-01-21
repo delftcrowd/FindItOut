@@ -1,0 +1,127 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "brush",
+      "image_urls": [
+        "https://cdn.mulaccosmetics.com/media/catalog/product/cache/5d081834386d47dee054461241bd1e68/t/h/the-jolly-brush.png",
+        "https://cdn.shopify.com/s/files/1/0251/2184/9419/products/kabuki-brush_2048x.png",
+        "https://www.tek-italy.it/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/1/5/1571-38_new.png",
+        "https://www.charbroil.com/media/catalog/product/cache/001f37533a16b079f4fb726e8082a91d/e/c/ecf2e8a1a8390e1f803a27fc3450274f_3715952R06.png",
+        "https://www.salonwholesale.com/media/catalog/product/cache/6451d8f113b31cab78b2a0ede073876a/d/e/den014.png"
+      ],
+      "definitions": [
+        "a dense growth of bushes",
+        "an implement that has hairs or bristles firmly set into a handle",
+        "momentary contact",
+        "conducts current between rotating and stationary parts of a generator or motor",
+        "a bushy tail or part of a bushy tail (especially of the fox)",
+        "a minor short-term fight",
+        "the act of brushing your teeth",
+        "the act of brushing your hair",
+        "contact with something dangerous or undesirable"
+      ]
+    },
+    {
+      "id": "scissors",
+      "image_urls": [
+        "https://www.kai-europe.com/kitchen/images/products/v5210b@2x.png",
+        "https://www.coloridilana.it/WebRoot/StoreIT7/Shops/81771/5AA8/5359/311A/F08C/4019/0A0A/B010/CF90/608-7_Goldmarie_Handarbeitsschere_ml.png",
+        "https://cdn.shopify.com/s/files/1/0526/7144/7238/products/e41f01ecc4dabde064fc1c2a88e5a5e4@2x.png",
+        "https://www.kai-europe.com/kitchen/images/products/7240as@2x.png",
+        "https://cdn.shopify.com/s/files/1/2521/9510/products/Ergo-Prime-Scissors-5in_web_736x900_a3f42e2d-cd84-4f54-9ea9-f6d2a03c327b.png"
+      ],
+      "definitions": [
+        "an edge tool having two crossed pivoting blades",
+        "a wrestling hold in which you wrap your legs around the opponents body or head and put your feet together and squeeze",
+        "a gymnastic exercise performed on the pommel horse when the gymnast moves his legs as the blades of scissors move"
+      ]
+    },
+    {
+      "id": "typewriter",
+      "image_urls": [
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/1c2321cf1a04e4c889ab2bf70c8007ca/p/h/phpzvw20s-removebg-preview.png",
+        "https://www.thesocialitefamily.com/wp-content/uploads/2018/11/sans-titre-1-2-600x600.png",
+        "https://i.pinimg.com/originals/c4/a8/07/c4a807c3e6b8ef275c1be29afb620712.png",
+        "https://www.grandvintage.it/pub/media/catalog/product/cache/6b1c09900b407c50fce2db5e66ebc123/p/h/phpga6yrc-removebg-preview.png",
+        "https://i.pinimg.com/originals/79/35/c1/7935c1abf550e2b1c8a0a9648f16b857.png"
+      ],
+      "definitions": [
+        "hand-operated character printer for printing written messages one character at a time"
+      ]
+    },
+    {
+      "id": "pen",
+      "image_urls": [
+        "https://i01.appmifile.com/webfile/globalimg/gaobiyun/productstation/mi-high-capacity-lnk-pen/inkpen.png",
+        "https://cdn.shopify.com/s/files/1/0013/9676/8815/products/FR-101_1000x1000.png",
+        "https://www.st-dupont.com/media/catalog/product/cache/13/image/2000x/9df78eab33525d08d6e5fb8d27136e95/4/1/410101L-Fountain-Pen-Or-et-Noir-L-ouv-HD.png",
+        "https://my-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/2/M/2MY21AA-2_T1572401609.png",
+        "https://www.visconti.it/wp-content/uploads/2020/04/Visconti-home-type-rollerball-pen-1.png"
+      ],
+      "definitions": [
+        "a writing implement with a point from which ink flows",
+        "an enclosure for confining livestock",
+        "a portable enclosure in which babies may be left to play",
+        "a correctional institution for those convicted of major crimes",
+        "female swan"
+      ]
+    },
+    {
+      "id": "paintbrush",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/2486/2582/products/126-005-The-Brush-Works-Paintbrush-Set-O1_800x800.png",
+        "https://www.pennellificiopol.com/wp-content/uploads/2018/04/360_pl_scontornato_web.png",
+        "https://cdn.shopify.com/s/files/1/1260/8943/products/image_1024x1024.png",
+        "https://static.macupdate.com/products/25050/l/paintbrush-logo.png",
+        "https://www.pennellificiopol.com/wp-content/uploads/2019/04/platina-761_scontornata_web-300x300.png"
+      ],
+      "definitions": [
+        "a brush used as an applicator (to apply paint)"
+      ]
+    },
+    {
+      "id": "pencil",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pencil.svg/2560px-Pencil.svg.png",
+        "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2019-12/redpencil.png",
+        "https://www.pupa.it/on/demandware.static/-/Sites-masterCatalog_Pupa/default/dw79e143f6/Immagini/large/240361A003_8011607334261_powderpencil_big_03022020092459.png",
+        "https://5.imimg.com/data5/SELLER/Default/2020/12/FJ/OK/FL/1986103/rubber-tip-pencil-500x500.png",
+        "https://www.rexart.com/media/koh-polycolor-pencils.png"
+      ],
+      "definitions": [
+        "a thin cylindrical pointed writing implement; a rod of marking substance encased in wood",
+        "graphite (or a similar substance) used in such a way as to be a medium of communication",
+        "a figure formed by a set of straight lines or light rays meeting at a point",
+        "a cosmetic in a long thin stick; designed to be applied to a particular part of the face"
+      ]
+    },
+    {
+      "id": "crayon",
+      "image_urls": [
+        "https://www.logitech.com/content/dam/logitech/en/products/mobility/crayon/gallery/update-may21/crayon-orange-gallery-1.png",
+        "https://www.sensationalkids.ie/wp-content/uploads/2017/08/1-46.png",
+        "https://www.crayon.com/globalassets/global-graphical-assets/images/news/crayon-logo-secondary-rgb-original.png",
+        "https://www.craypas.com/global/wp-content/uploads/2016/08/lumber_crayon_mi.png",
+        "https://img.icons8.com/emoji/452/crayon-emoji.png"
+      ],
+      "definitions": [
+        "writing implement consisting of a colored stick of composition wax used for writing and drawing"
+      ]
+    },
+    {
+      "id": "screwdriver",
+      "image_urls": [
+        "https://pimdatacdn.bahco.com/media/sub623/16a0feb9514f183f.png",
+        "https://pimdatacdn.bahco.com/media/sub624/16a0ffee2a7d413f.png",
+        "https://pimdatacdn.bahco.com/media/sub187/17670bdcd83ccb3f.png",
+        "https://pimdatacdn.bahco.com/media/sub575/16a0c2c9b09b2f3f.png",
+        "https://pimdatacdn.bahco.com/media/sub635/16a10b1d2272013f.png"
+      ],
+      "definitions": [
+        "a hand tool for driving screws; has a tip that fits into the head of a screw",
+        "a cocktail made with vodka and orange juice"
+      ]
+    }
+  ]
+}

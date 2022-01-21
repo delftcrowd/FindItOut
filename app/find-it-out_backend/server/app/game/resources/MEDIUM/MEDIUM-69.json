@@ -1,0 +1,264 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "garbage",
+      "image_urls": [
+        "https://cdn.dribbble.com/users/1741280/screenshots/10573783/media/154118b714ecac9a578727a59ee62350.png",
+        "https://washingtonterracecity.com/vertical/Sites/%7B9D63E994-3168-4A6B-BFBB-6BA2F03103EB%7D/uploads/binblur(1).png",
+        "https://www.mwatoday.com/webres/Image/waste-recycling/ROC_95EG_MWA_SIDE.png",
+        "https://webtc.eu/images/products/224dd10304f349b90bb0ea013862c69c.png",
+        "https://jelastic.com/blog/wp-content/uploads/2019/08/java-garbage-collector-types.png"
+      ],
+      "definitions": [
+        "food that is discarded (as from a kitchen)",
+        "a worthless message",
+        "a receptacle where waste can be discarded"
+      ]
+    },
+    {
+      "id": "drawer",
+      "image_urls": [
+        "https://www.godrejinterio.com/imagestore/B2C/56101516SD00018/56101516SD00018_01_500x500.png",
+        "https://www.directaviation.aero/IManager/Media/127991/1999111/EN/reg/aluflite-atlas-superlight-drawer.png",
+        "https://images.selency.com/c695ccb0-19fd-47ff-90c2-de53f4a890bc/english-drawer-dresser_original.png",
+        "https://www.decorist.com/static/finds/product_images/full_size/243098-alex-drawer-unit-white.e360c12997079c8f179f2e9426cb779d.png",
+        "https://scumblegoosie.co.uk/wp-content/uploads/2019/02/CD6-shadow-edge-on-left.png"
+      ],
+      "definitions": [
+        "a boxlike container in a piece of furniture; made so as to slide in and out",
+        "the person who writes a check or draft instructing the drawee to pay someone else",
+        "an artist skilled at drawing"
+      ]
+    },
+    {
+      "id": "junk",
+      "image_urls": [
+        "https://justjunk.com/wp-content/themes/just-junk/assets/guys-with-truck.png",
+        "https://static.takeaway.com/images/chains/nl/veganjunkfoodbar/logo_465x320.png",
+        "https://irp-cdn.multiscreensite.com/df023aaf/dms3rep/multi/The-Junk-Removers-Logo-Hi-Res.png",
+        "https://junkshotapp.com/wp-content/uploads/2020/07/avatar-4-1024x710-1.png",
+        "https://www.junk-king.com/images/jk-junk-removal-truck-size.png"
+      ],
+      "definitions": [
+        "the remains of something that has been destroyed or broken up",
+        "any of various Chinese boats with a high poop and lugsails"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png",
+        "https://www.hillhouttuinhout.nl/images/180x180/r/products/8711471201873_1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "chair",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Dining%20Chair/image-thumb__30194__width_1200/Zio-Dining-Chair-Spectrum-Terracotta-White-wash-front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Cocktail%20Chair/image-thumb__11580__height_500/Cocktail_Chair_Bearder_Leopard_Front.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Monster/Monster%20Chair/image-thumb__14616__height_500/monster-chair-indigo-denim-with-arms.png",
+        "https://www.boldmonkey.com/media/catalog/product/cache/22d363011ebadd9cd0091033a93e7422/g/i/give_me_more_chair_orange_-1.png",
+        "https://www.ezup.com/media/catalog/product/cache/29c1a1faac4b2574dce43a966865c016/4/5/45view.png"
+      ],
+      "definitions": [
+        "a seat for one person, with a support for the back",
+        "the position of professor",
+        "the officer who presides at the meetings of an organization",
+        "an instrument of execution by electrocution; resembles an ordinary seat for one person",
+        "a particular seat in an orchestra"
+      ]
+    },
+    {
+      "id": "bed",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101515SD00434/56101515SD00434_01_803x602.png",
+        "https://s3-ap-southeast-2.amazonaws.com/brosadesign.com/products/2241/original/bruin-bed-king-1-brosa-design.png"
+      ],
+      "definitions": [
+        "a piece of furniture that provides a place to sleep",
+        "a plot of ground in which plants are growing",
+        "a depression forming the ground under a body of water",
+        "(geology) a stratum of rock (especially sedimentary rock)",
+        "a stratum of ore or coal thick enough to be mined with profit",
+        "single thickness of usually some homogeneous substance",
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+        "a foundation of earth or rock supporting a road or railroad track"
+      ]
+    },
+    {
+      "id": "attic",
+      "image_urls": [
+        "https://energycodeace.com/site/custom/public/reference-ace-2016/ImagesExt/image6738_15.png",
+        "https://hintzebelts.com/wp-content/uploads/2017/09/atticboardset.png",
+        "https://www.datocms-assets.com/38021/1617972282-attic-splash-570.png",
+        "https://d2zrc47ziwc8va.cloudfront.net/images/eas/Efficient-Attic-Solution.png",
+        "https://h7y7d6g6.rocketcdn.me/wp-content/uploads/2018/12/KORE-Loft-Insulated-Attic-Flooring-System-3D-Product.png"
+      ],
+      "definitions": [
+        "floor consisting of open space at the top of a house just below roof; often used for storage",
+        "the dialect of Ancient Greek spoken and written in Attica and Athens and Ionia",
+        "informal terms for a human head",
+        "(architecture) a low wall at the top of the entablature; hides the roof"
+      ]
+    },
+    {
+      "id": "furniture",
+      "image_urls": [
+        "https://www.purefurniture.com/wp-content/uploads/2020/07/Pure-furniture-groothandel-lookbook-tafel-HERO-newton-2.png",
+        "https://cdn.shopify.com/s/files/1/0342/2425/products/UMAGE_packshot_5562_5562-1_LoungeAround_1.5-seater_oak__4_2_600x.png",
+        "https://cdn.shopify.com/s/files/1/0342/2425/products/UMAGE_packshot_TimeFlies_brass_tweed_hazelnut__2__lowres_600x.png",
+        "https://www.robos.nl/wp-content/uploads/2021/05/Gustav-1-768x768.png",
+        "https://cdn.shopify.com/s/files/1/0342/2425/products/UMAGE_packshot_5622_5622-3_Treasures_2-door_oak_venetiancane__2_600x.png"
+      ],
+      "definitions": [
+        "furnishings that make a room or other area ready for occupancy"
+      ]
+    },
+    {
+      "id": "trouble",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5caa8b9e809d8e64e388b186/1558347693039-1YXXPSOC1X3VPZ9SR97T/Trouble_logo_yellow1.png",
+        "https://images.squarespace-cdn.com/content/v1/5caa8b9e809d8e64e388b186/1558347693039-1YXXPSOC1X3VPZ9SR97T/Trouble_logo_yellow1.png",
+        "https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZhKBph6n8-EBppzfnvUn29KQnfKCTosmPwscgvcjoI3mtMEfk8nNGVNXk14-tt6EnFdRJXPfWtUw1SD2nB5M3IC4Y1NjvPyWoZ5.png",
+        "https://images.squarespace-cdn.com/content/v1/5c0714f2b40b9d1bd887c614/1600113128998-SCHNO8RGWR5KCWK07I01/Trouble_combologo_purple.png",
+        "https://static.wikia.nocookie.net/logopedia/images/b/bc/Trouble_logo_1997.png"
+      ],
+      "definitions": [
+        "a source of difficulty",
+        "an angry disturbance",
+        "an event causing distress or pain",
+        "an effort that is inconvenient",
+        "a strong feeling of anxiety",
+        "an unwanted pregnancy"
+      ]
+    },
+    {
+      "id": "cat",
+      "image_urls": [
+        "https://www.hillspet.nl/content/dam/pim/hills/nl_nl/sd/dry/sp-feline-science-plan-sterilised-cat-young-adult-chicken-dry-productShot_500.png",
+        "https://images-na.ssl-images-amazon.com/images/I/71+mDoHG4mL.png",
+        "https://medicalpetshirts.com/wp-content/uploads/sites/5/%C2%A9-MPS-ANNOTATED-IMAGE-PROTECTIVE-BODY-SHIRT.CAT-01-V01.2019.png",
+        "https://avalonpetfood.com/wp-content/uploads/2020/04/Avalon-Optimal-Cat-V2-web2.png",
+        "https://jngnposwzs-flywheel.netdna-ssl.com/wp-content/uploads/2019/05/Transparent-OrangeWhiteCat-764x1024.png"
+      ],
+      "definitions": [
+        "feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats",
+        "an informal term for a youth or man",
+        "a spiteful woman gossip",
+        "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant",
+        "a whip with nine knotted cords",
+        "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work",
+        "any of several large cats typically able to roar and living in the wild",
+        "a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis"
+      ]
+    },
+    {
+      "id": "nature",
+      "image_urls": [
+        "https://www.fromnature2you.com/wp-content/uploads/logo-fromnature-transparant.png",
+        "https://we-are-nature.nl/wp-content/uploads/2019/02/wearenature-logo.png",
+        "https://natureforlife.world/wp-content/uploads/2018/02/LOGO4.png",
+        "https://www.natureskins.nl/wp-content/uploads/2019/11/nature_skins_logo_web.png",
+        "https://www.fromnature2you.com/wp-content/uploads/fromnature-tak-1.png"
+      ],
+      "definitions": [
+        "the essential qualities or characteristics by which something is recognized",
+        "a causal agent creating and controlling things in the universe",
+        "the natural physical world including plants and animals and landscapes etc.",
+        "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions",
+        "a particular type of thing"
+      ]
+    },
+    {
+      "id": "television",
+      "image_urls": [
+        "https://smart-cover.co.uk/wp-content/themes/Smart%20Cover/page-templates/images/tvcvr-right.png",
+        "https://ec.europa.eu/energy/sites/default/files/eepf_labels/assets/images/eepf_labels_tv_icon_big.png",
+        "https://images.selency.com/1858e1b1-30f3-4a73-8d3a-c424ec2f8fd0/continental-television-edifice-on-foot-tulip_original.png",
+        "https://images-fe.ssl-images-amazon.com/images/I/71a%2BGOb1izL.png",
+        "https://5.imimg.com/data5/SELLER/Default/2021/1/CN/QD/AL/76732024/android-television-500x500.png"
+      ],
+      "definitions": [
+        "broadcasting visual images of stationary or moving objects; ;  - Ernie Kovacs",
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "id": "snore",
+      "image_urls": [
+        "https://gsbattu.com/Gallery/70b374dc-62cf-4837-bf43-290930a9f7e6.png",
+        "https://snoreeze.com/wp-content/uploads/2018/10/apnoea.png",
+        "https://www.ralphsapps.com/img/snoreclock_landscape.png",
+        "https://www.iqoro.com/wp-content/uploads/2020/06/EN_illustration_snoring_16x9-1.png",
+        "https://adventknows.com/content/uploads/2019/10/Snore-Monster-e1570562280998.png"
+      ],
+      "definitions": [
+        "the rattling noise produced when snoring",
+        "the act of snoring or producing a snoring sound"
+      ]
+    },
+    {
+      "id": "floor",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/5c2d1217b40b9d0b0efaa79a/1560190011772-WGBWIOCBI971QK8HXCPD/BespokeDesign-FloorGuys.png",
+        "https://www.plugwise.com/wp-content/uploads/2020/11/Floor-1100@2x.png",
+        "https://boen.com/-/media/images/homepage/collage2.png",
+        "https://www.par-ky.com/media/img/pics/_original/parket-opbouw-700x418.png",
+        "https://www.kinderboeken.nl/wp-content/uploads/sites/52/2020/07/De-regels-van-Floor-Marjon-Hoffman-Nancy-Koot.png"
+      ],
+      "definitions": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+        "a lower limit",
+        "the ground on which people and animals move about",
+        "the bottom surface of any lake or other body of water",
+        "the lower inside surface of any hollow structure",
+        "the occupants of a floor",
+        "the parliamentary right to address an assembly",
+        "the legislative hall where members debate and vote and conduct other business",
+        "a large room in a exchange where the trading is done"
+      ]
+    },
+    {
+      "id": "toronto",
+      "image_urls": [
+        "https://azo-cdn.azureedge.net/sites/default/files/inline-images/Toronto_Image_Text_Destination_800x533px_0.png",
+        "https://www.oxfordinternationalenglish.com/wp-content/uploads/2019/03/Toronto-02a.png",
+        "https://dingoos.com/wp-content/uploads/vivir-en-toronto.png",
+        "https://static.nike.com/a/images/t_default/26b79407-9c52-418c-b992-3cd5b685ceca/toronto-raptors-city-edition-nba-swingman-jersey-nBQXlv.png",
+        "https://innis.utoronto.ca/wp-content/uploads/2020/03/USP-workmark-01.png"
+      ],
+      "definitions": [
+        "the provincial capital and largest city in Ontario (and the largest city in Canada)"
+      ]
+    },
+    {
+      "id": "sleep",
+      "image_urls": [
+        "https://www.healthhub.sg/sites/assets/Assets/Programs/goodsleep/2019/images/acc-b.png",
+        "https://www.nectarsleep.com/wp-content/uploads/2019/04/Is-6-Hours-of-Sleep-Enough.png",
+        "https://www.mosaicmedical.org/blog/wp-content/uploads/2020/03/Sleep-Image-01.png",
+        "https://www.nhlbi.nih.gov/sites/default/files/styles/freeform_crop/public/2019-02/55529_Sleep_Brochure_V2_0.png",
+        "https://www.sleepscotland.org/new/wp-content/uploads/2019/10/06113-Sleep-Scotland-Quote-Box-Image-V2-What-makes-us-sleep.png"
+      ],
+      "definitions": [
+        "a natural and periodic state of rest during which consciousness of the world is suspended",
+        "a torpid state resembling deep sleep",
+        "a period of time spent sleeping",
+        "euphemisms for death (based on an analogy between lying in a bed and in a tomb)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "bone",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/2957/5936/products/Large-Bone_2000x.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Human_leg_bones_labeled.svg/1200px-Human_leg_bones_labeled.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Human_arm_bones_diagram.svg/1184px-Human_arm_bones_diagram.svg.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/DCTM_Penguin_UK_DK_AL1178399_wnmz3a.png",
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/01/01173156/Bone_Markings_2-1024x1024.png"
+      ],
+      "definitions": [
+        "rigid connective tissue that makes up the skeleton of vertebrates",
+        "the porous calcified substance from which bones are made",
+        "a shade of white the color of bleached bones"
+      ]
+    },
+    {
+      "id": "toe",
+      "image_urls": [
+        "https://dynasplint.com/wp-content/uploads/2019/11/toes.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ospied-la.svg/250px-Ospied-la.svg.png",
+        "https://www.accidentclaimsadvice.org.uk/wp-content/uploads/2019/08/broken-toe.png",
+        "https://www.londonfootandanklesurgery.co.uk/wp-content/uploads/2018/10/Hammertoe-Blog-Size.png",
+        "https://www.nextstepfoot.com/wp-content/uploads/2021/05/Claw-Toe2.png"
+      ],
+      "definitions": [
+        "one of the digits of the foot",
+        "the part of footwear that provides a covering for the toes",
+        "forepart of a hoof",
+        "(golf) the part of a clubhead farthest from the shaft"
+      ]
+    },
+    {
+      "id": "arm",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Human_arm_bones_diagram.svg/1184px-Human_arm_bones_diagram.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arm_logo_2017.svg/1280px-Arm_logo_2017.svg.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/arm-1.png",
+        "https://www.tecnologix.it/pub/media/catalog/product/cache/3b6f3fbe42cec9070da002fb247dc6fc/a/r/arm_logo.png",
+        "https://cdn.shopify.com/s/files/1/0096/9926/2560/products/md_6511_elitecompressionsleeve_blk_back_7de477a5-7b13-480c-a772-e79569f4bab9_2000x.png"
+      ],
+      "definitions": [
+        "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+        "any projection that is thought to resemble a human arm",
+        "any instrument or instrumentality used in fighting or hunting",
+        "the part of an armchair or sofa that supports the elbow and forearm of a seated person",
+        "a division of some larger or more complex organization",
+        "the part of a garment that is attached at the armhole and that provides a cloth covering for the arm"
+      ]
+    },
+    {
+      "id": "blood",
+      "image_urls": [
+        "https://cdn.adrialenti.it/imagesCdn/19796/28974-800x600.png",
+        "https://www.paho.org/sites/default/files/styles/max_650x650/public/2021-06/2021blood-donor-digital-sticker-eng_0.png",
+        "https://occ-0-1722-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABVWe_vLZvySX3jmfP9wd3go0il8TTRfJf7uW3lhDTcl_OD7Cmr00R0xIwHx2uSm_hDv4rhwjmh5gj7uMkUSTp8FrlVhojCPjh5B8.png",
+        "https://www.bbh.org/wp-content/uploads/2021/01/testimonials-robert.png",
+        "https://logicalbiological.com/wp-content/uploads/2019/05/Irreg-Antibodies-Header-image.png"
+      ],
+      "definitions": [
+        "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",
+        "temperament or disposition",
+        "a dissolute man in fashionable society",
+        "the descendants of one individual",
+        "people viewed as members of a group"
+      ]
+    },
+    {
+      "id": "eye",
+      "image_urls": [
+        "https://www.mavala.com/dataimg/syspage/eyes-generalities-02-en.png",
+        "https://www.lei.org.au/wp-content/themes/lionseyeinstitute/images/the-external-eye.png",
+        "https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2020/06/Artificial-Eye.png",
+        "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3426/2020/12/blue-eye-icon2.png",
+        "https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2020/06/Artificial-Eye.png"
+      ],
+      "definitions": [
+        "the organ of sight",
+        "good discernment (either visually or as if visually)",
+        "attention to what is seen",
+        "an area that is approximately central within some larger region",
+        "a small hole or loop (as in a needle)"
+      ]
+    },
+    {
+      "id": "body",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Human_body_features-cs.svg/1200px-Human_body_features-cs.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Human_body_features-en_dark_skin.svg/400px-Human_body_features-en_dark_skin.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Scheme_body_cavities-en.svg/1200px-Scheme_body_cavities-en.svg.png",
+        "https://body.id/wp-content/uploads/2020/09/measureCustomersRemotely-2.png"
+      ],
+      "definitions": [
+        "the entire physical structure of an organism (an animal, plant, or human being)",
+        "a group of persons associated by some common tie or occupation and regarded as an entity",
+        "a natural object consisting of a dead animal or person",
+        "an individual 3-dimensional object that has mass and that is distinguishable from other objects",
+        "the body excluding the head and neck and limbs",
+        "a collection of particulars considered as a system",
+        "the property of holding together and retaining its shape",
+        "the central message of a communication",
+        "the main mass of a thing",
+        "a resonating chamber in a musical instrument (as the body of a violin)",
+        "the external structure of a vehicle"
+      ]
+    },
+    {
+      "id": "skin",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Human_skin_structure.svg/1200px-Human_skin_structure.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Human_skin_structure.svg/250px-Human_skin_structure.svg.png",
+        "https://www.disabled-world.com/pics/1/skin-layers.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABZ2WP5HDRepwgS042aSUBXjJ7QLYwWwMRFVuGq3ifEe95Zn0WM9AbCKfnVWl4jZOqafATfzEFKBo3THgqOx33qmOPJmyKLwnOINB.png",
+        "https://kao-h.assetsadobe3.com/is/image/content/dam/sites/kaousa/www-curel-com/us/articles/severly-dry-skin.png"
+      ],
+      "definitions": [
+        "a natural protective body covering and site of the sense of touch",
+        "an outer surface (usually thin)",
+        "body covering of a living animal",
+        "a person's skin regarded as their life",
+        "a member of any of several British or American groups consisting predominantly of young people who shave their heads; some engage in white supremacist and anti-immigrant activities and this leads to the perception that all skinheads are racist and violent",
+        "a person whose head is bald or shaved",
+        "the rind of a fruit or vegetable",
+        "a bag serving as a container for liquids; it is made from the hide of an animal"
+      ]
+    },
+    {
+      "id": "neck",
+      "image_urls": [
+        "https://2pybk2la9r-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/72-neck_anatomy-1-1024x747.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Musculi_coli_base.svg/440px-Musculi_coli_base.svg.png",
+        "https://smhttp-ssl-65481.nexcesscdn.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/p/spidi_neck_gp.png",
+        "https://2pybk2la9r-flywheel.netdna-ssl.com/wp-content/uploads/2020/05/73-neck-lymph_nodes-crop-2.png",
+        "https://www.prada.com/content/dam/pradanux_products/U/UMB/UMB258/1ZJXF014C/UMB258_1ZJX_F014C_S_212_SLF.png"
+      ],
+      "definitions": [
+        "the part of an organism (human or animal) that connects the head to the rest of the body",
+        "a narrow elongated projecting strip of land",
+        "a cut of meat from the neck of an animal",
+        "a narrow part of an artifact that resembles a neck in position or form",
+        "an opening in a garment for the neck of the wearer; a part of the garment near the wearer's neck"
+      ]
+    },
+    {
+      "id": "hair",
+      "image_urls": [
+        "https://mr-cdn.imgix.net/content/images/2018/7/jkx8bo8d-6nav/6nav.png",
+        "https://i.pinimg.com/originals/06/c3/7c/06c37c11c25f4f9a1e28ef9ee016093c.png",
+        "https://www.fusionhair.co.nz/img/bg1.png",
+        "https://www.adiflagstore.it/media/catalog/product/cache/e9351ea0db86f99b99a88e969ce28596/h/e/head_hair_heal_shampoo.png",
+        "https://splathaircolor.com/pub/media/catalog/product/cache/2bf668a12705a450c0b613555a48a25e/p/r/product_hero_view_crimson_obsession0001.png"
+      ],
+      "definitions": [
+        "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss",
+        "a very small distance or space",
+        "filamentous hairlike growth on a plant",
+        "any of the cylindrical filaments characteristically growing from the epidermis of a mammal",
+        "cloth woven from horsehair or camelhair; used for upholstery or stiffening in garments",
+        "a filamentous projection or process on an organism"
+      ]
+    },
+    {
+      "id": "nail",
+      "image_urls": [
+        "https://www.nailfor.com/img/ybc_blog/post/Schermata-2020-08-27-alle-18.21.59.png",
+        "https://www.nailfor.com/img/ybc_blog/post/Schermata-2020-10-20-alle-12.59.05.png",
+        "https://tlnailsystem.it/wp-content/uploads/2021/04/prod3-1.png",
+        "https://www.luxurynailssrl.com/wp-content/uploads/2017/10/Senza-titolo-2.png",
+        "https://www.mavala.com/dataimg/itmarticle/910-mini-color-hd.png"
+      ],
+      "definitions": [
+        "horny plate covering and protecting part of the dorsal surface of the digits",
+        "a thin pointed piece of metal that is hammered into materials as a fastener",
+        "a former unit of length for cloth equal to 1/16 of a yard"
+      ]
+    },
+    {
+      "id": "kidney",
+      "image_urls": [
+        "https://www.lugnani.com/images/Organi-vintage/kidney-562x300.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/KidneyStructures_PioM.svg/300px-KidneyStructures_PioM.svg.png",
+        "https://diabetes-resources-production.s3.eu-west-1.amazonaws.com/resources-s3/public/2020-04/Kidney%20Disease%20%282%29.png",
+        "https://www.pskc.net/wp-content/uploads/2015/04/kidney11.png",
+        "https://www.seattlechildrens.org/globalassets/images/clinics/transplant/how-the-kidneys-work-180x343.png"
+      ],
+      "definitions": [
+        "either of two bean-shaped excretory organs that filter wastes (especially urea) from the blood and excrete them and water in urine"
+      ]
+    },
+    {
+      "id": "liver",
+      "image_urls": [
+        "https://cdn.bcm.edu/sites/default/files/2020-11/liver.png",
+        "https://www.leogenic.com/wp-content/uploads/2019/05/liver-846x555.png",
+        "https://cdn.bcm.edu/sites/default/files/styles/two_thirds_width_component_image/public/2020-11/liver.png",
+        "https://www.genengnews.com/wp-content/uploads/2019/07/liver-4081243_1920.png",
+        "https://www.cancer.ca/~/media/CCE/4334/99f0052352f1eadbd41139447e83f5a1.png"
+      ],
+      "definitions": [
+        "large and complicated reddish-brown glandular organ located in the upper right portion of the abdominal cavity; secretes bile and functions in metabolism of protein and carbohydrate and fat; synthesizes substances involved in the clotting of the blood; synthesizes vitamin A; detoxifies poisonous substances and breaks down worn-out erythrocytes",
+        "liver of an animal used as meat",
+        "a person who has a special life style",
+        "someone who lives in a place"
+      ]
+    },
+    {
+      "id": "muscle",
+      "image_urls": [
+        "https://static.wikia.nocookie.net/muscle-hustle-wresterpedia/images/1/12/Muscle_T3_F.png",
+        "https://www.muscleandmotion.com/wp-content/uploads/2021/08/11.png",
+        "https://s3-us-west-2.amazonaws.com/courses-images/wp-content/uploads/sites/102/2017/04/09002210/Body-muscles_back-863x1024.png",
+        "https://sheffordosteo.com/wp-content/uploads/2018/03/muscles-upper-back-600wx400h-600x400.png",
+        "https://madmuscles.com/_next/static/assets/HBJ2ZCcEnwfCs_pCNvB3P/images/body-muscles/HERO.png"
+      ],
+      "definitions": [
+        "one of the contractile organs of the body",
+        "animal tissue consisting predominantly of contractile cells",
+        "a bully employed as a thug or bodyguard",
+        "authority or power or force (especially when used in a coercive way)",
+        "possessing muscular strength"
+      ]
+    },
+    {
+      "id": "ankle",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ankle_en.svg/1200px-Ankle_en.svg.png",
+        "https://asiamedicalspecialists.hk/files/article/81/Ankle%20ligament%20and%20cartilage.png",
+        "https://lirp.cdn-website.com/72ea3332/dms3rep/multi/opt/Ankel+Instability-320w.png",
+        "https://lportho.com/wp-content/uploads/2017/07/ankle_diagram.png",
+        "https://d2ywvrgmgnteiv.cloudfront.net/assets/v4/_v2/ankle/ankle-replacemet-0ed043a9d0e86ecb26a85d5b1dace3008918cd41f2202207ade9063888281681.png"
+      ],
+      "definitions": [
+        "a gliding joint between the distal ends of the tibia and fibula and the proximal end of the talus"
+      ]
+    },
+    {
+      "id": "leg",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/09/Gray1240.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/77157/leg-clipart-md.png",
+        "https://www.gymequip.eu/wp-content/uploads/2015/10/Leg-Extension-Leg-Curl-Machine-M8-4.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/leg.png",
+        "https://www.lifefitnessemea.com/resource/blob/664882/0d1762269724ed1afe1eaecf8d30ceb6/life-fitness-axiom-series-leg-extension-full-shroud-op-le--data.png"
+      ],
+      "definitions": [
+        "a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle",
+        "a structure in animals that is similar to a human leg and used for locomotion",
+        "one of the supports for a piece of furniture",
+        "a part of a forked or branching shape",
+        "the limb of an animal used for food",
+        "a prosthesis that replaces a missing leg",
+        "a cloth covering consisting of the part of a pair of trousers that covers a person's leg",
+        "(nautical) the distance traveled by a sailing vessel on a single tack",
+        "a section or portion of a journey or course"
+      ]
+    },
+    {
+      "id": "elbow",
+      "image_urls": [
+        "https://res.cloudinary.com/im2015/image/upload/v1583831908/Blog/v2/Elbow_Injuries_v2-10.png",
+        "https://www.blog.ohmyarthritis.com/wp-content/uploads/tennis-elbow-pain.png",
+        "https://cdn.sanity.io/images/0b678gck/buoy-public-site/c2d9a083bcf75072ad76d42571e93b6451c990b1-2000x1400.png",
+        "https://www.compex.com/media/wysiwyg/compex-eu/pdp/compression-bracing/IT%20Defender%20Elbow%20Diagram.png",
+        "https://res.cloudinary.com/im2015/image/upload/v1583822924/Blog/v2/Elbow_Injuries_f1-06.png"
+      ],
+      "definitions": [
+        "hinge joint between the forearm and upper arm and the corresponding joint in the forelimb of a quadruped",
+        "a sharp bend in a road or river",
+        "a length of pipe with a sharp bend in it",
+        "the part of a sleeve that covers the elbow joint",
+        "the joint of a mammal or bird that corresponds to the human elbow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "school",
+      "image_urls": [
+        "https://images.hogeschoolrotterdam.nl/Blob/817efb595f7a4885af113a6c3f300bb4/af2d9d6e65024ab1a991c081facc690d.png",
+        "https://www.cedgroep.nl/files/De-Vreedzame-School/Afbeeldingen/logo-Vreedzame-school-5dec.png",
+        "https://www.youngbusinessschool.nl/media/28415/unknown.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dutch_Education_System-en.svg/1200px-Dutch_Education_System-en.svg.png",
+        "https://www.expatdesknijmegen.nl/wp-content/uploads/2018/06/rivers-international-school-arnhem-logo.480x0.png"
+      ],
+      "definitions": [
+        "an educational institution",
+        "a building where young people receive education",
+        "the process of being formally educated at a school",
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+        "the period of instruction in a school; the time period when school is in session",
+        "an educational institution's faculty and students",
+        "a large group of fish"
+      ]
+    },
+    {
+      "id": "homes",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://www.baerz.com/thumb/m/images/logo-top.png",
+        "https://www.kanvihomes.com/hs-fs/hubfs/edmonton-home-builder-kanvi-homes-building-infill-homes-in-mature-communties-1.png"
+      ],
+      "definitions": [
+        "where you live at a particular time",
+        "housing that someone is living in",
+        "the country or state or city where you live",
+        "(baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score",
+        "the place where you are stationed and from which missions start and end",
+        "place where something began and flourished",
+        "an environment offering affection and security",
+        "a social unit living together",
+        "an institution where people are cared for"
+      ]
+    },
+    {
+      "id": "museum",
+      "image_urls": [
+        "https://chabotmuseum.nl/wp-content/themes/chabotmuseum-18-11-2017/assets/img/logo.png",
+        "https://www.museumvanloon.nl/graphics/Museum_Van_Loon.png",
+        "https://www.amsterdammuseum.nl/sites/default/files/logo.png",
+        "https://www.diamondmuseum.com/wp-content/uploads/2018/01/home-imaage-8.png",
+        "https://www.dutchmuseums.com/img/mjkdef.png"
+      ],
+      "definitions": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value"
+      ]
+    },
+    {
+      "id": "human",
+      "image_urls": [
+        "https://itis.swiss/assets/images/Virtual-Population/_resampled/ResizedImageWzYwMCwzNzdd/vip-overview-final-s2.png",
+        "https://innerbody.imgix.net/MU-Female-Anterior_0.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/201_Elements_of_the_Human_Body.02.svg/300px-201_Elements_of_the_Human_Body.02.svg.png",
+        "https://www.bodyworlds.nl/media/1016/thumbnail-34.png",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d9/Internal_organs.png"
+      ],
+      "definitions": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "id": "band",
+      "image_urls": [
+        "https://www.summerland.nl/wp-content/uploads/Alleen_netjes.png",
+        "https://www.summerland.nl/wp-content/uploads/alleen_stoer.png",
+        "https://image.oppo.com/content/dam/oppo/product-asset-library/accessory/band/band-sport/v4/index/assets/chunk1-img2-2560.png",
+        "https://assets-global.website-files.com/5f15b505dd58c1501a49d387/5f20daa0fd0beff19e65fde9_Band-Protocol.png",
+        "https://www.epica.nl/band/band-1c.png"
+      ],
+      "definitions": [
+        "an unofficial association of people or groups",
+        "instrumentalists not including string players",
+        "a stripe or stripes of contrasting color",
+        "an adornment consisting of a strip of a contrasting color or material",
+        "a group of musicians playing popular music for dancing",
+        "a range of frequencies between two limits",
+        "a thin flat strip of flexible material that is worn around the body or one of the limbs (especially to decorate the body)",
+        "a cord-like tissue connecting two larger parts of an anatomical structure",
+        "jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger",
+        "a driving belt in machinery",
+        "a thin flat strip or loop of flexible material that goes around or over something else, typically to hold it together or as a decoration",
+        "a strip of material attached to the leg of a bird to identify it (as in studies of bird migration)",
+        "a restraint put around something to hold it together"
+      ]
+    },
+    {
+      "id": "library",
+      "image_urls": [
+        "https://www.tua.nl/assets/admin/plugins/kcfinder/upload/images/Bibliotheek/Home_borrowing3.png",
+        "https://www.openingthebook.com/media/1034/public-library-design.png",
+        "https://duluthlibrary.org/media/11866/homeimage2.png",
+        "https://i0.wp.com/harlingenlibrary.org/wp-content/uploads/2018/10/cropped-Logo-1-clear-2.png",
+        "https://static.wikia.nocookie.net/civilization/images/5/57/Great_Library_%28Civ6%29.png"
+      ],
+      "definitions": [
+        "a room where books are kept",
+        "a collection of literary documents or records kept for reference or borrowing",
+        "a depository built to contain books and other materials for reading and study",
+        "(computing) a collection of standard programs and subroutines that are stored and available for immediate use",
+        "a building that houses a collection of books and other materials"
+      ]
+    },
+    {
+      "id": "factory",
+      "image_urls": [
+        "https://betterfuturefactory.com/wp-content/uploads/2020/05/Better-Future-Factory-Logo-2020-website-header.png",
+        "https://ambitionit.nl/wp-content/uploads/2020/07/SmartFactory-AmbitionIT.png",
+        "https://girnetwork.com/wp-content/uploads/revslider/factory.png",
+        "https://betterfuturefactory.com/wp-content/uploads/2020/09/Better-Future-Factory-Logo-2020-white.png",
+        "https://www.image-factory.org/wp-content/uploads/2019/07/logo-black.png"
+      ],
+      "definitions": [
+        "a plant consisting of one or more buildings with facilities for manufacturing"
+      ]
+    },
+    {
+      "id": "workplace",
+      "image_urls": [
+        "https://techcrunch.com/wp-content/uploads/2016/10/04_workplace_homepage_desktop.png",
+        "https://g-workplace.com/application/files/2116/0215/7685/illustration-2020at2x.png",
+        "https://www.servicenow.nl/content/dam/servicenow-assets/public/en-us/images/background/safe-workplace-medium-marquee.png",
+        "https://cdn2.hubspot.net/hubfs/521324/App-Icon-1200x1200-workplacebyfacebook.png",
+        "https://venturebeat.com/wp-content/uploads/2016/12/07_Workplace_Group_Desktop-1-e1481072961504.png"
+      ],
+      "definitions": [
+        "a place where work is done"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "butterfly",
+      "image_urls": [
+        "https://www.peterfisk.com/wp-content/uploads/2020/03/vibrant-blue-butterfly-300x250.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/c/ce/Item_Butterfly_Wings.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/butterfly-1-1.png",
+        "https://stickershop.line-scdn.net/sticonshop/v1/product/5f4326876f7dd32fa1466d77/iPhone/main.png",
+        "https://ualr.edu/studentsupport/files/2014/08/blue-butterfly.png"
+      ],
+      "definitions": [
+        "diurnal insect typically having a slender body with knobbed antennae and broad colorful wings",
+        "a swimming stroke in which the arms are thrown forward together out of the water while the feet kick up and down"
+      ]
+    },
+    {
+      "id": "frog",
+      "image_urls": [
+        "https://www.steiff.com/img/600/744/resize/catalog/product/n/a/national-geographic-froggy-frosch-056536.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Frog-02.png",
+        "https://static.wikia.nocookie.net/chrono/images/e/e6/Frog.png",
+        "https://frog.tips/images/FROG.png",
+        "https://cdn.shopify.com/s/files/1/1241/7562/products/FGH_55T_500_ICAST_750x.png"
+      ],
+      "definitions": [
+        "any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species",
+        "a person of French descent",
+        "a decorative loop of braid or cord"
+      ]
+    },
+    {
+      "id": "flea",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0135/5150/1376/files/FleaLifeCycleDiagram_large.png",
+        "https://www.cleankill.co.uk/sites/default/files/styles/pest/public/2019-04/flea.png",
+        "https://static.wikia.nocookie.net/disneyfanon/images/d/db/Pt-flea.png",
+        "https://www.gopest.co.nz/wp-content/uploads/2020/04/flea-gopest-1-300x185.png",
+        "https://catalogo.fiereparma.aicod.it/wp-content/uploads/2020/04/birra-flea-33-cl.-cartone-misto-12-pezzi.png"
+      ],
+      "definitions": [
+        "any wingless bloodsucking parasitic insect noted for ability to leap"
+      ]
+    },
+    {
+      "id": "cat",
+      "image_urls": [
+        "https://m.media-amazon.com/images/I/71+mDoHG4mL.png",
+        "https://stickershop.line-scdn.net/stickershop/v1/product/8025109/LINEStorePC/main.png",
+        "https://jngnposwzs-flywheel.netdna-ssl.com/wp-content/uploads/2019/05/Transparent-OrangeWhiteCat-764x1024.png",
+        "https://images.ctfassets.net/sa0sroutfts9/4cRiXpLgY2MRYphXDhb1F4/6f819bd33447a72218ba667a5867b35b/GO-SOLUTIONS-Recipe-Image-Cat-Skin_Coat-Care-Salmon.png",
+        "https://breed-assets.wisdompanel.com/cat/indian-street-cat/Indian_Street.png"
+      ],
+      "definitions": [
+        "feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats",
+        "an informal term for a youth or man",
+        "a spiteful woman gossip",
+        "the leaves of the shrub Catha edulis which are chewed like tobacco or used to make tea; has the effect of a euphoric stimulant",
+        "a whip with nine knotted cords",
+        "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work",
+        "any of several large cats typically able to roar and living in the wild",
+        "a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis"
+      ]
+    },
+    {
+      "id": "caterpillar",
+      "image_urls": [
+        "https://www.naturebaby.com.hk/media/catalog/product/cache/0af8e10b48af194042dcd713bf3e8687/n/b/nb000035.png",
+        "https://static.wikia.nocookie.net/alphabetimals/images/9/94/C11.png",
+        "https://rodavigo.net/datos/logos-marcas-png/caterpillar.png",
+        "https://www.cgt.it/sites/default/files/cat-on.png",
+        "https://poulins.ca/wp/wp-content/uploads/2019/10/Forest-Tent-Caterpillar-300x300.png"
+      ],
+      "definitions": [
+        "a wormlike and often brightly colored and hairy or spiny larva of a butterfly or moth",
+        "a large tracked vehicle that is propelled by two endless metal belts; frequently used for moving earth in construction and farm work"
+      ]
+    },
+    {
+      "id": "ant",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Scheme_ant_worker_anatomy-en.svg/450px-Scheme_ant_worker_anatomy-en.svg.png",
+        "https://img.icons8.com/emoji/452/ant-emoji.png",
+        "https://www.pestec.com/uploads/page/argentine-ant-photorealistic1.png",
+        "https://images.squarespace-cdn.com/content/v1/5963d90d579fb3b2bef31bb2/1582645019347-X57M7281YOHE9U34DRJJ/Ant.H03.2k+%281%29.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Ant--The-Cicada-and-the-Ant-Traditional-Thai-Tales-KS1.png"
+      ],
+      "definitions": [
+        "social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers"
+      ]
+    },
+    {
+      "id": "cockroach",
+      "image_urls": [
+        "https://swatpest.com/wp-content/uploads/2021/02/cockroach-moving.png",
+        "https://www.rosepestsolutions.com/images/american-cockroach.png",
+        "https://www.gardentech.com/-/media/Images/GardenTech-NA/US/pest-id/bug-pest/Cockroach.png",
+        "https://www.mypmp.net/wp-content/uploads/2018/12/iS-476825244_cockroach.png",
+        "https://www.exodusexterminating.com/static/sitefiles/images/live_roach_icon.png"
+      ],
+      "definitions": [
+        "any of numerous chiefly nocturnal insects; some are domestic pests"
+      ]
+    },
+    {
+      "id": "rattlesnake",
+      "image_urls": [
+        "https://www.mdwfp.com/media/253761/canebrake-rattlesnake-crotalus-horridus-4x.png",
+        "https://www.mdwfp.com/media/253771/pigmy-rattlesnake-sistrurus-miliarius-4x.png",
+        "https://static.wikia.nocookie.net/rimworld-bestiary/images/9/93/Rattlesnake_east.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/10092/rattlesnake-clipart-xl.png",
+        "https://i.pinimg.com/originals/d7/89/99/d7899997f00b720fdb9d79cf137207fe.png"
+      ],
+      "definitions": [
+        "pit viper with horny segments at the end of the tail that rattle when shaken"
+      ]
+    },
+    {
+      "id": "worm",
+      "image_urls": [
+        "https://www.compostcommunity.com.au/uploads/6/8/7/8/68784659/worm-on-white-background-20_orig.png",
+        "https://mindfulwaste.org/wp-content/uploads/2020/05/Photo-33-WORM-BODY-1024x1024-1-1024x1024.png",
+        "https://cdn.shopify.com/s/files/1/1341/1521/products/World_sLargestGummyWorm_LolliandPops_800x.png",
+        "https://www.tumbleweed.com.au/_source/img/information-worm.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7862/worm-clipart-md.png"
+      ],
+      "definitions": [
+        "any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes; also many insect larvae",
+        "a person who has a nasty or unethical character undeserving of respect",
+        "a software program capable of reproducing itself that can spread from one computer to the next over a network",
+        "screw thread on a gear with the teeth of a worm wheel or rack"
+      ]
+    },
+    {
+      "id": "spider",
+      "image_urls": [
+        "https://1zootree.weebly.com/uploads/2/4/2/5/24255946/spider-group-logo_1.png",
+        "https://i.pinimg.com/originals/bf/67/6d/bf676daa4a60c396664e0f3346d50ff0.png",
+        "https://static.wikia.nocookie.net/villains/images/2/2e/Spider_%28Bug_Fables%29.png",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Spirospiderlarge.png",
+        "https://www.rescue.com/core/files/rescue/bugs/3bfb0b1aea6c260df526fe89d622a0a9.png"
+      ],
+      "definitions": [
+        "predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey",
+        "a computer program that prowls the internet looking for publicly accessible resources that can be added to a database; the database can then be searched with a search engine",
+        "a skillet made of cast iron"
+      ]
+    },
+    {
+      "id": "moth",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tw1n/image/private/t_630/image_repo/ff/58/moth_ver_3.png",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/49171092184501.5e4499f34cfc6.png",
+        "https://images.theconversation.com/files/301612/original/file-20191113-77320-1d8wpgs.png",
+        "https://images.twinkl.co.uk/tw1n/image/private/t_630_eco/image_repo/ff/58/moth_ver_3.png",
+        "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/795bd592184501.5e4499f44dd4a.png"
+      ],
+      "definitions": [
+        "typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae"
+      ]
+    },
+    {
+      "id": "beetle",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Life_cycle_of_stag_beetle.svg/300px-Life_cycle_of_stag_beetle.svg.png",
+        "https://www.gardentech.com/-/media/Images/GardenTech-NA/US/pest-id/bug-pest/Japanese-Beetle.png",
+        "https://www.bugfreegrains.com/-/media/Images/NewBugFreeGrains%20NA/US/insect-id/red-flour-beetle/RedFlourBeetle%20png.png",
+        "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_960,f_auto/00069865_os4uar.png",
+        "https://biodiversity.eurac.edu/wp-content/uploads/2020/01/600x600_what_beetles-bugs-and-other-insect-groups-300x300.png"
+      ],
+      "definitions": [
+        "insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings",
+        "a tool resembling a hammer but with a large head (usually wooden); used to drive wedges or ram down paving stones or for crushing or beating or flattening or smoothing"
+      ]
+    },
+    {
+      "id": "turtle",
+      "image_urls": [
+        "https://media.fisheries.noaa.gov/styles/original/s3/dam-migration/640x427-hawksbill-turtle.png",
+        "https://www.euroturtles.eu/wp-content/themes/euroturtles/assets/images/loggerhead-turtle.png",
+        "https://images.squarespace-cdn.com/content/v1/5b80290bee1759a50e3a86b3/1538763428339-2TW9OX298BM6ZG34OCR6/green+turtle-illustration.png",
+        "https://images.squarespace-cdn.com/content/v1/59cae0d6be42d63f64cf6dd2/1542902265247-7TO79BP2LWFFEALYZJK9/Witherington2018-10.png",
+        "https://www.edonart.com/cms/wp-content/uploads/2020/09/turtle-bianco.png"
+      ],
+      "definitions": [
+        "a sweater or jersey with a high close-fitting collar",
+        "any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming"
+      ]
+    },
+    {
+      "id": "wasp",
+      "image_urls": [
+        "https://www.gardentech.com/-/media/Images/GardenTech-NA/US/pest-id/bug-pest/Wasp.png",
+        "https://www.rescue.com/core/files/rescue/bugs/abe37aa5bff6f21077a5b9cc52dc98b1.png",
+        "https://02f0a56ef46d93f03c90-22ac5f107621879d5667e0d7ed595bdb.ssl.cf2.rackcdn.com/sites/997/photos/502157/Wasps_960x.png",
+        "https://www.raid.ca/~/media/raid/bugs/paper-wasps/wasp-top-v.png",
+        "https://www.cleankill.co.uk/sites/default/files/styles/pest/public/2019-04/wasp_small_0.png"
+      ],
+      "definitions": [
+        "a white person of Anglo-Saxon ancestry who belongs to a Protestant denomination",
+        "social or solitary hymenopterans typically having a slender body with the abdomen attached by a narrow stalk and having a formidable sting"
+      ]
+    },
+    {
+      "id": "snail",
+      "image_urls": [
+        "https://mybclinic.com/img/psblog/b/lg-b-gros-gris_540x.png",
+        "https://www.dottoressareynaldi.it/wp-content/uploads/2017/04/lumaca.png",
+        "https://image.flaticon.com/icons/png/512/616/616802.png",
+        "https://i.pinimg.com/originals/64/e1/b5/64e1b5812e244ab2308b67d33678b56b.png",
+        "https://i.pinimg.com/originals/3a/d0/1a/3ad01ada254a90676fef08c550b5565d.png"
+      ],
+      "definitions": [
+        "freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell",
+        "edible terrestrial snail usually served in the shell with a sauce of melted butter and garlic"
+      ]
+    },
+    {
+      "id": "squirrel",
+      "image_urls": [
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Grey-Squirrel---Animal-Science-Secondary.png",
+        "https://it.buccellati.com/sites/default/files/styles/product_big/public/img/product/scoiattolo_0.png",
+        "https://images.twinkl.co.uk/tr/image/upload/illustation/Red-Squirrel--Animal-Scene-Nature-Scotland-Twinkl-Newsroom-KS2.png",
+        "https://s3.envato.com/files/299233243/Cute%20Squirrel%20With%20Almonds%20SET/cute-squirrel-with-almonds%20transparent%20png.png",
+        "https://static.wikia.nocookie.net/hayday/images/3/3e/Squirrel_Idle.png"
+      ],
+      "definitions": [
+        "a kind of arboreal rodent having a long bushy tail",
+        "the fur of a squirrel"
+      ]
+    }
+  ]
+}

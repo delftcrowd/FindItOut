@@ -1,0 +1,131 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "freeway",
+      "image_urls": [
+        "https://www.hoofwear.com/media/catalog/product/cache/2884acc26e896ef746f1521ca7341d41/f/r/freeway_front.png",
+        "https://assets.jabra.com/9/1/7/2/91724198e38cb3a1eb7af2f6c9ba1417e44b89c5_jabra_freeway_01.png",
+        "https://www.hoofwear.com/media/catalog/product/cache/2884acc26e896ef746f1521ca7341d41/f/r/freeway-raw-600x600.png",
+        "https://www.xtreme-lab.net/games/freeways/images/logo.png",
+        "https://s3.amazonaws.com/content.sitezoogle.com/u/81865/349a1edcfb0944cc2b9e57e6005b190521a2ce34/original/freeway13.png"
+      ],
+      "definitions": [
+        "a broad highway designed for high-speed traffic"
+      ]
+    },
+    {
+      "id": "highway",
+      "image_urls": [
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABUpdaOi4SrIBnjs23YE5nk0dbfM6DdebR9NIu7skECN7_3W6k05GVXCMFEJzNTROsk47iTwJ_Lkyf5pjARWHSSPteufjsllfAJTO.png",
+        "https://images.squarespace-cdn.com/content/v1/58cfbd7f20099e8bad829da6/1594887266253-9YGP7V0QLCZV6BDY4STQ/Copy+of+Copy+of+Untitled+%281%29.png",
+        "https://static-00.iconduck.com/assets.00/highway-icon-512x512-ii823xbp.png",
+        "https://asmodee-resources.azureedge.net/media/nordicsprod/Product%20Groups/Novelties/TokyoHighway_Unbox.png",
+        "https://cdn1.iconfinder.com/data/icons/map-and-location-2/482/road_lane_trip_highway_street_way_route-512.png"
+      ],
+      "definitions": [
+        "a major road for any form of motor transport"
+      ]
+    },
+    {
+      "id": "house",
+      "image_urls": [
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-grey.png",
+        "https://www.marjoleininhetklein.com/wp-content/uploads/2020/03/Free-house-plans-truoba-mini-619-red-1000x462.png",
+        "https://s3-eu-west-1.amazonaws.com/tpd/logos/5f2d3ef71b8cda000105194e/0x0.png",
+        "https://www.houseofbeta.nl/app/uploads/2020/09/HoB-logo-cmyk-staand.png",
+        "https://tinyhouse-store.nl/wp-content/uploads/2020/11/wat-kost-tiny.png"
+      ],
+      "definitions": [
+        "a dwelling that serves as living quarters for one or more families",
+        "the members of a business organization that owns or operates one or more establishments",
+        "the members of a religious community living together",
+        "the audience gathered together in a theatre or cinema",
+        "an official assembly having legislative powers",
+        "aristocratic family line",
+        "play in which children take the roles of father or mother or children and pretend to interact like adults",
+        "(astrology) one of 12 equal areas into which the zodiac is divided",
+        "the management of a gambling house or casino",
+        "a social unit living together",
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "a building in which something is sheltered or located"
+      ]
+    },
+    {
+      "id": "safe",
+      "image_urls": [
+        "https://www.safebv.nl/wp-content/uploads/2018/11/safelogo-klein.png",
+        "https://scrumguide.nl/wp-content/uploads/Core-Values_F01_WEB-1024x799-1.png",
+        "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcZwifHcd-aWkpJm-ThfNuTK6bpn2wNmVAcShd2Z_f5B833oCKYR0VuZoHktsx6OBDGaSwMTfDwHGN5S_3b7N-BJjeuFJjWKbDHo.png",
+        "https://webcdn.asafe.com/cache/e/2/3/5/f/7/e235f7477a7498dd7303adfb87f1aa14b6181d44.png",
+        "https://reviewcdn.masterlock.com/product/sentrysafe/SFW123GTC_angled_in.png"
+      ],
+      "definitions": [
+        "strongbox where valuables can be safely kept",
+        "a ventilated or refrigerated cupboard for securing provisions from pests",
+        "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+      ]
+    },
+    {
+      "id": "garage",
+      "image_urls": [
+        "https://dc94gqcjteixu.cloudfront.net/3658c972715f3bbce64008ef08123606/original_4612AC_1.png",
+        "https://bouwkenners.nl/wp-content/uploads/2015/05/Omgevingsvergunning-garage.png",
+        "https://de-garage.com/wp-content/uploads/2020/03/logo_degaragewebsite.png",
+        "https://www.tuin-huis-winkel.nl/media/image/13/c5/33/280x180px_Doppel_Garage_Sandvig_44_Kachel.png",
+        "https://www.thegarage39.com/wp-content/uploads/2018/01/thegarage36-logo-1.png"
+      ],
+      "definitions": [
+        "an outbuilding (or part of a building) for housing automobiles",
+        "a repair shop where cars and trucks are serviced and repaired"
+      ]
+    },
+    {
+      "id": "street",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://catsip.berkeley.edu/sites/default/files/styles/openberkeley_image_full/public/general/complete-street.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Google_Street_View_icon.svg/1200px-Google_Street_View_icon.svg.png"
+      ],
+      "definitions": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings",
+        "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+        "a situation offering opportunities",
+        "people living or working on the same street"
+      ]
+    },
+    {
+      "id": "trunk",
+      "image_urls": [
+        "https://www.rimowa.com/on/demandware.static/-/Sites-rimowa-master-catalog-final/default/dw5c650956/images/large/83280654_1.png",
+        "https://images.selency.com/8c0f5e70-9a9c-4637-896d-399043953445/wooden-travel-trunk_original.png",
+        "https://www.timothyoulton.com/pub/media/catalog/product/cache/efb05a431c7354e9bf9bda4fe22d3bcb/h/a/harrow_medium_trunk-old_saddle_black_copy.png",
+        "https://images.selency.com/1ac2d1fd-4c06-43db-9872-9c6bf586aeb0/old-mail-trunk-in-zinc-sheathed-95-x-55-x-50-travel-trunk-liner-1900-1920_original.png",
+        "https://cdn11.bigcommerce.com/s-6gssxq8qcf/products/12962/images/21427/Olive_Seward_Trunk_1__44698.1621449166.386.513.png"
+      ],
+      "definitions": [
+        "the main stem of a tree; usually covered with bark; the bole is usually the part that is commercially useful for lumber",
+        "luggage consisting of a large strong case used when traveling or for storage",
+        "the body excluding the head and neck and limbs",
+        "compartment in an automobile that carries luggage or shopping or tools",
+        "a long flexible snout as of an elephant"
+      ]
+    },
+    {
+      "id": "automobile",
+      "image_urls": [
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/A/u/Automobile.png",
+        "https://emojigraph.org/media/openmoji/automobile_1f697.png",
+        "https://www.utf8icons.com/character_image/128663-automobile.png",
+        "https://caviar.global/_images/27722/1619336713.png",
+        "https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/59388/retro-automobile-clipart-xl.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine"
+      ]
+    }
+  ]
+}

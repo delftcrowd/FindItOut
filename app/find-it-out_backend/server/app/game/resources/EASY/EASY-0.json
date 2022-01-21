@@ -1,0 +1,121 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://cdn.shopify.com/s/files/1/0531/5962/4900/products/Arccoffeetable_Ash_01_exposed_800x.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Container/Container%20Bodhi/image-thumb__3401__height_500/Container-Table_Bodhi-212-final.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "countryside",
+      "image_urls": [
+        "https://cdn-icons-png.flaticon.com/512/2374/2374937.png",
+        "https://cdn-icons-png.flaticon.com/512/2374/2374951.png",
+        "https://cdn-icons-png.flaticon.com/512/3337/3337976.png",
+        "https://cdn2.iconfinder.com/data/icons/ecology-industry-city-and-countryside/50/28-512.png",
+        "https://www.pikpng.com/pngl/b/415-4150247_an-icon-a-day-countryside-icon-png-clipart.png"
+      ],
+      "definitions": [
+        "rural regions"
+      ]
+    },
+    {
+      "id": "vase",
+      "image_urls": [
+        "https://anna-nina.imgix.net/spree/products/14507/huge/Small_Vase_Sea_Blue_edited.png",
+        "https://anna-nina.imgix.net/spree/products/15619/huge/Flower_Vase_Blush_Pink_more_pink.png",
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Delft%20Blue/image-thumb__3996__height_500/Delft-Blue-group.png",
+        "https://images.selency.com/280d37c6-897f-4690-963f-9a9ebcd19fd5/beautiful-japanese-vase_original.png",
+        "https://anna-nina.imgix.net/spree/products/14508/huge/Small_Vase_Cobalt_Blue_edited.png"
+      ],
+      "definitions": [
+        "an open jar of glass or porcelain used as an ornament or to hold flowers"
+      ]
+    },
+    {
+      "id": "flowers",
+      "image_urls": [
+        "https://www.flowers.nl/contents/media/t_100701100_z.png",
+        "https://www.amsterdamflowers.nl/pub/media/catalog/product/cache/d7c861e5118db161566914bb2814317a/b/o/boeket-gemengde-witte-bloemen.png",
+        "https://www.flowers.nl/contents/media/k_500801109-Mooie-momenten-Biedermeier-v.png",
+        "https://www.levarht.com/wp-content/uploads/2018/05/18-Edible-flower.png",
+        "https://www.flowers.nl/contents/media/k_500810105_Vaarwel-Druppel-v.png"
+      ],
+      "definitions": [
+        "a plant cultivated for its blooms or blossoms",
+        "reproductive organ of angiosperm plants especially one having showy or colorful parts",
+        "the period of greatest prosperity or productivity"
+      ]
+    },
+    {
+      "id": "nursery",
+      "image_urls": [
+        "https://images.ctfassets.net/33i2712otjwn/10SsZeG7zzaPl1Pps2hR2G/e97aaab2bc010b435e7249528897c02f/Nursery-Bag_Ocean-Blue.png",
+        "https://www.centre-acacia.com/wp-content/uploads/2018/05/sans-titre-76-3.png",
+        "https://crisisnursery.net/wp-content/uploads/2020/06/transparent-HIGH-RES-.png",
+        "https://www.activekidsnursery.com/uploads/lV5JHEns/VectorActive-Kids-Nursery-Logo-2.png",
+        "https://beechesparkdaynursery.co.uk/wp-content/themes/beechespark/images/hero-nursery.png"
+      ],
+      "definitions": [
+        "a child's room for a baby"
+      ]
+    },
+    {
+      "id": "anthology",
+      "image_urls": [
+        "https://grammartop.com/wp-content/uploads/2020/11/anthology-2d22c423c97c6e0ef0e8076c0dad29fdc3abf53f.png",
+        "https://images.vivino.com/thumbs/5JfnmaCQQyGAcvWaYKQS6A_pl_375x500.png",
+        "https://images.ctfassets.net/wn7ipiv9ue5v/3Cp208wO6sIdRGmFe26FFu/9bc6ae44397881f936888b789f0d2190/Logo_transparent-upgradecivant.png",
+        "https://vialudibunda.com/media/catalog/product/cache/1/image/988x988/9df78eab33525d08d6e5fb8d27136e95/e/n/en_mtgpca_3.png",
+        "https://coverimages.igi-global.com/cover-images/covers3d/9781799834328.png"
+      ],
+      "definitions": [
+        "a collection of selected literary passages"
+      ]
+    },
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "market",
+      "image_urls": [
+        "https://images.squarespace-cdn.com/content/v1/56e1627f8a65e25092e7dfae/1471463891105-TM5D0G79NKQNDD7GLJXR/image-asset.png",
+        "https://www.grandviewresearch.com/static/img/research/us-virtual-reality-market-size.png",
+        "https://cdn.shopify.com/s/files/1/0375/7149/3947/files/smartmarket-stempel1_60df79f3-8597-4628-85c0-0475683b5431_300x300.png",
+        "https://newzoo.com/wp-content/uploads/2017/04/esports-market-report-chart.png",
+        "https://gourmetmarket.nl/wp-content/uploads/2020/12/LogotilburgGM.png"
+      ],
+      "definitions": [
+        "the world of commercial activity where goods and services are bought and sold",
+        "the customers for a particular product or service",
+        "a marketplace where groceries are sold",
+        "the securities markets in the aggregate",
+        "an area in a town where a public mercantile establishment is set up"
+      ]
+    }
+  ]
+}

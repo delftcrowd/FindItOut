@@ -1,0 +1,133 @@
+{
+  "difficulty": "EASY",
+  "objects": [
+    {
+      "id": "theater",
+      "image_urls": [
+        "https://d2zr9w65gdacs9.cloudfront.net/34120/tr-logo-aubergine-rgb1496167546logo1570193843logo.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/afas-theater-afbeelding%20algemeen2.png",
+        "https://zirkzee.nl/wp-content/uploads/2020/01/logo_pstheater.png",
+        "https://theaterbabelrotterdam.nl/wp-content/uploads/2018/04/2731B29E-098E-4F9E-96C9-86C045740438@lonnewennekendonk.nl_-300x206.png",
+        "https://www.theaterwalhalla.nl/wp-content/uploads/2018/03/wal.png"
+      ],
+      "definitions": [
+        "a building where theatrical performances or motion-picture shows can be presented",
+        "the art of writing and producing plays",
+        "a region in which active military operations are in progress"
+      ]
+    },
+    {
+      "id": "park",
+      "image_urls": [
+        "https://www.park21.info/sites/all/themes/parky/images/parkkaart2.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABcFCvzfLrvfaRibg2DAhvok_zvrwi3usMutpjDsvPsE3iix4XIvnNS0_LJ9j3gbcweCJOIg37lX_r1xbj0BcowgX4Vp7RepK_UDM.png",
+        "https://dudok.nl/inhetpark/wp-content/uploads/sites/7/2019/04/inhetpark-right.png",
+        "https://www.inflatable-parks.nl/wp-content/uploads/parks_img_01-1024x650.png",
+        "https://www.holidaypark.de/sites/default/files/public/brand/logos/holiday-park-50.png"
+      ],
+      "definitions": [
+        "a large area of land preserved in its natural state as public property",
+        "a piece of open land for recreational use in an urban area",
+        "a facility in which ball games are played (especially baseball games)",
+        "Scottish explorer in Africa (1771-1806)",
+        "a lot where cars are parked",
+        "a gear position that acts as a parking brake"
+      ]
+    },
+    {
+      "id": "crowd",
+      "image_urls": [
+        "https://wac-cdn.atlassian.com/dam/jcr:fd5bfb32-1640-4806-add6-760d7c33b57c/Crowd@2x-blue.png",
+        "https://i.pinimg.com/originals/09/b0/d2/09b0d2f3c55b0e08067673198995a4f6.png",
+        "https://www.testbirds.com/wp-content/uploads/biggest-crowd-on-earth-visual-slider-and-header.png",
+        "https://www.nicepng.com/png/full/22-226862_crowd-transparent-background-back-of-crowd-png.png",
+        "https://pngpress.com/wp-content/uploads/2020/08/uploads_crowd_crowd_PNG5.png"
+      ],
+      "definitions": [
+        "a large number of things or people considered together",
+        "an informal body of friends"
+      ]
+    },
+    {
+      "id": "lights",
+      "image_urls": [
+        "https://www.innr.com/wp-content/uploads/cache/01-PL-115-Puck-on-oixed4ogxn9d4sanmlko312j7nt1bnmokzi6u8hwcg.png",
+        "https://cdn.zodiac.nl/media/zodiac-generated/ae6d55aa/5ba9/47f2/8362/4838d95ab892/standard-rgba.png",
+        "https://www.eglo.com/media/wysiwyg/3/2/32915.png",
+        "https://cdn.shopify.com/s/files/1/0526/7144/7238/products/string-lights-145-cm-home-flying-tiger-copenhagen-776205_grande.png",
+        "https://www.innr.com/wp-content/uploads/2019/12/01-RB-278-T-2-Bulb-on-shadow-300x300.png"
+      ],
+      "definitions": [
+        "(physics) electromagnetic radiation that can produce a visual sensation",
+        "any device serving as a source of illumination",
+        "a particular perspective or aspect of a situation",
+        "the quality of being luminous; emitting or reflecting light",
+        "an illuminated area",
+        "a condition of spiritual awareness; divine illumination",
+        "the visual effect of illumination on objects or scenes as created in pictures",
+        "a person regarded very fondly",
+        "having abundant light or illumination",
+        "mental understanding as an enlightening experience",
+        "merriment expressed by a brightness or gleam or animation of countenance",
+        "public awareness",
+        "a divine presence believed by Quakers to enlighten and guide the soul",
+        "a visual warning signal",
+        "a device for lighting or igniting fuel or charges or fires"
+      ]
+    },
+    {
+      "id": "auditorium",
+      "image_urls": [
+        "https://mir-s3-cdn-cf.behance.net/projects/404/5b63eb125797417.Y3JvcCwyMTI0LDE2NjIsMjI2LDA.png",
+        "https://centrocongressi.confindustria.it/wp-content/uploads/2016/05/planimetria_sala_auditorium_web.png",
+        "https://i.pinimg.com/originals/14/27/6a/14276a0892539c12bcf3fd6622eca119.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/afas-theater-afbeelding%20algemeen2.png",
+        "https://www.afastheater.nl/zakelijke-mogelijkheden/overzicht/jan-steen-afbeelding%20algemeen2.png"
+      ],
+      "definitions": [
+        "the area of a theater or concert hall where the audience sits"
+      ]
+    },
+    {
+      "id": "funeral",
+      "image_urls": [
+        "https://www.uitvaartbloemen.com/contents/media/k_500801118-Volop-in-het-leven-ovaal.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Herinnering-Rouwboeket.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Oneindig-Gegroepeerd-300x300.png",
+        "https://www.fdanz.co.nz/assets/Nature_Kowhai-Whitewash-with-spray__ResizedImageWzgwMCw1MzNd.png",
+        "https://bloemenweelde-amsterdam.nl/wp-content/uploads/2019/01/Vaarwel-Druppel-300x300.png"
+      ],
+      "definitions": [
+        "a ceremony at which a dead person is buried or cremated"
+      ]
+    },
+    {
+      "id": "concert",
+      "image_urls": [
+        "https://weekendvanderomantischemuziek.nl/usr-uploads/images/2021/maanlicht-concert-logo-wit.png",
+        "https://www.dutchevent.nl/veulgereinconcert/wp-content/uploads/2021/04/dutchevent-veulgereinconcert-logo-concert-01-1024x664.png",
+        "https://eurovisioninconcert.nl/wordpress/wp-content/uploads/2021/02/logo_EIC_2022-wit2.png",
+        "https://cdn.mycreativeshop.com/images/templates/2966/music-concert-tri-fold-brochure-template-3361-trans-thumb.png",
+        "https://www.gervos.com/wp-content/uploads/CD-Ger-Vos-Live-in-Concert-2019.png"
+      ],
+      "definitions": [
+        "a performance of music by players or singers not involving theatrical staging"
+      ]
+    },
+    {
+      "id": "city",
+      "image_urls": [
+        "https://tmssl.akamaized.net/images/wappen/head/281.png",
+        "https://cityloops.eu/fileadmin/user_upload/Sliders/Homepage/RZ_CityLoops_Graphic_01.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/M/y/My_City-L_2.png",
+        "https://circularcitiesdeclaration.eu/fileadmin/_processed_/9/2/csm_Oslo_banner_circular_city_4fc3f295d6.png",
+        "https://images.ctfassets.net/biom0eqyyi6b/nPT3vS4AklWXg39tTeiah/a110333e41cfb94c85f8de782a45ccf0/retailrepositioning-e6ed62bb181d46b19c0e770fcdd73be8-800-800.png"
+      ],
+      "definitions": [
+        "a large and densely populated urban area; may include several independent administrative districts",
+        "an incorporated administrative district established by state charter",
+        "people living in a large densely populated municipality"
+      ]
+    }
+  ]
+}

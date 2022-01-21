@@ -1,0 +1,284 @@
+{
+  "difficulty": "MEDIUM",
+  "objects": [
+    {
+      "id": "shelf",
+      "image_urls": [
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Tall_Shelving_-_Single_Default_Black_-_Ash_Post.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Shelf_Add-ons_-_Tall_Default_Black_-_Ash_Post.png",
+        "https://images.selency.com/2171749c-67ba-494e-9666-ecd58681c943/modular-wall-shelf_original.png",
+        "https://lotie.nl/wp-content/uploads/2020/11/shelves_08.png",
+        "https://cdn11.bigcommerce.com/s-qzfum2xyru/images/stencil/2048x2048/products/4076/11787/H_Maple_EG__45850.1613390540.png"
+      ],
+      "definitions": [
+        "a support that consists of a horizontal surface for holding objects",
+        "a projecting ridge on a mountain or submerged under water"
+      ]
+    },
+    {
+      "id": "wall",
+      "image_urls": [
+        "https://www.hofbogen.nl/wp-content/uploads/2017/10/pink-wall.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/0f/Cobblestone_Wall_JE2_BE2.png",
+        "https://www.wall-stack.com/wp-content/uploads/2019/03/WallStack-Modular-Partition-Wall-System-principle-02.png",
+        "https://static.wikia.nocookie.net/minecraft_gamepedia/images/b/ba/Deepslate_Tile_Wall_JE2.png",
+        "https://www.weverducre.com/pim/BOX%20WALL%20OUTDOOR%202.0/image-thumb__951978__lightbox/Box-2.0-740148A_.png"
+      ],
+      "definitions": [
+        "an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure",
+        "anything that suggests a wall in structure or function or effect",
+        "(anatomy) a layer (a lining or membrane) that encloses a structure",
+        "a difficult or awkward situation",
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+        "a layer of material that encloses space",
+        "a masonry fence (as around an estate or garden)",
+        "an embankment built around a space for defensive purposes"
+      ]
+    },
+    {
+      "id": "newspaper",
+      "image_urls": [
+        "https://www.la-streetfood.com/604/0/0/1/ffffff00/a9bb3cf9/35ea27e4ce63bcfaba82217a87415406e1c63698baf20f4b7df88daea19811aa/newspaper-new-york-1952-30x30.png",
+        "https://images.twinkl.co.uk/tr/image/upload/t_illustration/illustation/Daily-Citizen-Newspaper--Object-Global-Citizenship-Life-KS2.png",
+        "https://cdn.shopify.com/s/files/1/2717/4124/products/NewspaperDesign_gestalten_book_editorial_journalism_inside03_2000x.png",
+        "https://cdn-assets.timesofmalta.com/epapers/newspapers-2x.png",
+        "https://storage.needpix.com/rsynced_images/newspaper-4222970_1280.png"
+      ],
+      "definitions": [
+        "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+        "a business firm that publishes newspapers",
+        "the physical object that is the product of a newspaper publisher",
+        "cheap paper made from wood pulp and used for printing newspapers"
+      ]
+    },
+    {
+      "id": "work",
+      "image_urls": [
+        "https://www.gstatic.com/ui/v1/menu/light_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/dark_thumbnail2.png",
+        "https://www.gstatic.com/ui/v1/menu/device_default_thumbnail2.png",
+        "https://cloud.topsite.nl/widbm/kantoor/20215/original-637_320x240_canvas.png",
+        "https://letsworknow.nl/wordpress/wp-content/uploads/2020/10/Lets-Work-Now-Logo-Blanco.png"
+      ],
+      "definitions": [
+        "activity directed toward making or doing something",
+        "a product produced or accomplished through the effort or activity or agency of a person or thing",
+        "the occupation for which you are paid",
+        "applying the mind to learning and understanding a subject (especially by reading)",
+        "(physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force",
+        "a place where work is done",
+        "the total output of a writer or artist (or a substantial part of it)"
+      ]
+    },
+    {
+      "id": "airport",
+      "image_urls": [
+        "https://s28477.pcdn.co/wp-content/uploads/2017/07/Schiphol_logo.svg_-1024x380.png",
+        "https://www.inform-software.com/fileadmin/user_upload/inform-world/INFORMWELT-Airport.png",
+        "https://naco.nl/smart-aviation/images/passenger.png",
+        "https://www.swarco.com/sites/default/files/public/airport800.png",
+        "https://uploads-ssl.webflow.com/5bc87d66e1f40410cb03fe2f/603805bfb4ce0884ec3deaae_forum%20icon.png"
+      ],
+      "definitions": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    },
+    {
+      "id": "picture",
+      "image_urls": [
+        "https://api.members.fairwear.org/images/brand-logo/brand-logos/XB/AH/XBAHZv734cslayOAfGtgAbBBllpcDgQPKNLFHTUS.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/P/i/Picture-Party-speelmateriaal.png",
+        "https://cdn.icon-icons.com/icons2/1993/PNG/512/frame_gallery_image_images_photo_picture_pictures_icon_123209.png",
+        "https://cdn2.999games.nl/catalog/product/cache/59229511a255889d0a4402cca1d50739/P/i/Picture-Party.png",
+        "https://onepicture.com/images/onepicture-logo-sq-etgzf.png"
+      ],
+      "definitions": [
+        "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+        "graphic art consisting of an artistic composition made by applying paints to a surface",
+        "a clear and telling mental image",
+        "a situation treated as an observable object",
+        "illustrations used to decorate or explain a text",
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+        "the visible part of a television transmission",
+        "a graphic or vivid verbal description",
+        "a typical example of some state or quality",
+        "a representation of a person or scene in the form of a print or transparent slide or in digital format"
+      ]
+    },
+    {
+      "id": "car",
+      "image_urls": [
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/orange-car-hp-right-mercedez.png",
+        "https://auto1-homepage.prod.mp.auto1.cloud/static/optimized/blue-car-hp-left-bmw.png",
+        "https://images.ctfassets.net/wmdwnw6l5vg5/71jz89dFBIdA9KHrLh8T0h/c4c0a817afe77c35ff5a1461f052b03f/economy.png",
+        "https://global-uploads.webflow.com/5ee2074bd5264569f2a3a32f/5f58f409db9a88529bf05059_LY01_top_view_transparent_background.png",
+        "https://images.ctfassets.net/ro7z507xvlp4/6VE6CpObJe6qyHHYEzb81X/a6c2752bc9cede65b958ddbe8521af2c/mb_gla_1x.png"
+      ],
+      "definitions": [
+        "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+        "a wheeled vehicle adapted to the rails of railroad",
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+        "where passengers ride up and down",
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "id": "desktop",
+      "image_urls": [
+        "https://static.acer.com/up/Resource/Acer/Desktop/Aspire-C24/images/20201014/Acer-Aspire_C24-1651_modelpreview.png",
+        "https://www.intel.com/content/dam/products/hero/foreground/desktops-hero-16x9.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Desktop_computer_clipart_-_Yellow_theme.svg/220px-Desktop_computer_clipart_-_Yellow_theme.svg.png",
+        "https://www.paradigit.nl/media/1655/computer-home-office-performance.png",
+        "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/175-monitor-u3419w-desktop-inspiron-3880-mt-540x360.png"
+      ],
+      "definitions": [
+        "the top of a desk",
+        "(computer science) the area of the screen in graphical user interfaces against which icons and windows appear"
+      ]
+    },
+    {
+      "id": "microwave",
+      "image_urls": [
+        "https://www.electrolux.com.sg/globalassets/appliances/mwo/ems3087x-700x700-cropped.png",
+        "https://www.ifbappliances.com/media/catalog/product/2/0/20sc2_20l_convection_microwave_fv_4.png",
+        "https://www.voltasbeko.com/media/catalog/product/m/c/mc23bsd_1.png",
+        "https://www.winningappliances.com.au/public/images/product/sa34mx/external/Smeg-SA34MX-34L-Microwave-Oven-with-Grill-1000w-Hero-Image-standard.png",
+        "https://media.croma.com/image/upload/f_auto,q_auto,d_Croma%20Assets:no-product-image.jpg,h_260,w_260/v1605128699/Croma%20Assets/Small%20Appliances/Microwave%20or%20OTG/Images/8941290553374.png"
+      ],
+      "definitions": [
+        "a short electromagnetic wave (longer than infrared but shorter than radio waves); used for radar and microwave ovens and for transmitting telephone, facsimile, video and data",
+        "kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results from the absorption of energy by the water molecules in the food"
+      ]
+    },
+    {
+      "id": "book",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Open_book_nae_02.svg/1200px-Open_book_nae_02.svg.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png",
+        "https://www.printsimpleindia.com/wp-content/uploads/2020/09/book_guide_hero_books.png",
+        "https://cdn.shopify.com/s/files/1/0039/7282/5134/products/Racism_1_860x860.png",
+        "https://static.wikia.nocookie.net/gensin-impact/images/4/48/Book_A_Drunkard%27s_Tale.png"
+      ],
+      "definitions": [
+        "a written work or composition that has been published (printed on pages bound together)",
+        "physical objects consisting of a number of pages bound together",
+        "a compilation of the known facts regarding something or someone",
+        "a written version of a play or other dramatic composition; used in preparing for a performance",
+        "a record in which commercial accounts are recorded",
+        "a collection of playing cards satisfying the rules of a card game",
+        "a collection of rules or prescribed standards on the basis of which decisions are made",
+        "the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina",
+        "the sacred writings of the Christian religions",
+        "a major division of a long written composition",
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "id": "connection",
+      "image_urls": [
+        "https://www.connection-sggz.nl/storage/sites/optimized/logo_20200114165657587.png",
+        "https://www.connection-events.com/wp-content/uploads/2018/06/Game-Connection-300x201.png",
+        "https://connectionofthings.com/wp-content/uploads/2021/04/COT.png",
+        "https://images.squarespace-cdn.com/content/v1/5c4f2f545ffd2087e37d7059/1583863268339-BQIYWJH2P4JSU2AJTAPM/NWE-logoPC.png",
+        "https://www.snack-connection.nl/_webblocks/images/logo.png"
+      ],
+      "definitions": [
+        "a relation between things or events (as in the case of one causing the other or sharing features with it)",
+        "the state of being connected",
+        "an instrumentality that connects",
+        "(usually plural) a person who is influential and to whom you are connected in some way (as by family or friendship)",
+        "the process of bringing ideas or events together in memory or imagination",
+        "a connecting shape",
+        "a supplier (especially of narcotics)",
+        "shifting from one form of transportation to another",
+        "the act of bringing two things into contact (especially for communication)"
+      ]
+    },
+    {
+      "id": "love",
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Drawn_love_hearts.svg/2483px-Drawn_love_hearts.svg.png",
+        "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/tx1O544a9T7n8Z_G12qaboulQQE/AAAABVBOh9R_LiJ3f2U8kSEydCZ13kEi-9hE-oj8lMPDVFfTVV5dLEYQe8Bk9dq7AlLEj2kAySoeHBP_mWd52ldCMfyBv_MWiOF72EreDidwMBlIubgZfKRGeje8JHj1veG_5nOLUM2A5sjAqJJh40JOnQDbhUJ05VpbSrBl42EdwqCJZw.png",
+        "https://occ-0-1068-1723.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABeQP52-AdAswTtuVWZ7q2exWntgVndKGKmZG51EQIWy4UljXAaBNVjDVOc0lPRmYv0dxajI9EzppopgxiLoPL-poh8MX8Rt_s-iL.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Heart_coraz%C3%B3n.svg/1200px-Heart_coraz%C3%B3n.svg.png",
+        "https://little.love/storage/app/uploads/public/67b/350/eaa/thumb__722_0_0_0_auto.png"
+      ],
+      "definitions": [
+        "a strong positive emotion of regard and affection",
+        "any object of warm affection or devotion",
+        "a beloved person; used as terms of endearment",
+        "a deep feeling of sexual desire and attraction",
+        "a score of zero in tennis or squash",
+        "sexual activities (often including sexual intercourse) between two people"
+      ]
+    },
+    {
+      "id": "table",
+      "image_urls": [
+        "https://cdn.moooi.com/tmp/image-thumbnails/Collection/Zio/Zio%20Coffee%20Table/Zio%20Coffee%20Table%20110/image-thumb__1992__height_500/Zio-Coffee-Table-Front-1.png",
+        "https://cdn.shopify.com/s/files/1/0462/1706/8706/products/Table_Default_Birch_-_Black.0001.png",
+        "https://www.godrejinterio.com/imagestore/B2C/56101543SD00017/56101543SD00017_01_500x500.png",
+        "https://www.tonone.com/media/79/04/88/1604915699/beads%20table%20downlight.png",
+        "https://images.selency.com/1bb5b4b3-0fa5-4d8b-8cbf-0708df996a83/70-beech-wood-extendable-dining-table-for-ibisco_original.png"
+      ],
+      "definitions": [
+        "a set of data arranged in rows and columns",
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+        "a piece of furniture with tableware for a meal laid out on it",
+        "flat tableland with steep edges",
+        "a company of people assembled at a table for a meal or game",
+        "food or meals in general"
+      ]
+    },
+    {
+      "id": "ceiling",
+      "image_urls": [
+        "https://www.innr.com/wp-content/uploads/cache/RCL-110-Round-Ceiling-Lamp-3D-shadow-owiejg0m73nwumlqwnqtacfga165mkg7tt4pqkl62o.png",
+        "https://cdn.shopify.com/s/files/1/1955/8109/products/rusttile2_530x@2x.png",
+        "https://in-lite.com/media/catalog/product/cache/459e1860863622a8290e217fbf029ff6/s/c/scope_ceiling-1_1.png",
+        "https://www.tonone.com/media/47/55/97/1604919773/bolt%20ceiling%202%20arm%20sidefit%20sb.png",
+        "https://www.cabasse.com/wp-content/uploads/2020/05/Alcyone-in-ceiling-3-4-roundF-600x450.png"
+      ],
+      "definitions": [
+        "the overhead upper surface of a covered space",
+        "(meteorology) altitude of the lowest layer of clouds",
+        "an upper limit on what is allowed",
+        "maximum altitude at which a plane can fly (under specified conditions)"
+      ]
+    },
+    {
+      "id": "company",
+      "image_urls": [
+        "https://web-company.com/wp-content/uploads/2017/01/web-company_transparantPNG.png",
+        "https://companyinholland.nl/wp-content/uploads/2019/10/company-in-holland_logo_400.png",
+        "https://www.feedbackcompany.com/nl-nl/wp-content/uploads/sites/3/2019/02/feedback-company.png",
+        "https://www.secondcompany.nl/app/uploads/2019/12/second-company-logo.png",
+        "https://www.watcompany.nl/wp-content/uploads/2018/10/wat-logo.png"
+      ],
+      "definitions": [
+        "an institution created to conduct business",
+        "small military unit; usually two or three platoons",
+        "the state of being with someone",
+        "organization of performers and associated personnel (especially theatrical)",
+        "a social or business visitor",
+        "a social gathering of guests or companions",
+        "a band of people associated temporarily in some activity",
+        "crew of a ship including the officers; the whole force or personnel of a ship",
+        "a unit of firefighters including their equipment"
+      ]
+    },
+    {
+      "id": "clock",
+      "image_urls": [
+        "https://www.uhrmacherwerkzeuge.com/WebRoot/Store18/Shops/62662707/5D2F/0CF7/E0EC/CBE2/6640/0A0C/6D04/E5C9/6041A-3295.png",
+        "https://www.uhrmacherwerkzeuge.com/WebRoot/Store18/Shops/62662707/5A5F/6C78/EF05/D943/EC49/0A0C/6D0A/80EF/6039A.6155_ml.png",
+        "https://www.nixon.com/on/demandware.static/-/Sites-masterCatalog_Nixon/default/dwb592efb9/products/C3075-000-view1.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Horlo%C4%9Do_001.svg/300px-Horlo%C4%9Do_001.svg.png",
+        "https://www.raftfurniture.co.uk/pub/media/catalog/product/cache/110341a25faa2b0b0f52adcd3642d696/c/o/collingwood.png"
+      ],
+      "definitions": [
+        "a timepiece that shows the time of day"
+      ]
+    }
+  ]
+}
