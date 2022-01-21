@@ -1,0 +1,39 @@
+import { ThemeProvider } from '@material-ui/core'
+import React from 'react'
+import { CookiesProvider } from 'react-cookie'
+import ReactDOM from 'react-dom'
+import { Provider } from 'react-redux'
+import { applyMiddleware, compose, createStore } from 'redux'
+import thunk from 'redux-thunk'
+import App from './App'
+import './index.scss'
+import homeReducer from './reducers'
+import theme from './utils/CustomTheme'
+import * as serviceWorker from './utils/serviceWorker'
+
+// HOST=127.0.0.1 PORT=3000 
+
+// window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__(),
+
+const composeEnhancer = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
+
+const store = createStore(
+  homeReducer,
+  composeEnhancer(applyMiddleware(thunk))
+)
+
+ReactDOM.render(
+  <Provider store={store}>
+    <ThemeProvider theme={theme}>
+      <CookiesProvider>
+        <App />
+      </CookiesProvider>
+    </ThemeProvider>
+  </Provider>,
+  document.getElementById('root')
+)
+
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+serviceWorker.unregister();

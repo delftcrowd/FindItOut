@@ -1,0 +1,57 @@
+find-it-out_client
+
+# TODO
+
+- [ ] Create icons for asker and guesser and switch them during play.
+- [ ] Add report player that were not serious.
+- [ ] Notify on guess that the players need to have just a few options left.
+- [ ] Add "Would you continue playing?" or "How much would you recommend to a friend/family"?
+- [ ] Notify about unclear
+- [ ] Notify at last round that they should flip cards as well
+- [ ] Legacy sound not working
+- [ ] Emojis or nudge feature
+- [ ] Store data when game ends, bonus and report are DB updates. (Prevents cases where the games are stuck with only one player left). OR use a timed clean up function.
+- [x] check for it card substring
+- [x] Ignore guess limit when in bonus round
+- [x] opponent card at end of game
+- [x] fullscreen disclaimer that the images might be misleading,
+- [x] the YES/NO answer
+- [x] Check in the home screen that we are still authenticated
+- [x] Dictionary
+- [x] Difficulty
+- [x] Show password and password confirmation
+- [x] Grammar check include special characters
+- [x] Tutorial
+- [x] When press play, check if already in game and ask if not in game
+- [x] Change IT card to card
+- [x] Add brackets to grammar check
+- [x] Not sure answer to re-ask (might give more insight than others)
+- [x] Tutorial
+- [x] Pause menu
+- [x] Why so many messages are sent
+- [x] Check valid images
+- [x] Move end game to later
+- [x] Game not starting (p1 win, p1 plays again, p2 chooses any card, p2 plays again).
+- [x] Stop sending messages to the second player once it leaves the game
+- [/] Export expanded seed words and give to gaole
+- [x] Add at the bottom "You can press ESC to access the menu during the game." and "refresh if taking too long".
+- [x] Taboo words.
+- [x] Align ASK and GUESS after the point
+- [x] Make popup messages longer
+- [x] Prevent confirming without at-least flipping once
+- [x] Manage the case where the last task is forfeited
+- [x] Proceed directly to exit questionnaire at end screen
+- [x] Put exit questionnaire on three pages
+- [x] Last question not appear right away after
+- [x] New game does not show new screen...(instead the end screen of previous game is shown)
+- [x] Show small name when flipped around in text mode
+- [O] Submit getting called at third page of questionnaire
+- [x] Attention check
+- [x] Audio cue
+- [x] At game start the path changes to "/play", but it still is rendering "/lobby" with loading screen
+- [x] Minimum questions before guessing
+
+- [ ] Confirm difficulty words choice
+- [ ] Level system
+- [ ] question history (in paper)
+- [ ] Timer

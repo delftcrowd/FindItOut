@@ -1,0 +1,1156 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+@import "fonts";
+@import "colors";
+@use "sass:color";
+
+:root {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+}
+
+@mixin drop-shadow {
+  box-shadow: 0 10px 18px 0 rgba(62, 57, 107, 0.2);
+}
+
+.no-shadow {
+  box-shadow: none !important;
+}
+
+$breakpoint-target: 710px;
+
+@media all and (max-width: $breakpoint-target) {
+  #targetQuestion {
+    order: 3;
+  }
+
+  #targetSubmit {
+    order: 2;
+  }
+
+  #askForm {
+    justify-content: space-evenly !important;
+  }
+}
+
+.MainContainer {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  min-width: 100%;
+  min-height: 100vh;
+
+  &_content {
+    flex-direction: row;
+    position: relative;
+    text-align: center;
+    width: 800px;
+    padding: 16px;
+    z-index: 5;
+
+    &-column {
+      flex-direction: column !important;
+    }
+  }
+}
+
+
+//------------------- GAME ---------------------
+.GameWrapper {
+  padding: 1rem 1rem 0.5rem 1rem;
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+}
+
+.TopBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1em;
+
+  &>.CardWrapper {
+    max-width: 12em;
+    flex: 2
+  }
+}
+
+.ActionPanel {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  border-top: 1px solid rgba($whiteSnow, 0.3);
+  padding: 1em 0em;
+  z-index: 5;
+  gap: 0.5rem;
+  flex: 1 1 auto;
+}
+
+#ChoiceBar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#BottomMessage {
+  font-size: clamp(0.5rem, 3vw, 0.8rem) !important;
+}
+
+#askForm,
+#guessForm,
+#answerForm,
+#flipForm {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  align-items: baseline;
+  justify-content: center;
+  text-align: center;
+  gap: 0.5rem 1rem;
+}
+
+#askForm {
+  gap: 0 1rem !important;
+}
+
+#guessForm {
+  gap: 1rem 0.5rem !important;
+}
+
+#flipForm {
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+  gap: 1rem 0.5rem !important;
+}
+
+// #guessText {}
+
+#guessName {
+  color: $accentYellow;
+  font-size: larger;
+}
+
+.answerText {
+  margin: 0 1rem;
+  color: $accentYellow;
+}
+
+#targetQuestion {
+  display: flex;
+  flex-direction: row;
+  // min-width: max-content;
+  gap: 1ch;
+  align-items: baseline;
+  line-height: 0;
+
+  &>span {
+    min-width: max-content;
+  }
+
+  & * {
+    font-size: clamp(1rem, 3.5vmin, 1.5rem) !important;
+  }
+}
+
+button[disabled] {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.RelationItem {
+  flex: 0 0 auto;
+  // display: inline-block;
+  padding: 0.5em 0.8em;
+  border: 0;
+  border-radius: 1em;
+  background-color: $whiteSnow;
+  user-select: none;
+}
+
+.Player {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 4ch;
+  max-width: 8em;
+  padding: 1em;
+  flex: 1;
+
+  &>img {
+    margin-bottom: 1em;
+  }
+
+  &>span {
+    font-size: large;
+    color: $blackBlue;
+  }
+}
+
+.PlayerRole {
+  width: auto;
+  text-align: center;
+}
+
+.CardBoard_Wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  min-width: 100%;
+  user-select: none;
+
+  &>* {
+    flex-direction: row;
+    position: relative;
+    width: calc(min(100%, 1000px));
+    z-index: 3;
+  }
+}
+
+.CardBoard {
+  // display: flex;
+  // flex-wrap: wrap;
+  // justify-content: space-between;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(clamp(4rem, 10vw, 6rem), 1fr));
+  grid-gap: 0.5rem 1rem;
+  // width: minmax(100vw, 40em);
+  padding: 1rem;
+  z-index: 0;
+}
+
+.Card {
+  min-width: 0;
+  background: $whiteSnow;
+  display: grid;
+  place-items: center;
+  border: 2px solid $greyNoir;
+  border-radius: 0.5rem;
+  flex: 1 0 20em;
+  user-select: none;
+  padding: 0.5rem;
+
+  // &::before {
+  //   // for aspect ratio
+  //   content: "";
+  //   display: block;
+  //   padding-bottom: 100%;
+  //   grid-area: 1 / 1 / 2 / 2;
+  // }
+
+  &>div {
+    background-color: transparent !important;
+    width: 100%;
+    object-fit: contain;
+    // position: absolute;
+    // left: 0;
+    // top: 0;
+    // height: 100%;
+    // padding: 0.5rem;
+    // grid-area: 1 / 1 / 2 / 2;
+  }
+}
+
+.Card_back {
+  background-color: scale-color($bkgdBlue, $lightness: -20%);
+  // background-color: $bkgdBlue !important;
+  border-color: rgba($whiteSnow, 0.6) !important;
+}
+
+.Card_caption {
+  word-wrap: break-word;
+}
+
+.CardWrapper {
+  text-align: center;
+
+  &>span {
+    font-size: 0.8em;
+  }
+}
+
+.Card-selected {
+
+  &>* .Card {
+    border: 3px solid $accentYellow;
+    transform: scale(1.2, 1.2) !important;
+  }
+}
+
+.Card-gameover {
+  width: 40%;
+  max-width: 200px;
+}
+
+.Definitions {
+  &-Title {
+    text-transform: capitalize;
+    font-size: larger;
+    line-height: 2;
+  }
+
+  &-List {
+    list-style: decimal;
+    list-style-position: inside;
+    line-height: 1.2;
+
+    li {
+      margin-bottom: 0.4em;
+    }
+  }
+}
+
+.BackButton {
+  background-color: $redFlame !important;
+  color: $whiteSnow !important;
+  padding: 0.8em 1.4em !important;
+}
+
+.BigButton {
+  align-self: center;
+  width: max-content;
+}
+
+.Modal {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  width: 600px;
+  padding: 32px 16px;
+  z-index: 0;
+  outline: 0;
+  background-color: $whiteSnow;
+  border: none;
+  border-radius: 8px;
+}
+
+.QuestionHistory {
+  width: 100%;
+  padding: 1em;
+  font-size: larger;
+
+
+  &-Items {
+    display: grid !important;
+    grid-template-columns: 1fr 5ch;
+    gap: 1em 1em;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+
+    &-Question {
+      justify-self: left;
+      text-align: justify;
+    }
+
+    &-Reply {
+      &[title=YES] {
+        color: $green;
+      }
+
+      &[title=NO] {
+        color: $redFlame;
+      }
+
+      &[title=MAYBE] {
+        color: $accentYellow;
+      }
+
+      justify-self: center;
+      font-weight: bolder;
+    }
+  }
+}
+
+#DifficultyChooser {
+  padding: 1em;
+
+  #difficultyForm {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-template-rows: 4fr 1fr;
+    gap: 1em 1em;
+    grid-template-areas:
+      "difficulty description"
+      "confirm confirm";
+    justify-items: center;
+    align-items: center;
+
+    #DifficultyInfo {
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
+      line-height: 1.2em;
+    }
+
+  }
+}
+
+#ProgressMenu {
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.ProgressMenu-Table {
+  display: grid;
+  grid-template-columns: 4em 1fr;
+  gap: 1em 1em;
+  // grid-template-areas: "icon progress description";
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+  width: 20em;
+  height: 100%;
+
+  &_progress {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+}
+
+#SpellCheck {
+  padding: 1em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 4fr 1fr;
+  gap: 1em 1em;
+  grid-template-areas:
+    "text text"
+    "back proceed";
+  justify-items: center;
+  align-items: center;
+
+  >div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4em;
+  }
+}
+
+#Tutorial {
+  line-height: 120%;
+}
+
+
+//------------------- LOBBY ---------------------
+.Loader {
+  display: flex;
+  min-width: 100%;
+  min-height: 100vh;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &_Icon {
+    border: 16px solid $whiteSnow;
+    /* Light grey */
+    border-top: 16px solid $accentYellow;
+    /* Blue */
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    animation: spin 2s linear infinite;
+  }
+
+  &>span {
+    margin-top: 2em;
+  }
+}
+
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+//------------------- MAIN MENU --------------------
+
+
+.MainMenu {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  min-width: 100%;
+  min-height: 100vh;
+
+  &_content {
+    flex-direction: column;
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 600px;
+    padding: 16px;
+    z-index: 5;
+  }
+}
+
+.MenuButton {
+  overflow: visible !important;
+  text-transform: none !important;
+  -webkit-appearance: button !important;
+  user-select: none !important;
+  border: 3px solid $bkgdBlue !important;
+  border-radius: 0.5rem !important;
+  padding: 12px 8px;
+  font-size: 14px;
+  transition: all 0.3s ease-in-out !important;
+  background-color: $whiteSnow !important;
+  width: 60%;
+  @include drop-shadow;
+  color: $bkgdBlue !important;
+
+  &:link,
+  &:visited,
+  &:hover,
+  &:active {
+    text-decoration: none !important;
+  }
+
+  &:hover {
+    color: $whiteSnow !important;
+    background-color: mix($whiteSnow, $bkgdBlue, 10%) !important;
+  }
+
+  &--auth {
+    border: 3px solid $bkgdBlue;
+    transition: all 0.3s ease-in-out;
+    background-color: lighten($greyNoir, 40%);
+    width: 40%;
+    @include drop-shadow;
+    color: $bkgdBlue;
+
+    &:link,
+    &:visited,
+    &:hover,
+    &:active {
+      text-decoration: none;
+    }
+  }
+}
+
+.DisclaimerHome {
+  font-size: small;
+  justify-self: flex-end;
+
+  &>a {
+    white-space: nowrap;
+  }
+}
+
+
+//---------------- QUESTIONNAIRE -----------------
+
+fieldset.likertScale {
+  width: 100%;
+  margin-bottom: 2em;
+
+  .likertLegend {
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    margin-bottom: 1em;
+    text-align: start;
+  }
+
+  .likertResponse {
+    &>input:checked+.likertIndicator {
+      border-width: 2px;
+      background-color: $accentYellow;
+    }
+
+    &>input:hover+.likertIndicator {
+      border-width: 3px;
+      box-shadow: 0 0 6px rgba($blackBlue, 0.5);
+    }
+  }
+
+  .likertIndicator {
+    border: thin solid $bkgdBlue;
+    background-color: $whiteSnow;
+  }
+
+  .likertText {
+    font-size: clamp(0.6rem, 2.5vw, 0.9rem);
+  }
+
+  .likertLine {
+    border-top: 3px solid $redFlame;
+    // width: 1em;
+  }
+}
+
+.ExitQuestionnaire {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+  min-width: 100%;
+  min-height: 100vh;
+  padding: 2em 0.4em;
+
+  #ExitQuestionnaireForm {
+    background-color: $whiteSnow;
+    border-radius: 1em;
+    flex-direction: column;
+    position: relative;
+    display: flex;
+    align-items: center;
+    max-width: 60em;
+    width: 100%;
+    padding: 2em 1.4em;
+    z-index: 5;
+    gap: 1em;
+  }
+}
+
+//---------------- AUTH -----------------
+
+.InputBox {
+  // display: flex;
+  // flex-direction: column;
+  // padding: 4px 8px;
+  // position: relative;
+  // flex-wrap: wrap;
+  width: 100%;
+  // border: 2px solid rgba(0, 0, 0, .125);
+  border-radius: .25rem;
+  background-color: rgba($bkgdBlue, 0.08);
+
+  &_input {
+    // position: relative;
+    // display: block;
+    // flex: 1 1 auto;
+    // line-height: 1.5;
+    padding: 10px 16px;
+    // margin-bottom: 0;
+    border-style: none;
+    transition: none;
+    font-size: medium !important;
+  }
+}
+
+.AuthCard {
+  min-width: 0;
+  border-radius: 4px;
+  @include drop-shadow;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  word-wrap: break-word;
+  background-color: $whiteSnow;
+
+  &_body {
+    justify-content: center;
+    padding: 24px 24px;
+    flex: 1 1 auto;
+
+    &_logo {
+      width: 100%;
+      padding: 0 10%;
+    }
+  }
+}
+
+.AuthWrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  min-width: 100%;
+  min-height: 100vh;
+
+  &_content {
+    position: relative;
+    width: 390px;
+    padding: 16px;
+    z-index: 5;
+  }
+}
+
+.AuthButton {
+  overflow: visible;
+  text-transform: none;
+  -webkit-appearance: button;
+  user-select: none;
+  border: 1px solid transparent;
+  padding: 10px 20px;
+  border-radius: 0.25rem;
+  font-size: 14px;
+  transition: all 0.3s ease-in-out;
+  @include drop-shadow;
+}
+
+// ----------------------- GLOBALS
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: clamp(1em, 1.8vmin, 2em)
+}
+
+body {
+  font-family: $font-family-lato;
+  color: $blackBlue;
+  background-color: $orangePastel;
+  min-width: 320px;
+}
+
+input {
+  background-color: transparent;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+ul {
+  list-style: disc inside;
+
+  li {
+    margin-bottom: 0.5em;
+  }
+
+  li::marker {
+    // color: $accentYellow;
+    font-weight: 800;
+    font-size: 1.2em;
+  }
+}
+
+ol {
+  list-style: decimal inside;
+
+  li {
+    margin-bottom: 0.4em;
+  }
+
+  &>li::marker {
+    // color: $accentYellow;
+    font-weight: 800;
+    font-size: 1.2em;
+  }
+
+  ul {
+    padding-left: 0.4em;
+  }
+}
+
+li span {
+  margin-left: -0.5em;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  cursor: pointer;
+}
+
+.btn-primary {
+  color: $whiteSnow !important;
+  background-color: $greyNoir;
+
+  &:hover {
+    background-color: #038fcf;
+    border-color: #0386c3;
+  }
+
+  &:focus,
+  :hover {
+    text-decoration: none;
+  }
+}
+
+.btn-secondary {
+  color: $blackBlue;
+  background-color: transparent;
+  border: 2px solid $blackBlue;
+
+  &:hover {
+    background-color: rgba($blackBlue, 0.1);
+  }
+
+  &:focus,
+  :hover {
+    text-decoration: none;
+  }
+}
+
+.btn-alert {
+  color: $redFlame !important;
+  background-color: transparent !important;
+  border-color: $redFlame !important;
+
+  &:focus,
+  &:hover {
+    background-color: $redFlame !important;
+    color: $whiteSnow !important;
+  }
+
+  &:focus,
+  &:hover {
+    text-decoration: none !important;
+  }
+}
+
+.square:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+
+.Square {
+  position: relative;
+  width: 100%;
+
+  &::after {
+    content: "";
+    display: block;
+    padding-bottom: 100%;
+  }
+
+  &-Content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.mt-8 {
+  margin-top: 4rem !important;
+}
+
+.mt-7 {
+  margin-top: 3.5rem !important;
+}
+
+.mt-6 {
+  margin-top: 3rem !important;
+}
+
+.mt-5 {
+  margin-top: 2.5rem !important;
+}
+
+.mt-4 {
+  margin-top: 2rem !important;
+}
+
+.mt-3 {
+  margin-top: 1.5rem !important;
+}
+
+.mt-2 {
+  margin-top: 1rem !important;
+}
+
+.mt-1 {
+  margin-top: 0.5rem !important;
+}
+
+.mb-1 {
+  margin-bottom: 0.5rem !important;
+}
+
+.mb-2 {
+  margin-bottom: 1rem !important;
+}
+
+.mb-3 {
+  margin-bottom: 1.5rem !important;
+}
+
+.mb-4 {
+  margin-bottom: 2rem !important;
+}
+
+.mb-5 {
+  margin-bottom: 2.5rem !important;
+}
+
+.mb-6 {
+  margin-bottom: 3rem !important;
+}
+
+.mb-7 {
+  margin-bottom: 3.5rem !important;
+}
+
+.mb-8 {
+  margin-bottom: 4rem !important;
+}
+
+
+.text-center {
+  text-align: center !important;
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+.text-disabled {
+  color: $disable !important;
+}
+
+.text-important {
+  font-weight: bold;
+  color: $redFlame !important;
+}
+
+.text-xxsmall {
+  font-size: xx-small !important;
+}
+
+.text-xsmall {
+  font-size: x-small !important;
+}
+
+.text-small {
+  font-size: small !important;
+}
+
+.text-smaller {
+  font-size: smaller !important;
+}
+
+.text-medium {
+  font-size: medium !important;
+}
+
+.text-large {
+  font-size: large !important;
+}
+
+.text-larger {
+  font-size: larger !important;
+}
+
+.text-xlarge {
+  font-size: x-large !important;
+}
+
+.text-xxlarge {
+  font-size: xx-large !important;
+}
+
+.text-bold {
+  font-weight: 800 !important;
+}
+
+.text-italic {
+  font-style: italic !important;
+}
+
+.color-accent {
+  color: $accentYellow !important;
+}
+
+.color-grey {
+  color: $greyNoir !important;
+}
+
+.color-black {
+  color: $blackBlue !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+h1 {
+  font-size: xx-large;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: x-large;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: large;
+  margin-bottom: 0.75rem;
+}
+
+h4 {
+  font-size: larger;
+  margin-bottom: 0.5rem;
+}
+
+span {
+  display: inline-block;
+}
+
+p {
+  line-height: 120%;
+  margin-bottom: 0.5em;
+}
+
+b {
+  font-weight: bolder;
+}
+
+i {
+  font-style: italic;
+}
+
+.MessageText {
+  display: flex;
+  gap: 2em;
+  justify-content: center;
+  align-items: baseline;
+  position: relative;
+  overflow: hidden;
+  color: $disable;
+  user-select: none;
+}
+
+/**
+ *
+ * three-dots.css v0.1.0
+ *
+ * https://nzbin.github.io/three-dots/
+ *
+ * Copyright (c) 2018 nzbin
+ *
+ * Released under the MIT license
+ *
+ * ==============================================
+ * Dot Flashing (from https://codepen.io/nzbin/pen/GGrXbp?editors=1100)
+ * ==============================================
+ */
+.dot-flashing {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: $accentYellow;
+  color: $accentYellow;
+  animation: dotFlashing 1s infinite linear alternate;
+  animation-delay: .5s;
+}
+
+.dot-flashing::before,
+.dot-flashing::after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+
+.dot-flashing::before {
+  left: -15px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: $accentYellow;
+  color: $accentYellow;
+  animation: dotFlashing 1s infinite alternate;
+  animation-delay: 0s;
+}
+
+.dot-flashing::after {
+  left: 15px;
+  width: 10px;
+  height: 10px;
+  border-radius: 5px;
+  background-color: $accentYellow;
+  color: $accentYellow;
+  animation: dotFlashing 1s infinite alternate;
+  animation-delay: 1s;
+}
+
+@keyframes dotFlashing {
+  0% {
+    background-color: $accentYellow;
+  }
+
+  50%,
+  100% {
+    background-color: rgba($whiteSnow, 0.25);
+  }
+}
+
+.RoleName {
+  font-weight: bolder;
+  font-style: italic;
+  color: $accentYellow;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
